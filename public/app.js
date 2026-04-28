@@ -49,11 +49,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   bindEvents();
 
+  await loadEditorState();
+  await loadExercises();
+
   try {
     const cfg = await fetch('/api/config').then(r => r.json());
     if (cfg.assetsFolder) {
-      await loadEditorState();
-      await loadExercises();
       showApp();
       return;
     }
@@ -81,6 +82,7 @@ function bindEvents() {
     });
   });
   $('#apply-btn').addEventListener('click', applyChanges);
+  $('#reset-btn').addEventListener('click', resetEditor);
   $('#delete-btn').addEventListener('click', deleteExercise);
 }
 
@@ -154,6 +156,7 @@ function renderList() {
   const list = $('#exercise-list');
   list.innerHTML = '';
   $('#exercise-count').textContent = filtered.length;
+  $('#edited-count').textContent = `${editedIds.size} / ${exercises.length} edited`;
 
   filtered.forEach(ex => {
     const li = document.createElement('li');
@@ -400,6 +403,11 @@ function collectEditorState() {
     primaryMuscles: buildMuscleGroups(currentPrimary),
     secondaryMuscles: buildMuscleGroups(currentSecondary),
   };
+}
+
+function resetEditor() {
+  if (!selectedExercise) return;
+  showEditor(selectedExercise);
 }
 
 async function applyChanges() {
