@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exercise Editor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Config overlay -->
+  <div id="config-overlay" class="overlay">
+    <div class="overlay-box">
+      <h2>Exercise Editor</h2>
+      <p>Enter the path to your <code>assets/video</code> folder:</p>
+      <input type="text" id="folder-input" placeholder="C:/Users/.../assets/video" />
+      <button id="folder-btn">Load</button>
+      <p id="folder-error" class="error"></p>
+    </div>
+  </div>
+
+  <!-- Main layout -->
+  <div id="app" class="hidden">
+    <!-- Top bar -->
+    <header>
+      <div class="header-left">
+        <h1>Exercise Editor</h1>
+        <span id="exercise-count" class="badge">0</span>
+      </div>
+      <div class="header-right">
+        <button id="add-btn" class="btn-primary">+ New Exercise</button>
+        <button id="save-btn" class="btn-success">Export XLSX</button>
+        <button id="change-folder-btn" class="btn-flat">Change Folder</button>
+      </div>
+    </header>
+
+    <div class="main">
+      <!-- Left: exercise list -->
+      <aside id="sidebar">
+        <div class="search-bar">
+          <input type="text" id="search-input" placeholder="Search exercises..." />
+          <select id="sheet-filter">
+            <option value="all">All</option>
+            <option value="male">Male/Female</option>
+            <option value="universal">Universal</option>
+          </select>
+        </div>
+        <ul id="exercise-list"></ul>
+      </aside>
+
+      <!-- Middle + Right: editor panel -->
+      <section id="editor" class="empty-state">
+        <div id="empty-msg">
+          <p>Select an exercise to edit</p>
+        </div>
+
+        <div id="editor-content" class="hidden">
+          <div class="editor-columns">
+            <!-- Left column: Video + SVG -->
+            <div class="editor-left">
+              <!-- Video -->
+              <div class="editor-section">
+                <h3>Video Preview</h3>
+                <div class="video-controls">
+                  <button class="video-tab active" data-vtype="male">Male</button>
+                  <button class="video-tab" data-vtype="female">Female</button>
+                  <button class="video-tab" data-vtype="universal">Universal</button>
+                </div>
+                <div id="video-wrapper">
+                  <video id="video-player" controls></video>
+                  <p id="video-missing" class="hidden">No video found</p>
+                </div>
+              </div>
+
+              <!-- Muscle picker -->
+              <div class="editor-section">
+                <div class="muscle-header">
+                  <h3>Muscle Groups</h3>
+                  <div class="toggle-group">
+                    <button id="toggle-primary" class="toggle active" data-mode="primary">Primary</button>
+                    <button id="toggle-secondary" class="toggle" data-mode="secondary">Secondary</button>
+                  </div>
+                </div>
+
+                <div class="muscle-picker">
+                  <div class="svg-container">
+                    <h4>Front</h4>
+                    <div id="svg-front-wrapper"></div>
+                  </div>
+                  <div class="svg-container">
+                    <h4>Back</h4>
+                    <div id="svg-back-wrapper"></div>
+                  </div>
+                </div>
+
+                <div class="muscle-tags">
+                  <div class="tag-section">
+                    <h4>Primary</h4>
+                    <div id="primary-tags" class="tags"></div>
+                  </div>
+                  <div class="tag-section">
+                    <h4>Secondary</h4>
+                    <div id="secondary-tags" class="tags"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Right column: Form -->
+            <div class="editor-right">
+              <div class="editor-section">
+                <div class="field">
+                  <label>ID</label>
+                  <input type="text" id="ex-id" />
+                </div>
+                <div class="field">
+                  <label>Name</label>
+                  <input type="text" id="ex-name" />
+                </div>
+                <div class="field-row">
+                  <div class="field">
+                    <label>Category</label>
+                    <select id="ex-category">
+                      <option value="">--</option>
+                      <option value="Bodyweight">Bodyweight</option>
+                      <option value="Free Weights">Free Weights</option>
+                      <option value="Resistance">Resistance</option>
+                      <option value="Uncategorized">Uncategorized</option>
+                    </select>
+                  </div>
+                  <div class="field">
+                    <label>Equipment</label>
+                    <select id="ex-equipment">
+                      <option value="">--</option>
+                      <option value="bands">Bands</option>
+                      <option value="barbell">Barbell</option>
+                      <option value="bench">Bench</option>
+                      <option value="bodyweight">Bodyweight</option>
+                      <option value="cable">Cable</option>
+                      <option value="dumbbell">Dumbbell</option>
+                      <option value="kettlebell">Kettlebell</option>
+                      <option value="machine">Machine</option>
+                      <option value="other">Other</option>
+                      <option value="pull_up_bar">Pull Up Bar</option>
+                      <option value="resistance_band">Resistance Band</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="field-row">
+                  <div class="field">
+                    <label>Tracking Mode</label>
+                    <select id="ex-tracking">
+                      <option value="">Default (reps+weight)</option>
+                      <option value="repsOnly">Reps Only</option>
+                      <option value="timed">Timed</option>
+                    </select>
+                  </div>
+                  <div class="field">
+                    <label>Sheet</label>
+                    <select id="ex-sheet">
+                      <option value="male">Male/Female</option>
+                      <option value="universal">Universal</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="field">
+                  <label>Instructions</label>
+                  <textarea id="ex-instructions" rows="8"></textarea>
+                </div>
+                <div class="field">
+                  <label>Tips</label>
+                  <textarea id="ex-tips" rows="5"></textarea>
+                </div>
+                <div class="editor-actions">
+                  <button id="apply-btn" class="btn-primary">Apply Changes</button>
+                  <button id="delete-btn" class="btn-danger">Delete Exercise</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
