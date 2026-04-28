@@ -11,7 +11,7 @@
   <div id="config-overlay" class="overlay">
     <div class="overlay-box">
       <h2>Exercise Editor</h2>
-      <p>Enter the path to your <code>assets/video</code> folder:</p>
+      <p>Enter the path to your <code>video</code> folder (for video previews):</p>
       <input type="text" id="folder-input" placeholder="C:/Users/.../assets/video" />
       <button id="folder-btn">Load</button>
       <p id="folder-error" class="error"></p>
@@ -25,6 +25,7 @@
       <div class="header-left">
         <h1>Exercise Editor</h1>
         <span id="exercise-count" class="badge">0</span>
+        <span id="edited-count" class="badge" style="background: #4caf50;">0 / 0</span>
       </div>
       <div class="header-right">
         <button id="add-btn" class="btn-primary">+ New Exercise</button>
@@ -172,6 +173,7 @@
                 </div>
                 <div class="editor-actions">
                   <button id="apply-btn" class="btn-primary">Apply Changes</button>
+                  <button id="reset-btn" class="btn-flat">Reset</button>
                   <button id="delete-btn" class="btn-danger">Delete Exercise</button>
                 </div>
               </div>

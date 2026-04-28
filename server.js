@@ -95,7 +95,7 @@ const MUSCLE_MAPPING = [
 // ---------------------------------------------------------------------------
 
 function getXlsxPath() {
-  return path.resolve(assetsFolder, 'exercises_master.xlsx');
+  return path.resolve(__dirname, 'exercises_master.xlsx');
 }
 
 /**
@@ -310,14 +310,9 @@ app.post('/api/config', (req, res) => {
     return res.status(400).json({ error: `Folder does not exist: ${resolved}` });
   }
 
-  const xlsxPath = path.resolve(resolved, 'exercises_master.xlsx');
-  if (!fs.existsSync(xlsxPath)) {
-    return res.status(400).json({ error: `exercises_master.xlsx not found in: ${resolved}` });
-  }
-
   assetsFolder = resolved;
   console.log(`Assets folder set to: ${assetsFolder}`);
-  res.json({ assetsFolder, xlsxPath });
+  res.json({ assetsFolder });
 });
 
 // ---------------------------------------------------------------------------
@@ -325,13 +320,10 @@ app.post('/api/config', (req, res) => {
 // ---------------------------------------------------------------------------
 
 function getEditorStatePath() {
-  return path.resolve(assetsFolder, '.editor-state.json');
+  return path.resolve(__dirname, '.editor-state.json');
 }
 
 app.get('/api/editor-state', (req, res) => {
-  if (!assetsFolder) {
-    return res.json({ editedIds: [] });
-  }
   try {
     const statePath = getEditorStatePath();
     if (!fs.existsSync(statePath)) {
@@ -345,9 +337,6 @@ app.get('/api/editor-state', (req, res) => {
 });
 
 app.post('/api/editor-state', (req, res) => {
-  if (!assetsFolder) {
-    return res.status(400).json({ error: 'Assets folder not configured.' });
-  }
   try {
     const { editedIds } = req.body;
     fs.writeFileSync(getEditorStatePath(), JSON.stringify({ editedIds: editedIds || [] }, null, 2));
@@ -363,10 +352,6 @@ app.post('/api/editor-state', (req, res) => {
 // ---------------------------------------------------------------------------
 
 app.get('/api/exercises', (req, res) => {
-  if (!assetsFolder) {
-    return res.status(400).json({ error: 'Assets folder not configured. POST /api/config first.' });
-  }
-
   try {
     const xlsxPath = getXlsxPath();
     const workbook = XLSX.readFile(xlsxPath);
@@ -393,10 +378,6 @@ app.get('/api/exercises', (req, res) => {
 });
 
 app.post('/api/exercises', (req, res) => {
-  if (!assetsFolder) {
-    return res.status(400).json({ error: 'Assets folder not configured. POST /api/config first.' });
-  }
-
   try {
     const exercise = req.body;
     if (!exercise || !exercise.id) {
@@ -452,10 +433,6 @@ app.post('/api/exercises', (req, res) => {
 });
 
 app.delete('/api/exercises/:id', (req, res) => {
-  if (!assetsFolder) {
-    return res.status(400).json({ error: 'Assets folder not configured. POST /api/config first.' });
-  }
-
   try {
     const exerciseId = req.params.id;
     const xlsxPath = getXlsxPath();
@@ -489,9 +466,6 @@ app.delete('/api/exercises/:id', (req, res) => {
 // Export is essentially a no-op since we save on every edit,
 // but the frontend expects this endpoint for the "Export XLSX" button.
 app.post('/api/exercises/export', (req, res) => {
-  if (!assetsFolder) {
-    return res.status(400).json({ error: 'Assets folder not configured.' });
-  }
   // The xlsx is already saved on disk after every POST/DELETE.
   // Just confirm the file exists.
   const xlsxPath = getXlsxPath();
@@ -515,7 +489,7 @@ app.get('/api/videos/:type/:filename', (req, res) => {
     return res.status(400).json({ error: 'Type must be male, female, or universal' });
   }
 
-  const videoPath = path.resolve(assetsFolder, 'exercises', type, filename);
+  const videoPath = path.resolve(assetsFolder, type, filename);
 
   if (!fs.existsSync(videoPath)) {
     return res.status(404).json({ error: 'Video not found' });
