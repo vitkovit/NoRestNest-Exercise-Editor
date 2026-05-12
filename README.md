@@ -30,3 +30,7 @@ This is only needed for video previews; exercises load from `exercises_master.xl
 ## Stop the server
 
 Press **Ctrl+C** in the terminal where the server is running.
+
+## Fix
+- fixed issue wiht svg tile display
+- added reset button
