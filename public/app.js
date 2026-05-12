@@ -231,10 +231,12 @@ function buildMuscleState(muscles) {
     if (!m.group) continue;
     for (const latin of m.latins) {
       if (!latin) continue;
-      const mapping = muscleMapping.find(mm => mm.advance.toLowerCase() === latin.toLowerCase());
-      if (mapping) {
-        if (!state.find(s => s.svgId === mapping.svgId)) {
-          state.push({ svgId: mapping.svgId, advance: mapping.advance, simple: mapping.simple });
+      const mappings = muscleMapping.filter(mm => mm.advance.toLowerCase() === latin.toLowerCase());
+      if (mappings.length > 0) {
+        for (const mapping of mappings) {
+          if (!state.find(s => s.svgId === mapping.svgId)) {
+            state.push({ svgId: mapping.svgId, advance: mapping.advance, simple: mapping.simple });
+          }
         }
       } else {
         if (!state.find(s => s.advance.toLowerCase() === latin.toLowerCase())) {
