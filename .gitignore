@@ -1,4 +1,18 @@
-assets/
+# Dependencies (reproducible from package-lock.json — run `npm ci`)
 node_modules/
-.editor-state.json
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bk
+*.backup
+
+# Tooling / local
 .claude/
+assets/
+
+# NOTE: .editor-state.json is intentionally TRACKED.
+# It holds the shared list of edited exercise IDs that we
+# coordinate between editing sessions. Do NOT ignore it.
