@@ -5,6 +5,16 @@
     "wrist_extension_dumbbell",
     "wrist_extension_barbell",
     "wrist_curl_dumbbell",
-    "wrist_curl_barbell"
+    "wrist_curl_barbell",
+    "wind_wipers",
+    "wide_push_ups_bodyweight",
+    "weighted_standing_shoulder_press_with_plate",
+    "wall_squat_with_pause_bodyweight",
+    "wall_squat_bodyweight",
+    "wall_sit_bodyweight",
+    "walkout",
+    "v_up",
+    "v_crunches",
+    "v_bar_lat_pull_down"
   ]
 }
