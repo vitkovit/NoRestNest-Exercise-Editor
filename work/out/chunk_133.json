@@ -1,0 +1,79 @@
+[
+ {
+  "id": "dumbbell_seated_reverse_grip_concentration_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with feet flat and legs spread.\n2. Hold a dumbbell in your right hand with an overhand grip, palm facing down.\n3. Lean forward and brace your right elbow against the inside of your right thigh, arm hanging straight.\n4. Curl the dumbbell up by bending the elbow, keeping the palm facing down.\n5. Squeeze at the top, then lower under control. Switch sides. Repeat.",
+  "tips": "1. Keep the wrist firm and straight to load the forearm.\n2. Move only at the elbow, no swinging.\n3. Use a lighter weight than a normal curl.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {"group": "forearms", "latins": ["Wrist Extensors"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": []
+ },
+ {
+  "id": "dumbbell_seated_shoulder_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with back supported.\n2. Hold a dumbbell in each hand at shoulder height, palms facing forward.\n3. Press the dumbbells up until your arms are fully extended overhead.\n4. Pause briefly at the top.\n5. Lower the dumbbells back to shoulder height with control. Repeat.",
+  "tips": "1. Keep your back firmly against the bench.\n2. Brace your core to stay stable.\n3. Exhale as you press up, inhale as you lower.\n4. Keep wrists stacked over your elbows.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "dumbbell_seated_shoulder_press_parallel_grip",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with back support.\n2. Hold a dumbbell in each hand at shoulder height, palms facing each other.\n3. Press the dumbbells up until your arms are fully extended overhead.\n4. Pause briefly at the top.\n5. Lower the dumbbells back to shoulder height with control. Repeat.",
+  "tips": "1. Keep your back pressed against the bench.\n2. Brace your core to stay stable.\n3. The neutral grip is easier on the shoulder joint.\n4. Exhale as you press up, inhale as you lower.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "dumbbell_shrugs",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Hold a dumbbell in each hand at your sides, palms facing your thighs, arms straight.\n3. Raise your shoulders straight up toward your ears.\n4. Squeeze at the top for a moment.\n5. Lower your shoulders back down with control. Repeat.",
+  "tips": "1. Keep your back straight and avoid momentum.\n2. Lift straight up, do not roll the shoulders.\n3. Keep your arms straight throughout.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "neck", "latins": ["neck"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "dumbbell_side_bend",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Hold a dumbbell in your right hand at your side, arm straight. Place your left hand behind your head.\n3. Bend slowly to your right, lowering the dumbbell toward the floor.\n4. Bend as far as is comfortable, feeling a stretch in your left side.\n5. Return upright with control. Switch sides. Repeat.",
+  "tips": "1. Move slowly and avoid using momentum.\n2. Bend straight to the side, not forward or back.\n3. Keep your head and neck neutral.\n4. Exhale as you bend, inhale as you return.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ }
+]

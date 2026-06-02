@@ -1,0 +1,92 @@
+[
+ {
+  "id": "cable_machine_high_to_low",
+  "name": "Cable machine high to low",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in the center of a cable machine with the pulleys set at a high position. Grasp the handles with your palms facing forward and arms extended down out to your sides. Position your feet shoulder-width apart and slightly staggered for stability.\n2. Stand upright with your back straight. Bring the handles together in front of your body in a wide arc, keeping a slight bend in your elbows and palms should face upwards.\n3. Slowly return the handles to the starting position with control, maintaining the slight bend in your elbows.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on the contraction of your chest muscles as you bring the handles together.\n2. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.\n3. Exhale as you bring the handles together and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "cable_machine_low_to_high",
+  "name": "cable machine low to high",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "cable_middle_fly",
+  "name": "Cable middle fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in the center of a cable fly machine with the pulleys set at mid-chest height, with one foot in front of the other and knees slightly bent. Hold the handles with both hands, arms extended out to the sides at shoulder height, palms facing forward.\n2. Keep your back straight and maintain a slight bend at the hips and knees for stability.\n3. Pull the handles together in front of your chest in a wide arc, keeping your arms slightly bent, until your hands meet in the centerline of your chest.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep a slight bend in your elbows throughout the exercise to reduce strain on your joints.\n2. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.\n3. Exhale as you bring the handles together and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_narrow_chair_stand_up",
+  "name": "Cable narrow chair stand-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Attach a rope to the low pulley on the machine. Grasp the end of the rope in each hand and bring it close to your chest.Feet close together, flat on the floor, knees bent at a 90-degree angle.\n2. Push through your heels and extend your legs to stand up, keeping the handles close to your chest.\n3. Slowly lower yourself back down to the seated position, controlling the movement. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pushing through your heels to engage your glutes and quads effectively.\n2. Exhale as you stand up and inhale as you sit back down.\n3. Ensure your back remains straight and avoid rounding your spine.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "cable_neutral_grip_kickback",
+  "name": "Cable neutral grip kickback",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a handle to a middle pulley on a cable machine. Stand facing the machine and grasp the handle with your left hand, using a neutral grip (palm facing your body). Step back to create tension in the cable.\n2. Position your feet shoulder-width apart and bend slightly at the hips, keeping your back straight and core engaged. Your upper arm should be parallel to the floor and close to your body with your elbow bent at a 90-degree angle.\n3. Extend your left arm straight back by straightening your elbow, keeping your upper arm stationary and focusing on contracting your triceps.\n4. Slowly return your arm to the starting position with control. Repeat for the desired number of repetitions, then switch to your right hand.",
+   "tips": "1. Keep your upper arm stationary and only move your forearm to isolate the triceps.\n2. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.\n3. Exhale as you extend your arm and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "dumbbell_bench_seated_press",
+  "name": "Dumbbell Bench Seated Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a flat bench, holding a dumbbell in each hand at shoulder height, palms facing forward.\n2. Press the dumbbells upward until your arms are fully extended, ensuring your wrists remain straight and aligned with your forearms.\n3. Lower the dumbbells back to the starting position with a controlled motion. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your elbows do not flare out excessively; keep them slightly in front of your body.\n2. Avoid arching your lower back; keep your core engaged and back pressed against the bench.\n3. Breathe out as you press the dumbbells upward and breathe in as you lower them back down.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bench_squat",
+  "name": "Dumbbell Bench Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your back facing a bench with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.\n2. Lower yourself into a squat by bending your knees and hips, keeping your chest up and back straight, until your thighs are parallel to the floor and your buttocks lightly touch the bench.\n3. Push through your heels to stand back up to the starting position, fully extending your hips and knees.\n4. Repeat the movement for the desired number of repetitions, maintaining proper form throughout.",
+   "tips": "1. Focus on pressing through your heels to activate your glutes and quadriceps effectively.\n2. Breathe in as you lower into the squat and exhale as you push back up to the starting position.\n3. Use a controlled, steady pace to maximize muscle engagement and maintain balance.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bent_arm_lateral_raise",
+  "name": "Dumbbell bent arm lateral raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand, elbows bent at a 90-degree angle and palms facing your body.\n2. Engage your core and keep your back straight. Raise your upper arms to the sides until they are parallel to the floor, keeping your elbows bent at 90 degrees throughout the movement.\n3. Lower your arms back to the starting position with a controlled motion. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; perform the movement slowly and with control to maximize muscle engagement.\n2. Ensure your elbows remain at a 90-degree angle throughout the exercise.\n3. Do not raise your arms above shoulder height to avoid unnecessary stress on your shoulder joints.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Rotator Cuff Muscles"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bent_arm_pullover",
+  "name": "Dumbbell Bent Arm Pullover",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie perpendicular on a bench with only your upper back supported and your hips slightly lowered. Hold a dumbbell with both hands above your chest, keeping your elbows slightly bent.\n2. Engage your core and keep your feet flat on the floor for stability. Slowly lower the dumbbell in an arc over your head, maintaining the slight bend in your elbows.\n3. Lower the dumbbell until your upper arms are in line with your torso or as far as comfortable, feeling a stretch in your chest and lats.\n4. Pull the dumbbell back to the starting position with a controlled motion, keeping your elbows slightly bent. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid letting your elbows flare out; maintain a slight bend throughout the movement.\n2. Ensure your shoulders and upper back remain in contact with the bench throughout the exercise.\n3. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Chest",
+    "Middle  Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bent_over_face_pull",
+  "name": "Dumbbell Bent Over Face Pull",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip (palms facing back). Bend at your hips and knees to lower your torso until it is parallel to the floor, keeping your back straight.\n2. Let the dumbbells hang directly below your shoulders, elbows slightly bent.\n3. Pull the dumbbells upward to the ceiling, bending your elbows and bringing them as high as possible and facing outward. Make sure to lead the dumbbells at face level.\n4. Lower the dumbbells back to the starting position with a controlled motion. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; perform the movement slowly and with control to maximize muscle engagement.\n2. Breathe out as you pull the dumbbells towards your face and breathe in as you lower them back down.\n3. Use a weight that allows you to perform the exercise with proper form without straining.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps"
+   ]
+  }
+ }
+]

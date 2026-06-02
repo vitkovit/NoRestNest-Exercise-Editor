@@ -1,0 +1,98 @@
+[
+ {
+  "id": "cable_pulldown",
+  "name": "Cable pulldown",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the cable pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the bar attached to the high pulley with an overhand grip, hands placed at shoulder-width, arms fully extended above you.\n2. Pull the bar down towards your upper chest, bringing your elbows down and back while keeping them close to your body.\n3. Slowly extend your arms back to the starting position with control.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the bar down and inhale as you extend it back.\n2. Keep your elbows close to your body and avoid flaring them out.\n3. Use a lighter weight to ensure proper form and gradually increase the resistance as you get stronger.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "cable_pulldown_pro_lat_bar",
+  "name": "Cable pulldown (pro lat bar)",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the cable pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the Pro Lat Bar attached to the high pulley with an overhand grip, hands placed wider than shoulder-width, arms fully extended above you.\n2. Pull the bar down towards your upper chest, bringing your elbows down and back while keeping them close to your body.\n3. Slowly extend your arms back to the starting position with control.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the bar down and inhale as you extend it back.\n2. Keep your elbows close to your body and avoid flaring them out.\n3. Use a lighter weight to ensure proper form and gradually increase the resistance as you get stronger.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "cable_pushdown",
+  "name": "Cable pushdown",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with a straight bar attached to the high pulley. Grasp the bar with both hands, palms facing down, and place your hands shoulder-width apart.\n2. Stand with your feet shoulder-width apart and lean slightly forward, keeping your back straight and elbows close to your body. Your forearms should be parallel to the floor.\n3. Push the bar down towards your thighs by straightening your elbows, keeping your upper arms stationary.\n4. Slowly return to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you push the bar down and inhale as you return to the starting position.\n2. Stand with a slight bend in your knees for better stability.\n3. Focus on squeezing your triceps at the bottom of the movement.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cable_pushdown_straight_arm",
+  "name": "Cable pushdown (straight arm)",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with a straight bar attached to the high pulley. Grasp the bar with both hands, palms facing down, and place your hands shoulder-width apart.\n2. Stand with your feet shoulder-width apart, keeping your back straight and a slight bend in your knees.\n3. Push the bar down towards your thighs, keeping your arms slightly bent throughout the movement.\n4. Slowly return to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you push the bar down and inhale as you return to the starting position.\n2. Stand with a slight bend in your knees for better stability.\n3. Focus on engaging your lats during the movement.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Core",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "cable_rear_delt_fly",
+  "name": "Cable rear delt fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in the center of a cable machine with the pulleys set at chest height. Cross the cable ends and hold the left cable end with your right hand and the right cable end with your left hand, arms extended in front of you.\n2. Stand with your feet shoulder-width apart, keeping your back straight and a slight bend in your knees.\n3. Pull the handles apart and out to the sides, keeping your arms straight but with a slight bend in the elbows, until your arms are extended out to your sides.\n4. Slowly return to the starting position with control, bringing the handles back in front of you. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the handles apart and inhale as you return to the starting position.\n2. Use a lighter weight to ensure proper form and gradually increase the resistance as you get stronger.\n3. Focus on engaging your rear deltoids and upper back during the movement.",
+   "primary": [
+    "Rear Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Forearms"
+   ]
+  }
+ }
+]

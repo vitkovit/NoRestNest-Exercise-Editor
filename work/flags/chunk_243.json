@@ -1,0 +1,4 @@
+[
+ {"id": "cable_30_degree_shrug", "issue": "Upper traps are the prime mover but the 'mid back' bucket lumps them; levator scapulae (a key shrug muscle) has no allowed latin value and was omitted."},
+ {"id": "cable_core_palloff_press", "issue": "Anti-rotation isometric exercise; transverse abdominis is the key stabilizer but has no allowed value, mapped to obliques/abs instead. Tracking set to 'timed' as it is a hold-based brace; could also be 'repsOnly'."}
+]

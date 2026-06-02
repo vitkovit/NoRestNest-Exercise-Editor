@@ -1,0 +1,77 @@
+[
+ {
+  "id": "wheels_to_toes",
+  "name": "Wheels To Toes",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back with your legs straight together and your arms extended diagonally overhead, holding an ab roller.\n2. Lift your legs up towards the ceiling, keeping them straight, and simultaneously raise the ab roller towards your toes, lifting your upper back off the floor.\n3. Slowly lower your legs and the ab roller back down to the starting position, stopping just before they touch the floor.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Use a mat or soft surface to support your back and prevent discomfort.\n2. Ensure your lower back stays in contact with the floor when your legs are lowered.\n3. Start with a smaller range of motion if you are new to the exercise and gradually increase it as you gain strength.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "landmine_kneeling_alternating_overhead_press",
+  "name": "Landmine Kneeling Alternating Overhead Press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "landmine_kneeling_overhead_press",
+  "name": "Landmine Kneeling Overhead Press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "landmine_kneeling_twist",
+  "name": "Landmine Kneeling Twist",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "landmine_lateral_lunge",
+  "name": "Landmine Lateral Lunge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

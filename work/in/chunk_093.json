@@ -1,0 +1,97 @@
+[
+ {
+  "id": "diagonal_opens",
+  "name": "Diagonal opens",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, arms bent at the elbows, elbows facing outwards, and hands close to your chest.\n2. Slide your right hand over your left forearm, both arms in an opposite diagonal direction while keeping the elbows bent.\n3. Return your hands to the starting position and repeat the movement by sliding your left hand over your right forearm, extending in the opposite diagonal direction.",
+   "tips": "1. Ensure your movements are smooth and controlled to maintain tension and focus on muscle engagement.\n2. Focus on maintaining a rhythmic breathing pattern, inhaling as you extend and exhaling as you return to the start position.\n3. Maintain a slight tension in your core throughout the exercise to help stabilize your upper body.",
+   "primary": [
+    "Upper Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "diagonal_punch",
+  "name": "Diagonal punch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, knees slightly bent, and hands in a guard position near your face.\n2. Rotate your torso to the right, and extend your right arm in a diagonal punch across your body.\n3. Return your right hand to the starting position as you rotate your torso back to center.\n4. Repeat the motion with your left arm, rotating your torso to the left to execute a diagonal punch across your body.",
+   "tips": "1. Keep your hands up and elbows slightly bent when not punching to protect your face and maintain balance.\n2. Rotate your hips and shoulders fully with each punch to maximize power and engage your core muscles.\n3. Practice the punches slowly at first to ensure proper technique before increasing speed and power.\n4. Exhale sharply with each punch to increase force and stabilize your core.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "diamond_push_up_on_knees",
+  "name": "Diamond push-up (on knees)",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by kneeling on a mat with your hands close together under your chest on the floor, fingers forming a diamond shape (thumbs and index fingers touching).\n2. Lean forward to shift your weight onto your hands while keeping your back straight and your core engaged.\n3. Lower your chest towards the floor by bending your elbows, keeping them close to your body.\n4. Press through your hands to lift your body back up to the starting position, maintaining the alignment of your spine throughout the movement.",
+   "tips": "1. Ensure your elbows point back rather than flaring out to the sides to maximize triceps activation and minimize shoulder strain.\n2. Keep your head and neck in a neutral position, aligned with your spine, to avoid any unnecessary strain.\n3. Breathe in as you lower yourself and exhale as you push back up, using your breath to help power the movement.",
+   "primary": [
+    "Triceps",
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dip_leg_raise_on_couch",
+  "name": "Dip leg raise on couch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the edge of a couch with your hands placed next to your hips, gripping the edge for support.\n2. Lift your hips off the couch by pressing down into your hands and straightening your arms, while keeping your feet flat on the floor and both knees bent.\n3. As you bend your elbows to lower your body into a dip, simultaneously lift one leg, bent at the knee, towards your chest.\n4. Push through your hands to raise your body back up, straightening your arms and simultaneously lowering your lifted leg back to the starting position.",
+   "tips": "1. Ensure your grip on the couch is secure to maintain balance and control throughout the exercise.\n2. Focus on a controlled, smooth motion both when lowering into the dip and lifting your body up to maximize muscle engagement.\n3. Keep the movement of your arms and legs coordinated; as you push up, lower the leg, and vice versa.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "dip_on_floor_with_chair",
+  "name": "Dip on floor with chair",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the floor with your back facing a chair and place your hands on the edge of the chair seat, fingers pointing towards your body.\n2. Bend your knees in front of you with your heels resting on the floor.\n3. Press down into the chair with your hands to lift your hips off the floor, straightening your arms.\n4. Bend your elbows to lower your body towards the floor until your elbows form about a 90-degree angle and push through your hands to lift your body back up to the starting position.",
+   "tips": "1. Ensure your hands are firmly placed on the chair and your fingers are well-aligned for a strong grip.\n2. Keep your movements controlled and steady to engage the triceps effectively and avoid any jerky movements.\n3. Avoid dipping too low to prevent shoulder strain; stopping at a 90-degree elbow angle is generally safe and effective.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

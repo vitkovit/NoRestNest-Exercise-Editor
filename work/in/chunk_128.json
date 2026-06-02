@@ -1,0 +1,97 @@
+[
+ {
+  "id": "dumbbell_reverse_fly",
+  "name": "Dumbbell Reverse Fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying chest-first on an incline bench, with your feet planted firmly on the floor. Hold a dumbbell in each hand with your arms hanging down, palms facing each other.\n2. With a slight bend in your elbows, raise the dumbbells out to your sides until your arms are in line with your shoulders.\n3. Lower the dumbbells back to the starting position with control, maintaining the slight bend in your elbows.\n4. Repeat the exercise for the desired number of repetitions.",
+   "tips": "1. Keep your chest pressed against the bench to maintain stability.\n2. Focus on squeezing your shoulder blades together at the top of the movement.\n3. Exhale as you lift the dumbbells and inhale as you lower them.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_reverse_grip_biceps_curl",
+  "name": "Dumbbell Reverse grip Biceps Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip (palms facing down). Let the dumbbells hang by your sides.\n2. Keep your upper arms close to your body. Curl the dumbbells upward towards your shoulders by bending your elbows.\n3. Squeeze your biceps at the top of the movement, ensuring the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your wrists straight and avoid bending them throughout the movement.\n2. Keep your elbows close to your sides to ensure proper form.\n3. Exhale as you lift the dumbbells and inhale as you lower them.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_reverse_lunge_on_the_spot",
+  "name": "Dumbbell reverse lunge on the spot",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand by your sides, palms facing your body.\n2. Take a step backward with your right foot, lowering your body until your left thigh is parallel to the floor and your right knee is just above the floor.\n3. Push through your left heel to return to the starting position, bringing your right foot back to meet your left.\n4. Repeat the movement with your left leg, alternating legs for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and your core engaged throughout the exercise.\n2. Make sure your front knee does not extend past your toes to avoid putting strain on the knee joint.\n3. Maintain a steady, controlled motion to ensure proper form and balance.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_reverse_lunges_pulses",
+  "name": "Dumbbell reverse lunges pulses",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand by your sides, palms facing your body.\n2. Take a step backward with your right foot, lowering your body until your left thigh is parallel to the floor and your right knee is just above the floor.\n3. Perform two small pulses by slightly raising and lowering your body while maintaining the lunge position.\n4. Push through your left heel to return to the starting position, bringing your right foot back to meet your left. Repeat the exercise for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and your core engaged throughout the exercise.\n2. Make sure your front knee does not extend past your toes to avoid putting strain on the knee joint.\n3. Maintain a steady, controlled motion to ensure proper form and balance.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_reverse_spider_curl",
+  "name": "Dumbbell Reverse Spider Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying face down on an incline bench set at a 45-degree angle, with your chest supported on the bench and your forefeet planted firmly on the floor. Hold a dumbbell in each hand with an overhand grip (palms facing down), arms fully extended toward the floor.\n2. Keep your upper arms stationary as you curl the dumbbells up towards your shoulders, focusing on contracting your biceps.\n3. Squeeze your biceps at the top of the movement, ensuring your elbows remain steady.\n4. Lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you curl the weights up and inhale as you lower them back down.\n2. Ensure your wrists remain straight and aligned with your forearms throughout the exercise.\n3. Keep your chest pressed against the bench to prevent any unnecessary movement.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Biceps",
+    "Forearms"
+   ]
+  }
+ }
+]

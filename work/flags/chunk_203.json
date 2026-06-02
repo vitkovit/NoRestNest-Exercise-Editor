@@ -1,0 +1,5 @@
+[
+ {"id": "side_plank_with_hip_lift", "issue": "Quadratus lumborum and transverse abdominis are strongly worked but have no allowed bucket/latin value; omitted. Tracking changed from timed to repsOnly since this is a dynamic dipping/lifting rep, not a static hold."},
+ {"id": "side_to_side_punch", "issue": "Shadow-boxing punch; deltoid head split is approximate (anterior dominant on a cross/straight punch). Serratus anterior is engaged but has no allowed value; omitted."},
+ {"id": "side_wrist_pull_stretch", "issue": "Static stretch, not a strengthening exercise; classified trackingMode as timed. Pulling the wrist backward stretches the wrist flexors mainly, but exact direction is ambiguous from the description; listed forearms with both flexors and extensors."}
+]

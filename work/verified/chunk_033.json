@@ -1,0 +1,133 @@
+[
+ {
+  "id": "barbell_wide_grip_biceps_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip and hands wider than shoulder-width.\n2. Let your arms hang straight with the bar resting against your thighs.\n3. Keep your upper arms still and curl the bar up to shoulder level by bending your elbows.\n4. Squeeze your biceps at the top.\n5. Lower the bar under control until your arms are straight.\n6. Repeat.",
+  "tips": "1. Keep your upper arms pinned to your sides.\n2. Do not swing your torso or use momentum.\n3. Exhale as you curl up, inhale as you lower.\n4. The wide grip shifts emphasis to the inner short head of the biceps.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_wide_grip_upright_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip and hands wider than shoulder-width.\n2. Let the bar rest against your thighs with your arms straight.\n3. Pull the bar straight up the front of your body by lifting your elbows out to the sides.\n4. Stop when the bar reaches chest height, keeping your elbows above your wrists.\n5. Lower the bar under control to the starting position.\n6. Repeat.",
+  "tips": "1. Lead the movement with your elbows, not your hands.\n2. Keep your chest up and torso upright.\n3. The wide grip targets the side and rear delts more than a narrow grip.\n4. Stop at chest height to protect your shoulders.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids",
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_wide_shrug",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip and hands wider than shoulder-width.\n2. Let the bar rest against your thighs with your arms straight.\n3. Raise your shoulders straight up toward your ears as high as possible.\n4. Hold the top position for a moment.\n5. Lower your shoulders under control to the starting position.\n6. Repeat.",
+  "tips": "1. Keep your arms straight and let your traps do the work.\n2. Move your shoulders straight up, not in a rolling circle.\n3. Exhale as you lift, inhale as you lower.\n4. Use a controlled pace rather than jerking the weight.",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_wrist_curl_on_knees",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with your feet flat on the floor, holding a barbell with an underhand grip.\n2. Rest your forearms on your thighs with your wrists hanging just past your knees.\n3. Lower the bar by letting your wrists extend fully under control.\n4. Curl the bar up by flexing your wrists as high as possible.\n5. Keep your forearms pressed to your thighs throughout.\n6. Repeat.",
+  "tips": "1. Keep your forearms still so only your wrists move.\n2. Use a full range of motion at the wrist.\n3. Exhale as you curl up, inhale as you lower.\n4. Let the bar roll to your fingertips at the bottom for a fuller stretch.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "barbell_wrist_curl_wide_legs",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with your legs spread wide and feet flat on the floor, holding a barbell with an underhand grip.\n2. Rest your forearms on your thighs with your wrists hanging over your knees.\n3. Lower the bar by letting your wrists extend fully under control.\n4. Curl the bar up by flexing your wrists as high as possible.\n5. Keep your forearms pressed to your thighs throughout.\n6. Repeat.",
+  "tips": "1. Keep your forearms still so only your wrists move.\n2. Use a full range of motion at the wrist.\n3. Exhale as you curl up, inhale as you lower.\n4. The wide-leg position gives your wrists more room to travel.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "secondary": []
+ }
+]

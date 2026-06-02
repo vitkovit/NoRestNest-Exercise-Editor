@@ -1,0 +1,101 @@
+[
+ {
+  "id": "barbell_overhead_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell overhead with arms fully extended and a grip slightly wider than shoulder-width.\n2. Brace your core and keep the bar stacked over your midfoot.\n3. Push your hips back and bend your knees, lowering until your thighs are at least parallel to the floor.\n4. Keep the bar locked overhead throughout the descent.\n5. Drive through your heels to stand back up, fully extending hips and knees.\n6. Repeat.",
+  "tips": "1. Keep the bar directly over the middle of your foot to stay balanced.\n2. Actively push the bar up into the shoulders to maintain a stable lockout.\n3. Keep your chest tall and torso upright to hold the bar overhead.\n4. Use a controlled descent to keep the bar path steady.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Lower Traps"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "barbell_press_under",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Hold a barbell at the front of your shoulders with feet hip-width apart.\n2. Bend your knees into a quick, shallow dip.\n3. Drive your body downward and press your arms straight to punch yourself under the bar.\n4. Catch the bar overhead with locked arms in a partial squat as your feet reset.\n5. Stand fully upright with the bar overhead.\n6. Repeat.",
+  "tips": "1. Punch under the bar fast so your arms lock as your feet land.\n2. Keep the bar stacked over the middle of your foot at the catch.\n3. Brace your core hard to support the load overhead.\n4. Keep your torso upright during the dip and catch.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Lower Traps"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "barbell_reverse_deadlift",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with a barbell on the floor behind your heels, feet shoulder-width apart.\n2. Hinge at the hips and bend your knees to grip the bar with an overhand grip just wider than shoulder-width.\n3. Keep your back flat, chest up, and shoulders down.\n4. Brace your core and drive through your heels to stand tall, pulling the bar up behind your hips.\n5. Lower the bar back to the floor with control along the same path.\n6. Repeat.",
+  "tips": "1. Keep the bar close to your legs throughout the lift.\n2. Drive through your heels and squeeze your glutes at the top.\n3. Brace your core to protect your lower back.\n4. Keep your chest up to maintain a flat back.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_side_step_up",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand beside a sturdy box or bench with a barbell across your upper back and shoulders.\n2. Place the foot closest to the box flat on top of it.\n3. Press firmly through that heel and drive your body up until the leg is fully extended.\n4. Stand tall on top of the box with an upright torso.\n5. Lower the trailing foot back to the floor with control.\n6. Repeat, then switch sides.",
+  "tips": "1. Drive through the heel of the working leg to load the glutes.\n2. Move slowly and avoid pushing off the bottom foot for momentum.\n3. Choose a box height that lets you keep full control.\n4. Keep your torso upright and shoulder blades pulled back.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "barbell_silverback_shrug",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell overhand just outside shoulder-width.\n2. Bend your knees slightly and hinge forward at the hips until your torso is near 45 degrees, keeping your back flat.\n3. Let the bar hang with your arms fully extended below your shoulders.\n4. Shrug your shoulders up and back, squeezing your shoulder blades together.\n5. Lower your shoulders back down with control.\n6. Repeat.",
+  "tips": "1. Keep a flat back and braced core throughout to protect your spine.\n2. Pull your shoulder blades back and up rather than just elevating.\n3. Pause and squeeze at the top of each rep.\n4. Exhale as you shrug and inhale as you lower.",
+  "primary": [
+   {"group": "mid back", "latins": ["Upper Traps", "Lower Traps", "Rhomboids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

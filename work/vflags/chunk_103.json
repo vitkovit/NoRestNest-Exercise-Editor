@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_chest_supported_lateral_raises",
+  "change": "Despite the name 'lateral raises', the described movement (face-down on incline bench, wide arc toward the back) is a chest-supported REAR delt raise. Moved 'mid back' (Rhomboids/Traps) from primary to secondary, since the posterior deltoid is the sole prime mover and the scapular retractors only assist. Kept Posterior Deltoid as the only primary. Split Lats entry: dropped Latissimus Dorsi (not meaningfully involved) and kept only Rotator Cuff (external rotators infraspinatus/teres minor assist) as secondary."
+ },
+ {
+  "id": "dumbbell_close_grip_shoulder_press_sit_up",
+  "change": "Removed 'mid back' (Upper Traps) from secondary as inflation; in a floor-supported sit-up press the traps contribute negligibly. Kept abs + shoulders (anterior/lateral delts) primary and Triceps + chest (Clavicular Head) secondary, all confirmed by overhead press sources."
+ },
+ {
+  "id": "dumbbell_close_grip_simultaneous_curl",
+  "change": "No change. Biceps Brachii primary, Wrist Flexors (forearms) secondary confirmed."
+ },
+ {
+  "id": "dumbbell_close_legs_deadlift",
+  "change": "No change. Stiff-leg/close-stance dumbbell deadlift: Hamstrings + Gluteus Maximus primary, Erector Spinae and Gastrocnemius (calves) secondary stabilizers, all confirmed."
+ },
+ {
+  "id": "dumbbell_crunch_hold_with_legs_off",
+  "change": "Replaced the 'shoulders' (Anterior Deltoids) secondary entry with 'oblique' (External + Internal Obliques). Arms are extended over the hips holding the dumbbell with minimal deltoid work, while obliques stabilize the trunk and the raised-leg hold during the crunch. Kept abs primary and Abductor (hip flexors holding legs off floor) secondary."
+ }
+]

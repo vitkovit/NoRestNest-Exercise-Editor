@@ -1,0 +1,4 @@
+[
+ {"id": "med_ball_slam_burpees", "issue": "Medicine ball / slam ball has no dedicated equipment dropdown value; used 'other'. Category set to 'Free Weights' since it uses a weighted ball, but it is bodyweight-dominant; reasonable to treat as Bodyweight if preferred."},
+ {"id": "med_ball_toe_touches", "issue": "Medicine ball has no dedicated equipment dropdown value; used 'other'. Hip flexors are a worked stabilizer but have no allowed latin value (Abductor bucket is for abduction, not flexion here), so omitted."}
+]

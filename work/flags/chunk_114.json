@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbell_incline_shrug", "issue": "Instructions describe a seated/upright incline shrug (sitting back, palms facing each other), which emphasizes upper traps; many sources describe a prone/chest-supported incline shrug that emphasizes mid/lower traps and rhomboids. Followed the upright variant per the existing instructions, with rhomboids secondary."},
+ {"id": "dumbbell_incline_row", "issue": "Palms-down (pronated) prone incline row with a higher/wider pull emphasizes rhomboids/traps and rear delts alongside lats; lat-vs-rhomboid split depends on exact pull path. Brachialis is engaged but has no allowed latin value, so it is folded under biceps."}
+]

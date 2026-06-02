@@ -1,0 +1,196 @@
+[
+ {
+  "id": "barbell_reverse_close_grip_bench_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with your feet flat on the floor.\n2. Grip the barbell with an underhand grip, hands shoulder-width apart.\n3. Unrack the bar and hold it above your chest with arms extended.\n4. Lower the bar to your lower chest, keeping your elbows tucked close to your body.\n5. Press the bar back up until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your elbows tucked close to your sides through the whole movement.\n2. Use a spotter, as the underhand grip is harder to control.\n3. Lower the bar slowly and under control.\n4. Exhale as you press up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_reverse_grip_bench_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with your feet flat on the floor.\n2. Grip the barbell with an underhand grip, hands slightly wider than shoulder-width.\n3. Unrack the bar and hold it above your chest with arms extended.\n4. Lower the bar to your lower chest, keeping your elbows tucked.\n5. Press the bar back up until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your elbows tucked to drive the bar along a low-to-high path.\n2. Use a spotter, as the underhand grip is harder to control.\n3. Lower the bar slowly and under control.\n4. Exhale as you press up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_reverse_grip_bent_over_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip slightly wider than shoulder-width.\n2. Bend at the hips and knees until your torso is near parallel to the floor, keeping your back flat.\n3. Pull the barbell toward your lower abdomen, driving your elbows back.\n4. Squeeze your shoulder blades together at the top.\n5. Lower the barbell with control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your back flat and core braced to protect your spine.\n2. Pull with your back, not just your arms.\n3. Exhale as you row up, inhale as you lower.\n4. Keep the bar close to your body throughout.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_reverse_spider_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie face down on an incline bench with your chest and stomach supported.\n2. Hold a barbell with an overhand grip, hands shoulder-width apart, arms hanging straight down.\n3. Curl the barbell up toward your shoulders by bending your elbows.\n4. Squeeze at the top with your knuckles facing up.\n5. Lower the barbell with control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Press your chest firmly into the bench to keep your upper arms still.\n2. Move slowly and avoid swinging or using momentum.\n3. Control the lowering phase to keep tension on the muscle.\n4. Keep your wrists firm and straight.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_rollout",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Kneel on a mat with a loaded barbell on the floor in front of you.\n2. Grip the bar with an overhand grip, hands shoulder-width apart.\n3. Brace your core and roll the bar forward, extending your arms and body.\n4. Roll out as far as you can while keeping your back flat and hips from sagging.\n5. Pull the bar back to the start using your abdominals.\n6. Repeat.",
+  "tips": "1. Keep your core braced to stop your lower back from arching.\n2. Do not let your hips sag or pike.\n3. Only roll out as far as you can control.\n4. Exhale as you roll out, inhale as you return.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ }
+]

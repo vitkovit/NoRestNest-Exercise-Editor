@@ -1,0 +1,317 @@
+[
+ {
+  "id": "barbell_overhead_shrug",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart. Hold a barbell overhead with both hands, grip slightly wider than shoulder-width, arms fully extended.\n2. Brace your core and keep the bar stacked over your shoulders.\n3. Shrug your shoulders up toward your ears, keeping your arms locked out.\n4. Pause and squeeze your traps at the top.\n5. Lower your shoulders back down with control.\n6. Repeat.",
+  "tips": "1. Keep the barbell directly over your shoulders so your arms stay vertical.\n2. Drive your shoulders straight up, not forward.\n3. Brace your core to hold the bar steady overhead.\n4. Use a weight light enough to keep the bar stable through the full range.",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Lower Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_pendlay_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet hip-width apart, barbell on the floor over your mid-foot.\n2. Bend at the hips and knees and grip the bar with an overhand grip, hands slightly wider than shoulder-width. Lower your torso until it is parallel to the floor with a flat back.\n3. Pull the bar explosively to your lower chest, driving your elbows up and back.\n4. Squeeze your shoulder blades together at the top.\n5. Lower the bar back to the floor with control and let it settle before the next rep.\n6. Repeat.",
+  "tips": "1. Keep your torso parallel to the floor for every rep.\n2. Keep your back flat and avoid rounding your lower back.\n3. Drive your elbows up and back to lead with your back, not your arms.\n4. Reset the bar on the floor between reps for a dead-stop pull.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_power_clean",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet hip-width apart, barbell on the floor over your mid-foot.\n2. Bend at the hips and knees and grip the bar with an overhand grip, hands slightly wider than shoulder-width, back flat.\n3. Drive through your legs to lift the bar, keeping it close to your body.\n4. Explosively extend your hips, knees, and ankles, then shrug and pull yourself under the bar.\n5. Catch the bar in a front rack position with elbows forward and stand tall.\n6. Lower the bar back to the floor with control. Repeat.",
+  "tips": "1. Generate power from an explosive hip extension, not your arms.\n2. Keep the bar close to your body through the whole pull.\n3. Drop fast under the bar to meet it in the rack position.\n4. Practice with light weight to groove the technique before loading.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_power_clean_from_blocks",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set the barbell on blocks just below knee height.\n2. Stand with your feet hip-width apart and grip the bar with an overhand grip, hands slightly wider than shoulder-width, back flat.\n3. Explosively extend your hips, knees, and ankles to drive the bar upward, keeping it close to your body.\n4. Shrug and pull yourself under the bar.\n5. Catch the bar in a front rack position with elbows forward and stand tall.\n6. Lower the bar back to the blocks with control. Repeat.",
+  "tips": "1. Drive explosively from the blocks to build force off a dead start.\n2. Keep the bar close to your body as it rises.\n3. Pull yourself under fast to catch the bar in the rack.\n4. Reset the bar fully on the blocks between reps.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_power_jerk",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, barbell racked at shoulder height on your front deltoids, hands slightly wider than shoulder-width.\n2. Keep your chest up and core braced.\n3. Dip straight down into a quarter squat, keeping your torso vertical.\n4. Explosively drive up through your legs to launch the bar overhead.\n5. Drop slightly and lock the bar out overhead with arms straight, then stand fully.\n6. Lower the bar back to your shoulders with control. Repeat.",
+  "tips": "1. Keep your torso vertical during the dip so the bar travels straight up.\n2. Drive through your legs to power the bar overhead, not just your arms.\n3. Keep the dip short and fast to transfer force into the bar.\n4. Lock the bar out directly over the back of your head.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

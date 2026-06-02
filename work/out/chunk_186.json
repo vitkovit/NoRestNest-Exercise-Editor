@@ -1,0 +1,83 @@
+[
+ {
+  "id": "overhead_extension_resistance_band_both_arms",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and the middle of the band under both feet.\n2. Hold the handles and extend both arms overhead, elbows close to your ears, palms facing each other.\n3. Bend your elbows to lower the handles behind your head until your forearms are about parallel to the floor.\n4. Straighten your elbows to press the handles back overhead.\n5. Repeat.",
+  "tips": "1. Keep your elbows tucked close to your ears and stop them flaring out.\n2. Keep your shoulders down to avoid neck tension.\n3. Exhale as you press up and inhale as you lower.\n4. Move the band slowly to keep tension on the triceps.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "overhead_triceps_stretch_side_angle",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with feet shoulder-width apart.\n2. Raise your right arm overhead and bend the elbow, reaching your hand down toward your upper back.\n3. Bring your left hand to your right elbow and gently pull it toward the left to deepen the stretch.\n4. Hold the position while breathing steadily.\n5. Release, switch arms, and repeat.",
+  "tips": "1. Keep your spine neutral and do not arch your lower back.\n2. Apply gentle pressure on the elbow and do not force the range.\n3. Keep your core engaged for balance.\n4. Breathe slowly throughout the hold.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "palm_up_palm_down_rotation",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with feet shoulder-width apart and arms extended straight out to the sides at shoulder height.\n2. Rotate your forearms so your palms turn to face up.\n3. Rotate your forearms the other way so your palms turn to face down.\n4. Keep your arms long and at shoulder height throughout.\n5. Repeat.",
+  "tips": "1. Keep your shoulders down and away from your ears.\n2. Keep a slight bend in the elbows to reduce joint strain.\n3. Control the rotation rather than swinging.\n4. Breathe steadily throughout.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids", "Anterior Deltoids", "Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "pec_deck_fly_machine",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the machine with your feet flat and your back pressed against the pad.\n2. Place your forearms on the pads or grasp the handles with upper arms parallel to the floor.\n3. Squeeze your chest to bring the handles together in front of you.\n4. Slowly return to the start with control.\n5. Repeat.",
+  "tips": "1. Keep your back against the pad through the whole movement.\n2. Drive the motion from your chest, not your arms.\n3. Exhale as you bring the handles together and inhale as you return.\n4. Control the return to keep tension on the chest.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "pike_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank, then walk your feet toward your hands and lift your hips to form an inverted V.\n2. Keep your arms and legs straight and your head between your arms.\n3. Bend your elbows to lower your head toward the floor.\n4. Push through your hands to straighten your arms back to the inverted V.\n5. Repeat.",
+  "tips": "1. Keep your head in line with your arms to protect your neck.\n2. Keep your hips high to keep the load on your shoulders.\n3. Engage your core to hold the V position.\n4. Use a non-slip surface for grip.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ }
+]

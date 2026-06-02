@@ -1,0 +1,4 @@
+[
+ {"id": "alternate_toe_tap_leg_lift", "issue": "Hip flexors (iliopsoas) are a true prime mover for the knee-to-chest action but have no dedicated bucket; mapped to Abductor (Iliopsoas/TFL) per vocab guidance, and Rectus Femoris as secondary for hip flexion."},
+ {"id": "alternating_hamstring_curl_with_punch", "issue": "Cardio compound combining a standing leg curl with a forward punch; no single source for the named combo, so muscles were synthesized from standing leg curl plus punch research."}
+]

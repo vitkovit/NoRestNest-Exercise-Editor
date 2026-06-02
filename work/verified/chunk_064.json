@@ -1,0 +1,173 @@
+[
+ {
+  "id": "cable_pulldown",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit at the pulldown station with knees secured under the pads and feet flat on the floor.\n2. Grasp the bar with an overhand grip at shoulder-width, arms fully extended overhead.\n3. Keep your chest up and pull the bar down to your upper chest, driving your elbows down and back.\n4. Squeeze your shoulder blades together at the bottom.\n5. Slowly extend your arms back overhead with control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull down, inhale as you return.\n2. Lead with the elbows, not the hands, to load the lats.\n3. Avoid leaning back or using momentum.\n4. Keep your chest tall and shoulders down throughout.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_pulldown_pro_lat_bar",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit at the pulldown station with knees secured under the pads and feet flat on the floor.\n2. Grasp the pro lat bar with an overhand grip wider than shoulder-width, arms fully extended overhead.\n3. Keep your chest up and pull the bar down to your upper chest, driving your elbows down and out.\n4. Squeeze your shoulder blades together at the bottom.\n5. Slowly extend your arms back overhead with control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull down, inhale as you return.\n2. The wide grip emphasizes back width, so focus on driving the elbows down.\n3. Avoid leaning back or jerking the weight.\n4. Keep your chest tall and shoulders down throughout.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_pushdown",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand facing the cable machine with a straight bar on the high pulley.\n2. Grasp the bar with an overhand grip at shoulder-width and pin your elbows to your sides.\n3. Keep your back straight and your forearms parallel to the floor.\n4. Push the bar down by extending your elbows until your arms are straight.\n5. Slowly return to the starting position with control.\n6. Repeat.",
+  "tips": "1. Exhale as you push down, inhale as you return.\n2. Keep your upper arms still and only move at the elbows.\n3. Squeeze the triceps hard at the bottom.\n4. Keep your wrists straight to keep tension on the triceps.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_pushdown_straight_arm",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand facing the cable machine with a straight bar on the high pulley.\n2. Grasp the bar with an overhand grip at shoulder-width, arms nearly straight and extended forward.\n3. Hinge slightly at the hips and keep your back straight with knees soft.\n4. Pull the bar down to your thighs in an arc, keeping your arms straight.\n5. Slowly return to the starting position with control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull down, inhale as you return.\n2. Keep your arms straight so the lats drive the movement, not the triceps.\n3. Feel the stretch in the lats at the top.\n4. Brace your core to keep your torso steady.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_rear_delt_fly",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Set both cable pulleys to chest height and stand in the center.\n2. Cross the cables, holding the left handle in your right hand and the right handle in your left hand.\n3. Stand with feet shoulder-width apart, knees soft, and arms extended in front with a slight elbow bend.\n4. Pull the handles apart and out to your sides until your arms are level with your shoulders.\n5. Squeeze your shoulder blades together at the end.\n6. Slowly return to the starting position with control. Repeat.",
+  "tips": "1. Exhale as you pull the handles apart, inhale as you return.\n2. Keep the slight elbow bend fixed so the rear delts do the work.\n3. Lead with the elbows, not the hands.\n4. Avoid shrugging or using momentum.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ]
+ }
+]

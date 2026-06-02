@@ -1,0 +1,91 @@
+[
+ {
+  "id": "arnold_press_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with back support. Hold a dumbbell in each hand at shoulder height, palms facing you, elbows in front of your torso.\n2. Press the dumbbells up and rotate your palms to face forward as you lift.\n3. Extend your arms fully overhead.\n4. Lower the dumbbells slowly, rotating your palms back toward you to return to the start.\n5. Repeat.",
+  "tips": "1. Rotate the wrists smoothly through the whole press, not just at the top.\n2. Exhale as you press up, inhale as you lower.\n3. Keep your back against the pad to avoid arching.\n4. Pick a weight that lets you control the rotation.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ]
+ },
+ {
+  "id": "assisted_chin_up_normal_width_reverse_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Kneel on the platform pad of an assisted chin-up machine. Grasp the handles with a reverse grip, palms facing you, shoulder-width apart.\n2. Pull your body up until your chin passes the bar.\n3. Squeeze your back at the top.\n4. Lower your body slowly until your arms are fully extended.\n5. Repeat.",
+  "tips": "1. Drive your elbows down and back, not out to the sides.\n2. Set the assistance so you can control both the lift and the descent.\n3. Exhale as you pull up, inhale as you lower.\n4. Avoid swinging or using momentum.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "assisted_chin_up_reverse_close_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Kneel on the platform pad of an assisted chin-up machine. Grasp the handles with a reverse grip, palms facing you, hands close together.\n2. Pull your body up until your chin passes the bar.\n3. Squeeze your back at the top.\n4. Lower your body slowly until your arms are fully extended.\n5. Repeat.",
+  "tips": "1. Keep your elbows tucked close to your torso through the pull.\n2. Set the assistance so you can control both the lift and the descent.\n3. Exhale as you pull up, inhale as you lower.\n4. Avoid swinging or using momentum.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "assisted_chin_up_reverse_wide_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Kneel on the platform pad of an assisted chin-up machine. Grasp the handles with a reverse grip, palms facing you, wider than shoulder-width apart.\n2. Pull your body up until your chin passes the bar.\n3. Squeeze your back at the top.\n4. Lower your body slowly until your arms are fully extended.\n5. Repeat.",
+  "tips": "1. Lead with your elbows and pull your shoulder blades down.\n2. Set the assistance so you can control both the lift and the descent.\n3. Exhale as you pull up, inhale as you lower.\n4. Avoid swinging or using momentum.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "assisted_pull_up_close_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Kneel on the platform pad of an assisted chin-up machine. Grasp the handles with an overhand grip, palms facing away, hands close together.\n2. Pull your body up until your chin passes the bar.\n3. Squeeze your back at the top.\n4. Lower your body slowly until your arms are fully extended.\n5. Repeat.",
+  "tips": "1. Drive your elbows down toward your hips as you pull.\n2. Set the assistance so you can control both the lift and the descent.\n3. Exhale as you pull up, inhale as you lower.\n4. Avoid swinging or using momentum.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

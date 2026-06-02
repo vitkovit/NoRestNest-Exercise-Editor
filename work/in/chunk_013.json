@@ -1,0 +1,98 @@
+[
+ {
+  "id": "barbell_lunges",
+  "name": "Barbell lunges",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands shoulder-width apart, and keep your elbows pointing forward.\n2. Step forward with your right leg, lowering your body until your right thigh is parallel to the floor and your left knee nearly touches the floor.\n3. Push through your front heel to return to the starting position. Repeat the movement with the same leg.",
+   "tips": "1. Use a weight that allows for proper form and technique throughout the exercise.\n2. Drive through the heel of your front foot to engage your glutes and quadriceps more effectively.\n3. Keep your head up and eyes forward to maintain balance and proper form.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_lunges_on_the_spot",
+  "name": "Barbell lunges on the spot",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands shoulder-width apart, and keep your elbows pointing forward.\n2. Step forward with your right leg, lowering your body until your right thigh is parallel to the floor and your left knee nearly touches the floor.\n3. Push through your front heel to return to the starting position. Repeat the movement with the same leg.",
+   "tips": "1. Use a weight that allows for proper form and technique throughout the exercise.\n2. Drive through the heel of your front foot to engage your glutes and quadriceps more effectively.\n3. Keep your head up and eyes forward to maintain balance and proper form.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_lying_row",
+  "name": "Barbell lying row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie face down on a flat bench, holding a barbell with an overhand grip (palms facing down), hands placed shoulder-width apart. Your chest should be supported by the bench, and your feet should be firmly on the floor.\n2. Let the barbell hang directly below you with your arms fully extended. Pull the barbell towards your lower chest by bending your elbows and squeezing your shoulder blades together.\n3.  Slowly lower the barbell back to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back flat and avoid rounding your shoulders or lower back.\n2. Squeeze your shoulder blades together at the top of the movement to maximize upper back engagement.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent injury.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Middle Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_lying_triceps_extension",
+  "name": "Barbell lying triceps extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor, holding a barbell with an overhand grip, hands shoulder-width apart. Your arms should be fully extended above your chest.\n2. Slowly lower the barbell by bending your elbows, bringing the barbell towards over your forehead.\n3. When the barbell is behind your head, reverse the movement by extending your elbows to return the barbell to the starting position.\n4. Repeat for the desired number of repetitions, then carefully rack the barbell back onto the bench press rack.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to isolate the triceps.\n2. Lower the barbell slowly and with control to maximize muscle engagement and prevent injury.\n3. Ensure a firm grip on the barbell to maintain control and proper alignment throughout the movement.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_lying_triceps_skull_crushers",
+  "name": "Barbell lying triceps skull crushers",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor, holding a barbell with an overhand grip, hands shoulder-width apart. Your arms should be fully extended above your chest.\n2. Slowly lower the barbell by bending your elbows, bringing the barbell towards your forehead.\n3. When the barbell is just above your forehead, reverse the movement by extending your elbows to return the barbell to the starting position.\n4. Repeat for the desired number of repetitions, then carefully rack the barbell back onto the bench press rack.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to isolate the triceps.\n2. Lower the barbell slowly and with control to maximize muscle engagement and prevent injury.\n3. Ensure a firm grip on the barbell to maintain control and proper alignment throughout the movement.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

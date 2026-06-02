@@ -1,0 +1,251 @@
+[
+ {
+  "id": "barbell_front_chest_lunges",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, holding a barbell racked across the front of your shoulders. Keep elbows high and pointing forward.\n2. Step forward with your right leg and lower until your right thigh is parallel to the floor and your left knee nearly touches the floor.\n3. Keep your torso upright and core braced.\n4. Push through your front heel to return to the start.\n5. Repeat.",
+  "tips": "1. Keep elbows high so the bar stays on your shoulders.\n2. Brace your core to protect your lower back and stay upright.\n3. Lower with control and keep your front knee tracking over your toes.\n4. Inhale as you step down, exhale as you drive up.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Gastrocnemius Lateral",
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_front_lunges_with_small_pause",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, holding a barbell racked across the front of your shoulders. Keep elbows high and pointing forward.\n2. Step forward with your right leg and lower until your right thigh is parallel to the floor and your left knee nearly touches the floor.\n3. Pause briefly at the bottom while keeping your torso upright.\n4. Push through your front heel to return to the start.\n5. Repeat.",
+  "tips": "1. Hold the pause without losing tension or letting the bar drift forward.\n2. Keep elbows high so the bar stays on your shoulders.\n3. Drive through the front heel to engage glutes and quads.\n4. Keep your head up and eyes forward for balance.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Gastrocnemius Lateral",
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_front_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip in front of your thighs, hands shoulder-width apart.\n2. Keep your arms nearly straight and your core braced.\n3. Raise the barbell in front of you until it reaches shoulder height.\n4. Lower it back to the start with control.\n5. Repeat.",
+  "tips": "1. Lift with your shoulders, not by swinging your torso.\n2. Keep a slight bend in the elbows to ease joint strain.\n3. Brace your core to support your lower back.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_front_squats",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell racked across the front of your shoulders. Keep elbows high and pointing forward.\n2. Push your hips back and bend your knees, lowering until your thighs are at least parallel to the floor.\n3. Keep your torso upright and chest tall throughout.\n4. Push through your heels to stand back up, extending hips and knees fully.\n5. Repeat.",
+  "tips": "1. Keep elbows high to stop the bar rolling forward.\n2. Brace your core hard to keep the torso upright.\n3. Keep knees tracking over your toes.\n4. Inhale at the top, exhale as you drive up.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_glute_bridge",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor, hip-width apart. Rest a barbell across your hips and hold it with both hands.\n2. Push through your heels to lift your hips until your body forms a straight line from shoulders to knees.\n3. Squeeze your glutes hard at the top and hold briefly.\n4. Lower your hips back down with control.\n5. Repeat.",
+  "tips": "1. Drive through your heels to load the glutes.\n2. Keep knees in line with your toes, not flaring or caving.\n3. Exhale as you lift, inhale as you lower.\n4. Use a pad on the barbell for hip comfort.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "svend_press_decline_bench",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Lie on a decline bench with your feet secured and back flat against the bench.\n2. Press your palms hard against the flat sides of a weight plate at chest level, fingers pointing up.\n3. Squeeze the plate and press it straight out until your arms are fully extended.\n4. Keep squeezing the plate throughout to maximise chest tension.\n5. Bring the plate back to your chest under control.\n6. Repeat.",
+  "tips": "1. Press through your chest, not your shoulders.\n2. Squeeze the plate hard the whole time to keep the chest loaded.\n3. Keep your back flat against the bench.\n4. Breathe out as you press, in as you return.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "svend_press_flat_bench",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with your feet flat on the floor and back against the bench.\n2. Press your palms hard against the flat sides of a weight plate at chest level, fingers pointing up.\n3. Squeeze the plate and press it straight out until your arms are fully extended.\n4. Keep squeezing the plate throughout to maximise chest tension.\n5. Bring the plate back to your chest under control.\n6. Repeat.",
+  "tips": "1. Press through your chest, not your shoulders.\n2. Squeeze the plate hard the whole time to keep the chest loaded.\n3. Keep your back flat against the bench.\n4. Breathe out as you press, in as you return.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "svend_press_incline_bench",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Lie on an incline bench set to about 30 degrees with your back against the bench.\n2. Press your palms hard against the flat sides of a weight plate at chest level, fingers pointing up.\n3. Squeeze the plate and press it straight out until your arms are fully extended.\n4. Keep squeezing the plate throughout to maximise upper chest tension.\n5. Bring the plate back to your chest under control.\n6. Repeat.",
+  "tips": "1. Press through your upper chest, not your shoulders.\n2. Squeeze the plate hard the whole time to keep the chest loaded.\n3. Keep the angle near 30 degrees to bias the upper chest.\n4. Breathe out as you press, in as you return.",
+  "primary": [
+   {"group": "chest", "latins": ["Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "trap_bar_deadlift",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand in the centre of a trap bar with feet shoulder-width apart.\n2. Bend your hips and knees and grip the handles with a neutral grip.\n3. Brace your core, keep your chest up and back flat.\n4. Push through your heels and drive up, extending hips and knees together.\n5. Stand tall, then lower the bar to the floor under control by bending hips and knees.\n6. Repeat.",
+  "tips": "1. Keep your back flat and chest up throughout.\n2. Push the floor away through your heels.\n3. Keep the bar handles in line with your mid-foot.\n4. Brace your core before each rep.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "trap_bar_shrug",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand in the centre of a trap bar with feet shoulder-width apart.\n2. Bend your hips and knees and grip the handles with a neutral grip.\n3. Stand tall with the bar at arm's length, core braced and back flat.\n4. Lift your shoulders straight up toward your ears and squeeze at the top.\n5. Lower your shoulders back down under control.\n6. Repeat.",
+  "tips": "1. Shrug straight up, do not roll your shoulders.\n2. Squeeze your traps at the top for a moment.\n3. Keep your neck relaxed and your arms straight.\n4. Breathe out as you shrug up, in as you lower.",
+  "primary": [
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

@@ -1,0 +1,76 @@
+[
+ {
+  "id": "cat_pose",
+  "name": "Cat Pose",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "chair_pose",
+  "name": "Chair Pose",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "chest_press_machine",
+  "name": "Chest Press Machine",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit down on the chest press machine with your feet flat on the floor and your back pressed firmly against the backrest. Grasp the handles with both hands, palms facing forward, and position your elbows at a 90-degree angle.\n2. Push the handles forward and extend your arms fully, keeping a slight bend in your elbows to avoid locking them.\n3. Slowly return to the starting position by bending your elbows and bringing the handles back towards your chest.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back and head flat against the backrest to maintain proper form.\n2. Focus on engaging your chest muscles throughout the movement.\n3. Exhale as you push the handles forward and inhale as you return to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "child_pose_arms_extended_left_right",
+  "name": "Child Pose Arms Extended Left Right",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "child_pose_arms_on_side",
+  "name": "Child Pose Arms On Side",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

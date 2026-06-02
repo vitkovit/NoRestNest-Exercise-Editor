@@ -1,0 +1,82 @@
+[
+ {
+  "id": "multi_hip_abduction",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand on the multi-hip machine platform and set the padded lever against the outside of your working thigh.\n2. Grip the handles and stand tall with a slight bend in the standing leg.\n3. Drive the working leg outward against the resistance, lifting it to the side as far as comfortable.\n4. Pause briefly, then lower the leg slowly to the start.\n5. Finish the set, switch legs, and Repeat.",
+  "tips": "1. Keep your torso upright and do not lean toward the lever.\n2. Brace your core to stabilize the hips and stay balanced.\n3. Move slowly and avoid swinging the leg.\n4. Squeeze the outer hip at the top of each rep.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Abductor", "latins": ["Abductor"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "multi_hip_adduction",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand on the multi-hip machine platform and set the padded lever against the inside of your working thigh.\n2. Grip the handles and stand tall with a slight bend in the standing leg.\n3. Pull the working leg across the midline against the resistance.\n4. Pause briefly, then return the leg slowly to the start.\n5. Finish the set, switch legs, and Repeat.",
+  "tips": "1. Keep your torso upright and your hips square throughout.\n2. Brace your core to stay balanced on the standing leg.\n3. Control the return so the inner thigh stays loaded.\n4. Avoid jerking or using momentum.",
+  "primary": [
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ]
+ },
+ {
+  "id": "multi_hip_glute_extension",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand on the multi-hip machine, turn to one side, and set the padded lever behind your working thigh.\n2. Grip the handles in front and hinge slightly forward at the hips with a straight spine.\n3. Drive the working leg back until it lines up with your torso.\n4. Squeeze the glute at the top, then lower the leg slowly to the start.\n5. Finish the set, switch legs, and Repeat.",
+  "tips": "1. Keep a slight bend in the standing knee for balance.\n2. Squeeze the glute hard at full extension.\n3. Move under control instead of swinging the leg.\n4. Keep your spine neutral and do not over-arch your lower back.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "push_pull_chair_over_head_pull",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the push-pull chair station and reach up to grip the overhead handles.\n2. Set your feet flat and keep your chest up and core braced.\n3. Pull the handles down toward your shoulders, driving your elbows down and back.\n4. Squeeze your back at the bottom of the pull.\n5. Let the handles rise under control until your arms are extended, and Repeat.",
+  "tips": "1. Lead with the elbows to load the lats rather than the arms.\n2. Keep your torso upright and avoid leaning back excessively.\n3. Squeeze the shoulder blades together at the bottom.\n4. Control the return rather than letting the handles snap up.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ]
+ },
+ {
+  "id": "push_pull_front_handle_push",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the push-pull chair station and grip the front handles at chest height.\n2. Set your feet flat and keep your back against the pad with your core braced.\n3. Press the handles forward until your arms are extended.\n4. Pause briefly at full extension.\n5. Bend your elbows to return the handles slowly to your chest, and Repeat.",
+  "tips": "1. Keep your shoulders down and back against the pad.\n2. Press smoothly and squeeze the chest at full extension.\n3. Control the return so tension stays on the chest.\n4. Keep your core braced to avoid arching off the pad.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ }
+]

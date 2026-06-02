@@ -1,0 +1,100 @@
+[
+ {
+  "id": "cross_over_shoulder_stretch",
+  "name": "Cross over shoulder stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart. Lean forward at your hips with a slight arch in your back.\n2. Cross your arms and place your hands on your knees.\n3. Engage your core and gently press your chest downward to feel the stretch in your shoulders and upper back.\n4. Hold the stretch for the desired duration, then slowly return to a standing position.",
+   "tips": "1. Keep your core engaged to maintain stability and support your lower back.\n2. Focus on keeping a slight arch in your back and avoid rounding your spine.\n3. Perform the stretch with control to avoid overextending your shoulders.\n4. Breathe deeply and steadily throughout the stretch, inhaling through your nose and exhaling through your mouth.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Core Muscles"
+   ]
+  }
+ },
+ {
+  "id": "crossed_arms_front_leg_kick",
+  "name": "Crossed arms front leg kick",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart and your arms crossed in front of your chest.\n2. Engage your core and lift your right leg straight in front of you to perform a front kick, keeping your leg as straight as possible.\n3. Lower your right leg back to the starting position.\n4. Immediately lift your left leg to perform a front kick, keeping your arms crossed and your core engaged. Continue alternating legs for the desired number of repetitions.",
+   "tips": "1. Focus on maintaining an upright posture, avoiding leaning back or forward as you kick.\n2. Breathe steadily throughout the exercise, exhaling as you kick and inhaling as you return to the starting position.\n3. Ensure your kicks are performed with a controlled motion, avoiding any jerky movements.",
+   "primary": [
+    "Quadriceps",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Abdominals"
+   ]
+  }
+ },
+ {
+  "id": "crossover_kneeling_hip_flexor_stretch",
+  "name": "Crossover kneeling hip flexor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a lunge position with your right foot on the floor and your left knee on the floor, ensuring both legs are bent at 90 degrees.\n2. Engage your core and rotate your torso towards your right leg, placing both arms straight and pulling on the outside of your right thigh.\n3. Gently push your hips forward while keeping your back straight to stretch.\n4. Hold this position for the desired duration, then switch sides and repeat.",
+   "tips": "1. Ensure your front knee is aligned over your ankle to avoid unnecessary strain on your knee joint.\n2. Perform the stretch with control to avoid overextending your hip flexors.\n3. Breathe deeply and steadily throughout the stretch, inhaling through your nose and exhaling through your mouth.",
+   "primary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "crouching_heel_back_calf_stretch",
+  "name": "Crouching heel back calf stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin standing with your legs wide in a semi-lunge position, turned to the right side, with your left leg extended back and your right knee bent.\n2. Bend forward at the hips and place your hands on the floor in front of you for balance, keeping your back as straight as possible.\n3. Push your left heel down towards the floor, feeling a stretch in your left calf muscle.\n4. Hold the stretch for the desired duration, then switch sides and repeat the stretch on the right side.",
+   "tips": "1. Focus on keeping your back straight and your shoulders down and away from your ears.\n2. Perform the stretch with control to avoid overextending your calf muscles.\n3. Breathe deeply and steadily throughout the stretch, inhaling through your nose and exhaling through your mouth.\n4. Ensure your supporting leg (the one in front) remains bent to maintain balance.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "crunch_arms_straight",
+  "name": "Crunch (arms straight)",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying flat on your back with your knees bent and your feet flat on the floor, hip-width apart.\n2. Extend your arms straight above your head, keeping them in line with your ears.\n3. Engage your core and lift your shoulder blades off the floor, reaching your arms straight up towards the ceiling.\n4. Lower your shoulder blades back to the floor with control, keeping your arms extended. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Avoid using your neck or momentum to lift your shoulders; focus on using your abdominal muscles.\n2. Use a mat or soft surface to support your back and prevent discomfort during the exercise.\n3. Breathe steadily throughout the exercise, exhaling as you lift your shoulders and inhaling as you lower them.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Obliques"
+   ]
+  }
+ }
+]

@@ -1,0 +1,104 @@
+[
+ {
+  "id": "single_kettlebell_deadlift",
+  "name": "Single kettlebell deadlift",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a kettlebell in one hand in front of your body. Keep your back straight and shoulders back.\n2. Bend at your hips and knees to lower the kettlebell towards the floor, keeping your back flat.\n3. Push through your heels to return to the standing position, extending your hips and knees.\n4. Squeeze your glutes at the top of the movement, then lower the kettlebell back down in a controlled manner. Repeat for the desired number of repetitions, then switch to the other hand and repeat.",
+   "tips": "1. Exhale as you lift the kettlebell and inhale as you lower it.\n2. Ensure your knees do not cave inward; keep them aligned with your toes.\n3. Focus on hinging at the hips rather than bending at the waist.",
+   "primary": [
+    "Glutes",
+    "Hamstrings",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Core Muscles",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "single_leg_calf_raise_leg_press_machine",
+  "name": "Single leg calf raise leg press machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Lie on the leg press machine and straighten your left leg, placing your forefoot on the platform, while your heel hangs off the edge. Your right foot should be resting on the floor.\n2. Press through your forefoot to lift the platform upward by extending your ankle and squeezing your calf at the top of the movement.\n3. Slowly lower your heel back down to the starting position with control, ensuring you achieve a full range of motion. \n4. Repeat for the desired number of repetitions, then switch to the right leg.",
+   "tips": "1. Keep your knee slightly bent to reduce strain on your joints.\n2. Ensure your heel drops below the edge of the platform to achieve a full range of motion.\n3. Maintain a steady pace to ensure consistent tension on the muscles.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "single_leg_incline_45_degree_leg_press_machine",
+  "name": "Single leg incline 45 degree leg press machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Lie on the leg press machine and place your left foot flat on the platform while your right foot rests on the floor.\n2. Engage your core and keep your back pressed against the seat. Release the safety handles of the leg press machine.\n3. Press through your left foot to extend your leg fully, pushing the platform upward.\n4. Slowly lower the platform back down to the starting position with control. Repeat for the desired number of repetitions, then switch to the right leg.",
+   "tips": "1. Exhale as you press the platform upward and inhale as you lower it back down.\n2. Ensure your knee stays aligned with your toes to avoid unnecessary strain.\n3. Keep your knee slightly bent at the top of the movement to reduce strain on your joints.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "single_leg_romanian_deadlift_dumbbell",
+  "name": "Single leg romanian deadlift dumbbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with feet hip-width apart, holding a dumbbell in your right hand. Shift your weight onto the right leg and keep it straight.\n2. Hinge at your hips, extending your left leg straight back while lowering the dumbbell towards the floor.\n3. Continue lowering until your upper body and extended leg are parallel to the floor and level from ankle to shoulders.\n4. Return to the starting position by driving through your standing heel. Repeat for the desired number of repetitions, then switch legs.",
+   "tips": "1. Exhale as you lower the dumbbell and inhale as you return to the start.\n2. Maintain a slight bend in the standing knee to avoid joint strain.\n3. Practice the movement without weights to master the form before adding resistance.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Abdominals",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "single_leg_romanian_deadlifts_right_cable_resistance_band",
+  "name": "Single leg romanian deadlifts right cable Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach one end of the resistance band to a low anchor point and hold the other end in your right hand. Stand on your left leg with your right leg slightly bent and your left foot firmly on the floor.\n2. Hinge at your hips and lower your torso until it's parallel to the floor while extending your right leg straight back, keeping your left knee slightly bent. \n3. Return to the starting position by driving your hips forward and bringing your right leg back down.\n4. Repeat for the desired number of repetitions, then switch to the left leg.",
+   "tips": "1. Exhale as you hinge forward and inhale as you return to the starting position.\n2. Maintain a slight bend in your standing knee for balance and stability.\n3. Keep your back straight and avoid rounding your shoulders.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ }
+]

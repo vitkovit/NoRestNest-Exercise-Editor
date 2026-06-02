@@ -1,0 +1,5 @@
+[
+ {"id": "band_bicycle_crunch", "issue": "Hip flexors (iliopsoas) are the true secondary mover during the pedaling motion but iliopsoas has no allowed latin value; mapped to Quads->Rectus Femoris (hip flexor) as closest available."},
+ {"id": "band_cross_abduction", "issue": "Primary mover is gluteus medius/minimus + tensor fasciae latae; mapped to glutes->Gluteus Medius and Abductor->Abductor. TFL has no distinct allowed latin so it is folded into the Abductor bucket."},
+ {"id": "band_hip_adduction", "issue": "Input had empty data (no instructions/tips/muscles); reconstructed as standing banded hip adduction. Exact anchor setup is ambiguous (loop vs handle) so a standard ankle-anchored version was assumed."}
+]

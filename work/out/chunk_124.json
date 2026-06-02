@@ -1,0 +1,85 @@
+[
+ {
+  "id": "dumbbell_overhead_extension_standing",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and hold one dumbbell with both hands.\n2. Press the dumbbell overhead until your arms are straight.\n3. Bend your elbows to lower the dumbbell behind your head, keeping your upper arms still.\n4. Lower until your forearms pass parallel to the floor.\n5. Straighten your elbows to press the dumbbell back overhead.\n6. Repeat.",
+  "tips": "1. Keep your elbows pointed forward and close to your head.\n2. Keep your upper arms still and move only at the elbows.\n3. Brace your core so your lower back does not arch.\n4. Lower under control to feel a stretch in the long head.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "dumbbell_overhead_lunge",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, holding a dumbbell in each hand.\n2. Press the dumbbells overhead with arms straight and palms facing each other.\n3. Step forward with one foot and lower your hips until both knees bend about 90 degrees.\n4. Keep the back knee just above the floor and the dumbbells locked overhead.\n5. Push through the front heel to return to standing.\n6. Repeat, alternating legs.",
+  "tips": "1. Keep the dumbbells stacked over your shoulders the whole time.\n2. Keep your torso upright and ribs down.\n3. Drive through the front heel, not the toes.\n4. Brace your core to resist tipping side to side.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "dumbbell_overhead_sit_up",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor.\n2. Hold one dumbbell with both hands and press your arms straight overhead.\n3. Brace your core and lift your upper body up into a seated position.\n4. Keep the dumbbell directly overhead, in line with your shoulders.\n5. Lower your upper body back to the floor under control.\n6. Repeat.",
+  "tips": "1. Keep the dumbbell stacked over your shoulders, not drifting forward.\n2. Lift with your abs, not momentum.\n3. Exhale as you sit up and inhale as you lower.\n4. Start light to keep the overhead position stable.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Quads", "latins": ["Rectus Femoris"]}
+  ]
+ },
+ {
+  "id": "dumbbell_preacher_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a preacher bench and rest your upper arm on the pad.\n2. Hold a dumbbell with an underhand grip and let your arm hang straight.\n3. Curl the dumbbell up by bending your elbow, keeping your upper arm on the pad.\n4. Squeeze your biceps at the top.\n5. Lower the dumbbell under control until your arm is fully straight.\n6. Repeat, then switch arms.",
+  "tips": "1. Keep your upper arm flat on the pad to isolate the biceps.\n2. Move slowly and avoid swinging the weight.\n3. Straighten the arm fully at the bottom for full range.\n4. Keep your shoulder relaxed and down.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors", "Wrist Extensors"]}
+  ]
+ },
+ {
+  "id": "dumbbell_preacher_curl_over_exercise_ball",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Kneel on the floor facing an exercise ball.\n2. Lean forward so your chest rests on the ball and your upper arms lie across it.\n3. Hold a dumbbell with both hands using an underhand grip.\n4. Curl the dumbbell up by bending your elbows, keeping your upper arms on the ball.\n5. Squeeze your biceps at the top, then lower under control until your arms are straight.\n6. Repeat.",
+  "tips": "1. Keep your upper arms pressed into the ball to isolate the biceps.\n2. Move slowly and avoid using momentum.\n3. Exhale as you curl up and inhale as you lower.\n4. Keep your core tight to stay steady on the ball.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors", "Wrist Extensors"]}
+  ]
+ }
+]

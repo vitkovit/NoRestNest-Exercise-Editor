@@ -1,0 +1,95 @@
+[
+ {
+  "id": "hammer_strength_iso_lateral_leg_curl_alternate_legs",
+  "name": "HAMMER STRENGTH ISO-LATERAL LEG CURL_Alternate Legs",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Lie face down on the Hammer Strength Iso-Lateral Leg Curl machine, placing your ankles under the leg pads and holding the handles on the sides of the machine for stability. Start with both legs fully extended.\n2. Curl one leg by bending your knee and pulling your ankle towards your glutes, keeping the other leg extended.\n3. Squeeze your hamstrings at the top of the movement and slowly lower your leg back to the starting position with control.\n4. Repeat with the other leg, alternating legs for the desired number of repetitions.",
+   "tips": "1. Keep your hips pressed against the bench throughout the exercise.\n2. Focus on engaging your hamstrings throughout the movement.\n3. Exhale as you curl your leg and inhale as you lower it back down.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "hammer_strength_mts_iso_lateral_biceps_curl_arm_alternating",
+  "name": "Hammer Strength MTS Iso-Lateral Biceps Curl Arm Alternating",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Hammer Strength MTS Iso-Lateral Biceps Curl machine with your feet flat on the floor. Grasp the handles with both hands, palms facing up, and position your elbows on the pads.\n2. Curl one handle by bending your elbow, bringing your hand towards your shoulder while keeping the other arm extended.\n3. Squeeze your biceps at the top of the movement and slowly lower the handle back to the starting position with control.\n4.  Repeat with the other arm, alternating arms for the desired number of repetitions.",
+   "tips": "1. Exhale as you curl the handle up and inhale as you lower it back down.\n2. Maintain a neutral wrist position to prevent strain.\n3. Focus on engaging your biceps throughout the movement.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "hammer_strength_mts_iso_lateral_decline_press_alternate_arms",
+  "name": "HAMMER STRENGTH MTS ISO-LATERAL DECLINE PRESS Alternate Arms",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Hammer Strength MTS Iso-Lateral Decline Press, back pressed against the backrest and feet flat on the floor. Grasp the handles with both hands, palms facing down.\n2. Press one handle forward by extending your arm, keeping the other arm stationary. \n3. Squeeze your chest muscles at the bottom of the movement and slowly return the handle to the starting position with control.\n4. Repeat with the other arm, alternating arms for the desired number of repetitions.",
+   "tips": "1. Exhale as you press the handle and inhale as you return it to the starting position.\n2. Keep your back pressed against the backrest throughout the exercise.\n3. Focus on engaging your chest muscles throughout the movement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "hammer_strength_mts_iso_lateral_decline_press_both_arms",
+  "name": "HAMMER STRENGTH MTS ISO-LATERAL DECLINE PRESS Both Arms",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Hammer Strength MTS Iso-Lateral Decline Press, back pressed against the backrest and feet flat on the floor. Grasp the handles with both hands, palms facing down.\n2. Press both handles forward by extending your arms.\n3. Squeeze your chest muscles at the bottom of the movement and slowly return the handles to the starting position with control.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you press the handles and inhale as you return it to the starting position.\n2. Keep your back pressed against the backrest throughout the exercise.\n3. Focus on engaging your chest muscles throughout the movement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "hammer_strength_plate_loaded_combination_iso_lateral_chest_chest_press_alternating_arms",
+  "name": "HAMMER STRENGTH Plate-Loaded Combination Iso-Lateral Chest - Chest Press_Alternating arms",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Hammer Strength Plate-Loaded Iso-Lateral Chest Press machine, back pressed against the backrest and feet flat on the floor. Grasp the handles with both hands, palms facing down.\n2. Press one handle forward by extending your arm, keeping your elbow slightly bent at the end of the movement.\n3. Squeeze your chest muscles at the top of the movement and slowly return the handle to the starting position with control.\n4. Repeat with the other arm, alternating arms for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Focus on engaging your chest muscles throughout the movement.\n3. Exhale as you press the handles forward and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

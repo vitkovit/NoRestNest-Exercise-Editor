@@ -1,0 +1,92 @@
+[
+ {
+  "id": "superman_pulls_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie face down with a resistance band held in both hands, arms extended in front and legs straight behind.\n2. Lift your arms and chest off the floor, engaging your lower back and glutes.\n3. Holding the lift, bend your elbows and pull the band back toward your shoulders, squeezing your shoulder blades together.\n4. Extend your arms forward again while staying lifted.\n5. Lower your chest and arms back to the floor with control.\n6. Repeat.",
+  "tips": "1. Exhale as you lift and pull, inhale as you extend and lower.\n2. Squeeze your shoulder blades hard at the top of the pull.\n3. Keep your neck neutral by looking at the floor.\n4. Move slowly and avoid jerking the band.",
+  "primary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ]
+ },
+ {
+  "id": "supine_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor.\n2. Place your elbows at your sides with forearms pointing up and hands relaxed.\n3. Press your elbows into the floor and lift your upper back and shoulders off the ground.\n4. Squeeze your shoulder blades together at the top and hold briefly.\n5. Lower your upper back to the floor with control.\n6. Repeat.",
+  "tips": "1. Exhale as you lift, inhale as you lower.\n2. Drive the movement by retracting your shoulder blades, not by shrugging.\n3. Use a mat to cushion your back and elbows.\n4. Keep the lift smooth and controlled.",
+  "primary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_decline_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension trainer handles to about knee height.\n2. Place your feet in the handles and assume a plank with hands slightly wider than shoulder-width on the floor.\n3. Brace your core to keep your body in a straight line.\n4. Bend your elbows and lower your chest toward the floor, keeping elbows at about 45 degrees.\n5. Push through your hands to straighten your arms back to the start.\n6. Repeat.",
+  "tips": "1. Exhale as you push up, inhale as you lower.\n2. Keep your hips level and core tight to stop your body from sagging.\n3. Make sure your feet are secure in the handles before starting.\n4. Lower under control to manage the added instability.",
+  "primary": [
+   {"group": "chest", "latins": ["Clavicular Head", "Sternal Head"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_hanging_knees_to_elbows",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension trainer handles overhead.\n2. Grasp the handles with an overhand grip and hang with arms straight and feet off the floor.\n3. Brace your core and pull your knees up toward your elbows.\n4. Curl your pelvis up and bring your knees as close to your elbows as possible.\n5. Lower your legs back to the hanging position with control.\n6. Repeat.",
+  "tips": "1. Curl your pelvis up to drive the move with your abs, not your hip flexors.\n2. Exhale as you raise your knees, inhale as you lower.\n3. Avoid swinging by lowering slowly and staying tight.\n4. Start with a smaller range and increase it as you get stronger.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Abductor", "latins": ["Abductor"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_side_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set one suspension trainer handle close to the floor.\n2. Stand beside it, place your right foot in the handle, and keep your left foot flat on the floor.\n3. Bend your left knee and push your hips back into a squat while reaching both hands toward the floor.\n4. Keep your right leg straight and let it extend out to the side.\n5. Push through your left heel to stand back up, keeping the right leg extended.\n6. Repeat, then switch sides.",
+  "tips": "1. Exhale as you stand up, inhale as you lower.\n2. Keep your working knee tracking over your toes.\n3. Keep your chest up to protect your lower back.\n4. Control the slide of the suspended foot to stay balanced.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Medial", "Soleus"]}
+  ]
+ }
+]

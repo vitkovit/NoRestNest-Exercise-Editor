@@ -1,0 +1,99 @@
+[
+ {
+  "id": "dumbbell_jumping_squat",
+  "name": "Dumbbell Jumping Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand by your sides. Keep your chest up, shoulders back, and core engaged.\n2. Lower yourself into a squat position by bending your knees and hips, keeping your back straight and the dumbbells close to your body.\n3. Explosively push through your heels to jump straight up into the air, extending your legs and keeping the dumbbells by your sides.\n4. Land softly on your forefeet. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees track over your toes during the squat and landing phases to avoid strain on your joints.\n2. Use a controlled motion when landing to minimize impact on your joints.\n3. Keep your chest lifted and your back straight to maintain proper posture.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_kickback",
+  "name": "Dumbbell Kickback",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by kneeling with the right leg on a bench and the left foot firmly planted on the floor. Lean down until your torso is parallel to the floor and place your right hand on the bench for support.Hold a dumbbell in the right hand. \n2. Start with your right arm bent at a 90-degree angle, with the upper arm parallel to the floor and the dumbbell close to your torso.\n3. Extend your arm backward by straightening your elbow, keeping your upper arm stationary and focusing on squeezing your triceps at the top of the movement.\n4. Slowly bend your elbow to return to the starting position, maintaining control and keeping your upper arm parallel to the floor. Repeat for the desired number of repetitions before switching to the other arm.",
+   "tips": "1. Keep your upper arm stationary throughout the movement to isolate the triceps effectively.\n2. Engage your core to maintain stability and prevent excessive movement of your torso.\n3. Use a controlled motion, avoiding swinging the dumbbell to ensure proper muscle engagement.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_kneeling_arnold_press",
+  "name": "Dumbbell Kneeling Arnold Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by kneeling on the floor with your knees shoulder-width apart. Hold a dumbbell in each hand at shoulder height with your palms facing your body and your elbows bent and facing down. \n2. Rotate your palms forward as you press the dumbbells overhead until your arms are fully extended.\n3. Reverse the motion, lowering the dumbbells back to shoulder height while rotating your palms back towards your body.\n4. Repeat for the desired number of repetitions, maintaining control throughout the movement.",
+   "tips": "1. Avoid arching your back; keep your spine neutral.\n2. Keep your movements smooth and controlled to avoid using momentum.\n3. Focus on maintaining the alignment of your elbows and wrists throughout the exercise.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_kneeling_hold_to_stand_clean_grip",
+  "name": "Dumbbell Kneeling Hold to Stand Clean grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a kneeling position on both knees with a dumbbell in each hand, held with a neutral grip (palms facing each other) at shoulder height.\n2. Engage your thighs and bring one foot forward, planting it flat on the floor to form a 90-degree angle with your knee. Press through the planted foot to stand up, bringing your other foot forward to meet it, standing upright.\n3. Lower back into the kneeling position by stepping one foot back and lowering the knee to the floor, followed by the other knee, returning to the starting position.\n4. Repeat the movement for the desired number of repetitions, alternating the leading leg if preferred.",
+   "tips": "1. Ensure your front knee is aligned with your ankle to avoid undue stress on the joint.\n2. Move smoothly and controlled, focusing on engaging your glutes and quadriceps during the transition.\n3. Use a weight that allows for proper form and control throughout the exercise.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_kneeling_squat",
+  "name": "Dumbbell kneeling squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a kneeling position with both knees on the floor, torso straight upright from knees to shoulders. Holding a dumbbell in each hand with a neutral grip (palms facing each other) at shoulder height.\n2. Bend your knees further pushing your hips backward to sit back onto your heels, keeping your torso upright.\n3. Push your hips forward and squeeze your glutes to return to the starting position.\n4. Repeat the movement for the desired number of repetitions, maintaining a controlled motion throughout.",
+   "tips": "1. Squeeze your glutes as you push your hips forward to maximize muscle activation.\n2. Keep your torso upright and avoid leaning forward during the movement.\n3. Use a controlled motion to avoid putting strain on your knees.",
+   "primary": [
+    "Glutes",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ }
+]

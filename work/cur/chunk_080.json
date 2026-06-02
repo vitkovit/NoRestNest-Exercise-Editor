@@ -1,0 +1,190 @@
+[
+ {
+  "id": "chest_tap_push_up",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank with hands slightly wider than shoulder-width and your body in a straight line.\n2. Bend your elbows and lower your chest to just above the floor.\n3. Push through your palms explosively so both hands leave the floor.\n4. Tap your chest with both hands in the air.\n5. Land softly with hands back under your shoulders.\n6. Repeat.",
+  "tips": "1. Brace your core to keep your hips level through the jump.\n2. Land with soft elbows to absorb the impact.\n3. Exhale hard as you push off the floor.\n4. Keep your neck neutral, eyes down.",
+  "name": "Chest tap push up",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "child_pose",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel on the floor with your big toes touching and knees apart.\n2. Sit your hips back onto your heels.\n3. Walk your hands forward and lower your torso between your thighs.\n4. Rest your forehead on the floor with arms extended, palms down.\n5. Hold and breathe deeply.\n6. Repeat.",
+  "tips": "1. Sink your hips toward your heels to deepen the lower back stretch.\n2. Breathe slowly and let your spine relax.\n3. Place a cushion under your hips if your knees feel tight.\n4. Keep your neck relaxed with the forehead supported.",
+  "name": "Child pose",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "child_pose_up",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start on all fours with hands under your shoulders and knees under your hips.\n2. Lower your chest toward the floor with elbows bent.\n3. Push your hips back toward your heels and straighten your arms.\n4. Reach your arms forward and let your chest sink down.\n5. Hold and breathe deeply.\n6. Repeat.",
+  "tips": "1. Drive your hips back to lengthen the lats and spine.\n2. Move slowly and with control.\n3. Breathe deeply throughout the hold.\n4. Keep your arms active to feel the stretch through the sides.",
+  "name": "Child pose up",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "chin_up",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Grip the bar with an underhand grip, hands about shoulder-width apart.\n2. Hang with arms fully extended and core braced.\n3. Pull your shoulder blades down and back.\n4. Bend your elbows and pull your chin above the bar.\n5. Lower under control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Drive your elbows down to engage your lats and biceps.\n2. Control the descent instead of dropping.\n3. Keep your shoulders away from your ears.\n4. Exhale as you pull up, inhale as you lower.",
+  "name": "Chin up",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "chin_up_isometric_and_negative",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "timed",
+  "instructions": "1. Step onto a box and grip the bar with an underhand, shoulder-width grip.\n2. Pull or step up until your chin is above the bar.\n3. Hold the top position with elbows bent and shoulder blades down.\n4. Slowly lower yourself over briefly until your arms are fully extended.\n5. Step back up to reset.\n6. Repeat.",
+  "tips": "1. Keep your muscles engaged during the hold, do not just hang.\n2. Resist the descent to maximise time under tension.\n3. Keep your core braced to stop swinging.\n4. Breathe steadily through the hold and the lowering phase.",
+  "name": "Chin-up (isometric and negative)",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

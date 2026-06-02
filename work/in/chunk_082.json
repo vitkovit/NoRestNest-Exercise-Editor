@@ -1,0 +1,101 @@
+[
+ {
+  "id": "commando_pull_up",
+  "name": "Commando pull-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping a pull-up bar with both hands placed close together, palms facing each other in a neutral grip.\n2. Hang with your arms fully extended and your body straight. \n3. Engage your back and pull your body up towards the bar, leaning your head to one side of the bar as you lift.\n4. Lower yourself back to the starting position with a controlled movement. Repeat the pull-up, alternating the side of your head relative to the bar for each repetition.",
+   "tips": "1. Use a full range of motion by fully extending your arms at the bottom and bringing your head above the bar at the top.\n2. Perform the movement slowly and with control, especially during the lowering phase, to maximize muscle activation and prevent injury.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you pull up and inhaling as you lower yourself.",
+   "primary": [
+    "Back",
+    "Biceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "concentration_curls_dumbbell",
+  "name": "Concentration curls dumbbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your legs spread apart. Hold a dumbbell in your right hand and rest your right elbow on the inside of your right thigh.\n2. Let the dumbbell hang down towards the floor with your arm fully extended.\n3. Curl the dumbbell towards your shoulder by contracting your biceps, keeping your elbow stationary and close to your thigh. Squeeze the biceps at the top of the movement.\n4. Slowly lower the dumbbell back to the starting position, fully extending your arm. Repeat for the desired number of repetitions, then switch to the left arm.",
+   "tips": "1. Focus on squeezing the biceps at the top of the movement to maximize muscle activation.\n2. Ensure your back remains straight and avoid leaning back as you lift the weight.\n3. Use a weight that allows you to perform the exercise with proper form and without straining.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "control_balance",
+  "name": "Control balance",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your back, raise your legs towards the head, and hold your feet by extending your arms overhead.\n2. Release your right leg and take it upward until it becomes vertical to the floor.\n3. Place your free hand on your left calf and maintain balance.\n4. Hold for a while, return to the starting position, and repeat.",
+   "tips": "1. Perform the movement with control, especially when lifting and lowering your legs, to maximize muscle activation and prevent injury.\n2. Ensure your shoulders remain on the floor and avoid straining your neck.\n3. Breathe steadily throughout the exercise, exhaling as you lift your leg and inhaling as you lower it.\n4. Use a mat or soft surface to support your back and prevent discomfort during the exercise.",
+   "primary": [
+    "Abdominals",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "corner_touch",
+  "name": "Corner touch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin standing with your body turned to the left side in a semi-lunge position, your left leg bent, and your right leg extended behind you lightly bent. Extend your right arm upward and your left arm downward to your side.\n2. Engage your core and rotate your body on your feet, turning to face the opposite side. As you rotate, lower your right arm and raise your left arm, so that your left arm is now upward and your right arm is downward to your side.\n3. Repeat the movement, alternating sides, and performing the desired number of repetitions.",
+   "tips": "1. Focus on using a controlled motion when rotating your body to avoid straining your back.\n2. Ensure you stay in place as you rotate, using a controlled motion to maintain balance and stability.\n3. Ensure your movements are smooth and deliberate to maximize muscle activation and prevent injury.\n4. Breathe steadily throughout the exercise, exhaling as you rotate and inhaling as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Core Muscles",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "corner_wall_chest_stretch",
+  "name": "Corner wall chest stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by standing in front of a corner of a wall with your feet shoulder-width apart. Place your palms flat against the walls at your sides, with your elbows slightly below shoulder height.\n2. Lean forward into the corner, keeping your legs in place, to lean into the stretch.\n3. Push your chest forward towards the corner, feeling the stretch across your chest and shoulders. Hold this position for the desired duration.\n4. Slowly step back to return to the starting position and repeat the stretch as needed.",
+   "tips": "1. Perform the stretch with control, gradually increasing the intensity as your muscles loosen.\n2. Breathe deeply and steadily throughout the stretch, inhaling as you prepare and exhaling as you lean into the stretch.\n3. Ensure your palms remain flat against the wall to maximize the stretch across your chest and shoulders.\n4. Use a mat or soft surface for your feet if needed to prevent slipping during the stretch.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back",
+    "Biceps"
+   ]
+  }
+ }
+]

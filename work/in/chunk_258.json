@@ -1,0 +1,98 @@
+[
+ {
+  "id": "iso_lateral_shoulder_press_alternate_arms",
+  "name": "Iso Lateral Shoulder Press Alternate Arms",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Iso-Lateral Shoulder Press machine, back pressed against the backrest and feet flat on the floor. Grasp the handles with both hands, palms facing forward.\n2. Press one handle upward by extending your arm fully while keeping the other arm stationary.\n3. Squeeze your shoulder muscles at the top of the movement and slowly return the handle to the starting position with control.\n4. Repeat with the other arm, alternating arms for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Focus on engaging your shoulder muscles throughout the movement.\n3. Exhale as you press the handle upward and inhale as you return it to the starting position.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "iso_lateral_shoulder_press_single_arm",
+  "name": "Iso Lateral Shoulder Press Single Arm",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Iso-Lateral Shoulder Press machine, back pressed against the backrest and feet flat on the floor. Grasp the handles with both hands, palms facing forward.\n2. Press the right handle upward by extending your arm fully while keeping the other arm stationary.\n3. Squeeze your shoulder muscles at the top of the movement and slowly return the handle to the starting position with control.\n4. Repeat with the same arm for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Focus on engaging your shoulder muscles throughout the movement.\n3. Exhale as you press the handle upward and inhale as you return it to the starting position.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "jogging",
+  "name": "Jogging",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet hip-width apart and your arms relaxed by your sides. Engage your core and maintain an upright posture.\n2. Begin jogging by taking short, quick steps, lifting your knees slightly higher than walking pace.\n3. Swing your arms naturally with each step, keeping them bent at a 90-degree angle.\n4. Maintain a steady, comfortable pace and continue jogging for the desired duration or distance.",
+   "tips": "1. Gradually increase your jogging duration and intensity to build endurance and strength.\n2. Breathe steadily and rhythmically to maintain oxygen flow during the jog.\n3. Stay hydrated and take breaks if needed, especially during longer jogging sessions.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Calves"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hip Flexors",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "jump_rope_alternating_foot",
+  "name": "Jump Rope alternating foot",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet together, holding a jump rope with the handles in each hand. Position the rope behind you, ready to swing it over your head.\n2. Swing the rope over your head and, as it passes under your feet, lift one foot off the floor, quickly followed by the other foot, allowing the rope to pass beneath both feet in succession.\n3. Continue to alternate feet with each jump, lifting one foot after the other, maintaining a steady rhythm and keeping your jumps low and controlled.\n4. Repeat the movement for the desired duration or number of repetitions, ensuring a smooth and continuous motion.",
+   "tips": "1. Focus on quick, controlled movements, keeping your jumps low to minimize impact on your joints.\n2. Use your wrists to swing the rope, rather than your arms, to maintain a smooth and efficient motion.\n3. Wear supportive footwear to protect your feet and ankles during the exercise.",
+   "primary": [
+    "Calves",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "jump_rope_basic_jump",
+  "name": "Jump Rope basic jump",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet together, holding a jump rope with the handles in each hand. Position the rope behind you, ready to swing it over your head.\n2. Swing the rope over your head and, as it passes under your feet, jump with both feet simultaneously, keeping your jumps low to the floor.\n3. Land softly on your forefeet and immediately swing the rope over your head again for the next jump.\n4. Continue jumping at a steady rhythm, maintaining a smooth and continuous motion for the desired duration or number of repetitions.",
+   "tips": "1. Focus on quick, controlled movements, keeping your jumps low to minimize impact on your joints.\n2. Use your wrists to swing the rope, rather than your arms, to maintain a smooth and efficient motion.\n3. Wear supportive footwear to protect your feet and ankles during the exercise.",
+   "primary": [
+    "Calves",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ }
+]

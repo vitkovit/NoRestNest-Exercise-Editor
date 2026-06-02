@@ -1,0 +1,5 @@
+[
+ {"id": "jumping_jack", "issue": "Cardio movement commonly timed rather than counted; kept repsOnly to match current data. Hip flexors/iliopsoas worked but mapped to Abductor bucket per vocabulary."},
+ {"id": "kettlebell_half_kneeling_shoulder_press", "issue": "Single-arm half-kneeling press has strong anti-lateral-flexion core demand; obliques and abs included as secondary stabilizers."},
+ {"id": "kettlebell_kneeling_one_arm_shoulder_press", "issue": "Single-arm tall-kneeling press; obliques/abs/glutes are stabilizers, included obliques and abs as secondary."}
+]

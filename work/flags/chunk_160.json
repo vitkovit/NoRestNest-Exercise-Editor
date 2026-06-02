@@ -1,0 +1,4 @@
+[
+ {"id": "full_planche_push_up", "issue": "Serratus anterior and scapular protractors are heavily worked but have no allowed bucket/latin value; omitted."},
+ {"id": "goblet_kettlebell_squats", "issue": "Input equipment was 'other'; corrected to 'kettlebell' since the name and instructions specify a kettlebell."}
+]

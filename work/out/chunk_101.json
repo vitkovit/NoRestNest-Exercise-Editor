@@ -1,0 +1,84 @@
+[
+ {
+  "id": "dumbbell_chest_supported_lateral_raises",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to about 30 to 45 degrees and lie face-down with your chest and stomach supported.\n2. Plant your feet on the floor and let your arm hang down holding a dumbbell, with a slight bend in the elbow.\n3. Raise the dumbbell out and up in a wide arc toward the back, squeezing the rear shoulder and upper back.\n4. Pause briefly at the top without using momentum.\n5. Lower the dumbbell slowly along the same arc to the start.\n6. Repeat.",
+  "tips": "1. Use a light weight and keep the movement strict to target the rear delts.\n2. Keep a fixed slight bend in the elbow throughout.\n3. Squeeze the shoulder blades at the top of each rep.\n4. Breathe out as you raise and in as you lower.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps", "Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi", "Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "dumbbell_close_grip_shoulder_press_sit_up",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on the floor with knees bent and feet flat.\n2. Hold a dumbbell in each hand with a close grip at shoulder height, palms facing each other.\n3. Engage your core and sit up while pressing both dumbbells overhead.\n4. Lock the dumbbells out overhead at the top of the sit-up.\n5. Lower your torso back down while bringing the dumbbells back to shoulder height.\n6. Repeat.",
+  "tips": "1. Keep your core braced to protect the lower back.\n2. Press straight up so the dumbbells finish over your shoulders.\n3. Keep your feet planted to anchor the sit-up.\n4. Exhale as you press up.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ]
+ },
+ {
+  "id": "dumbbell_close_grip_simultaneous_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand with a close grip, palms facing forward.\n2. Keep your elbows tucked close to your torso.\n3. Curl both dumbbells up toward your shoulders at the same time.\n4. Squeeze the biceps at the top.\n5. Lower the dumbbells under control to the start.\n6. Repeat.",
+  "tips": "1. Keep your elbows fixed to isolate the biceps.\n2. Do not swing or use momentum.\n3. Control the lowering phase.\n4. Keep your wrists straight.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "dumbbell_close_legs_deadlift",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet close together, holding a dumbbell with both hands in front of your thighs.\n2. Keep your back flat and a slight bend in your knees.\n3. Hinge at the hips and lower the dumbbell along your legs.\n4. Stop when you feel a stretch in your hamstrings.\n5. Drive your hips forward and squeeze your glutes to stand back up.\n6. Repeat.",
+  "tips": "1. Keep the dumbbell close to your legs throughout.\n2. Brace your core to support your spine.\n3. Lead the movement with your hips, not your back.\n4. Keep your back flat, never rounded.",
+  "primary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Medial", "Gastrocnemius Lateral"]}
+  ]
+ },
+ {
+  "id": "dumbbell_crunch_hold_with_legs_off",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "timed",
+  "instructions": "1. Lie flat on your back and lift your legs off the floor, almost parallel to the floor with knees straight.\n2. Hold a dumbbell with both hands, arms extended over your hips.\n3. Lift your shoulder blades off the floor into a crunch, pushing the dumbbell over your thighs.\n4. Hold the crunch position while keeping your lower back pressed down.\n5. Lower your shoulders back to the floor under control.\n6. Repeat.",
+  "tips": "1. Press your lower back into the floor throughout.\n2. Keep your core braced to hold the legs up.\n3. Exhale as you crunch up.\n4. Start light to keep good form.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "Abductor", "latins": ["Abductor"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ }
+]

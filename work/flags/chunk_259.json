@@ -1,0 +1,5 @@
+[
+ {"id": "jump_rope_double_bounce", "issue": "Jump rope is not in the equipment dropdown; used closest value 'other'."},
+ {"id": "jump_rope_face_pull", "issue": "Improvised exercise using a jump rope over a bar as a resistance/anchor; treated as a bodyweight horizontal pull. Jump rope not in equipment list, used 'other'."},
+ {"id": "jump_rope_row", "issue": "Jump rope used as an anchor for a bodyweight row; resistance comes from bodyweight lean, not the rope. Jump rope not in equipment list, used 'other'."}
+]

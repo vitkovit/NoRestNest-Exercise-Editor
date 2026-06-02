@@ -1,0 +1,242 @@
+[
+ {
+  "id": "dumbbell_pullover_hip_extension_on_exercise_ball",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie with your upper back on an exercise ball, feet flat on the floor, knees bent at 90 degrees.\n2. Hold one dumbbell with both hands, palms pressed against the underside of the plate, arms extended above your chest.\n3. Lower your hips toward the floor while at the same time lowering the dumbbell in an arc over your head until your upper arms are in line with your torso.\n4. Drive your hips back up by squeezing your glutes while pulling the dumbbell back over your chest.\n5. Repeat.",
+  "tips": "1. Keep a slight bend in your elbows throughout the movement.\n2. Keep your back firmly supported on the ball.\n3. Do not lower the dumbbell past torso level to protect your shoulders.\n4. Exhale as you extend your hips and pull the dumbbell back.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_pullover_on_floor",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on your back on the floor with your knees bent and feet flat.\n2. Hold one dumbbell with both hands, palms pressed against the underside of the plate, arms extended above your chest.\n3. Lower the dumbbell in an arc over your head, keeping a slight bend in your elbows, until your upper arms reach the floor.\n4. Pull the dumbbell back over your chest by contracting your chest and lats.\n5. Repeat.",
+  "tips": "1. Keep a slight bend in your elbows throughout the movement.\n2. Exhale as you pull the dumbbell back over your chest, inhale as you lower it.\n3. Keep your lower back pressed into the floor.\n4. Use a weight you can control through the full arc.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_push_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height, palms facing each other.\n2. Bend your knees into a quarter squat, keeping your torso upright.\n3. Drive explosively through your legs and press the dumbbells overhead, locking out your elbows at the top.\n4. Lower the dumbbells back to shoulder height under control.\n5. Repeat.",
+  "tips": "1. Use leg drive to start the press, then finish with your shoulders.\n2. Keep your core braced to transfer force from legs to arms.\n3. Keep your torso vertical during the dip.\n4. Use a weight you can control on the way down.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_rdl_stretch_isometric",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "timed",
+  "instructions": "1. Stand on your right leg with your feet hip-width apart, holding a dumbbell in your left hand, arm extended by your side.\n2. Hinge at your hips, lowering the dumbbell toward the floor while raising your left leg straight behind you in line with your torso.\n3. Continue until your torso is parallel to the floor and you feel a stretch in your hamstrings.\n4. Hold this position for the set duration.\n5. Return to standing and repeat.",
+  "tips": "1. Hinge at your hips, do not round your back.\n2. Keep your shoulders back and chest lifted.\n3. Keep your standing foot flat and weight balanced.\n4. Keep a soft bend in your standing knee.",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_rear_delt_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Place your right knee and right hand on a bench, with your left foot planted on the floor and your torso parallel to the ground.\n2. Hold a dumbbell in your left hand with an overhand grip, arm hanging straight down.\n3. Row the dumbbell up and out to the side, letting your elbow flare while squeezing your shoulder blade.\n4. Hold briefly with your upper arm parallel to the floor.\n5. Lower the dumbbell under control until your arm is fully extended.\n6. Repeat.",
+  "tips": "1. Flare your elbow out to the side to target the rear delts.\n2. Exhale as you row up, inhale as you lower.\n3. Use a controlled pace, do not swing the weight.\n4. Keep your torso still and avoid rotating.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ }
+]

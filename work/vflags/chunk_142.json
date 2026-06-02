@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_single_leg_glute_bridge",
+  "change": "No change. Verified: gluteus maximus primary; hamstrings, erector spinae, gluteus medius, and abs as stabilizer secondaries all confirmed by sources. Format valid."
+ },
+ {
+  "id": "dumbbell_single_leg_split_squat",
+  "change": "Replaced 'Lower Back' (Erector Spinae) secondary with 'Adductors' (Adductors). EMG/biomechanics sources for the Bulgarian/single-leg split squat consistently cite adductors as a key stabilizer of the working leg, while erector spinae demand is low with upright torso and dumbbells at sides. Quads+glute max primary and hamstrings/calves/glute medius secondary confirmed."
+ },
+ {
+  "id": "dumbbell_single_leg_squat",
+  "change": "No change. Verified: quads + glutes (max & medius) primary; hamstrings, calves, and core/abs secondary confirmed for the single-leg (pistol-style) squat. Format valid."
+ },
+ {
+  "id": "dumbbell_single_leg_squat_with_support_pistol",
+  "change": "No change. Same muscle pattern as the unsupported single-leg squat (support is for balance only): quads + glutes primary; hamstrings, calves, abs secondary. Format valid."
+ },
+ {
+  "id": "dumbbell_single_leg_step_up",
+  "change": "No change. Verified: quads + glute max primary; hamstrings, calves (gastroc/soleus push and stabilize), and glute medius (unilateral pelvic stability) secondary confirmed. Format valid."
+ }
+]

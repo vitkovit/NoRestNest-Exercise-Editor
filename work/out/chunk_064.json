@@ -1,0 +1,99 @@
+[
+ {
+  "id": "cable_seated_on_floor_row",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit on the floor facing a low cable pulley with a straight bar attached.\n2. Extend your legs forward with a slight bend in the knees and brace your feet against the frame.\n3. Grasp the bar with both hands shoulder-width apart, palms down, and sit upright with arms extended.\n4. Pull the bar to your lower abdomen by driving your elbows back and squeezing your shoulder blades together.\n5. Extend your arms back to the start with control.\n6. Repeat.",
+  "tips": "1. Keep your back straight and chest lifted throughout.\n2. Do not use momentum or lean back to move the weight.\n3. Squeeze your shoulder blades together at the end of each pull.\n4. Exhale as you pull and inhale as you extend.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "cable_seated_one_arm_alternate_row",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit on the seated cable row machine with feet flat on the footrests and knees slightly bent.\n2. Attach a single handle to the low pulley and grasp it with your right hand, arm extended.\n3. Sit upright with your back straight and rest your left hand on your left knee.\n4. Pull the handle to your lower abdomen by driving your elbow back, keeping your upper arm close to your body.\n5. Extend your arm back to the start with control, then switch hands.\n6. Repeat.",
+  "tips": "1. Keep your torso square and resist twisting toward the working arm.\n2. Avoid using momentum to start the pull.\n3. Squeeze your shoulder blade back at the top of each rep.\n4. Exhale as you pull and inhale as you extend.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "cable_seated_rear_lateral_raise",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit on the edge of a bench between two low cable pulleys with single handles attached.\n2. Grasp the left handle with your right hand and the right handle with your left hand so the cables cross.\n3. Bend forward at the hips with a straight back until your chest is near your knees.\n4. Raise both handles out to the sides until your arms are parallel to the floor, keeping a slight elbow bend.\n5. Lower the handles back to the start with control.\n6. Repeat.",
+  "tips": "1. Lead with your elbows, not your hands, to target the rear delts.\n2. Keep your back flat and avoid rounding the spine.\n3. Do not swing the torso to lift the handles.\n4. Exhale as you raise and inhale as you lower.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "cable_seated_row",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit on the seated cable row machine with feet flat on the footrests and knees slightly bent.\n2. Attach a V-bar to the low pulley and grasp it with both hands, palms facing each other.\n3. Sit upright with your back straight and arms extended toward the machine.\n4. Pull the handle to your lower abdomen by driving your elbows back, keeping your upper arms close to your body.\n5. Extend your arms back to the start with control.\n6. Repeat.",
+  "tips": "1. Keep your chest lifted and avoid rounding your back.\n2. Squeeze your shoulder blades together at the end of each pull.\n3. Do not use momentum or lean back excessively.\n4. Exhale as you pull and inhale as you extend.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "cable_seated_supine_grip_row",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit on the seated cable row machine with feet flat on the footrests and knees slightly bent.\n2. Attach a straight bar to the low pulley and grasp it with an underhand grip, hands shoulder-width apart.\n3. Sit upright with your back straight and arms extended toward the machine.\n4. Pull the bar to your lower abdomen by driving your elbows back close to your sides.\n5. Extend your arms back to the start with control.\n6. Repeat.",
+  "tips": "1. Keep your elbows tucked close to bias the lower lats and biceps.\n2. Keep your chest up and back straight throughout.\n3. Squeeze your shoulder blades together at the end of each pull.\n4. Exhale as you pull and inhale as you extend.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

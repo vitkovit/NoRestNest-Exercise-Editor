@@ -1,0 +1,101 @@
+[
+ {
+  "id": "dumbbell_straight_leg_russian_twist",
+  "name": "Dumbbell Straight Leg Russian Twist",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor with your legs extended straight just off the floor, and hold a dumbbell with both hands close to your chest. Lean back slightly to engage your core, keeping your back straight.\n2. Rotate your torso to the right, moving the dumbbell towards the floor beside your right hip while keeping your legs extended just off the floor.\n3. Rotate your torso back to the center, bringing the dumbbell back to center.\n4. Continue rotating your torso to the left, moving the dumbbell towards the floor beside your left hip. Return to the center. Repeat for the desired number of repetitions, alternating sides.",
+   "tips": "1. Avoid leaning back too far to prevent strain on your lower back.\n2. Exhale as you twist to each side and inhale as you return to the center.\n3. Keep your legs extended and together to maintain stability.",
+   "primary": [
+    "Core Muscles"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_suitcase_carry",
+  "name": "Dumbbell Suitcase Carry",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a dumbbell in one hand at your side, allowing your arm to hang. Ensure your shoulders are level and your posture is upright.\n2. Begin walking forward in a straight line, keeping the dumbbell close to your body. Walk for the desired distance or time.\n3. Maintain a neutral spine and avoid leaning to one side to balance the weight. Focus on keeping your torso stable and your strides even.\n4. After completing the desired distance or time, switch the dumbbell to the other hand and repeat the exercise, ensuring equal work on both sides.",
+   "tips": "1. Maintain a steady and controlled pace while walking.\n2. Avoid shrugging your shoulder or letting the dumbbell swing.\n3. Use a weight that challenges your grip and core stability without compromising your form.",
+   "primary": [
+    "Core Muscles",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Forearm Muscles",
+    "Hamstrings",
+    "Glutes",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_sumo_squat_off_benches",
+  "name": "Dumbbell Sumo Squat Off Benches",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand between two benches with a wide stance, toes pointed slightly outward. Hold a dumbbell with both hands, letting it hang between your legs.\n2. Lower yourself into a wide squat by bending your knees and pushing your hips back. Lower until your thighs are parallel to the floor.\n3. Push through your heels to stand back up, squeezing your glutes at the top of the movement.\n4. Repeat the squat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees track over your toes and do not collapse inward during the squat.\n2. Keep your back straight and chest up to avoid leaning forward.\n3. Use a weight that challenges your strength but allows you to maintain proper form.",
+   "primary": [
+    "Glutes",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Inner Thighs"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_supported_sissy_squat",
+  "name": "Dumbbell Supported Sissy Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Position yourself on a sissy squat machine with your feet shoulder-width apart and your lower legs securely supported by the machine's pads. Hold a dumbbell close to your chest with both hands.\n2. Slowly lower your body by bending your knees, keeping your back straight.\n3. Lower until your thighs are almost parallel to the floor.\n4. Push through your thighs to rise back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees track over your toes and do not collapse inward during the squat.\n2. Perform the movement slowly and with control to maximize muscle engagement.\n3. Avoid locking your knees at the top of the movement; keep a slight bend.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_svend_press",
+  "name": "Dumbbell Svend Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell with both hands. Position the dumbbell vertically in front of your chest with your palms facing each other and your fingers interlocked.\n2. Engage your chest and press the dumbbells together with your palms, activating your chest muscles.\n3. Extend your arms straight out in front of you at shoulder height, keeping the dumbbell pressed together in your palms.\n4. Bring the dumbbell back to your chest. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain constant pressure on the dumbbell to activate your chest muscles effectively.\n2. Avoid locking your elbows at the end of the extension; keep a slight bend.\n3. Perform the movement slowly and with control to maximize muscle engagement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

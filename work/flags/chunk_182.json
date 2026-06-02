@@ -1,0 +1,5 @@
+[
+ {"id": "lying_prone_abdominal_stretch", "issue": "Stretch exercise: 'primary' lists the muscles being lengthened (abs) rather than concentric movers. Hip flexors are also stretched but iliopsoas/sartorius have no exact allowed latin in the abdominal context; omitted."},
+ {"id": "lying_quadriceps_stretch", "issue": "Hip flexors (iliopsoas/sartorius) are stretched but have no exact allowed latin value; Rectus Femoris in Quads covers the main quad/hip-flexor target. Tibialis listed as secondary only if ankle is plantarflexed."},
+ {"id": "lying_side_quadriceps_stretch", "issue": "Hip flexors (iliopsoas) stretched depending on knee flexion; no exact allowed latin, mapped to Abductor (TFL/Iliopsoas bucket) as closest secondary."}
+]

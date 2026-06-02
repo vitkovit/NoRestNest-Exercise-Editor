@@ -1,0 +1,95 @@
+[
+ {
+  "id": "backhand_raise",
+  "name": "Backhand raise",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, knees bent and lean forward at the hips until your torso is halfway parallel to the floor. Keep your back straight.\n2. Extend your arms straight back parallel to your torso with your palms facing backwards.\n3. Raise your arms upwards, keeping them straight, until they are over your back.\n4. Lower your arms back to the starting position in a controlled manner.",
+   "tips": "1. Engage your core to maintain stability and support your lower back throughout the exercise.\n2. Keep your movements slow and controlled to maximize muscle activation and prevent injury.\n3. Focus on squeezing your shoulder blades together at the top of the movement to enhance upper back activation.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Back",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "balance_board_lateral_squat",
+  "name": "Balance board lateral squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand on the balance board with your feet shoulder-width apart.\n2. Shift your weight to one side and bend at the knees and hips to perform a squat, keeping your core engaged to maintain balance.\n3. Return to the starting position and shift your weight to the other side, performing a squat on the opposite side.\n4. Continue alternating sides in a controlled, rhythmic manner.",
+   "tips": "1. Keep your knees aligned with your toes to prevent strain on your joints.\n2. Engage your core muscles to maintain stability and support your lower back.\n3. Focus on a point in front of you to help maintain balance and control.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Legs"
+   ]
+  }
+ },
+ {
+  "id": "ball_headlock_squat",
+  "name": "Ball Headlock Squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand upright with your feet shoulder-width apart and hold an exercise ball to your side with one arm wrapped around it as if in a headlock. Extend the opposite arm in front of you for balance.\n2. Begin lowering into a squat by bending your hips and knees, keeping your chest upright and back straight.\n3. Descend until your thighs are at least parallel to the floor and then push through your heels to return to the starting position.\n4. Repeat for the desired repetitions, then switch sides and repeat.",
+   "tips": "1. Keep the ball securely pressed to your side to maintain upper body control and tension.\n2. Use your extended arm for balance and avoid shifting your torso.\n3. Do not let your knees cave inward and keep them in line with your toes.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves",
+    "Abdominals"
+   ]
+  }
+ },
+ {
+  "id": "ball_slams",
+  "name": "Ball Slams",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "band_bent_over_row",
+  "name": "Band bent-over row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart and place the resistance band under both feet, ensuring it is secure. Hold one handle of the band in each hand with your palms facing each other, bending your torso forward at the hips while keeping your back straight and your knees slightly bent.\n2. Let your arms hang straight down toward the floor, fully extended, with your elbows slightly bent.\n3. Pull the handles towards your torso by bending your elbows and squeezing your shoulder blades together.\n4. Slowly lower the handles back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure the resistance band is securely placed under your feet to avoid slipping.\n2. Exhale as you pull the band towards your torso and inhale as you lower it back down.\n3. Perform the exercise slowly and with control to maximize muscle engagement.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ }
+]

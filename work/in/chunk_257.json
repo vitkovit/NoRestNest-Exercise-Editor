@@ -1,0 +1,83 @@
+[
+ {
+  "id": "headstand",
+  "name": "Headstand",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "hold_the_world_med_ball",
+  "name": "Hold the world med ball",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "hold_the_world_med_ball_chest_press",
+  "name": "Hold the world med ball chest press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "in_and_out_squats",
+  "name": "In and out squats",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand tall with your back straight, feet shoulder-width apart, and clasp your hands in front of your chest.\n2. Lower your hips, jump up and land into a squat position with your knees bent, thighs parallel to the floor, and feet placed wider than your shoulder width.\n3. Then lower your hips again, jump up, and land into a squat position with your knees bent, thighs parallel to the floor, and feet placed hip-width apart this time.\n4. Repeat by jumping in and out alternately.",
+   "tips": "1. Land softly on your forefeet to reduce impact on your joints.\n2. Ensure your knees are aligned with your toes when you squat to avoid strain.\n3. Move quickly but with control to maximize the effectiveness of the exercise and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "in_and_out_squats_jump_bodyweight",
+  "name": "In and out squats jump bodyweight",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand tall with your back straight, feet shoulder-width apart, and clasp your hands in front of your chest.\n2. Lower your hips, jump up and land into a squat position with your knees bent, thighs parallel to the floor, and feet placed wider than your shoulder width.\n3. Then lower your hips again, jump up, and land into a squat position with your knees bent, thighs parallel to the floor, and feet placed hip-width apart this time.\n4. Repeat by jumping in and out alternately.",
+   "tips": "1. Land softly on your forefeet to reduce impact on your joints.\n2. Ensure your knees are aligned with your toes when you squat to avoid strain.\n3. Move quickly but with control to maximize the effectiveness of the exercise and prevent injury.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

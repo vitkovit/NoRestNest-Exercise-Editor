@@ -1,0 +1,107 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_high_row",
+  "name": "Suspension Trainer with Grips High Row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Stand facing the anchor point with your feet shoulder-width apart, holding the handles with a neutral grip (palms facing each other).\n2. Lean back, extending your arms fully while keeping your body in a straight line from head to heels.\n3. Pull your chest towards the handles by bending your elbows and squeezing your shoulder blades together.\n4. Slowly extend your arms back to the starting position. Repeat for the desired repetitions.",
+   "tips": "1. Keep your core tight to maintain a straight body line and avoid sagging your hips.\n2. Adjust the length of the suspension trainer straps to increase or decrease the difficulty of the exercise.\n3. Breathe steadily: exhale as you pull your chest towards the handles and inhale as you extend your arms back.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_hip_bridge",
+  "name": "Suspension Trainer with Grips Hip Bridge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about knee height. Lie on your back with your knees bent and feet flat on the floor, placing your heels in the handles.\n2. Engage your core and press your heels into the handles, lifting your hips towards the ceiling.\n3. Squeeze your glutes at the top of the movement, ensuring your body forms a straight line from your shoulders to your knees.\n4. Slowly lower your hips back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you lift your hips and inhale as you lower them back down.\n2. Focus on using your glutes and hamstrings to lift your hips, avoiding excessive use of your lower back.\n3. Use a mat to provide cushioning and support for your back.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_inverted_row",
+  "name": "Suspension Trainer with Grips Inverted Row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Sit on the floor with your legs straight and feet on a bench in front of you, holding the handles with an overhand grip (palms facing forward).\n2. Lean back, extend your arms, and lift your hips off the floor, keeping your body in a straight line from head to knees parallel to the floor.\n3. Pull your chest towards the handles by bending your elbows and squeezing your shoulder blades together.\n4. Slowly lower your body back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you pull your chest towards the handles and inhale as you return to the starting position.\n2. Focus on using your back muscles to pull yourself up, avoiding excessive use of your arms.\n3. Keep your shoulders relaxed and avoid shrugging them towards your ears.",
+   "primary": [
+    "Shoulders",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps",
+    "Forearms",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_inverted_row_arm_twist",
+  "name": "Suspension Trainer with Grips Inverted Row Arm Twist",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Sit on your hips underneath the handles, holding them with a neutral grip (palms facing each other), and extend your legs straight out in front of you on the floor.\n2. Pull your chest towards the handles by bending your elbows and squeezing your shoulder blades together. As you pull, twist your arms so your palms face backward at the top of the movement.\n3. Continue pulling until your chest is close to the handles, keeping your body in a straight line from head to heels.\n4. Slowly untwist your arms and extend them back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your body forms a straight line from head to heels to avoid improper form.\n2. Exhale as you pull up and twist your arms, inhale as you lower down.\n3. Focus on squeezing your shoulder blades together to engage your upper back effectively.",
+   "primary": [
+    "Upper Back",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Forearms",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_knee_tuck_row",
+  "name": "Suspension Trainer with Grips Knee Tuck Row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Sit on the floor with your knees bent and feet flat, holding the handles with a neutral grip (palms facing each other).\n2. Lean back, extending your arms fully while keeping your body straight from head to knees, and lift your feet off the floor, tucking your knees towards your chest.\n3. Pull your chest towards the handles by bending your elbows and squeezing your shoulder blades together.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your body is kept at a straight line from head to hips when extended.\n2. Exhale as you pull up, and inhale as you return down to the starting position.\n3. Keep your core engaged throughout the movement to maintain stability.",
+   "primary": [
+    "Upper Back",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Forearms",
+    "Core"
+   ]
+  }
+ }
+]

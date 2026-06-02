@@ -1,0 +1,6 @@
+[
+ {"id": "exercise_ball_sit_ups", "issue": "Equipment is an exercise/stability ball, not pure bodyweight; no 'stability ball' value exists in equipment dropdown so used 'other'. tracking_mode was 'timed' in source but it is a rep-based sit-up, set to repsOnly."},
+ {"id": "exercise_ball_wall_squat", "issue": "No 'stability ball'/'swiss ball' equipment value; used 'other'. Per project rule wall squat removes hip-extension demand so Gluteus Maximus placed as secondary, Quads primary."},
+ {"id": "extended_side_angle", "issue": "Isometric held yoga pose; set trackingMode to timed rather than source repsOnly. Top-side lat/intercostal stretch and back-leg adductor stretch noted but mapped only to allowed buckets."},
+ {"id": "extension_and_inclination_neck_stretch", "issue": "Static held stretch; set trackingMode to timed (source repsOnly). Levator scapulae/scalenes are deep cervical and map only to 'neck' bucket; upper trapezius mapped to mid back as secondary."}
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_decline_bench_press",
+  "change": "Split chest head by angle: decline emphasizes lower/sternocostal fibers, so Sternal Head is primary and Clavicular Head moved to secondary (was both primary). Triceps and Anterior Deltoids kept secondary. Confirmed by EMG/decline-press sources."
+ },
+ {
+  "id": "dumbbell_decline_fly",
+  "change": "Split chest head: Sternal Head primary, Clavicular Head secondary (was both primary). Kept Anterior Deltoids secondary; fly minimizes triceps so triceps correctly omitted."
+ },
+ {
+  "id": "dumbbell_decline_hammer_press",
+  "change": "Neutral-grip decline press emphasizes lower chest and triceps. Made Sternal Head and Triceps co-primary; moved Clavicular Head to secondary (was Sternal+Clavicular together as primary). Anterior Deltoids kept secondary."
+ },
+ {
+  "id": "dumbbell_decline_one_arm_hammer_press",
+  "change": "Same as hammer press: Sternal Head + Triceps co-primary; Clavicular Head moved to secondary. Kept Anterior Deltoids and both Obliques (anti-rotation, unilateral) as secondary."
+ },
+ {
+  "id": "dumbbell_decline_overhead_sit_up",
+  "change": "Added hip flexors (mapped to Abductor bucket) as secondary, since the decline angle markedly increases hip-flexor involvement. Kept abs primary, obliques and anterior deltoids (overhead isometric hold) secondary."
+ }
+]

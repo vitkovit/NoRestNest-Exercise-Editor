@@ -1,0 +1,248 @@
+[
+ {
+  "id": "barbell_power_snatch",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, barbell on the floor over your mid-foot. Grip the bar with a wide overhand grip, hips down, back flat, arms straight.\n2. Drive through your legs to lift the bar off the floor, keeping it close to your body.\n3. As the bar passes your knees, explosively extend your hips and knees and shrug your shoulders.\n4. Pull yourself under the bar and catch it overhead with arms locked out in a partial squat.\n5. Stand up fully with the bar overhead, then lower it under control to the floor.\n6. Repeat.",
+  "tips": "1. Drive power from your hips and legs, not your arms.\n2. Keep the bar close to your body through the whole pull.\n3. Catch the bar with locked arms and a braced core.\n4. Keep your back flat during the lift off the floor.",
+  "name": "Barbell power snatch",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_preacher_curl",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a preacher bench with your feet flat on the floor.\n2. Rest your upper arms on the pad and hold the barbell with an underhand grip, arms fully extended.\n3. Curl the barbell up toward your shoulders by bending your elbows.\n4. Squeeze your biceps at the top.\n5. Lower the barbell under control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your upper arms pressed into the pad to isolate the biceps.\n2. Lower the bar slowly to control the stretched position.\n3. Exhale as you curl up, inhale as you lower.\n4. Use a weight you can move without leaning back.",
+  "name": "Barbell preacher curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_pullover_to_triceps_extension",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with feet flat on the floor. Hold a barbell over your chest with an overhand grip, hands slightly wider than shoulder-width.\n2. Bend your elbows and lower the bar in an arc behind your head until you feel a stretch in your chest and lats.\n3. Pull the bar back over your chest.\n4. Bend your elbows to lower the bar toward your forehead, then extend your arms to press it back up.\n5. Repeat.",
+  "tips": "1. Keep your core braced and ribs down to protect your lower back.\n2. Control the bar through the full arc behind your head.\n3. Inhale as you lower the bar, exhale as you press up.\n4. Keep your upper arms steady during the triceps extension.",
+  "name": "Barbell pullover to triceps extension",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_push_bent_over_row",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip slightly wider than shoulder-width.\n2. Hinge at your hips and knees until your torso is nearly parallel to the floor, back flat.\n3. Pull the barbell toward your abdomen, squeezing your shoulder blades together.\n4. At the top, push the bar slightly down and pull it back up.\n5. Lower the bar under control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your back flat and avoid rounding your shoulders.\n2. Squeeze your shoulder blades together at the top.\n3. Brace your core to protect your lower back.\n4. Drive with your back, not your lower back swing.",
+  "name": "Barbell push bent over row",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_quarter_squat",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, barbell resting across your upper back. Grip the bar slightly wider than shoulder-width.\n2. Push your hips back and bend your knees, lowering into a quarter squat with thighs above parallel.\n3. Push through your heels to stand back up, extending your hips and knees fully.\n4. Repeat.",
+  "tips": "1. Keep your knees tracking in line with your toes.\n2. Brace your core hard, since quarter squats allow heavy loads.\n3. Drive through your heels to engage the quads and glutes.\n4. Keep your chest up and back flat throughout.",
+  "name": "Barbell quarter squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

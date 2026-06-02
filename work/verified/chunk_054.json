@@ -1,0 +1,272 @@
+[
+ {
+  "id": "bridge_with_alternating_leg_raise",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent, feet flat on the floor, and arms by your sides.\n2. Lift your hips until your body forms a straight line from shoulders to knees.\n3. Keep your hips level and extend your right leg straight, in line with your torso.\n4. Lower the right leg without dropping your hips.\n5. Extend your left leg straight, then lower it.\n6. Repeat.",
+  "tips": "1. Squeeze your glutes hard at the top of each rep.\n2. Keep your hips level and do not let one side dip when a leg lifts.\n3. Brace your core to protect your lower back.\n4. Move the legs slowly and with control.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "briskly_walking",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with feet hip-width apart and arms relaxed by your sides.\n2. Walk forward at a brisk pace with quick, short steps.\n3. Land heel first and roll through to push off the toes.\n4. Swing your arms naturally, opposite to your legs.\n5. Keep your torso tall and core braced.\n6. Repeat.",
+  "tips": "1. Drive off the toes of the back foot to power each step.\n2. Keep your posture tall and shoulders relaxed.\n3. Breathe steadily and rhythmically.\n4. Keep your core gently braced for balance.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Shin",
+    "latins": [
+     "Tibialis"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "briskly_walking_360_degrees",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with feet hip-width apart and arms relaxed by your sides.\n2. Walk at a brisk pace with quick, short steps.\n3. Gradually turn as you walk to trace a full 360 degree circle.\n4. Land heel first and push off the toes with each step.\n5. Keep your torso tall and core braced as you turn.\n6. Repeat.",
+  "tips": "1. Lean slightly into the turn and keep steps even.\n2. Use your hips to control direction, not your upper body.\n3. Keep posture tall and shoulders relaxed.\n4. Breathe steadily throughout.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Shin",
+    "latins": [
+     "Tibialis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bulgarian_split_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand about 60 cm in front of a bench, facing away from it.\n2. Place the top of your left foot on the bench behind you.\n3. Set your right foot firmly on the floor in front of the bench.\n4. Bend your right knee and hip to lower until your right thigh is parallel to the floor.\n5. Push through your right heel to stand back up.\n6. Repeat, then switch legs.",
+  "tips": "1. Keep your front knee tracking over your toes.\n2. Drive through the front heel to load the glute and quad.\n3. Keep your torso slightly forward and core braced for balance.\n4. Set the front foot far enough forward to keep the knee behind the toes.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bulgarian_split_squat_bodyweight_left",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand about 60 cm in front of a bench, facing away from it.\n2. Place the top of your right foot on the bench behind you.\n3. Set your left foot firmly on the floor in front of the bench.\n4. Bend your left knee and hip to lower until your left thigh is parallel to the floor.\n5. Push through your left heel to stand back up.\n6. Repeat, then switch legs.",
+  "tips": "1. Keep your front knee tracking over your toes.\n2. Drive through the front heel to load the glute and quad.\n3. Keep your torso slightly forward and core braced for balance.\n4. Set the front foot far enough forward to keep the knee behind the toes.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ }
+]

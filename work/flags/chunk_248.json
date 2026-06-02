@@ -1,0 +1,4 @@
+[
+ {"id": "child_pose_elbows_on_block", "issue": "Restorative stretch/rest pose, not a strength exercise; muscles listed are those being lengthened/relaxed (erector spinae, lats, glutes, posterior delts) rather than active prime movers. Categorized as Bodyweight/timed."},
+ {"id": "clamshell", "issue": "Gluteus medius is the prime mover but has no dedicated bucket; encoded under 'glutes' as Gluteus Medius (its allowed latin), gluteus maximus as secondary. Tensor fasciae latae (a noted synergist) has no allowed value and was omitted."}
+]

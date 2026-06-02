@@ -1,0 +1,169 @@
+[
+ {
+  "id": "flutter_kicks",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your back with legs extended and arms at your sides, palms down.\n2. Place your hands under your hips for lower back support.\n3. Lift both legs about 15 cm off the floor, keeping them straight.\n4. Alternate kicking the legs up and down in small, controlled movements.\n5. Keep your lower back pressed into the floor throughout.\n6. Repeat.",
+  "tips": "1. Press your lower back into the floor to protect the spine.\n2. Keep the kicks small and controlled rather than fast and loose.\n3. Exhale steadily as you kick; do not hold your breath.\n4. Lower the leg height if your hips take over from your abs.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "LowerRectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "front_raise_resistance_bands",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and place the band under both feet.\n2. Hold the handles with palms facing back and arms extended down in front of your thighs.\n3. Raise your arms straight in front of you to shoulder height with a slight bend in the elbows.\n4. Pause briefly at the top.\n5. Lower your arms slowly back to the start.\n6. Repeat.",
+  "tips": "1. Lead with the shoulders, not momentum from the hips.\n2. Keep wrists neutral to reduce strain.\n3. Keep a slight knee bend for stability.\n4. Control the lowering phase to use the band's tension.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "front_raises_barbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip at shoulder width.\n2. Let the barbell rest against the front of your thighs with arms extended.\n3. Raise the barbell in front of you until your arms are parallel to the floor.\n4. Pause briefly at the top.\n5. Lower the barbell slowly back to your thighs.\n6. Repeat.",
+  "tips": "1. Lift with the front shoulders, not by swinging the torso.\n2. Keep the core braced to stop the lower back from arching.\n3. Keep a slight bend in the elbows throughout.\n4. Stop at shoulder height; raising higher shifts load to the traps.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "front_shoulder_stretch_with_bar",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a bar with both hands, palms down, slightly wider than shoulders.\n2. Start with the bar in front of your thighs and your back straight.\n3. Raise the bar overhead and then behind your head, keeping the elbows bent.\n4. Continue until you feel a stretch across the front of the shoulders and chest.\n5. Hold.\n6. Repeat.",
+  "tips": "1. Keep your spine neutral; do not arch the lower back.\n2. Use a wider grip if the stretch feels too tight at first.\n3. Move slowly and breathe deeply to relax the muscles.\n4. Stop if you feel pinching in the shoulder joint.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "front_squats_dumbbell_low",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet wider than shoulder-width, toes turned slightly out.\n2. Hold a dumbbell in each hand by your sides, palms facing each other.\n3. Bend your knees and hinge at the hips to lower into a squat, pushing your knees out.\n4. Lower until your thighs are just below parallel to the floor.\n5. Push through your heels to stand back up, extending hips and knees.\n6. Repeat.",
+  "tips": "1. Track your knees over your toes; do not let them cave in.\n2. Keep your chest up and back straight throughout.\n3. Brace your core to support the spine under load.\n4. Drive through the heels, not the toes, on the way up.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ }
+]

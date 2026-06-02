@@ -1,0 +1,98 @@
+[
+ {
+  "id": "dumbbell_rear_full_shrugs",
+  "name": "Dumbbell Rear Full Shrugs",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Hold the dumbbells behind your back at shoulder width, with your palms facing each other.\n2. Lift your shoulders as high as possible towards your ears, squeezing your shoulders at the top of the movement.\n3. Slowly lower your shoulders back to the starting position with control, allowing your arms to fully extend.",
+   "tips": "1. Avoid using momentum or jerking motions; focus on a slow and controlled movement.\n2. Exhale as you lift your shoulders and inhale as you lower them back down.\n3. Keep your neck relaxed and avoid tensing it during the exercise.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_rear_lateral_raise",
+  "name": "Dumbbell Rear Lateral Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms hanging straight down and palms facing each other.\n2. Hinge at the hips to lean forward, keeping your back straight and knees slightly bent. Your torso should be almost parallel to the floor.\n3. Lift the dumbbells out to the sides in a wide arc until your arms are in line with your shoulders. Keep a slight bend in your elbows throughout the movement.\n4. Slowly lower the dumbbells back to the starting position with control and repeat.",
+   "tips": "1. Focus on using your rear deltoids and upper back muscles to lift the weights.\n2. Avoid swinging the weights or using momentum; aim for a controlled and smooth motion.\n3. Exhale as you lift the dumbbells and inhale as you lower them.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_rear_lunge",
+  "name": "Dumbbell Rear Lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a dumbbell in each hand by your sides with your arms fully extended.\n2. Step your right foot back and lower your body into a lunge position, keeping your left knee over your left ankle and lowering your right knee towards the floor.\n3. Just before  your right knee touches the floor, push through your left heel to return to the starting position, bringing your right foot forward to stand up straight.\n4. Repeat the movement with your left leg stepping back. Alternate legs for the desired number of repetitions.",
+   "tips": "1. Maintain equal weight distribution between your front and back legs.\n2. Avoid letting your back knee touch the floor.\n3. Ensure your front knee does not go past your toes to avoid undue stress on the knee joint.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_rear_lunge_from_step",
+  "name": "Dumbbell Rear Lunge from Step",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand on a step with your feet hip-width apart, holding a dumbbell in each hand by your sides with your arms fully extended.\n2. Step your right foot back off the step and lower your body into a lunge position, keeping your left knee over your left ankle and lowering your right knee towards the floor.\n3. Just before  your right knee touches the floor, push through your left heel to return to the starting position on the step, bringing your right foot forward to stand up straight.\n4. Repeat the movement with your left leg stepping back off the step. Alternate legs for the desired number of repetitions.",
+   "tips": "1. Maintain equal weight distribution between your front and back legs.\n2. Avoid letting your back knee touch the floor.\n3. Ensure your front knee does not go past your toes to avoid undue stress on the knee joint.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_renegade_row",
+  "name": "Dumbbell Renegade Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a plank position with your feet hip-width apart and each hand holding a dumbbell, arms fully extended, and body forming a straight line from head to heels.\n2. Lift your right hand off the floor, rowing the dumbbell towards your right hip by bending your elbow and keeping your arm close to your body.\n3. Lower the dumbbell back to the floor with control, returning to the plank position.\n4. Repeat the row with your left hand. Alternate arms for the desired number of repetitions.",
+   "tips": "1. Maintain a straight body line, avoiding any sagging or lifting of the hips.\n2. Keep your core engaged to prevent your body from rotating during the row.\n3. Exhale as you lift the dumbbell and inhale as you lower it.",
+   "primary": [
+    "Middle Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Biceps",
+    "Chest"
+   ]
+  }
+ }
+]

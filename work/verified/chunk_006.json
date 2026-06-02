@@ -1,0 +1,163 @@
+[
+ {
+  "id": "arm_rotation_knee_lift",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand tall with feet shoulder-width apart.\n2. Make fists and hold your hands near your chest.\n3. Lift your right knee and rotate your torso to the left.\n4. Lower the knee and return your torso to center.\n5. Lift your left knee and rotate your torso to the right.\n6. Repeat.",
+  "tips": "1. Drive the knee high to fully flex the hip.\n2. Start the rotation from your obliques, not your arms.\n3. Keep a steady pace so both sides work evenly.\n4. Exhale as you lift and twist.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arm_swing_side_to_side",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Extend your arms straight out to the sides at shoulder height, palms forward.\n3. Swing both arms forward until they cross in front of your chest.\n4. Swing your arms back out to the sides.\n5. Repeat.",
+  "tips": "1. Keep your arms at shoulder height throughout.\n2. Move smoothly and under control.\n3. Brace your core to stay stable.\n4. Open the chest fully on the backswing.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arms_behind_back_shoulder_flexor_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with feet shoulder-width apart.\n2. Bring both arms behind your back.\n3. Hold your forearms parallel to the floor, crossing one over the other.\n4. Hold the stretch and feel it across the front of your shoulders.\n5. Release and repeat.",
+  "tips": "1. Keep your shoulders down, away from your ears.\n2. Apply gentle pressure to deepen the stretch slowly.\n3. Keep your chest open and posture tall.\n4. Breathe steadily and do not force the range.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arms_up_and_down",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Raise your right arm straight overhead and keep your left arm down at your side.\n3. Lower your right arm while raising your left arm overhead, keeping both arms straight.\n4. Continue alternating arms up and down in a steady rhythm.\n5. Repeat.",
+  "tips": "1. Keep both arms straight through the full range.\n2. Move smoothly to build coordination.\n3. Inhale as one arm rises, exhale as it lowers.\n4. Reach long through your fingertips.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "arnold_press_cable_resistance_band_standing",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand tall with feet shoulder-width apart on the middle of a resistance band.\n2. Hold the handles in front of your chest with arms bent and palms facing you.\n3. Press the handles up while rotating your palms to face forward.\n4. Extend your arms fully overhead.\n5. Reverse the motion back to the start.\n6. Repeat.",
+  "tips": "1. Exhale as you press up, inhale as you lower.\n2. Pick a band tension that lets you keep good form.\n3. Keep your wrists neutral and stacked.\n4. Brace your core to stay upright while standing.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

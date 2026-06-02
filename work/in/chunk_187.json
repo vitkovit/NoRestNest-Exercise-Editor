@@ -1,0 +1,101 @@
+[
+ {
+  "id": "plank_cross_knee_drive",
+  "name": "Plank cross knee drive",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a plank position with your hands directly under your shoulders and your body forming a straight line from head to heels. Engage your core.\n2. Lift your right knee and drive it towards your left elbow and straighten your leg, twisting your torso slightly to the left as you do so.\n3. Return your right leg to the starting plank position.\n4. Repeat the movement with your left knee, driving it towards your right elbow. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and support your lower back.\n2. Move slowly and with control to maximize muscle engagement and prevent injury.\n3. Focus on steady breathing, exhaling as you drive your knee towards your elbow and inhaling as you return to the starting position.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "plank_jack",
+  "name": "Plank jack",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a plank position with your elbows directly under your shoulders and your body forming a straight line from head to heels. Engage your core.\n2. Jump your feet out to the sides, slightly wider than shoulder-width apart, while keeping your upper body stable.\n3. Quickly jump your feet back together to return to the starting plank position.\n4. Continue jumping your feet in and out for the desired number of repetitions or duration.",
+   "tips": "1. Move quickly but with control to maximize muscle engagement and prevent injury.\n2. Maintain a neutral head position, looking slightly ahead of your hands, to keep your neck aligned with your spine.\n3. Ensure your body stays in a straight line, avoiding sagging hips or raised buttocks.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Hip Flexors",
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "plank_knee_tucks",
+  "name": "Plank Knee Tucks",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a plank position with your hands directly under your shoulders and your body forming a straight line from head to heels.\n2. Quickly jump both knees towards your chest, landing with both feet flat on the floor beneath you.\n3. Immediately jump your feet back to the starting plank position.\n4. Continue jumping your feet in and out for the desired number of repetitions.",
+   "tips": "1. Use controlled, explosive movements to quickly bring your knees to your chest and return to plank position.\n2. Ensure your shoulders remain directly over your wrists to maintain alignment and reduce strain on your shoulders.\n3. Keep your hips level throughout the movement to maintain proper form and avoid sagging or raising your hips.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Hip Flexors",
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "plank_lunges",
+  "name": "Plank lunges",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands directly under your shoulders and your body forming a straight line from head to heels.\n2. Bring your right knee forward and place your right foot outside your right hand, keeping your left leg extended straight back.\n3. Return your right foot to the plank position.\n4. Repeat the movement with your left knee, bringing your left foot forward to place it outside your left hand. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Move your leg slowly and with control to maximize muscle engagement and prevent injury.\n2. Breathe steadily, exhaling as you bring your foot forward and inhaling as you return to the plank position.\n3. Ensure your body stays in a straight line, avoiding sagging hips or raised buttocks.",
+   "primary": [
+    "Core",
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "plank_on_elbows",
+  "name": "Plank on elbows",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by lying face down on the floor. Place your elbows directly under your shoulders and your forearms flat on the floor, parallel to each other.\n2. Engage your core and lift your body off the floor, forming a straight line from your head to your heels. Your elbows and toes should support your body weight.\n3. Hold this position, keeping your core tight and your body straight. Avoid letting your hips sag or rise too high.\n4. Maintain the plank position for the desired amount of time, focusing on your form and breathing steadily.",
+   "tips": "1. Engage your core throughout the exercise to maintain stability and support your lower back.\n2. Keep your body in a straight line from head to heels, avoiding any sagging or lifting of the hips.\n3. Keep your shoulders directly above your elbows to maintain proper alignment and reduce strain on your shoulders.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Lower Back"
+   ]
+  }
+ }
+]

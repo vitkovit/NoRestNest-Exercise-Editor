@@ -1,0 +1,3 @@
+[
+ {"id": "middle_crunches", "issue": "Jackknife/V-up style move relies heavily on hip flexors (iliopsoas + rectus femoris). No 'hip flexor' bucket exists; used Quads->Rectus Femoris as the closest secondary, but iliopsoas (the dominant hip flexor here) has no allowed value and was omitted."}
+]

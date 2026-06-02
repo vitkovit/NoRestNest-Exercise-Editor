@@ -1,0 +1,82 @@
+[
+ {
+  "id": "dumbbell_incline_hammer_simultaneous_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit back on an incline bench set to 45 degrees with feet flat on the floor.\n2. Hold a dumbbell in each hand, arms hanging straight down, palms facing each other.\n3. Curl both dumbbells up toward your shoulders, keeping palms facing in.\n4. Squeeze at the top without letting your elbows drift forward.\n5. Lower under control until arms are fully extended. Repeat.",
+  "tips": "1. Keep your back against the bench to block momentum.\n2. Keep wrists straight and neutral throughout.\n3. Control the lowering phase to load the stretch.\n4. Keep upper arms still; only the forearms move.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Extensors"]}
+  ]
+ },
+ {
+  "id": "dumbbell_incline_lying_front_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie chest-down on an incline bench set to 45 degrees with feet braced on the floor.\n2. Let your arms hang straight down, a dumbbell in each hand, palms facing back.\n3. Raise both dumbbells forward and up until your arms reach shoulder height.\n4. Keep a slight bend in your elbows at the top.\n5. Lower under control to the start. Repeat.",
+  "tips": "1. Exhale as you raise, inhale as you lower.\n2. Use a slow, controlled motion without swinging.\n3. Stop at shoulder height; do not go higher.\n4. Keep the bench supporting your chest to isolate the front delts.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ]
+ },
+ {
+  "id": "dumbbell_incline_one_arm_lateral_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to 45 degrees and lie on your side along it, lower arm resting on the bench.\n2. Hold a dumbbell in your top hand, arm down at your side, palm facing your body.\n3. Raise the dumbbell out in an arc until your arm reaches shoulder height.\n4. Lower under control to the start.\n5. Finish the set, then switch sides. Repeat.",
+  "tips": "1. Exhale as you lift, inhale as you lower.\n2. Hold the bench with your free hand for stability.\n3. Keep a slight bend in the elbow throughout.\n4. Lead with the elbow, not the hand.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "dumbbell_incline_one_arm_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to 45 degrees and sit back against it.\n2. Hold a dumbbell in one hand at shoulder height, palm facing forward.\n3. Brace your core and hold the bench with your free hand.\n4. Press the dumbbell up until your arm is fully extended over your upper chest.\n5. Lower under control to shoulder height.\n6. Finish the set, then switch arms. Repeat.",
+  "tips": "1. Keep your core tight to resist twisting toward the loaded side.\n2. Press the weight over your upper chest, not your face.\n3. Keep your wrist stacked over your elbow.\n4. Choose a weight you can control through the full range.",
+  "primary": [
+   {"group": "chest", "latins": ["Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "dumbbell_incline_palms_back_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to 45 degrees and sit back against it.\n2. Hold a dumbbell in each hand at shoulder height, palms facing back toward you.\n3. Press both dumbbells up until your arms are fully extended over your upper chest.\n4. Keep the palms-back grip throughout the movement.\n5. Lower under control to shoulder height. Repeat.",
+  "tips": "1. Keep elbows tucked closer to your sides to protect the shoulders.\n2. Press over your upper chest, not your face.\n3. Keep wrists straight and stacked over the elbows.\n4. Use a slow, controlled lowering phase.",
+  "primary": [
+   {"group": "chest", "latins": ["Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ]
+ }
+]

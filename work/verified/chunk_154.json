@@ -1,0 +1,162 @@
+[
+ {
+  "id": "dynamic_back_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart and knees slightly bent.\n2. Let your arms hang straight down by your sides.\n3. Swing both arms upward in a wide arc until they reach overhead.\n4. Swing your arms back down to your sides in a controlled motion.\n5. Keep the movement fluid and continuous.\n6. Repeat.",
+  "tips": "1. Brace your core to protect your lower back.\n2. Keep movements smooth and avoid sudden jerks.\n3. Increase the range of motion gradually as you warm up.\n4. Breathe steadily throughout.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dynamic_leg_swing",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand next to a wall and place your right hand on it for support.\n2. Set your feet hip-width apart and keep your left leg straight but not locked.\n3. Swing your left leg forward as high as your flexibility allows.\n4. Swing the same leg backward in a controlled motion.\n5. Continue swinging fluidly, then switch sides and repeat with the right leg.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and core braced.\n2. Control the swing rather than throwing the leg.\n3. Build range of motion gradually as muscles warm up.\n4. Keep the support hand light for balance only.",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "elbow_back_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand tall with your feet shoulder-width apart.\n2. Bring both arms behind your back and interlace your fingers.\n3. Squeeze your shoulder blades together and lift your hands away from your hips.\n4. Push your chest forward and up to deepen the stretch.\n5. Hold, then return to the starting position.\n6. Repeat.",
+  "tips": "1. Keep your core engaged to support the lower back.\n2. Only lift the arms as far as is comfortable.\n3. Keep your chin level and shoulders down away from your ears.\n4. Breathe out as you deepen the stretch.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "elbow_extension",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand or sit with your upper arm fixed and elbow bent.\n2. Keep your upper arm still throughout the movement.\n3. Straighten your elbow fully to extend the forearm.\n4. Lower back to the bent starting position under control.\n5. Repeat.",
+  "tips": "1. Keep the upper arm stationary so only the elbow moves.\n2. Move through a full range of motion.\n3. Control the lowering phase.\n4. Brace your core for stability.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "elbow_extension_and_supination_pronation_forearm_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart.\n2. Extend both arms in front of you at hip level with elbows straight.\n3. Cross one hand over the other with palms open.\n4. Bend your wrists upward, then extend them back down.\n5. Continue the wrist curl and extension, then switch hand positions and repeat.\n6. Repeat.",
+  "tips": "1. Keep the elbows straight so the forearms do the work.\n2. Minimize shoulder involvement.\n3. Move slowly and under control.\n4. Train both hand positions for balance.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ]
+ }
+]

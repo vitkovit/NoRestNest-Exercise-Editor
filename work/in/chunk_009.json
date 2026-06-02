@@ -1,0 +1,99 @@
+[
+ {
+  "id": "barbell_curtsy_lunges",
+  "name": "Barbell curtsy lunges",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Step your right leg behind and across your left leg, lowering your hips until your left thigh is parallel to the floor, and your right knee nearly touches the floor in a curtsy position.\n3. Push through your front heel to return to the starting position. Repeat on the other side by stepping your left leg behind and across your right leg. Continue alternating legs for the desired number of repetitions.",
+   "tips": "1. Ensure your front knee tracks over your toes to prevent knee injuries and ensure proper form.\n2. Lower your body slowly and with control to maximize muscle engagement and prevent injury.\n3. Keep your chest up and back straight throughout the movement to maintain proper alignment.",
+   "primary": [
+    "Glutes",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Adductors"
+   ]
+  }
+ },
+ {
+  "id": "barbell_deadlift_360_degrees",
+  "name": "Barbell deadlift 360 degrees",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Bend at your hips and knees to grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.\n2. Begin the lift by pushing through your heels, extending your hips and knees to lift the barbell off the floor.\n3. As the barbell passes your knees, continue to lift by extending your hips until you are standing upright with the barbell in front of your thighs.\n4. Lower the barbell back to the floor with control by pushing your hips back and bending your knees, maintaining a straight back and engaged core. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your head in line with your spine to maintain proper neck alignment and prevent strain.\n2. Visualize pulling the barbell back rather than up, to keep it close to your body and use the correct muscle groups.\n3. Use a mixed grip (one hand overhand, one hand underhand) for heavier lifts to enhance grip strength.",
+   "primary": [
+    "Glutes",
+    "Quadriceps",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_drag_biceps_curl",
+  "name": "Barbell drag biceps curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand upright with your feet shoulder-width apart, holding a barbell with both hands using a supinated grip (palms facing up). Your hands should be about shoulder-width apart.\n2. Begin by pulling your elbows back and curling the barbell up along your body, dragging it against your torso.\n3. Continue to pull the barbell upward until it reaches chest level, keeping your elbows back and close to your body.\n4. Slowly lower the barbell back to the starting position, maintaining control and keeping the barbell close to your torso. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows back to ensure the barbell stays close to your torso throughout the movement.\n2. Maintain a controlled pace to ensure that you're using muscle strength rather than momentum.\n3. Keep your back straight and shoulders back to maintain proper posture.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_drag_curl",
+  "name": "Barbell drag curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand upright with your feet shoulder-width apart, holding a barbell with both hands using a supinated grip (palms facing up). Your hands should be about shoulder-width apart.\n2. Begin by pulling your elbows back and curling the barbell up along your body, dragging it against your torso.\n3. Continue to pull the barbell upward until it reaches chest level, keeping your elbows back and close to your body.\n4. Slowly lower the barbell back to the starting position, maintaining control and keeping the barbell close to your torso. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows back to ensure the barbell stays close to your torso throughout the movement.\n2. Maintain a controlled pace to ensure that you're using muscle strength rather than momentum.\n3. Keep your back straight and shoulders back to maintain proper posture.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_front_chest_bench_squat",
+  "name": "Barbell front chest bench squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, back facing a bench, holding a barbell across your upper chest. Grip the bar with your hands shoulder-width apart, and keep your elbows pointing forward.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body until you sit down on the bench.\n3. Push through your heels to stand back up to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows high to maintain the barbell's position on your chest.\n2. Engage your core to support your lower back and maintain proper posture.\n3. Lower your body slowly and with control to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ }
+]

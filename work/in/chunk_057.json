@@ -1,0 +1,95 @@
+[
+ {
+  "id": "cable_low_seated_row",
+  "name": "Cable low seated row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the pulldown machine with your feet placed securely under the knee pads. Grasp the bar with both hands, hands at shoulder-width apart and palms facing down.\n2. Sit upright with your back straight and core engaged, extending your arms fully in front of you.\n3. Pull the bar towards your lower abdomen, bringing your elbows back and squeezing your shoulder blades together.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight throughout the exercise to avoid strain.\n2. Engage your core to maintain stability and proper posture.\n3. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_lying_extension_pullover_with_cables_attachment",
+  "name": "cable lying extension pullover (with cables attachment)",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach both cable handles to a single low pulley. Lie on a flat bench with your head positioned near the pulley. Grasp the handles with your palms facing up and your arms extended in line with your body.\n2. Keep your feet flat on the floor and your back pressed against the bench. Engage your core to maintain stability.\n3. Raise the handles in an arc motion over your head, keeping a slight bend in your elbows.\n4. Lower the handles back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep a slight bend in your elbows throughout the exercise to reduce strain on your joints.\n2. Focus on the contraction of your lats and triceps as you pull the handles up.\n3. Exhale as you pull the handles back to the starting position and inhale as you lower them.",
+   "primary": [
+    "Lats",
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest"
+   ]
+  }
+ },
+ {
+  "id": "cable_lying_fly",
+  "name": "Cable lying fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench between a dual crossover machine and your feet flat on the floor. Grasp the handles with your palms facing up and arms extended to the sides at chest level.\n2. Raise the handles over your chest in a wide arc motion, keeping a slight bend in your elbows. \n3. Return to the starting position by lowering the handles out to your sides in a wide arc motion.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on the contraction of your chest muscles as you bring the handles together.\n2. Start with a lighter weight to ensure proper form and gradually increase the resistance as you build strength.\n3. Make sure the bench is stable and positioned securely between the cable machines.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "cable_lying_triceps_extension",
+  "name": "Cable lying triceps extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a straight bar to the middle pulley of a cable machine. Lie on a flat bench with your head positioned near the pulley. Grasp the bar or rope with an overhand grip, your arms extended straight up above your chest.\n2. Lower the bar towards your forehead by bending your elbows, keeping your upper arms stationary.\n3. Just before touching your forehead, extend your arms back to the starting position, focusing on contracting your triceps.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to isolate the triceps.\n2. Focus on the contraction of your triceps as you extend your arms.\n3. Exhale as you extend your arms and inhale as you lower the bar.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_lying_triceps_extension_low",
+  "name": "Cable lying triceps extension (low)",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a straight bar to the low pulley of a cable machine. Lie on a flat bench with your head positioned near the pulley. Grasp the bar or rope with an overhand grip, your arms extended straight up above your chest.\n2. Lower the bar towards your forehead by bending your elbows, keeping your upper arms stationary.\n3. Just before touching your forehead, extend your arms back to the starting position, focusing on contracting your triceps.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to isolate the triceps.\n2. Focus on the contraction of your triceps as you extend your arms.\n3. Exhale as you extend your arms and inhale as you lower the bar.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

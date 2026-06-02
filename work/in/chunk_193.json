@@ -1,0 +1,97 @@
+[
+ {
+  "id": "reaching_up_shoulder_stretch",
+  "name": "Reaching up shoulder stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet shoulder-width apart.\n2. Bend your right elbow and bring your right arm behind your back, raising your hand upward with your palm facing out.\n3. Hold the stretch for 15-30 seconds, then slowly release and return to the starting position. Repeat on the other side by bending your left elbow and using your right hand to assist with the stretch.",
+   "tips": "1. Move slowly and with control to avoid any sudden movements that could cause strain.\n2. Keep your core engaged to maintain balance and support your lower back.\n3. Avoid arching your back; keep your spine neutral to maximize the stretch and prevent injury.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "rear_deltoid_fly_cable_resistance_band",
+  "name": "Rear deltoid fly cable Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach the resistance band to a shoulder height anchor point in front of you. Stand with your feet shoulder-width apart and hold the handles with both hands, arms extended straight in front of you at shoulder height, palms facing each other.\n2. Pull the handles out to your sides by extending your arms and squeezing your shoulder blades together, keeping a slight bend in your elbows.\n3. Slowly return your arms to the starting position with control. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the handles apart and inhale as you return to the starting position.\n2. Use a lighter resistance band if needed to ensure proper form and gradually increase the resistance as you get stronger.\n3. Focus on engaging your rear deltoid and upper back muscles throughout the movement.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "rear_deltoid_stretch",
+  "name": "Rear deltoid stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand upright with your feet shoulder-width apart.\n2. Extend your right arm, slightly bent, across your body at shoulder height.\n3. Use your left hand to gently pull your right arm towards your chest, feeling the stretch in the rear deltoid.\n4. Hold the stretch for 15-30 seconds, then slowly release and return to the starting position. Repeat on the other side by extending your left arm and using your right hand to assist with the stretch.",
+   "tips": "1. Keep your shoulders relaxed and away from your ears to maximize the stretch.\n2. Avoid twisting your torso; keep your upper body facing forward.\n3. Move slowly and with control to avoid any sudden movements that could cause strain.",
+   "primary": [
+    "Rear Deltoids"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_cable_row",
+  "name": "Resistance band - cable row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach a resistance band to a sturdy anchor point at chest height. Kneel on one knee with the opposite leg forward, foot flat on the ground. \n2. Hold the band handles with both hands, arms extended forward, and palms facing down.\n3. Pull the band handles towards your chest by bending your elbows and squeezing your shoulder blades together at the end of the movement.\n4. Return to the starting position with control. Repeat for the desired repetitions.",
+   "tips": "1. Focus on squeezing your shoulder blades together at the peak of the row to maximize back activation.\n2. Adjust the resistance band tension or your kneeling position for an appropriate challenge.\n3. Avoid shrugging your shoulders; keep them down and relaxed.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_face_pull",
+  "name": "Resistance band face pull",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Secure the middle of the resistance band to a sturdy anchor point at head height. Stand facing the anchor point with your feet shoulder-width apart, holding one handle of the band in each hand with your arms extended straight in front of you, palms facing down.\n2. Pull the handles towards your face, bending your elbows and flaring them out to the sides until your hands are at your face sides.\n3. Squeeze your shoulder blades together at the end of the movement, keeping your upper arms parallel to the floor.\n4. Slowly extend your arms back to the starting position with control, maintaining tension in the band. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows high and in line with your shoulders throughout the movement.\n2. Focus on engaging your upper back and shoulder muscles throughout the movement.\n3. Exhale as you pull the handles towards your face and inhale as you return them to the starting position.",
+   "primary": [
+    "Upper Back",
+    "Rear Shoulders"
+   ],
+   "secondary": [
+    "Biceps",
+    "Forearms"
+   ]
+  }
+ }
+]

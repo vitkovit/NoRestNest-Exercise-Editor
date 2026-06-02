@@ -1,0 +1,5 @@
+[
+ {"id": "dumbbell_standing_curl_arnold_press", "issue": "Combo movement (curl + Arnold press). Treated biceps and anterior/lateral delts as co-primary; posterior delt secondary from the press rotation. Brachialis worked but no allowed latin value."},
+ {"id": "dumbbell_standing_front_raise_above_head", "issue": "Raising above head shifts load to upper traps and adds serratus anterior (no allowed value, omitted). Clavicular head and lateral delts assist."},
+ {"id": "dumbbell_standing_hammer_drag_curl", "issue": "Neutral-grip drag curl emphasizes brachialis and brachioradialis (no allowed latin; mapped brachioradialis to Wrist Extensors under forearms). Biceps long head still primary mover."}
+]

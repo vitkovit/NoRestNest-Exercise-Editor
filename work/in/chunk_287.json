@@ -1,0 +1,104 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_leg_curl",
+  "name": "Suspension Trainer with Grips Leg Curl",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about knee height. Lie on your back with your heels placed in the handles and your legs extended. Keep your arms on the floor by your sides for support.\n2. Engage your legs and lift your hips over the floor by bending your knees and pulling your heels towards your glutes.\n3. Slowly extend your legs back to the starting position with control.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull your heels towards your glutes and inhale as you extend your legs back.\n2. Focus on using your hamstrings and glutes to perform the curl, avoiding excessive use of your lower back.\n3. Use a mat to provide cushioning and support for your back.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_mountain_climber",
+  "name": "Suspension Trainer with Grips Mountain Climber",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about knee height. Place your feet in the handles and assume a plank position with your hands placed directly under your shoulders, arms fully extended.\n2. Engage your core and maintain a straight line from your head to your heels.\n3. Drive your right knee towards your chest, keeping your left leg extended. Quickly switch legs, driving your left knee towards your chest while extending your right leg back. \n4. Continue alternating legs in a running motion for the desired number of repetitions or duration.",
+   "tips": "1. Perform the movement with a steady and controlled tempo to maximize muscle engagement and prevent injury.\n2. Keep your shoulders directly over your hands to maintain proper alignment.\n3. Start with a slower pace and gradually increase your speed as your strength and coordination improve.",
+   "primary": [
+    "Abdominals",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_pike",
+  "name": "Suspension Trainer with Grips Pike",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about knee height. Place your feet in the handles and assume a plank position with your hands slightly wider than shoulder-width, placed directly under your shoulders, and arms slightly bent.\n2. Engage your core and maintain a straight line from your head to your heels.\n3. Keeping your legs straight, lift your hips towards the ceiling, forming an inverted V-shape with your body.\n4. Slowly lower your hips back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you lift your hips and inhale as you lower them back down.\n2. Focus on using your core muscles to lift your hips, avoiding excessive use of your arms and legs.\n3. Start with a smaller range of motion and gradually increase as your strength and flexibility improve.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_pull_through",
+  "name": "Suspension Trainer with Grips Pull Through",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about knee height. Sit on the floor with your legs extended and place your feet in the handles. Position your hands on the floor by your sides, fingers pointing forward.\n2. Engage your core and press through your hands to lift your hips off the floor, coming into a reverse plank position. Your body should form a straight line from your head to your heels.\n3. Lower your hips towards the floor with control, keeping your legs and arms straight. Stop just before your hips touch the floor.\n4. Press through your hands and lift your hips to the reverse plank position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your core tight to maintain stability and prevent your hips from sagging.\n2. Perform the movement with a steady and controlled tempo to maximize muscle engagement and prevent injury.\n3. Breathe steadily: exhale as you lift your hips and inhale as you lower them.",
+   "primary": [
+    "Glutes",
+    "Abdominals"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_pull_up",
+  "name": "Suspension Trainer with Grips Pull-up",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to an overhead position. Stand underneath the handles and grasp them with an overhand grip (palms facing forward), shoulder-width apart. Bend and cross your legs for stability.\n2. Engage your back and pull yourself up by bending your elbows and driving them down and back, lifting your chest towards the handles.\n3. Continue pulling until your chest is close to the handles, and slowly lower yourself back to the starting position with control, fully extending your arms. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your core tight to maintain stability and prevent your body from swinging.\n2. Start with fewer repetitions and gradually increase as your strength improves.\n3. Breathe steadily: exhale as you pull yourself up and inhale as you lower yourself down.",
+   "primary": [
+    "Upper Back",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps",
+    "Forearms",
+    "Abdominals"
+   ]
+  }
+ }
+]

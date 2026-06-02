@@ -1,0 +1,4 @@
+[
+ {"id": "rebounder_knee_pushes", "issue": "Ambiguous exercise name; no clear authoritative source. Interpreted as an upright kneeling bounce/push-off on the rebounder. If it is instead a hands-on push-up variant or a standing hip-push movement, muscle mapping should be revised."},
+ {"id": "rebounder_high_knee_runs", "issue": "Hip flexors (iliopsoas) are a key prime mover for high-knee drive but have no allowed latin value; mapped to Abductor bucket per project convention for hip flexion. No exact iliopsoas term available."}
+]

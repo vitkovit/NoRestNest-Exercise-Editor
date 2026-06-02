@@ -1,0 +1,96 @@
+[
+ {
+  "id": "decline_chair_push_up_diamond",
+  "name": "Decline chair push up diamond",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your feet on a chair and positioning your hands on the floor close together, forming a diamond shape with your thumbs and index fingers.\n2. Engage your core and ensure your body forms a straight line from your head to your heels.\n3. Lower your chest towards your hands by bending your elbows, keeping them close to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain a straight body line and avoid sagging your hips.\n2. Ensure your hands are positioned directly under your chest when you lower yourself.\n3. Use a stable chair or bench to prevent any movement or slipping during the exercise.\n4. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.\n5. Avoid flaring your elbows out to the sides; keep them close to your body to engage your triceps more effectively.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "decline_diamond_pike_push_up",
+  "name": "Decline diamond pike push-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your feet on a bench and positioning your hands on the floor close together, forming a diamond shape with your thumbs and index fingers. Hips raised towards the ceiling.\n2. Engage your core and ensure your body forms an inverted V shape with your legs and torso.\n3. Lower your head towards your hands by bending your elbows, keeping them close to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and control.\n2. Ensure your hips stay raised and your legs remain straight to maintain the pike position.\n3. Perform the movement with control to maximize muscle activation and prevent injury.\n4. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest"
+   ]
+  }
+ },
+ {
+  "id": "decline_kneeling_push_up",
+  "name": "Decline kneeling push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your knees on a step up and position your hands on the floor shoulder-width apart.\n2. Engage your chest and ensure your body forms a straight line from your head to your knees.\n3. Lower your chest towards the floor by bending your elbows, keeping them at a 45-degree angle to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Avoid flaring your elbows out to the sides; keep them at a 45-degree angle to engage your chest and triceps more effectively.\n2. Perform the movement with control to maximize muscle activation and prevent injury.\n3. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "decline_kneeling_push_up_on_box",
+  "name": "Decline kneeling push up on box",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your knees on a box and position your hands on the floor shoulder-width apart.\n2. Engage your chest and ensure your body forms a straight line from your head to your knees.\n3. Lower your chest towards the floor by bending your elbows, keeping them at a 45-degree angle to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Avoid flaring your elbows out to the sides; keep them at a 45-degree angle to engage your chest and triceps more effectively.\n2. Perform the movement with control to maximize muscle activation and prevent injury.\n3. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "decline_levitating_sit_ups_bodyweight",
+  "name": "Decline levitating sit ups bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured under the footpads. Position your torso so it is parallel to the floor, 'levitating' off the bench.\n2. Place your hands behind your head with your elbows pointing out to the sides.\n3. Engage your core and lift your upper body towards your knees, keeping your back straight and avoiding pulling on your neck.\n4. Lower your upper body back to the starting position with control, maintaining the parallel position. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Breathe steadily throughout the exercise, exhaling as you lift your shoulders and inhaling as you lower them.\n2. Ensure your lower back remains off the bench and parallel to the floor to engage your core muscles effectively.\n3. Use a stable decline bench to prevent any movement or slipping during the exercise.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ }
+]

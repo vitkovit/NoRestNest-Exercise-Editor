@@ -1,0 +1,5 @@
+[
+ {"id": "dumbbell_pullover_hip_extension_on_exercise_ball", "issue": "Compound movement combining a chest/lat pullover with a ball-supported hip extension; both upper-body (chest/lats) and lower-body (glutes/hamstrings) muscles treated as primary. Serratus anterior is meaningfully worked but has no allowed bucket, so omitted."},
+ {"id": "dumbbell_pullover_on_floor", "issue": "Sources disagree on chest vs lats as the prime mover; EMG generally favors pectoralis major, so chest listed first with lats co-primary. Floor limits range of motion vs bench. Serratus anterior omitted (no allowed bucket)."},
+ {"id": "dumbbell_rear_delt_row", "issue": "mid back latins limited to Upper Traps for the trapezius/middle-trap contribution since 'Middle Trapezius' is not an allowed value."}
+]

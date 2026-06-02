@@ -1,0 +1,7 @@
+[
+ {"id": "preacher_curl_dumbbells_simultaneous", "issue": "Brachialis (heavily worked in preacher curls) and brachioradialis have no allowed latin value; brachialis folded into biceps group, brachioradialis omitted. Forearm role is minor/stabilizing under supinated grip."},
+ {"id": "preacher_curl_ez_bar", "issue": "EZ bar has no dedicated equipment value; mapped to 'barbell' (was 'other'). Brachialis has no allowed latin; omitted/folded into biceps."},
+ {"id": "preacher_curl_ez_bar_close_grip", "issue": "EZ bar mapped to 'barbell'. Grip-width effect on long vs short head is debated across sources; muscle groups unchanged from base variant."},
+ {"id": "preacher_curl_ez_bar_wide_grip", "issue": "EZ bar mapped to 'barbell'. Grip-width head emphasis is debated; same biceps group used."},
+ {"id": "pretzel_stretch", "issue": "Stretch (not a strengthening movement); listed muscles are those lengthened. Hip flexors/iliopsoas and quadratus lumborum involved but have no allowed value; omitted."}
+]

@@ -1,0 +1,98 @@
+[
+ {
+  "id": "dumbbell_armpit_row",
+  "name": "Dumbbell armpit row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms fully extended and palms facing your body.\n2. Pull the dumbbells up towards your armpits by bending your elbows. Your elbows should be pointing out to the sides.\n3. Lower the dumbbells back to the starting position in a controlled manner. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid rounding your shoulders during the exercise.\n2. Maintain a slight bend in your knees to reduce strain on your lower back.\n3. Breathe out as you lift the dumbbells and breathe in as you lower them.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_around_pullover",
+  "name": "Dumbbell Around Pullover",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back on a bench with your feet flat on the floor. Hold a dumbbell in each hand, arms extended straight on your sides, palms facing down.\n2. Slowly raise the dumbbells in an arc over your torso and behind your head, keeping your arms straight.\n3. Return your arms back to the starting position in an arc motion, this time from your sides.\n4. Repeat the movement for the desired number of repetitions, ensuring a smooth and controlled motion throughout the exercise.",
+   "tips": "1. Focus on using your chest and shoulder muscles to control the movement, avoiding any swinging or using momentum.\n2. Ensure your wrists remain straight and aligned with your forearms throughout the exercise.\n3. Maintain a slight bend in your elbows to protect your joints.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_around_the_world",
+  "name": "Dumbbell around the world",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms extended down by your sides and palms facing forward.\n2. Slowly lift the dumbbells in a wide arc out to your sides, keeping your arms straight but not locked.\n3. Continue the movement until the dumbbells meet above your head, forming a full circle with your arms.\n4. Lower the dumbbells back down in the same wide arc to the starting position. Repeat the movement for the desired number of repetitions, ensuring a smooth and controlled motion throughout the exercise.",
+   "tips": "1. Maintain a slight bend in your elbows to protect your joints.\n2. Avoid arching your lower back; keep your core engaged to maintain proper posture.\n3. Ensure your wrists remain straight and aligned with your forearms throughout the exercise.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bar_grip_sumo_squat",
+  "name": "Dumbbell Bar Grip Sumo Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward. Hold a dumbbell vertically with both hands, like holding a bar, in front of your hips.\n2. Push your hips back and bend your knees to lower yourself until your thighs are parallel to the floor, keeping the dumbbell in line with your chest.\n3. Push through your heels to return to the starting position, straightening your legs and squeezing your glutes at the top. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Ensure your knees follow the direction of your toes to avoid placing unnecessary stress on your joints.\n2. Breathe in as you lower into the squat and breathe out as you push back up.\n3. Maintain a slow and controlled movement to maximize muscle engagement and stability.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Inner Thighs",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bench_press",
+  "name": "Dumbbell Bench Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie flat on a bench with a dumbbell in each hand, arms extended above your chest and palms facing forward.\n2. Engage your core and keep your feet flat on the floor, maintaining a natural arch in your lower back.\n3. Lower the dumbbells to your chest by bending your elbows, keeping your upper arms at a 45-degree angle to your torso.\n4. Push the dumbbells back to the starting position by straightening your arms, ensuring a controlled motion throughout. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your wrists straight and aligned with your forearms throughout the exercise.\n2. Avoid flaring your elbows too much; maintain a 45-degree angle to protect your shoulder joints.\n3. Breathe in as you lower the dumbbells and exhale as you press them back up.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ }
+]

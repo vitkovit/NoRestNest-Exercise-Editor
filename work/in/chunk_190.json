@@ -1,0 +1,97 @@
+[
+ {
+  "id": "prone_bench_row_barbell_pronate_grip",
+  "name": "Prone bench row barbell pronate grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie chest-first on an incline bench, holding a barbell with a pronate grip (palms facing down) and your hands placed shoulder-width apart. Extend your arms straight down towards the floor.\n2. Pull the barbell towards your upper abdomen by bending your elbows, keeping them close to your body.\n3. Squeeze your shoulder blades together at the top of the movement, ensuring the barbell reaches reaches close to the bench.\n4. Slowly lower the barbell back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pulling with your back muscles rather than your arms.\n2. Exhale as you pull the barbell up and inhale as you lower it.\n3. Use a weight that allows you to maintain proper form throughout the exercise.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "prone_bench_row_barbell_reverse_grip",
+  "name": "Prone bench row barbell reverse grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie chest-first on an incline bench, holding a barbell with a reverse grip (palms facing up) and your hands placed shoulder-width apart. Extend your arms straight down towards the floor.\n2. Pull the barbell towards your abdomen by bending your elbows, keeping them close to your body.\n3. Squeeze your shoulder blades together at the top of the movement, ensuring the barbell reaches close to the bench.\n4. Slowly lower the barbell back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pulling with your back muscles rather than your arms.\n2. Exhale as you pull the barbell up and inhale as you lower it.\n3. Keep your elbows close to your body to maximize back muscle engagement.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "prone_bench_row_dumbbells",
+  "name": "Prone bench row dumbbells",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie chest-first on an incline bench, holding a dumbbell in each hand with a neutral grip (palms facing each other), and your arms extended straight down towards the floor.\n2. Pull the dumbbells towards your abdomen by bending your elbows, keeping them close to your body.\n3. Squeeze your shoulder blades together at the top of the movement, ensuring the dumbbells reach the sides of your torso.\n4. Slowly lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pulling with your back muscles rather than your arms.\n2. Exhale as you pull the dumbbells up and inhale as you lower them.\n3. Use a weight that allows you to maintain proper form throughout the exercise.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "prone_bench_row_dumbbells_pronated_grip",
+  "name": "Prone bench row dumbbells pronated grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie chest-first on an incline bench, holding a dumbbell in each hand with a reverse grip (palms facing down), and your arms extended straight down towards the floor.\n2. Pull the dumbbells towards your abdomen by bending your elbows, keeping them close to your body.\n3. Squeeze your shoulder blades together at the top of the movement, ensuring the dumbbells reach the sides of your torso.\n4. Slowly lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pulling with your back muscles rather than your arms.\n2. Exhale as you pull the dumbbells up and inhale as you lower them.\n3. Use a weight that allows you to maintain proper form throughout the exercise.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "prone_bench_row_dumbbells_supinated_grip",
+  "name": "Prone bench row dumbbells supinated grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie chest-first on an incline bench, holding a dumbbell in each hand with a supinate grip (palms facing up), and your arms extended straight down towards the floor.\n2. Pull the dumbbells towards your abdomen by bending your elbows, keeping them close to your body.\n3. Squeeze your shoulder blades together at the top of the movement, ensuring the dumbbells reach the sides of your torso.\n4. Slowly lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pulling with your back muscles rather than your arms.\n2. Exhale as you pull the dumbbells up and inhale as you lower them.\n3. Use a weight that allows you to maintain proper form throughout the exercise.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ }
+]

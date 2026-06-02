@@ -1,0 +1,94 @@
+[
+ {
+  "id": "barbell_landmine_chest_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Stand facing the bar, feet shoulder-width apart, and hold the loaded end with both hands at upper chest height.\n3. Brace your core and press the bar forward and slightly upward until your arms are extended.\n4. Lower the bar back to your chest under control.\n5. Repeat.",
+  "tips": "1. Keep your wrists firm and the bar pointed up at the same angle each rep.\n2. Brace your abs to stop your torso leaning back.\n3. Press in a smooth arc, not straight up.\n4. Keep your shoulders down and away from your ears.",
+  "primary": [
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_landmine_side_bend",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Stand side-on to the bar and hold the loaded end with both hands at one hip.\n3. Keep your legs and hips still and bend your torso laterally away from the bar.\n4. Contract your obliques to pull the bar back upright.\n5. Finish all reps on one side, switch sides, and repeat.",
+  "tips": "1. Move only at the waist, not the hips or knees.\n2. Lower under control rather than dropping the bar.\n3. Keep your shoulders square and facing forward.\n4. Brace your core throughout to protect your spine.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_larsen_bench_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on a bench and hold a barbell with hands slightly wider than shoulder-width.\n2. Extend your legs straight out so your feet are off the floor.\n3. Unrack the bar and lower it to your mid-chest under control.\n4. Press the bar back up until your arms are extended without using leg drive.\n5. Repeat.",
+  "tips": "1. Keep your glutes and core tight to stay stable without leg drive.\n2. Lower the bar to the same point on your chest each rep.\n3. Keep your shoulder blades pinned to the bench.\n4. Use lighter weight than a standard bench press at first.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "barbell_low_bar_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set a barbell low across your rear deltoids and upper traps, gripping slightly wider than shoulder-width.\n2. Unrack the bar and step back with feet shoulder-width apart, toes slightly out.\n3. Push your hips back and bend your knees, leaning your torso forward as you descend.\n4. Lower until your thighs are at least parallel to the floor.\n5. Drive through your heels to stand back up, extending hips and knees.\n6. Repeat.",
+  "tips": "1. Keep the bar over your mid-foot throughout the lift.\n2. Lead the descent with your hips to load the posterior chain.\n3. Keep your chest up and back braced to protect your spine.\n4. Drive your knees out in line with your toes.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_muscle_clean",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart and grip a barbell on the floor with an overhand grip slightly wider than shoulder-width.\n2. Brace your core, lift your chest, and pull the bar from the floor by extending your knees and hips.\n3. Explosively extend your hips and shrug your shoulders to drive the bar upward, keeping it close to your body.\n4. Pull your elbows under and rotate them forward to catch the bar in a front rack without re-bending the legs.\n5. Lower the bar to the floor under control.\n6. Repeat.",
+  "tips": "1. Keep the bar close to your body throughout the pull.\n2. Drive the lift with explosive hip extension, not your arms.\n3. Shrug hard before turning your elbows over the bar.\n4. Keep your back flat and core braced off the floor.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ]
+ }
+]

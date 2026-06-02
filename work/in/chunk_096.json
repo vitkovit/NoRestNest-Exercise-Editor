@@ -1,0 +1,96 @@
+[
+ {
+  "id": "dumbbell_ab_crunch",
+  "name": "Dumbbell ab crunch",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back with your knees bent and feet flat on the floor, hip-width apart. Hold a dumbbell with both hands striaght over your chest.\n2. Lift your head, shoulders, and upper back off the floor by contracting your abdominal muscles.\n3. Raise the dumbbell towards the ceiling as you perform the crunch, keeping your arms straight. Pause for a moment at the top of the movement, squeezing your abs.\n4. Slowly lower your upper body back to the starting position, keeping control of the movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your lower back pressed against the floor throughout the exercise to avoid straining it.\n2. Avoid using your neck muscles to lift your head; focus on using your abdominal muscles.\n3. Breathe out as you lift your upper body and breathe in as you lower it.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Hip Flexors",
+    "Obliques"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_alternate_bench_press_high_start",
+  "name": "Dumbbell Alternate Bench Press (high start)",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor and a dumbbell in each hand. Start with both arms extended straight up over your chest, palms facing forward.\n2. Lower the right dumbbell towards your chest by bending your elbow while keeping the left arm extended and stable.\n3. Press the right dumbbell back to the starting position by extending your elbow and contracting your chest muscles.\n4. Repeat the movement with the left arm while keeping the right arm extended and stable. Continue alternating arms for the desired number of repetitions.",
+   "tips": "1. Lower the dumbbell in a controlled manner to avoid using momentum.\n2. Breathe out as you press the dumbbell up and breathe in as you lower it down.\n3. Ensure your feet remain flat on the floor to maintain stability.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_alternate_seated_hammer_curl",
+  "name": "Dumbbell Alternate Seated Hammer Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor and a dumbbell in each hand, palms facing your torso. Let your arms hang straight down by your sides.\n2. Keep your elbows close to your body and curl the right dumbbell towards your shoulder by bending your elbow. Keep your palm facing inward throughout the movement.\n3. Squeeze your biceps at the top of the movement, then slowly lower the dumbbell back to the starting position.\n4. Repeat the movement with your left arm while keeping the right arm extended. Continue alternating arms for the desired number of repetitions.",
+   "tips": "1. Keep your wrists straight and aligned with your forearms throughout the exercise.\n2. Focus on using your biceps to lift the weight, avoiding any swinging or using momentum.\n3. Breathe out as you curl the dumbbell up and breathe in as you lower it.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_alternate_shoulder_press",
+  "name": "Dumbbell Alternate Shoulder Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height. Your palms should be facing forward, and your elbows should be bent at a 90-degree angle.\n2. Engage your core and press the right dumbbell overhead until your arm is fully extended. Keep your left dumbbell in the starting position.\n3. Lower the right dumbbell back to shoulder height in a controlled manner.\n4. Repeat, alternating arms for the desired number of repetitions.",
+   "tips": "1. Avoid locking your elbows at the top of the movement to maintain tension in the muscles.\n2. Breathe out as you press the dumbbell overhead and breathe in as you lower it.\n3. Ensure your wrists remain straight and aligned with your forearms throughout the exercise.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_alternate_side_press",
+  "name": "Dumbbell Alternate Side Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height. Your palms should be facing each other, and your elbows should be bent at a 60-degree angle and facing downward.\n2. Press the right dumbbell overhead and slightly lean to the opposite side until your arm is fully extended.\n3. Lower the right dumbbell back to shoulder height in a controlled manner and press the left dumbbell overhead and slightly to the side.\n4. Continue alternating arms for the desired number of repetitions, ensuring a smooth and controlled movement.",
+   "tips": "1. Breathe out as you press the dumbbell overhead and breathe in as you lower it.\n2. Maintain a controlled pace to maximize muscle engagement and avoid using momentum.\n3. Ensure your wrists remain straight and aligned with your forearms throughout the exercise.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Upper Back"
+   ]
+  }
+ }
+]

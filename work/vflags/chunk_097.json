@@ -1,0 +1,7 @@
+[
+ {"id": "double_knee_drive", "change": "No change. Standing alternating elbow-to-knee twist: obliques + abs as primary (rotation), hip flexion via Quads/Rectus Femoris + glutes secondary. Confirmed by torso-rotation/knee-drive sources. Hip flexors have no allowed bucket; Rectus Femoris used as the standard proxy."},
+ {"id": "double_punch_front_leg_lift", "change": "No change. Anterior Deltoids (punch) + Quads/Rectus Femoris (knee lift) primary; Triceps (punch lockout), chest, abs secondary. Matches cardio punch-with-knee-lift sources."},
+ {"id": "downward_dog_sprint", "change": "No change. Shoulders (Anterior Deltoids) + abs primary; Quads, Calves (Gastrocnemius + Soleus), Triceps secondary. Confirmed by downward dog / mountain climber sources (shoulders, core, calves)."},
+ {"id": "drag_curl_dumbbell", "change": "No change. Biceps Brachii primary, Wrist Flexors secondary. Brachialis is targeted but has no allowed bucket, so omitted (cannot be expressed)."},
+ {"id": "drag_curl_resistance_band", "change": "No change. Same as dumbbell drag curl: Biceps Brachii primary, Wrist Flexors secondary. Brachialis omitted (no allowed bucket)."}
+]

@@ -1,278 +1,212 @@
-# Exercise Muscle Mapper — Opus CLI Instructions
+# Exercise Muscle Mapper — CLI Instructions
 
 ## Your Task
-Open `exercises_master.xlsx`. Go through EVERY row in the `universal` sheet, one by one. For each exercise:
+Open `exercises_master.xlsx` and correct EVERY exercise so it loads and displays correctly
+in the editor app (`npm start`). For each exercise, fix:
 
-1. **Read** the exercise `id` and `name`
-2. **Web search** the exercise to verify biomechanics (MANDATORY — do NOT guess)
-3. **Correct** the muscle groups using ONLY the controlled vocabulary below
-4. **Rewrite** instructions and tips
-5. **Save** the corrected row back into the xlsx
-6. After processing all rows in `universal`, sync corrections to `male` and `female` sheets (match by `id`)
+1. **Muscle Groups** (primary + secondary) — remove old values, reapply in the app/SVG format
+2. **Category, Equipment, Tracking Mode**
+3. **Instructions** and **Tips**
 
-## How to Process the XLSX
+The current xlsx values are the **first reference point** (they are already decent — improve,
+never degrade). Then **web search every exercise** to confirm biomechanics before correcting.
 
-Use openpyxl to edit in place. Do NOT use pandas for writing — it destroys formatting.
+Sheets:
+- `universal` (1140 rows) — unique list, each processed independently.
+- `male` + `female` (457 rows each) — a PAIR. Write the SAME correction to BOTH sheets, matched by `id`.
 
-```python
-from openpyxl import load_workbook
-wb = load_workbook('exercises_master.xlsx')
-ws = wb['universal']
+Progress is tracked in `.editor-state.json` (`editedIds`). Resume from there; do not redo done rows.
+
+---
+
+## How to Edit the XLSX
+
+Use the project's Node `xlsx` (SheetJS) library — the same one `server.js` uses — so the
+server reads edits identically. Do NOT use pandas/openpyxl.
+
+- The sheet layout is a fixed **59 columns by position** (see `server.js` COLUMNS).
+- Edit only these fields: `category`, `equipment`, `tracking_mode`, `instructions`, `tips`,
+  the 5 primary groups + their 4 latin slots each, the 5 secondary groups + their 4 latin slots each.
+- **Clear ALL muscle slots first** (`primary_group_1..5`, all `primary_i_latin_j`,
+  `sec_group_1..5`, all `sec_i_latin_j` → empty string), THEN write fresh. No stale leftovers.
+- Save after every batch (~25-50 rows). Append processed ids to `.editor-state.json`.
+
+---
+
+## Muscle Encoding — THE CRITICAL RULE
+
+The editor highlights a muscle on the SVG **only when a `*_latin_*` cell exactly equals an
+`advance` term** from the app's muscle mapping (`server.js` MUSCLE_MAPPING; SVG regions in
+`public/body_front.svg` / `public/body_back.svg`). The `*_group_*` cell holds a coarse bucket.
+
+Therefore, for each muscle:
+- `*_group_*` cell = the **bucket** (the `simple` value), exact casing.
+- `*_latin_*` cell = the exact **`advance` term** the SVG matches on, exact spelling/casing.
+
+Group muscles that share a bucket into ONE group entry, listing their advance terms in the
+latin slots. Example (V-bar lat pulldown):
+```
+primary_group_1 = "Lats"      primary_1_latin_1 = "Latissimus Dorsi"
+sec_group_1     = "mid back"  sec_1_latin_1 = "Rhomboids"   sec_1_latin_2 = "Lower Traps"
+sec_group_2     = "shoulders" sec_2_latin_1 = "Posterior Deltoid"
+sec_group_3     = "biceps"    sec_3_latin_1 = "Biceps Brachii"
+sec_group_4     = "Lats"      sec_4_latin_1 = "Rotator Cuff"
 ```
 
-For each row, edit only these columns (find column indices dynamically from headers):
-- `primary_group_1` through `primary_group_5`
-- `primary_1_latin_1` through `primary_5_latin_4`
-- `sec_group_1` through `sec_group_5`
-- `sec_1_latin_1` through `sec_5_latin_4`
-- `instructions`
-- `tips`
+### The ONLY allowed values — bucket (group) → latin (advance)
 
-Clear unused primary/secondary slots (set to None). Save after every ~50 rows to avoid data loss:
-```python
-wb.save('exercises_master.xlsx')
-```
+| group (bucket) | allowed latin (advance) terms — copy EXACTLY | SVG regions |
+|---|---|---|
+| `neck` | `neck` | neck |
+| `shoulders` | `Anterior Deltoids`, `Lateral Deltoids`, `Posterior Deltoid` | front/side/rear delts |
+| `chest` | `Clavicular Head`, `Sternal Head` | upper chest / mid+lower chest |
+| `mid back` | `Upper Traps`, `Rhomboids`, `Lower Traps` | upper/mid/lower traps |
+| `Lats` | `Latissimus Dorsi`, `Rotator Cuff` | lats, rotator_cuff |
+| `biceps` | `Biceps Brachii` | inner+outer biceps |
+| `Triceps` | `Triceps Brachii` | all 3 triceps heads |
+| `forearms` | `Wrist Flexors`, `Wrist Extensors` | inner/outer forearm |
+| `abs` | `Upper Rectus Abdominis`, `LowerRectus Abdominis` | upper/lower abs |
+| `oblique` | `External Obliques`, `Internal Obliques` | external/internal oblique |
+| `Lower Back` | `Erector Spinae` | lower_back |
+| `glutes` | `Gluteus Maximus`, `Gluteus Medius` | glutes / side_glutes |
+| `Quads` | `Rectus Femoris`, `Vastus Medialis`, `Vastus Lateralis` | middle/inner/outer quad |
+| `Abductor` | `Abductor` | tensor |
+| `Adductors` | `Adductors` | inner_thighs |
+| `Hamstrings` | `Biceps Femoris`, `Semitendinosus` | outer/inner hamstring |
+| `Calves` | `Gastrocnemius Lateral`, `Gastrocnemius Medial`, `Soleus` | outer/inner/deep calves |
+| `Shin` | `Fibularis`, `Extensor`, `Tibialis` | outer_shin / shin_extensor / shin_muscle |
 
-## Controlled Vocabulary — ONLY These 35 Terms
+**App quirks to mirror EXACTLY (or it won't highlight):**
+- Lower abs latin is `LowerRectus Abdominis` — **no space**.
+- Rear delt is singular `Posterior Deltoid`; front/side are plural `Anterior Deltoids` / `Lateral Deltoids`.
+- Writing one advance term highlights all SVG regions sharing it (e.g. `Sternal Head` lights
+  mid + lower chest; `Triceps Brachii` lights all 3 heads; `Biceps Brachii` lights both heads).
 
-These are the ONLY allowed values for `primary_group_X` and `sec_group_X` fields. Nothing else. Ever.
+**Rule:** Any muscle that cannot be expressed with a bucket+advance pair above → do NOT invent
+a value. Flag the exercise for the user.
 
-```
-neck
-Anterior Deltoids
-Lateral Deltoids
-Posterior Deltoid
-Clavicular Head
-Sternal Head
-Upper Traps
-Rhomboids
-Lower Traps
-Latissimus Dorsi
-Rotator Cuff
-Biceps Brachii
-Triceps Brachii
-Wrist Flexors
-Wrist Extensors
-Upper Rectus Abdominis
-Lower Rectus Abdominis
-External Obliques
-Internal Obliques
-Erector Spinae
-Gluteus Maximus
-Gluteus Medius
-Rectus Femoris
-Vastus Medialis
-Vastus Lateralis
-Abductor
-Adductors
-Biceps Femoris
-Semitendinosus
-Gastrocnemius Lateral
-Gastrocnemius Medial
-Soleus
-Fibularis
-Extensor
-Tibialis
-```
+---
 
-## Latin Names — Fill These for Each Group
+## Translating Current XLSX Terms → New Encoding
 
-When you write a `primary_group_X` or `sec_group_X`, fill the corresponding `_latin_` columns with the specific anatomical muscles:
+The current data uses loose terms. Map them (then confirm with web search which specific ones apply):
 
-| Group Term | latin_1 | latin_2 | latin_3 | latin_4 |
-|---|---|---|---|---|
-| neck | Levator Scapulae | Scalenes | Splenius Capitis | Sternocleidomastoid |
-| Anterior Deltoids | Anterior Deltoid | | | |
-| Lateral Deltoids | Lateral Deltoid | | | |
-| Posterior Deltoid | Posterior Deltoid | | | |
-| Clavicular Head | Clavicular Head Of Pectoralis Major | Pectoralis Minor | | |
-| Sternal Head | Sternal Head | Pectoralis Major | | |
-| Upper Traps | Upper Trapezius | | | |
-| Rhomboids | Rhomboids | | | |
-| Lower Traps | Lower Trapezius | | | |
-| Latissimus Dorsi | Latissimus Dorsi | Teres Major | | |
-| Rotator Cuff | Infraspinatus | Subscapularis | Supraspinatus | Teres Minor |
-| Biceps Brachii | Biceps Brachii | Brachialis | | |
-| Triceps Brachii | Triceps Brachii | | | |
-| Wrist Flexors | Flexor Carpi Radialis | Flexor Carpi Ulnaris | Flexor Digitorum Superficialis | Palmaris Longus |
-| Wrist Extensors | Brachioradialis | Extensor Carpi Radialis | Extensor Carpi Ulnaris | |
-| Upper Rectus Abdominis | Rectus Abdominis | Transverse Abdominis | | |
-| Lower Rectus Abdominis | Rectus Abdominis | Transverse Abdominis | | |
-| External Obliques | External Oblique | | | |
-| Internal Obliques | Internal Oblique | | | |
-| Erector Spinae | Erector Spinae | | | |
-| Gluteus Maximus | Gluteus Maximus | | | |
-| Gluteus Medius | Gluteus Medius | Gluteus Minimus | Piriformis | |
-| Rectus Femoris | Rectus Femoris | | | |
-| Vastus Medialis | Vastus Medialis | | | |
-| Vastus Lateralis | Vastus Lateralis | | | |
-| Abductor | Tensor Fasciae Latae | Iliopsoas | | |
-| Adductors | Adductor Longus | Adductor Magnus | Adductor Brevis | |
-| Biceps Femoris | Biceps Femoris | | | |
-| Semitendinosus | Semitendinosus | Semimembranosus | | |
-| Gastrocnemius Lateral | Gastrocnemius | | | |
-| Gastrocnemius Medial | Gastrocnemius | | | |
-| Soleus | Soleus | | | |
-| Fibularis | Peroneus Longus | Peroneus Brevis | | |
-| Extensor | Extensor Digitorum Longus | | | |
-| Tibialis | Tibialis Anterior | | | |
-
-## Classification Rules
-
-### What is Primary vs Secondary
-- **Primary** = muscles that PRODUCE the movement (concentric movers, or isometric holders that define the exercise)
-- **Secondary** = muscles that ASSIST or STABILIZE meaningfully
-
-### Mandatory Search Rules
-1. Web search EVERY exercise before correcting. No exceptions. No guessing from memory.
-2. Run at least 2 searches per exercise:
-   - Search 1: `"[exercise name] muscles worked primary secondary"` — get the muscle list
-   - Search 2: `"[exercise name] EMG activation biomechanics"` — verify with science
-   - Search 3 (if sources disagree): `"[exercise name] vs [similar exercise] difference muscles"` — resolve conflict
-3. Prefer sources in this order: EMG studies > sports science sites > fitness encyclopedias > blogs
-4. Do NOT trust a single source. If only one source lists a muscle, verify with a second search.
-5. When reading sources, extract SPECIFIC muscles, not generic groups. If a source says "shoulders", search deeper to find WHICH deltoid head.
-
-### Equipment-Specific Rules
-6. Equipment DOES matter for some exercises. Before reusing a base pattern for a variant, verify these:
-   - **Smith machine vs free weight**: Smith removes stabilizer demand (less rotator cuff, less core, less Erector Spinae). Search specifically: `"smith machine [exercise] vs barbell [exercise] muscles"`
-   - **Cable vs dumbbell**: Cable provides constant tension and may change the strength curve. For fly/raise exercises, cable keeps tension at the top where dumbbells lose it.
-   - **Resistance band vs dumbbell**: Bands have ascending resistance (peak at top). This can shift emphasis within a muscle group.
-   - **Machine vs free weight**: Machines remove stabilizer demand. Always note reduced stabilizer activation.
-   - **Seated vs standing**: Standing adds core + Erector Spinae as secondary. Seated removes them.
-   - **Unilateral vs bilateral**: Unilateral adds External Obliques + Internal Obliques as secondary (anti-rotation demand).
-7. When in doubt about an equipment variant, search it specifically: `"[equipment] [exercise] muscles worked"`
-
-### Inclusion Rules
-8. Do NOT drop muscles that are legitimately engaged — include everything meaningful.
-9. Do NOT inflate — only include muscles with real activation.
-10. Clear unused group/latin slots to None — do not leave stale data from the original entry.
-
-### Translation Rules — Incoming Terms to Vocabulary
-These terms appear in the current data but are NOT in the vocabulary. Translate them:
-
-| Current Term | Translate To |
+| Current term(s) | New encoding (group → latin) |
 |---|---|
-| Abdominals | Upper Rectus Abdominis + Lower Rectus Abdominis |
-| Rectus Abdominis | Upper Rectus Abdominis + Lower Rectus Abdominis |
-| Obliques | External Obliques + Internal Obliques |
-| Quadriceps / Quadriceps Femoris | Rectus Femoris + Vastus Medialis + Vastus Lateralis |
-| Pectoralis Major | Sternal Head + Clavicular Head (or just one depending on exercise angle) |
-| Chest | Sternal Head + Clavicular Head (split by exercise angle) |
-| Deltoids / Shoulders | Anterior Deltoids / Lateral Deltoids / Posterior Deltoid (pick correct one based on movement) |
-| Hamstrings | Biceps Femoris + Semitendinosus |
-| Calves / Gastrocnemius | Gastrocnemius Lateral + Gastrocnemius Medial (add Soleus if relevant) |
-| Hip Flexors / Iliopsoas | Rectus Femoris (if knee extension involved) or Abductor (if hip abduction/flexion only) |
-| Trapezius / Traps | Upper Traps / Lower Traps / Rhomboids (pick correct one based on scapular movement) |
-| Back / Middle Back | Latissimus Dorsi / Rhomboids / Lower Traps (pick correct one) |
-| Lower Back | Erector Spinae |
-| Forearms | Wrist Flexors / Wrist Extensors (pick based on grip orientation) |
-| gluteus mideus | Gluteus Medius (fix the typo) |
+| Abdominals / Rectus Abdominis | `abs` → `Upper Rectus Abdominis`, `LowerRectus Abdominis` |
+| Obliques | `oblique` → `External Obliques`, `Internal Obliques` |
+| Quadriceps / Quadriceps Femoris | `Quads` → `Rectus Femoris`, `Vastus Medialis`, `Vastus Lateralis` |
+| Pectoralis Major / Chest | `chest` → `Clavicular Head` and/or `Sternal Head` (by angle, see below) |
+| Deltoids / Shoulders | `shoulders` → correct head(s) by movement |
+| Hamstrings | `Hamstrings` → `Biceps Femoris`, `Semitendinosus` |
+| Calves / Gastrocnemius | `Calves` → `Gastrocnemius Lateral`, `Gastrocnemius Medial` (+`Soleus` if relevant) |
+| Hip Flexors / Iliopsoas | `Abductor` → `Abductor` (hip flexion/abduction) OR `Quads` if knee extension |
+| Trapezius / Traps | `mid back` → `Upper Traps` / `Lower Traps` (+`Rhomboids`) by scapular action |
+| Back / Middle Back | `Lats`→`Latissimus Dorsi` and/or `mid back`→`Rhomboids`/`Lower Traps` |
+| Lower Back | `Lower Back` → `Erector Spinae` |
+| Forearms | `forearms` → `Wrist Flexors` / `Wrist Extensors` by grip |
+| Glutes / gluteus mideus (typo) | `glutes` → `Gluteus Maximus` / `Gluteus Medius` |
+| Adductors | `Adductors` → `Adductors` |
+| Abductor | `Abductor` → `Abductor` |
+| Neck | `neck` → `neck` |
+| Tibialis / Shin | `Shin` → `Tibialis` / `Extensor` / `Fibularis` |
+| Soleus | `Calves` → `Soleus` |
+| Biceps | `biceps` → `Biceps Brachii` |
+| Triceps | `Triceps` → `Triceps Brachii` |
+| Rotator Cuff | `Lats` → `Rotator Cuff` |
 
-### Context-Dependent Decisions
+---
 
-**Chest exercises — which head?**
-- Flat bench/push-up → both Sternal Head + Clavicular Head (Sternal dominant)
-- Incline → Clavicular Head primary, Sternal Head secondary
-- Decline → Sternal Head primary, Clavicular Head secondary
-- Wide grip → Sternal Head emphasis
-- Close grip → both, but Triceps becomes co-primary
+## Classification Rules (Primary vs Secondary)
 
-**Shoulder exercises — which deltoid?**
-- Front raise, overhead press → Anterior Deltoids primary
-- Lateral raise → Lateral Deltoids primary
-- Reverse fly, face pull → Posterior Deltoid primary
-- Overhead press also engages Lateral Deltoids as secondary
+- **Primary** = muscles that produce the movement (prime movers, or the isometric holders that define the exercise).
+- **Secondary** = muscles that meaningfully assist or stabilize.
+- Do NOT drop legitimately engaged muscles. Do NOT inflate with irrelevant ones.
 
-**Pulling exercises — which back muscles?**
-- Lat pulldown, pull-up → Latissimus Dorsi primary
-- Row → Latissimus Dorsi + Rhomboids (both can be primary depending on grip)
-- Face pull → Posterior Deltoid + Rhomboids + Rotator Cuff
-- All pulling exercises: include Rotator Cuff as secondary (shoulder stabilization)
-- All pulling exercises: include Biceps Brachii as secondary (unless chin-up where biceps is co-primary)
+**Chest — which head?**
+- Flat bench / push-up → `Clavicular Head` + `Sternal Head` (Sternal dominant)
+- Incline → `Clavicular Head` primary, `Sternal Head` secondary
+- Decline → `Sternal Head` primary, `Clavicular Head` secondary
+- Close grip → add `Triceps` as co-primary
 
-**Squat/Lunge — what's secondary?**
-- All squat and lunge variants: Biceps Femoris + Semitendinosus as secondary (hamstring co-contraction for knee stability) — do NOT drop these
-- Wall squat/sit: Gluteus Maximus drops to secondary (wall removes hip extension demand)
-- Free squat: Gluteus Maximus is primary
+**Shoulders — which deltoid?**
+- Front raise / overhead press → `Anterior Deltoids` primary (press also `Lateral Deltoids` secondary)
+- Lateral raise → `Lateral Deltoids` primary
+- Reverse fly / face pull → `Posterior Deltoid` primary
 
-**Hamstring exercises — calves?**
-- Hamstring curl: include Gastrocnemius as secondary (crosses knee joint, assists knee flexion)
-- Romanian deadlift: do NOT include calves
+**Pulling (lat pulldown, pull-up, rows):**
+- Lat pulldown / pull-up → `Latissimus Dorsi` primary
+- Row → `Latissimus Dorsi` + `Rhomboids`
+- Face pull → `Posterior Deltoid` + `Rhomboids` + `Rotator Cuff`
+- All pulls: `Rotator Cuff` secondary; `Biceps Brachii` secondary (co-primary on chin-ups)
+
+**Squat / Lunge:**
+- Include `Hamstrings` (`Biceps Femoris` + `Semitendinosus`) as secondary (knee-stability co-contraction).
+- Free squat → `Gluteus Maximus` primary. Wall squat/sit → `Gluteus Maximus` drops to secondary.
+
+**Hamstring exercises:**
+- Hamstring curl → include `Gastrocnemius` (`Calves`) as secondary. Romanian deadlift → no calves.
+
+**Equipment effects:**
+- Machine / Smith → reduced stabilizer demand (less `Rotator Cuff`, less core, less `Erector Spinae`).
+- Standing vs seated → standing adds core + `Lower Back` (`Erector Spinae`) as secondary.
+- Unilateral vs bilateral → unilateral adds `oblique` (`External Obliques` + `Internal Obliques`) anti-rotation as secondary.
+- Cable/band constant or ascending tension can shift emphasis — verify per variant.
+
+---
+
+## Mandatory Web Search Rules
+1. Web search EVERY exercise before correcting. No guessing from memory.
+2. ≥2 searches per exercise:
+   - `"[exercise name] muscles worked primary secondary"`
+   - `"[exercise name] EMG activation biomechanics"`
+   - (if sources disagree) `"[exercise name] vs [similar] difference muscles"`
+3. Prefer: EMG studies > sports-science sites > fitness encyclopedias > blogs. Don't trust a single source.
+4. Verify each variant (grip/stance/equipment) — do NOT blindly copy muscles between variants.
+
+---
+
+## Category / Equipment / Tracking Mode
+
+Use ONLY existing dropdown values. If an exercise needs a value not listed → STOP and alert the user.
+- **Category:** `Bodyweight`, `Free Weights`, `Resistance`, `Uncategorized`
+- **Equipment:** `bands`, `barbell`, `bench`, `bodyweight`, `cable`, `dumbbell`, `kettlebell`, `machine`, `other`, `plate`, `pull_up_bar`, `resistance_band`
+- **Tracking Mode:** `` (empty = default reps+weight), `repsOnly` (bodyweight/timed-rep moves), `timed` (planks, holds, carries)
+
+---
 
 ## Instructions Rewrite Rules
-
 Format — raw numbered text, no header:
 ```
 1. First step.
 2. Second step.
-3. Third step.
 ```
-
-Rules:
-- Numbered steps, plain text
-- Simple wording, short sentences
-- No fluff, no filler words, no motivational language
-- All measurements in METRIC: cm, m, kg. No feet, inches, pounds.
-  - 2 feet → 60 cm
-  - 12 inches → 30 cm
-  - shoulder-width → shoulder-width (relative measurements are fine)
-- Maximum 5-6 steps per exercise
-- Start with the setup position, end with "Repeat"
-- Do NOT include "desired number of repetitions" — just say "Repeat"
+- Numbered, plain, short sentences. No fluff, no motivational language.
+- Metric only: cm, m, kg (2 feet → 60 cm; 12 inches → 30 cm; "shoulder-width" is fine).
+- **No static counts:** no rep counts, no set counts, no weights, no time durations (seconds/minutes).
+  The app tracks reps/weight/time — descriptions must not. Use qualitative wording instead
+  ("Hold", "Hold briefly", "Pause briefly", "Lower slowly under control"). Allowed numbers are
+  only spatial: cm/m/kg and joint angles (e.g. "90 degrees").
+- Max 5-6 steps. Start with setup, end with "Repeat" (never "desired number of repetitions").
 
 ## Tips Rewrite Rules
+Format — raw numbered text, no header. Max 4 tips. Practical only (form cues, common mistakes,
+breathing, safety). No fluff. NEVER write "avoid locking your elbows" for pressing exercises.
 
-Format — raw numbered text, no header:
-```
-1. First tip.
-2. Second tip.
-3. Third tip.
-```
+---
 
-Rules:
-- Numbered, plain text
-- Practical, actionable tips only
-- No fluff
-- Maximum 4 tips per exercise
-- Focus on: form cues, common mistakes, breathing, safety
-- NEVER include "avoid locking your elbows" as a tip for pressing exercises — full lockout is generally correct form
+## Per-Exercise Checklist
+- [ ] ≥2 web searches for THIS exercise (and its specific variant)?
+- [ ] All `group` values are real buckets and all `latin` values are exact `advance` terms?
+- [ ] Generic terms split correctly (Abdominals, Quadriceps, Deltoids/head, Chest/head, Hamstrings, Calves, Obliques)?
+- [ ] Both `External Obliques` + `Internal Obliques` when obliques involved?
+- [ ] Hamstrings secondary on squats/lunges? Rotator Cuff + Biceps secondary on pulls?
+- [ ] Seated/standing and unilateral/bilateral effects applied?
+- [ ] ALL old muscle slots cleared before writing fresh?
+- [ ] Category / Equipment / Tracking from allowed lists (else flagged)?
+- [ ] Instructions metric, ≤5-6 steps, end "Repeat"? Tips ≤4, practical?
+- [ ] For male/female: identical correction written to BOTH sheets by id?
+- [ ] Anything unmappable or needing a new dropdown value → flagged for the user, not invented?
 
-## Batch Processing Strategy
-
-1. Read all exercise IDs from the universal sheet
-2. For EVERY exercise: run at least 2 web searches to verify muscles
-3. For variants of the same base movement (e.g. "bicep curl dumbbell" vs "bicep curl barbell"):
-   - Search the base movement first
-   - Then verify each variant — check if the equipment/stance/grip changes muscle activation
-   - Do NOT blindly copy muscles from one variant to another without verifying
-4. Rewrite instructions/tips per variant (they ALWAYS differ by equipment/stance)
-5. Save every 50 rows
-6. After universal is done, sync to male/female sheets by matching `id`
-7. If a session is interrupted, note the last processed row ID and resume from there next session
-
-## Progress Tracking
-
-After every 50 exercises, print:
-```
-PROGRESS: [X/1140] exercises processed. Last: [exercise_id]
-```
-
-## Quality Checklist — Run This Mentally for Every Exercise
-
-Before writing the correction:
-- [ ] Did I run at least 2 web searches for this specific exercise (not just the base pattern)?
-- [ ] Did I check if the equipment/stance/grip changes activation vs the base movement?
-- [ ] Are ALL group values from the 35-term vocabulary? (check EVERY value against the list)
-- [ ] Did I split ALL generic terms (Abdominals, Quadriceps, Deltoids, Pectoralis Major, Hamstrings, Calves, Obliques)?
-- [ ] Did I include both External AND Internal Obliques when obliques are involved?
-- [ ] Did I include hamstrings as secondary for squat/lunge exercises?
-- [ ] Did I include Rotator Cuff as secondary for pulling exercises?
-- [ ] Did I check if seated vs standing changes core/erector spinae involvement?
-- [ ] Did I check if unilateral vs bilateral adds oblique anti-rotation demand?
-- [ ] Did I fill latin names for EVERY group using the lookup table?
-- [ ] Did I clear ALL unused slots to None?
-- [ ] Are instructions in metric (no feet, inches, pounds)?
-- [ ] Are instructions simple, no fluff, max 5-6 steps?
-- [ ] Are tips practical, max 4, no fluff?
-- [ ] Does the exercise name match what I searched? (e.g. "spider curl" is NOT a "bicep curl" — different bench angle changes activation)
+## Progress
+After every ~50 exercises, print: `PROGRESS: [X/1140] processed. Last: [exercise_id]`.

@@ -1,0 +1,84 @@
+[
+ {
+  "id": "resistance_band_leg_curl",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and a loop band around both ankles, arms by your sides.\n2. Hold something stable for balance if needed.\n3. Bend your right knee and curl the heel toward your glutes, keeping the thigh still.\n4. Slowly extend the leg back down with control against the band.\n5. Finish all reps, then switch legs. Repeat.",
+  "tips": "1. Exhale as you curl up and inhale as you lower.\n2. Keep the working thigh stationary so the knee does the work.\n3. Move slowly to keep tension on the hamstring, not momentum.\n4. Keep a slight bend in the standing leg for stability.",
+  "primary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ]
+ },
+ {
+  "id": "resistance_band_leg_kickback",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Start on all fours with hands under shoulders and knees under hips.\n2. Loop a band under your right foot and anchor the other end under your right hand.\n3. Kick the right leg straight back until it is in line with your torso, squeezing the glute.\n4. Slowly return the knee toward the start with control.\n5. Finish all reps, then switch legs. Repeat.",
+  "tips": "1. Exhale as you kick back and inhale as you return.\n2. Squeeze the glute at full extension rather than swinging the leg.\n3. Keep your back flat and core braced to protect the lower back.\n4. Keep the band taut throughout for constant tension.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "resistance_band_lying_abduction",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with legs extended straight up toward the ceiling and a loop band around your ankles.\n2. Place your arms by your sides on the floor for stability.\n3. Brace your core and keep the legs straight with feet flexed.\n4. Open the legs wide apart against the band resistance.\n5. Slowly bring the legs back together with control. Repeat.",
+  "tips": "1. Exhale as you open the legs and inhale as you close them.\n2. Keep the legs straight so the hips do the work.\n3. Move slowly to keep steady tension on the band.\n4. Press your lower back into the floor to stay stable.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Medius"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "resistance_band_lying_hyperextension_abduction",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie face down with arms crossed under your forehead and a loop band around your thighs, just above the knees.\n2. Keep your legs straight and feet together.\n3. Squeeze your glutes to lift both legs off the floor.\n4. While lifting, spread the legs wide apart against the band.\n5. Bring the legs back together, then lower them with control. Repeat.",
+  "tips": "1. Exhale as you lift and open, inhale as you close and lower.\n2. Squeeze the glutes to drive the movement, not the lower back.\n3. Keep the core braced to protect the spine.\n4. Lift only as high as you can without arching the lower back.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ]
+ },
+ {
+  "id": "resistance_band_lying_leg_raise",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on your back with arms by your sides and a loop band around your thighs, just above the knees.\n2. Keep both legs extended and together.\n3. Brace your core and lift your right leg straight up toward the ceiling, keeping the left leg on the floor.\n4. Slowly lower the leg, stopping just before the heel touches the floor.\n5. Finish all reps, then switch legs. Repeat.",
+  "tips": "1. Keep your lower back pressed into the floor throughout.\n2. Exhale as you raise the leg and inhale as you lower.\n3. Keep the leg straight and move with control, not momentum.\n4. Brace the abs to stabilize the pelvis.",
+  "primary": [
+   {"group": "Abductor", "latins": ["Abductor"]},
+   {"group": "Quads", "latins": ["Rectus Femoris"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ }
+]

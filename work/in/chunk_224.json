@@ -1,0 +1,101 @@
+[
+ {
+  "id": "alternate_leg_raise",
+  "name": "Alternate leg raise",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your back with your arms resting on the floor by your side.\n2. Raise your legs straight in the air, making a 90-degree angle with your torso.\n3. Lower one of your legs and bring it back just before touching the floor.\n4. Do the same with your other leg, and repeat.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and protect your lower back.\n2. Perform the movement slowly and with control to maximize muscle activation and prevent injury.\n3. Breathe steadily, exhaling as you lift your leg and inhaling as you lower it back down.",
+   "primary": [
+    "Hip Flexors",
+    "Abdominals",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "alternate_leg_raise_from_reverse_plank_position",
+  "name": "Alternate leg raise from reverse plank position",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your hips with your arms resting on the floor by your side and your legs extended forward.\n2. Raise your upper back, bring your elbows under the shoulders, and bear weight on your forearms with your palms down.\n3. Alternately raise and lower your legs to your maximum range while keeping them straight.",
+   "tips": "1. Focus on maintaining a straight line with your body, avoiding any sagging or arching of the back.\n2. Perform the movement slowly and with control to maximize muscle activation and prevent injury.\n3. Breathe steadily, exhaling as you lift your leg and inhaling as you lower it back down.",
+   "primary": [
+    "Hip Flexors",
+    "Abdominals",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "alternate_leg_raise_with_head_up",
+  "name": "Alternate leg raise with head up",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your back with your arms resting on the floor by your side.\n2. Raise your head and upper back off the floor, and lift your legs straight in the air, making a 90-degree angle with your torso.\n3. Lower one of your legs and bring it back just before touching the floor.\n4. Do the same with your other leg, and repeat.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and protect your lower back.\n2. Perform the movement slowly and with control to maximize muscle activation and prevent injury.\n3. Maintain a steady breathing pattern, exhaling as you lift your leg and inhaling as you lower it back down.",
+   "primary": [
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "alternate_lying_floor_leg_raise",
+  "name": "Alternate lying floor leg raise",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs extended straight and your arms resting by your sides.\n2. Lift both legs, straight towards the ceiling until they go past your hips.\n3. Lower your legs halfway down, then lift them back up towards the ceiling.\n4. Lower your legs back down to the initial position. Repeat the movement.",
+   "tips": "1. Focus on keeping your upper back pressed into the mat to avoid arching and straining your spine.\n2. Use your breath to guide the movement: inhale as you lift your legs and exhale as you lower them.\n3. Engage your thigh muscles to assist with the lift and ensure proper form.",
+   "primary": [
+    "Hip Flexors",
+    "Abdominals",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "alternate_oblique_crunch",
+  "name": "Alternate oblique crunch",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your back and fold your knees while keeping your feet on the floor.\n2. Place your right hand behind your head and your left hand on the floor for support.\n3. Raise and twist your chest to your left and bring your right elbow towards the left knee.\n3. Return to the starting position and repeat.",
+   "tips": "1. Focus on using your oblique muscles to twist your torso rather than pulling on your neck with your hands.\n2. Keep your movements slow and controlled to maximize muscle activation and prevent injury.\n3. Ensure your lower back remains pressed into the mat to protect your spine.",
+   "primary": [
+    "Obliques",
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ }
+]

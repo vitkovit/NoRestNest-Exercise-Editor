@@ -1,0 +1,98 @@
+[
+ {
+  "id": "elbow_flexor_stretch",
+  "name": "Elbow Flexor Stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand next to a wall with your feet shoulder-width apart, and extend your right arm out fully against the wall at shoulder height, palm facing the wall.\n2. Rotate your torso away from the wall to increase the stretch in your arm.\n3. Ensure your right arm is straight and press your palm firmly against the wall.\n4. Hold the stretch for 15-30 seconds, feeling the stretch in your forearm and elbow flexors, then switch to the other arm.",
+   "tips": "1. Ensure the stretch is felt in the forearm, elbow flexors, and chest muscles without causing pain.\n2. Breathe deeply and steadily throughout the stretch, focusing on relaxing the muscles.\n3. Perform the stretch on both arms to maintain muscle balance and flexibility.",
+   "primary": [
+    "Forearms",
+    "Chest"
+   ],
+   "secondary": [
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "elbow_lift_reverse_push_up",
+  "name": "Elbow Lift Reverse Push Up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the floor between two chairs, with your torso facing the ceiling and your elbows resting on the chairs, arms bent at 90 degrees.\n2. Extend your legs out in front of you, keeping them together and straight, and lift your hips into a reverse plank position, forming a straight line from your shoulders to your heels.\n3. Press through your elbows to lift your torso and hips slightly higher, engaging your triceps and core muscles.\n4. Lower your body back down by bending your elbows, keeping your torso and legs straight throughout the movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure the chairs are stable and securely placed to prevent slipping or tipping during the exercise.\n2. Keep your movements slow and controlled to maximize muscle engagement and avoid injury.\n3. Engage your core throughout the exercise to maintain a straight body line and support your lower back.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Chest",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "elbow_push_plank_up",
+  "name": "Elbow Push Plank Up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a forearm plank position with your elbows directly under your shoulders and your body forming an arch line from your head to your heels.\n2. Push through your forearms to lift your elbows a few inches off the floor, keeping your fists on the floor.\n3. Keep pressing through your forearms to raise your hips off the floor until your torso is straight, maintaining the plank position.\n4. Lower your hips back down to the floor, followed by your elbows, returning to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Perform the exercise on a non-slip surface to prevent your forearms from slipping.\n2. Ensure your elbows remain under your shoulders to maintain proper form and prevent strain.\n3. Move slowly and with control to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Core muscles"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "elbow_up_and_down_dynamic_plank",
+  "name": "Elbow-Up and Down Dynamic Plank",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a forearm plank position with your elbows directly under your shoulders and your body forming a straight line from your head to your heels.\n2. Lift your elbows a few inches off the floor, keeping your forearms off the floor and fists on the floor.\n3. Place your right hand on the floor, followed by your left hand, pushing your body up into a high plank position with your arms fully extended.\n4. Lower your right hand back to the floor, followed by your left hand, returning to the starting position. Repeat the movement, alternating which arm you start with each time.",
+   "tips": "1. Focus on steady breathing, exhaling as you push up and inhaling as you lower down.\n2. Avoid rotating your hips; keep them level to increase core stability.\n3. Perform the exercise on a non-slip surface to prevent your forearms and hands from slipping.",
+   "primary": [
+    "Core muscles"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "elbows_back_stretch",
+  "name": "Elbows Back Stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms at your sides.\n2. Bring both hands behind you and place them on your lower back, fingers pointing downward.\n3. Gently push your hips forward and lean your upper body backward, feeling a stretch in your chest and shoulders.\n4. Hold the stretch for a few seconds, then return to the starting position. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Engage your core muscles to support your lower back as you lean backward.\n2. Avoid overextending your lower back; only lean back as far as comfortable without causing pain.\n3. Breathe deeply throughout the exercise, inhaling as you prepare to stretch and exhaling as you lean back.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ }
+]

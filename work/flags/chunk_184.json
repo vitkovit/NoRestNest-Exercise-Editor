@@ -1,0 +1,4 @@
+[
+ {"id": "mountain_climbers", "issue": "Primary mover is hip flexors (iliopsoas), which has no allowed bucket/latin value. Used Quads->Rectus Femoris as the closest hip-flexion driver; true iliopsoas activation omitted. Original category was 'Resistance' for a bodyweight move; corrected to 'Bodyweight'."},
+ {"id": "oblique_crunch", "issue": "Original category 'Resistance' was wrong for a bodyweight move; corrected to 'Bodyweight'. Hip flexor secondary activation omitted (no allowed value)."}
+]

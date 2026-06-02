@@ -1,0 +1,99 @@
+[
+ {
+  "id": "deep_push_up",
+  "name": "Deep push-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands holding dumbbells on the floor, slightly wider than shoulder-width apart. Your feet should be on the floor, forming a straight line from your head to your heels.\n2. Engage your core and ensure your body forms a straight line from your head to your heels.\n3. Lower your chest towards the floor by bending your elbows, allowing your chest to go deeper than your hands.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain a straight body line and avoid sagging your hips.\n2. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.\n3. Perform the movement with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "diagonal_chop_cable",
+  "name": "Diagonal chop cable",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Anchor one end of the band at chest height. Stand with your right side facing the anchor point, with your feet shoulder-width apart, and grasp the handle with both hands. Extend your arms to hold the handle opposite your chest.\n2. Pull the handle down and diagonally across your body, twisting your torso and pivoting your back foot to follow through. Bring the handle down towards the left side.\n3. Slowly return to the starting position with control. \n4. Repeat for the desired number of repetitions, then switch sides to work in the opposite direction",
+   "tips": "1. Perform the movement slowly and with control to maximize muscle activation and reduce injury risk.\n2. Exhale as you pull the handle down and across your body, and inhale as you return to the starting position.\n3. Use a lighter weight if needed to ensure proper form and gradually increase the resistance as you get stronger.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Core",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "diagonal_chop_left",
+  "name": "Diagonal chop left",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Start standing with your feet shoulder-width apart, clasping your hands together and holding them extended opposite your chest.\n2. Rotate your torso and simultaneously bring your hands diagonally across your body towards your left hip, bending your knees slightly as you turn.\n3. Keep your arms extended and pivot your right foot as you rotate to protect your knee from strain.\n4. Return to the starting position in a controlled manner, bringing your hands back opposite your chest.",
+   "tips": "1. Engage your core throughout the movement to stabilize your spine and enhance power.\n2. Pivot on your feet during the rotation to ensure a full range of motion and to reduce stress on your knees.\n3. Focus on exhaling as you chop down and inhaling as you return to the starting position.\n4. Maintain a slight bend in your knees throughout the exercise to aid in balance and prevent strain on your joints.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "diagonal_chop_right",
+  "name": "Diagonal chop right",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Start standing with your feet shoulder-width apart, clasping your hands together and holding them extended oposite your chest.\n2. Rotate your torso and simultaneously bring your hands diagonally across your body towards your right hip, bending your knees slightly as you turn.\n3. Keep your arms extended and pivot your right foot as you rotate to protect your knee from strain.\n4. Return to the starting position in a controlled manner, bringing your hands back opposite your chest.",
+   "tips": "1. Engage your core throughout the movement to stabilize your spine and enhance power.\n2. Pivot on your feet during the rotation to ensure a full range of motion and to reduce stress on your knees.\n3. Focus on exhaling as you chop down and inhaling as you return to the starting position.\n4. Maintain a slight bend in your knees throughout the exercise to aid in balance and prevent strain on your joints.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "diagonal_lunge",
+  "name": "Diagonal lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet together, arms extended outwards at shoulder level.\n2. Step diagonally forward with your right foot, planting it at a 45-degree angle. As you lower into a lunge, rotate your torso to the right and lean down to touch your right foot with your left hand, keeping your left leg straight.\n3. Press through your right heel and rotate back to center as you return to the starting position.\n4. Repeat the movement with your left leg, stepping diagonally forward, rotating left, and touching your left foot with your right hand.",
+   "tips": "1. Maintain your arms extended at shoulder level throughout the exercise to help with balance and increase the workout intensity.\n2. Rotate your torso smoothly and keep your movements controlled to avoid any jerky motions that might cause injury.\n3. Ensure that your lunging knee does not extend past your toes to protect your knee joint.",
+   "primary": [
+    "Glutes",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Core",
+    "Inner Thighs"
+   ]
+  }
+ }
+]

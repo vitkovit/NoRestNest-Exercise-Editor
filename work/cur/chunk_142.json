@@ -1,0 +1,254 @@
+[
+ {
+  "id": "dumbbell_single_leg_glute_bridge",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor. Hold a dumbbell across your hips with both hands.\n2. Extend your left leg straight, in line with your right thigh.\n3. Drive through your right heel and lift your hips until your body forms a straight line from shoulders to knee.\n4. Squeeze your glutes at the top and pause briefly.\n5. Lower your hips with control, keeping the left leg extended. Switch legs after each set. Repeat.",
+  "tips": "1. Keep shoulders, hips, and knee in a straight line at the top.\n2. Drive through the heel to load the glutes.\n3. Keep your core braced so the lower back does not arch.\n4. Keep the pelvis level and avoid letting the working hip drop.",
+  "name": "Dumbbell Single Leg Glute Bridge",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_single_leg_split_squat",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your back to a bench, holding a dumbbell in each hand at your sides.\n2. Rest the top of your left foot on the bench behind you.\n3. Keep your torso upright and bend your right knee to lower your body.\n4. Lower until your left knee is just above the floor, keeping the right knee tracking over the foot.\n5. Push through your right heel to return to the start. Switch legs after each set. Repeat.",
+  "tips": "1. Keep your torso upright to load the quads.\n2. Lean the torso slightly forward to shift load to the glutes.\n3. Keep the front foot flat and drive through the heel.\n4. Keep the front knee tracking over the foot.",
+  "name": "Dumbbell Single Leg Split Squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_single_leg_squat",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand on your right leg, holding a dumbbell in each hand at your sides.\n2. Lift your left leg off the floor and extend it straight in front of you.\n3. Bend your right knee to lower your body, keeping the left leg extended off the floor.\n4. Lower until your right thigh is parallel to the floor, keeping the knee aligned over the foot.\n5. Push through your right heel to stand back up. Switch legs after each set. Repeat.",
+  "tips": "1. Start light or bodyweight to master balance before adding load.\n2. Keep your torso upright and core braced.\n3. Fix your gaze on a point ahead to hold balance.\n4. Keep the working knee tracking over the foot, not collapsing inward.",
+  "name": "Dumbbell Single Leg Squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_single_leg_squat_with_support_pistol",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand beside a lifting cage and hold the bar for support with your right hand. Hold a dumbbell in your left hand at your side.\n2. Set your feet hip-width apart.\n3. Lift your right leg off the floor and extend it forward.\n4. Bend your left knee to lower your body as far as you can control.\n5. Press through your left heel to return to standing. Switch sides after each set. Repeat.",
+  "tips": "1. Keep your chest up and avoid leaning forward.\n2. Use the support lightly for balance, not to pull yourself up.\n3. Move slowly and under control.\n4. Keep the working knee tracking over the foot.",
+  "name": "Dumbbell Single Leg Squat with Support (pistol)",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_single_leg_step_up",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand facing a sturdy platform, holding a dumbbell in each hand at your sides.\n2. Place your right foot fully on the platform.\n3. Push through your right heel to drive your body up, bringing your left foot to meet your right.\n4. Step down with your left foot, then your right, returning to the start.\n5. Switch legs after each set. Repeat.",
+  "tips": "1. Use a stable, secure platform.\n2. Keep your chest up and shoulders back.\n3. Drive through the heel of the working leg for stronger glute engagement.\n4. Control the step down rather than dropping.",
+  "name": "Dumbbell Single Leg Step-Up",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

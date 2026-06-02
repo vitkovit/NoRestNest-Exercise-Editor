@@ -1,0 +1,105 @@
+[
+ {
+  "id": "alternate_punching",
+  "name": "Alternate punching",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands held up in a guard position near your chest.\n2. Punch forward with your right arm, rotating your upper torso slightly.\n3. Return your right hand to the guard position and punch forward with your left arm, again rotating your upper torso slightly.\n4. Continue alternating punches in a rhythmic manner.",
+   "tips": "1. Keep your core engaged to maintain balance and stability throughout the exercise.\n2. Focus on snapping your punches out quickly and returning your hands to the guard position to maintain proper form.\n3. Maintain a slight bend in your knees to absorb the impact and enhance stability.",
+   "primary": [
+    "Shoulders",
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Core Muscles",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "alternate_sprinter_lunge",
+  "name": "Alternate sprinter lunge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet hip-width apart.\n2. Lunge back with your right leg, bending both knees to lower your body into a lunge position while reaching your hands towards your left foot.\n3. Push off your right foot to return to the starting position.\n4. Lunge back with your left leg, reaching your hands towards your right foot. Continue alternating sides.",
+   "tips": "1. Keep your core engaged to maintain balance and stability throughout the exercise.\n2. Ensure your front knee does not extend past your toes to avoid strain on your knee joint.\n3. Perform the movement slowly and with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "alternate_toe_tap_leg_lift",
+  "name": "Alternate toe tap leg lift",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your back with your knees bent and feet on the floor.\n2. Raise your torso off the floor by placing your elbows on the floor and raise one of your knees toward the chest while keeping your knee bent.\n3. Lower your foot back to the floor while raising your other knee towards your chest.\n4. Keep repeating by alternately moving your knees towards and away from the chest.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and protect your lower back.\n2. Perform the movement slowly and with control to maximize muscle activation and prevent injury.\n3. Focus on maintaining the bend in your knees and tapping the floor lightly to ensure proper form.",
+   "primary": [
+    "Hip Flexors",
+    "Abdominals",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "alternating_biceps_curl_seated_dumbbells",
+  "name": "Alternating biceps curl seated dumbbells",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor, holding a dumbbell in each hand with your arms fully extended by your sides. Your palms should face forward (supinated grip).\n2. Engage your core and keep your elbows close to your torso. Slowly curl the right dumbbell up towards your shoulder, maintaining the supinated grip with your palm facing upward.\n3. Squeeze your bicep at the top of the movement, then slowly lower the dumbbell back to the starting position with control.\n4. Repeat the same motion with your left arm, alternating between right and left arms for the desired number of repetitions.",
+   "tips": "1. Visualize the bicep contraction to enhance the mind-muscle connection for better results.\n2. Ensure your movements are symmetrical to avoid muscle imbalances; focus equally on both arms.\n3. Use a weight that allows you to perform the exercise with proper form and control throughout all repetitions.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "alternating_hamstring_curl_with_punch",
+  "name": "Alternating hamstring curl with punch",
+  "sheet": "malefemale",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms bent at a 90-degree angle with fists close to your chest.\n2. Curl your right leg back, bringing your heel towards your glutes while simultaneously punching forward with your left arm.\n3. Lower your right leg and return your left arm to the starting position.\n4. Curl your left leg back, bringing your heel towards your glutes while punching forward with your right arm. Continue alternating sides.",
+   "tips": "1. Focus on squeezing your hamstrings and glutes as you curl your leg to enhance muscle activation.\n2. Keep a steady rhythm to ensure both sides of your body are working evenly.\n3. Maintain a strong and upright posture to avoid unnecessary strain on your back.",
+   "primary": [
+    "Hamstrings",
+    "Glutes",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Hip Flexors",
+    "Chest",
+    "Triceps"
+   ]
+  }
+ }
+]

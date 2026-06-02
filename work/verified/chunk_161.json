@@ -1,0 +1,157 @@
+[
+ {
+  "id": "ez_bar_cable_curl_wide_grip_crossover_machine",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand facing a cable crossover machine with feet shoulder-width apart, holding an EZ bar on the low pulley with a wide underhand grip.\n2. Keep upper arms still against your sides and let your arms hang fully extended.\n3. Curl the bar up toward your shoulders by bending the elbows.\n4. Squeeze the biceps at the top.\n5. Lower the bar under control until the arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep the elbows pinned to your sides so the biceps do the work.\n2. Move slowly and avoid swinging the bar.\n3. Exhale as you curl up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_overhead_extensions_standing",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding an EZ bar overhead with a narrow overhand grip and arms fully extended.\n2. Keep the elbows close to your head and pointing up.\n3. Lower the bar behind your head by bending the elbows.\n4. Lower until your forearms are fully flexed.\n5. Extend the elbows to press the bar back overhead.\n6. Repeat.",
+  "tips": "1. Keep the elbows tucked close to your head throughout.\n2. Move under control and do not use momentum.\n3. Brace your core to protect the lower back.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_seated_close_grip_shoulder_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with back support, holding an EZ bar at shoulder height with a close overhand grip and elbows pointing forward.\n2. Press the bar straight overhead by extending the elbows.\n3. Fully extend the arms at the top.\n4. Lower the bar under control back to shoulder height.\n5. Repeat.",
+  "tips": "1. Keep the elbows in front of you to load the front delts.\n2. Keep your back against the pad and core braced.\n3. Inhale as you lower, exhale as you press.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_seated_wrist_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench holding an EZ bar with an underhand grip, palms up.\n2. Rest your forearms on your thighs with the wrists just past your knees and let the bar hang down.\n3. Curl your wrists upward as high as possible while keeping the forearms still.\n4. Squeeze at the top.\n5. Lower the bar under control until the wrists are fully extended.\n6. Repeat.",
+  "tips": "1. Keep the forearms flat on your thighs the whole set.\n2. Move only at the wrists, not the elbows.\n3. Use a slow, controlled tempo without swinging.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "ez_bar_standing_front_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding an EZ bar with an overhand grip resting against your thighs.\n2. Keep your arms nearly straight and core braced.\n3. Raise the bar in front of you to shoulder height until level with the floor.\n4. Pause briefly at the top.\n5. Lower the bar under control to the starting position.\n6. Repeat.",
+  "tips": "1. Do not swing or use momentum to lift the bar.\n2. Stop at shoulder height to keep tension on the front delts.\n3. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ }
+]

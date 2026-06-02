@@ -1,0 +1,100 @@
+[
+ {
+  "id": "bodyweight_lying_leg_curl",
+  "name": "Bodyweight lying leg curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie down on your stomach while curling your arms at your chest and extend your legs on the floor.\n2. Bend your knees to lift your lower legs towards your glutes, engaging your hamstrings.\n3. Slowly lower your legs back to the starting position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your hips pressed into the floor to ensure proper form and maximize hamstring engagement.\n2. Squeeze your hamstrings at the top of the movement for a brief hold to enhance muscle contraction.\n3. Perform the movement slowly and with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_muscle_up",
+  "name": "Bodyweight muscle-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Start by hanging from a bar with your arms fully extended and your body straight.\n2. Pull yourself up explosively, transitioning from a pull-up to a dip position above the bar.\n3. Push your body up until your arms are fully extended above the bar.\n4. Lower yourself back down to the starting hanging position in a controlled manner. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Engage your core and maintain a straight body line to ensure proper form.\n2. Use an explosive pull-up motion to help transition from below the bar to above the bar.\n3. Focus on a controlled descent to avoid straining your muscles and joints.",
+   "primary": [
+    "Back",
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Biceps",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_overhead_squat",
+  "name": "Bodyweight overhead squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms extended overhead.\n2. Lower your body into a squat position until your thighs are parallel to the floor, keeping your arms extended overhead.\n3. Stand back up to the starting position, maintaining the arm position throughout.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Engage your core to maintain stability and proper alignment throughout the exercise.\n2. Keep your chest lifted and your back straight to avoid leaning forward excessively.\n3. Ensure your knees are aligned with your toes during the squat to prevent strain on your knees.",
+   "primary": [
+    "Quadriceps",
+    "Shoulders",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_overhead_triceps_extension",
+  "name": "Bodyweight Overhead Triceps Extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms extended overhead with hands holding together, elbows slightly bent.\n2. Bend your elbows to lower your hands behind your head, engaging your triceps.\n3. Extend your arms back to the starting overhead position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary and close to your ears throughout the exercise to effectively target the triceps.\n2. Engage your core to maintain stability and avoid arching your back.\n3. Perform the movement slowly and with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_pulse_forward_lunge",
+  "name": "Bodyweight pulse forward lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands on your hips or by your sides.\n2. Step forward with your right foot and lower your body into a lunge position, ensuring your front knee is aligned over your ankle and your back knee is close to the floor.\n3. Perform small pulsing movements by slightly raising and lowering your body in the lunge position.\n4. Push through your front heel to return to the starting position. Repeat the movement on the other side.",
+   "tips": "1. Keep your core engaged and your torso upright to maintain balance and proper form.\n2. Ensure your front knee does not extend past your toes to avoid putting unnecessary strain on your knee.\n3. Perform the pulsing movements slowly and with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

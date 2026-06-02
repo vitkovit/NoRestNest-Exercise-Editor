@@ -1,0 +1,99 @@
+[
+ {
+  "id": "exercise_ball_sit_ups",
+  "name": "Exercise ball sit ups",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on an exercise ball with your feet flat on the floor, hip-width apart, leaning back so the ball supports your lower back and hips. Place your hands behind your head.\n2. Engage your core and lift your upper body until vertical to the floor, performing a sit-up while keeping your chin slightly tucked and your back straight.\n3. Lower your upper body back down to the starting position with control, maintaining tension in your core.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Ensure your lower back remains in contact with the exercise ball to support your spine and prevent injury.\n2. Move slowly and with control to avoid using momentum and to maximize muscle engagement.\n3. Focus on steady breathing, exhaling as you lift your upper body and inhaling as you lower it.\n4. Avoid pulling on your neck with your hands if they are placed behind your head; instead, use your core muscles to lift.",
+   "primary": [
+    "Core muscles"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_wall_squat",
+  "name": "Exercise Ball Wall Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and place an exercise ball between your lower back and a wall. Lean slightly into the ball for support.\n2. Slowly lower your body into a squat position by bending your knees and hips, keeping your back straight and allowing the ball to roll along your back.\n3. Lower yourself until your thighs are parallel to the floor, ensuring your knees do not extend past your toes.\n4. Push through your heels to return to the starting position, straightening your legs. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your feet are positioned far enough in front of you so that your knees do not extend past your toes when squatting.\n2. Move slowly and with control to maximize muscle engagement and prevent injury.\n3. Focus on steady breathing, inhaling as you lower into the squat and exhaling as you push back up.\n4. Maintain an upright posture with your back against the ball to avoid leaning forward.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "explosive_push_ups",
+  "name": "Explosive push ups",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a standard push-up position with your hands placed slightly wider than shoulder-width apart and your body forming a straight line from head to heels.\n2. Lower your chest towards the floor by bending your elbows, keeping your core tight and your body straight.\n3. Push through your hands explosively to extend your arms rapidly, generating maximum force without lifting your hands off the floor.\n4. Lower into the next push-up with control, immediately repeating the explosive movement for the desired number of repetitions.",
+   "tips": "1. Keep your movements controlled and focus on generating power in the push without lifting off the floor.\n2. Breathe steadily, exhaling as you push up explosively and inhaling as you lower down.\n3. Focus on explosive power and control rather than speed to maximize effectiveness.\n4. Use a non-slip surface to prevent your hands from slipping during the exercise.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "extended_side_angle",
+  "name": "Extended Side Angle",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet wide apart, about 3-4 feet, with your right foot turned out 90 degrees and your left foot slightly turned in. Place your hands on your hips.\n2. Bend your right knee, ensuring it aligns over your right ankle, and lower your right thigh until it is parallel to the floor. Extend your left leg straight.\n3. Lean to your right side by bending your right knee further and place your right elbow on your right thigh. Raise your left arm overhead, creating a straight line from your left hand to your left foot.\n4. Hold the position for a moment, then return to the starting position with control. Repeat on the other side.",
+   "tips": "1. Ensure your bent knee is aligned with your ankle to avoid strain on the knee joint.\n2. Only stretch as far as is comfortable without causing pain or discomfort.\n3. Focus on deep, steady breathing, inhaling as you extend into the stretch and exhaling as you hold the stretch.\n4. Use a yoga block or modify the hand placement if needed for additional support.",
+   "primary": [
+    "Middle Back",
+    "Hip Flexors",
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Obliques",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "extension_and_inclination_neck_stretch",
+  "name": "Extension And Inclination Neck Stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your back straight and shoulders relaxed.\n2. Slowly rotate your head to the left side while diagonally lowering your head, bringing your chin towards your left shoulder to feel a stretch in your neck.\n3. Hold the stretch for a few seconds, breathing deeply and steadily.\n4. Return to the neutral position and repeat on the other side by rotating your head to the right and diagonally lowering your head towards your right shoulder. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain good posture with your back straight and shoulders relaxed throughout the exercise.\n2. Perform the stretches in a smooth, fluid motion to enhance flexibility and reduce muscle tension.\n3. Avoid overextending your neck; only stretch as far as is comfortable without causing pain or discomfort.",
+   "primary": [
+    "Neck Muscles"
+   ],
+   "secondary": [
+    "Upper Back Muscles",
+    "Neck Muscles"
+   ]
+  }
+ }
+]

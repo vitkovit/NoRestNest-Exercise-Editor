@@ -1,0 +1,7 @@
+[
+ {"id": "suspension_trainer_with_grips_mountain_climber", "issue": "Primary hip flexors (iliopsoas) have no allowed latin value; substituted Quads->Rectus Femoris which assists hip flexion. Equipment 'other' kept since no TRX/suspension option exists in dropdown."},
+ {"id": "suspension_trainer_with_grips_pike", "issue": "Hip flexors (iliopsoas) that lift hips have no allowed value; Quads->Rectus Femoris used as closest. Equipment 'other' (no suspension trainer option)."},
+ {"id": "suspension_trainer_with_grips_leg_curl", "issue": "Equipment 'other' kept; dropdown has no suspension trainer / TRX value."},
+ {"id": "suspension_trainer_with_grips_pull_through", "issue": "Equipment 'other' kept; dropdown has no suspension trainer / TRX value."},
+ {"id": "suspension_trainer_with_grips_pull_up", "issue": "Equipment 'other' kept; dropdown has no suspension trainer / TRX value."}
+]

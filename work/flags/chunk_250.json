@@ -1,0 +1,5 @@
+[
+ {"id":"dumbbell_suitcase_crunch","issue":"Hip flexors (iliopsoas) are a true prime mover here but have no allowed latin value; approximated with Quads->Rectus Femoris as secondary. Transverse abdominis also engaged but has no allowed value (omitted)."},
+ {"id":"eagle_arms_chin_into_chest","issue":"This is a stretch/mobility pose, not a strength move; muscles are stretched rather than contracted. Mapped to the targeted regions (rhomboids/lower traps, neck). Teres major also stretched but no allowed value."},
+ {"id":"elevated_pike_shoulder_shrug","issue":"Primary mover is scapular elevation (upper traps) plus serratus anterior, which has no allowed value (omitted). Deltoids act as stabilizers."}
+]

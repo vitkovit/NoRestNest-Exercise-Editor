@@ -1,0 +1,5 @@
+[
+ {"id": "standing_toe_touch", "issue": "Hip flexors (iliopsoas) are a true prime mover but have no allowed bucket; mapped to Quads (Rectus Femoris) per leg-straight hip-flexion rule."},
+ {"id": "star_crunches", "issue": "Hip flexors (iliopsoas) assist leg lift but have no allowed bucket; mapped to Quads (Rectus Femoris)."},
+ {"id": "star_jump", "issue": "Hip abductors are a noted mover; Abductor bucket exists but was lower priority than the 5-group cap allowed, so Adductors used for inner-thigh control. Lateral Deltoids used for the abduction arm motion."}
+]

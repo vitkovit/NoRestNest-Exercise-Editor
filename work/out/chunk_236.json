@@ -1,0 +1,89 @@
+[
+ {
+  "id": "barbell_feet_elevated_figure_four_glute_bridge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with a box about 30 cm high near your feet.\n2. Place one foot on the box and cross the opposite ankle over that knee in a figure-four shape.\n3. Rest a barbell across your hips and hold it securely with both hands.\n4. Drive through the heel on the box to lift your hips until your torso forms a straight line to the working knee.\n5. Squeeze your glutes at the top, then lower your hips under control.\n6. Finish the set, switch sides, and Repeat.",
+  "tips": "1. Pad the bar so it sits comfortably across your hips.\n2. Drive through the heel of the planted foot to bias the glute.\n3. Keep your core braced to stop your pelvis from twisting.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "barbell_feet_elevated_glute_bridge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with both feet flat on a box about 30 cm high, knees bent.\n2. Rest a barbell across your hips and grip it securely with both hands.\n3. Drive through your heels to lift your hips until your torso forms a straight line to your knees.\n4. Squeeze your glutes at the top, then lower your hips under control.\n5. Repeat.",
+  "tips": "1. Exhale as you lift your hips and inhale as you lower them.\n2. Keep your knees tracking over your feet, not collapsing inward.\n3. Drive through the heels to keep tension on the glutes.\n4. Pad the bar across your hips for comfort.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_feet_elevated_single_leg_glute_bridge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with a box about 30 cm high near your feet.\n2. Place one foot on the box and extend the other leg up toward the ceiling.\n3. Rest a barbell across your hips and hold it securely with both hands.\n4. Drive through the planted heel to lift your hips until your torso forms a straight line to the working knee.\n5. Squeeze your glutes at the top, then lower your hips under control.\n6. Finish the set, switch sides, and Repeat.",
+  "tips": "1. Drive through the heel of the working foot to emphasize the glute.\n2. Keep your hips level; resist letting the free side drop.\n3. Brace your core to stop your torso from twisting.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "barbell_feet_elevated_staggered_glute_bridge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with both feet on a box about 30 cm high.\n2. Stagger your stance with one foot slightly forward and the other slightly back.\n3. Rest a barbell across your hips and grip it securely with both hands.\n4. Drive mainly through the forward heel to lift your hips until your torso forms a straight line to your knees.\n5. Squeeze your glutes at the top, then lower your hips under control.\n6. Finish the set, switch the lead leg, and Repeat.",
+  "tips": "1. Shift most of your weight onto the working leg; use the other as a kickstand.\n2. Keep your head, neck, and shoulders relaxed throughout.\n3. Brace your core to keep your pelvis stable.\n4. Pad the bar across your hips for comfort.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "barbell_floor_chest_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back on the floor with knees bent and feet flat.\n2. Grip a barbell slightly wider than shoulder-width and hold it above your chest.\n3. Lower the bar until your upper arms rest on the floor, elbows at about 45 degrees.\n4. Press the bar up until your arms are straight over your chest.\n5. Repeat.",
+  "tips": "1. Pause briefly when your elbows touch the floor to remove momentum.\n2. Keep your elbows at about 45 degrees to spare the shoulders.\n3. Drive with your chest and triceps to lock out the press.\n4. Exhale as you press up, inhale as you lower.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ }
+]

@@ -1,0 +1,139 @@
+[
+ {
+  "id": "dumbbell_seated_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with your back straight and feet flat on the floor.\n2. Hold a dumbbell in each hand at your sides, palms facing your body.\n3. Curl the dumbbells toward your shoulders, rotating your palms up as you bend your elbows.\n4. Squeeze your biceps at the top and hold for a second.\n5. Lower the dumbbells slowly to the start.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and do not swing.\n2. Exhale as you curl up, inhale as you lower.\n3. Control the lowering phase to keep tension on the biceps.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_seated_front_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit upright on a bench with your back supported and feet flat on the floor.\n2. Hold a dumbbell in each hand resting on your thighs, palms facing back.\n3. Raise both dumbbells in front of you with near-straight arms until they reach shoulder height.\n4. Lower the dumbbells slowly to the start.\n5. Repeat.",
+  "tips": "1. Keep a slight bend in your elbows throughout.\n2. Do not swing or use momentum.\n3. Exhale as you raise, inhale as you lower.\n4. Stop at shoulder height to keep tension on the front delts.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_seated_hammer_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit upright on a bench with your back supported and feet flat on the floor.\n2. Hold a dumbbell in each hand at your sides with a neutral grip, palms facing each other.\n3. Curl the dumbbells toward your shoulders, keeping your palms facing inward.\n4. Squeeze at the top with your elbows close to your body.\n5. Lower the dumbbells slowly to full extension.\n6. Repeat.",
+  "tips": "1. Keep your back against the bench for stability.\n2. Do not swing the weights or use momentum.\n3. Exhale as you curl up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_seated_kickback",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on the edge of a bench with feet flat on the floor.\n2. Hold a dumbbell in each hand and lean forward from your hips with a straight back.\n3. Raise your upper arms until they are parallel to the floor, elbows bent 90 degrees.\n4. Extend your elbows to straighten your arms behind you, keeping upper arms still.\n5. Squeeze your triceps, then bend your elbows back to the start.\n6. Repeat.",
+  "tips": "1. Keep your back straight and do not round your shoulders.\n2. Keep your upper arms fixed in place.\n3. Exhale as you extend, inhale as you return.\n4. Use a controlled motion and squeeze the triceps at full extension.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_seated_lateral_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with feet flat on the floor, holding a dumbbell in each hand at your sides.\n2. Keep a slight bend in your elbows.\n3. Raise both arms out to the sides until they reach shoulder height.\n4. Lower the dumbbells slowly to the start.\n5. Repeat.",
+  "tips": "1. Lift and lower with control, no momentum.\n2. Lead with your elbows, not your hands.\n3. Stop at shoulder height to keep tension on the side delts.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ }
+]

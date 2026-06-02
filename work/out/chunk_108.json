@@ -1,0 +1,93 @@
+[
+ {
+  "id": "dumbbell_goblet_curtsy_lunge",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet hip-width apart, holding a dumbbell vertically against your chest with both hands. Keep your elbows pointed down.\n2. Step your right foot behind and across to the outside of your left foot.\n3. Bend both knees and lower until your right knee almost touches the floor. Keep your chest up.\n4. Push through your left heel to return to the start.\n5. Switch sides and repeat.",
+  "tips": "1. Keep your hips and shoulders square to the front.\n2. Drive through the heel of the front foot to load the glutes.\n3. Brace your core to control the diagonal movement.\n4. Inhale as you lower, exhale as you stand up.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ]
+ },
+ {
+  "id": "dumbbell_goblet_split_squat",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Hold a dumbbell vertically against your chest with both hands, elbows down.\n2. Step your right foot forward into a split stance, left heel raised.\n3. Bend both knees and lower until your right thigh is about parallel to the floor.\n4. Keep your chest up and your right knee over your ankle.\n5. Push through your right heel to return to the start.\n6. Finish all reps on one side, then switch legs and repeat.",
+  "tips": "1. Keep your torso upright to load the quads.\n2. Lower under control until your back knee nearly touches the floor.\n3. Keep the front knee tracking over the toes.\n4. Brace your core to support the front-loaded weight.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "dumbbell_goblet_split_squat_front_foot_elevanted",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Hold a dumbbell vertically against your chest with both hands, elbows down.\n2. Place your right foot on a low step and extend your left leg back, heel raised.\n3. Bend the front knee and lower until your left knee nearly touches the floor.\n4. Keep your chest up and the front knee over your ankle.\n5. Push through your right heel to return to the start.\n6. Finish all reps on one side, then switch legs and repeat.",
+  "tips": "1. Use a step low enough to keep balance and control.\n2. Keep an upright torso to bias the quads.\n3. Drive through the front heel on the way up.\n4. Brace your core to control the deeper range.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "dumbbell_goblet_squat",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands. Keep your elbows down.\n2. Push your hips back and bend your knees, keeping your weight on your heels.\n3. Lower until your thighs are at least parallel to the floor, keeping the dumbbell close to your chest.\n4. Keep your chest up and your back neutral.\n5. Push through your heels and stand up, extending your hips at the top.\n6. Repeat.",
+  "tips": "1. Keep your knees tracking over your toes and not caving in.\n2. Keep the dumbbell tight to your chest to stay upright.\n3. Brace your core against the front load.\n4. Inhale as you descend, exhale as you stand.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "dumbbell_half_biceps_curl_for_21s",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand, palms facing forward, arms extended at your sides.\n2. Curl the dumbbells up to a 90-degree elbow angle for 7 reps.\n3. Curl from the 90-degree angle up to the top for 7 reps.\n4. Curl through the full range for 7 reps.\n5. Lower under control after each rep.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and your elbows at your sides.\n2. Do not swing or use momentum.\n3. Keep your wrists straight and aligned with your forearms.\n4. Exhale as you curl, inhale as you lower.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors", "Wrist Extensors"]}
+  ]
+ }
+]

@@ -1,0 +1,320 @@
+[
+ {
+  "id": "barbell_snatch_from_blocks",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set the barbell on blocks at knee height. Stand with feet shoulder-width apart, toes slightly out.\n2. Grip the bar wide with an overhand grip, hands wider than shoulder-width. Set a flat back and brace.\n3. Pull the bar off the blocks, keeping it close to your body.\n4. As the bar passes the hips, explosively extend hips, knees, and ankles and pull the bar upward.\n5. Drop under the bar into a squat and catch it overhead with arms locked out.\n6. Stand up with the bar overhead, then lower it back to the blocks. Repeat.",
+  "tips": "1. Drive hard through the legs and hips to launch the bar.\n2. Pull yourself under the bar fast to catch it in a stable overhead position.\n3. Keep the bar close to your body during the pull.\n4. Keep arms locked overhead and shoulders active in the catch.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi",
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_snatch_pull",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, toes slightly out, the bar over your mid-foot close to your shins.\n2. Grip the bar wide with an overhand grip, hands wider than shoulder-width. Set a flat back and brace.\n3. Lift the bar by extending hips and knees together, keeping it close to your body.\n4. As the bar passes the hips, explosively extend hips, knees, and ankles and pull the bar up to about abdomen height, driving the elbows up and out.\n5. Lower the bar under control by bending the hips and knees. Repeat.",
+  "tips": "1. Keep the bar close to your body for an efficient pull.\n2. Finish the pull with a full, aggressive hip extension.\n3. Lead the upward pull with the elbows, not the hands.\n4. Keep a flat back and braced core throughout.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_split_clean",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, toes slightly out, the bar over your mid-foot close to your shins.\n2. Grip the bar with an overhand grip slightly wider than shoulder-width. Set a flat back and brace.\n3. Lift the bar by extending hips and knees together, keeping it close to your body.\n4. As the bar passes the hips, explosively extend hips, knees, and ankles and pull the bar upward.\n5. Drop into a split stance, one foot forward and one back, and catch the bar on the shoulders with elbows pointing forward.\n6. Bring the feet back together, then lower the bar under control. Repeat.",
+  "tips": "1. Keep the bar close to your body throughout the pull.\n2. Drive hard through the legs and hips to launch the bar.\n3. Drop fast into the split stance to catch the bar securely.\n4. Keep the chest up and elbows high in the catch.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_split_jerk",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding the bar at shoulder height with an overhand grip slightly wider than shoulder-width.\n2. Keep the chest up, elbows slightly forward, and brace your core.\n3. Dip by bending the knees and hips a short distance.\n4. Explosively extend the knees and hips to drive the bar overhead.\n5. Split the feet into a lunge, one forward and one back, and catch the bar overhead with arms locked.\n6. Bring the feet back together, then lower the bar to the shoulders under control. Repeat.",
+  "tips": "1. Drive the bar up with the legs, not the arms.\n2. Keep the dip short and straight down.\n3. Split fast and lock the arms to catch in a stable position.\n4. Keep the torso upright and core braced throughout.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_split_squat",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place a barbell across your upper back and stand in a split stance, one foot forward and one back.\n2. Brace your core and keep your torso upright.\n3. Lower by bending both knees until the back knee nearly touches the floor and the front thigh is parallel to the floor.\n4. Keep the front knee tracking over the front foot.\n5. Push through the front heel to stand back up, extending both knees.\n6. Finish the set, then switch legs. Repeat.",
+  "tips": "1. Keep the front knee in line with the front foot.\n2. Move slowly and under control through both phases.\n3. Exhale as you stand, inhale as you lower.\n4. Keep the torso tall to load the quads, or lean slightly forward to load the glutes.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Soleus"
+    ]
+   }
+  ]
+ }
+]

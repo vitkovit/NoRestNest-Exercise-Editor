@@ -1,0 +1,96 @@
+[
+ {
+  "id": "tricep_cable_kickback_on_crossover_machine",
+  "name": "Tricep cable kickback on crossover machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with your feet shoulder-width apart, and set the cable at a low position. Hold the cable end in one hand and bend slightly forward at the hips, keeping your back straight and your knees slightly bent.\n2. Position your upper arm parallel to the floor with your elbow bent at a 90-degree angle, keeping your elbow close to your side.\n3. Extend your arm backward by straightening your elbow, keeping your upper arm stationary, and only moving your forearm.\n4. Slowly return to the starting position by bending your elbow. Repeat for the desired number of repetitions, then switch arms.",
+   "tips": "1. Focus on using your triceps to perform the extension, avoiding excessive use of your shoulders or back.\n2. Keep your upper arm stationary throughout the exercise to ensure proper form.\n3. Use a weight that allows you to maintain control and proper form throughout the exercise.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "triceps_dip_machine",
+  "name": "Triceps dip machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit down on the triceps dip machine and place your feet flat on the floor. Adjust the seat height so that your upper arms are parallel to the floor when you grasp the handles.\n2. Grip the handles firmly, keeping your elbows bent and close to your sides. Slightly lean your torso forward.\n3. Push the handles downward by straightening your elbows and extending your arms fully while keeping your upper arms stationary.\n4. Slowly return to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your sides throughout the exercise to ensure proper form.\n2. Avoid locking your elbows completely at the end of the movement to maintain tension in your triceps.\n3. Use a weight that allows you to maintain control and proper form throughout the exercise.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Chest"
+   ]
+  }
+ },
+ {
+  "id": "triceps_light_stretch",
+  "name": "Triceps light stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet shoulder-width apart and raise your right arm at chest height across your chest, bending your elbow.\n2. Use your left hand to gently grab your right elbow, pulling it across your chest to deepen the stretch in your triceps.\n3. Hold the stretch for 20-30 seconds, feeling a gentle stretch in your triceps.\n4. Release the stretch and repeat with your left arm. Perform the stretch for the desired number of repetitions.",
+   "tips": "1. Avoid twisting your torso; keep it stable and facing forward.\n2. Breathe deeply and steadily, relaxing into the stretch.\n3. Do not pull too hard; the stretch should be gentle and not cause pain.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "upper_back_stretch",
+  "name": "Upper back stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet shoulder-width apart and extend your arms straight out in front of you at shoulder height, rounding your upper back and pushing your hands forward.\n2. Lower both arms backward, bringing them to your sides just past behind your hips.\n3. Hold the stretch for 20-30 seconds, feeling a gentle squeeze in your upper back and shoulder blades. \n4. Release and repeat for the desired number of repetitions.",
+   "tips": "1. Breathe deeply and steadily, relaxing into the stretch.\n2. Avoid shrugging your shoulders up towards your ears; keep them relaxed.\n3. Do not overextend your arms; the stretch should be gentle and not cause pain.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Middle Back"
+   ]
+  }
+ },
+ {
+  "id": "upright_row_barbell",
+  "name": "Upright row barbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing down), hands placed shoulder-width apart. Allow the barbell to rest against your thighs with your arms fully extended.\n2. Pull the barbell upward along the front of your body by bending your elbows and lifting your upper arms.\n3. Continue lifting the barbell until it reaches chest height, keeping your elbows higher than your wrists throughout the movement.\n4. Slowly lower the barbell back to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Lead with your elbows to ensure proper muscle engagement and avoid wrist strain.\n2. Breathe steadily, exhaling as you lift the barbell and inhaling as you lower it back down.\n3. Avoid using momentum or swinging your body to lift the barbell.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps"
+   ]
+  }
+ }
+]

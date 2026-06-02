@@ -1,0 +1,94 @@
+[
+ {
+  "id": "dumbbell_seated_neutral_wrist_curl",
+  "name": "Dumbbell Seated Neutral Wrist Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor. Hold a dumbbell in each hand with a neutral grip (palms facing each other).\n2. Rest your forearms on your thighs with your wrists hanging over the edge of your knees.\n3. Begin with your wrists in a neutral position, then curl the dumbbells upward by flexing your wrists.\n4. Hold the contraction briefly at the top, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your forearms stationary on your thighs throughout the exercise.\n2. Focus on moving only your wrists; avoid using your arms to lift the weights.\n3. Choose a weight that allows for proper form and control.",
+   "primary": [
+    "Forearms"
+   ],
+   "secondary": [
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_seated_on_exercise_ball_shoulder_press",
+  "name": "Dumbbell seated on exercise ball shoulder press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on an exercise ball with your feet flat on the floor, hip-width apart. Hold a dumbbell in each hand at shoulder level with your palms facing forward.\n2. Press the dumbbells upward until your arms are fully extended above your head.\n3. Briefly hold the position at the top, then slowly lower the dumbbells back to shoulder level.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Exhale as you press the dumbbells up and inhale as you lower them.\n2. Use a controlled motion to prevent any jerking or swinging.\n3. Ensure your feet are firmly planted on the floor to maintain balance.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_seated_one_leg_calf_raise_hammer_grip",
+  "name": "Dumbbell Seated One Leg Calf Raise Hammer Grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your right forefoot on a weightplate. Hold a dumbbell in your right hand and place it on your right thigh near your knee.\n2. Push through your right forefoot to raise your heel as high as possible, lifting the dumbbell. Briefly hold this position, squeezing your calf muscle.\n3. Slowly lower your heel back to the starting position. Repeat for the desired number of repetitions, then switch to the left leg.",
+   "tips": "1. Fully extend and contract your calf muscle for a full range of motion.\n2. Keep your core engaged for balance.\n3. Avoid placing the dumbbell directly on your knee joint.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "None"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_seated_preacher_curl",
+  "name": "Dumbbell Seated Preacher Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your chest against the support pad and your feet flat on the floor. Hold a dumbbell in each hand with an underhand grip (palms facing up).\n2. Extend your arms fully over the preacher bench pad, allowing the dumbbells to hang down in front of you.\n3. Curl the dumbbells upward towards your shoulders by bending your elbows, keeping your upper arms stationary against the pad.\n4. Squeeze your biceps at the top of the movement, then slowly lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms pressed against the pad to isolate the biceps.\n2. Ensure your wrists remain straight and aligned with your forearms.\n3. Avoid locking your elbows at the bottom of the movement.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_seated_reverse_close_grip_press",
+  "name": "Dumbbell Seated Reverse Close Grip Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with back support, holding a dumbbell in each hand with a reverse grip (palms facing your body). Position the dumbbells near your shoulders, elbows bent and close to your torso.\n2. Press the dumbbells straight up until your arms are fully extended above your head, keeping your palms facing inward.\n3. Slowly lower the dumbbells back to the starting position in a controlled motion. \n4. Repeat for the desired repetitions.",
+   "tips": "1. Keep your back firmly against the bench to maintain stability.\n2. Use a controlled motion to press and lower the dumbbells to maximize muscle activation.\n3. Breathe steadily, exhaling as you press the dumbbells up and inhaling as you lower them.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back",
+    "Triceps"
+   ]
+  }
+ }
+]

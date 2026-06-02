@@ -1,0 +1,98 @@
+[
+ {
+  "id": "spider_curl_dumbbells_simultaneous",
+  "name": "Spider curl dumbbells simultaneous",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Set an incline bench at a 45-degree angle and lie face down, ensuring your chest is supported and your feet are firm on the floor. Hold a dumbbell in each hand with an underhand grip, hands shoulder-width apart.\n2. Let your arms hang straight down towards the floor, keeping your elbows slightly bent.\n3. Curl the dumbbells towards your shoulders by bending your elbows, keeping your upper arms stationary, and focusing on contracting your biceps.\n4. Slowly lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Use a full range of motion to fully engage the biceps.\n2. Ensure your elbows remain stationary and do not flare out during the movement.\n3. Adjust the weight of the dumbbells to provide enough challenge without compromising form.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "spider_curl_ez_bar",
+  "name": "Spider curl ez bar",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Set an incline bench at a 45-degree angle and lie face down, ensuring your chest is supported and your feet are firm on the floor. Hold an EZ bar with an underhand grip and hands shoulder-width apart.\n2. Let your arms hang straight down towards the floor, keeping your elbows slightly bent.\n3. Curl the EZ bar towards your shoulders by bending your elbows, keeping your upper arms stationary, and focusing on contracting your biceps.\n4. Slowly lower the EZ bar back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Use a full range of motion to fully engage the biceps.\n2. Ensure your elbows remain stationary and do not flare out during the movement.\n3. Adjust the weight of the barbell to provide enough challenge without compromising form.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "spider_plank",
+  "name": "Spider plank",
+  "sheet": "universal",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a standard plank position with your forearms on the floor, elbows directly under your shoulders, and your body forming a straight line from head to heels. Engage your core and keep your feet hip-width apart.\n2. Lift your right foot off the floor and bring your right knee towards your right elbow, keeping your hips level and your core tight.\n3. Return your right foot to the starting position, maintaining a stable plank position.\n4. Repeat the movement with your left leg, bringing your left knee towards your left elbow. Continue alternating legs for the desired duration or number of repetitions.",
+   "tips": "1. Breathe steadily throughout the exercise, exhaling as you bring your knee towards your elbow and inhaling as you return to the starting position.\n2. Focus on keeping your hips level and avoiding excessive torso rotation.\n3. Use a mat to cushion your forearms and feet for added comfort.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Glutes",
+    "Hip Flexors",
+    "Legs"
+   ]
+  }
+ },
+ {
+  "id": "standing_adductor_stretch",
+  "name": "standing adductor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward. Keep your hands to your hips.\n2. Shift your weight to your right leg, bending your right knee while keeping your left leg straight. Lean your torso slightly forward.\n3. Hold the stretch for 20-30 seconds, feeling a stretch along the inner thigh of your left leg.\n4. Return to the starting position and repeat the stretch on the other side by shifting your weight to your left leg and bending your left knee.",
+   "tips": "1. Ensure your bent knee does not extend past your toes to avoid unnecessary strain on the knee joint.\n2. Perform the stretch slowly and with control to maximize muscle flexibility and reduce injury risk.\n3. Gradually increase the depth of the stretch as your flexibility improves.",
+   "primary": [
+    "Adductors"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "standing_arnold_press_dumbbell",
+  "name": "Standing arnold press dumbbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height. Your palms should be facing backward, and your elbows should be bent.\n2. Begin to press the dumbbells overhead. As you press, rotate your palms so they face forward at the top of the movement.\n3. Fully extend your arms at the top, ensuring your biceps are near your ears.\n4. Slowly lower the dumbbells back to the starting position by rotating your palms back towards your shoulders. Repeat for the desired number of repetitions.",
+   "tips": "1. Rotate your wrists smoothly during the pressing and lowering phases to avoid strain.\n2. Breathe steadily, exhaling as you press the weights up and inhaling as you lower them back down.\n3. Focus on the full range of motion to engage all parts of the shoulder muscles effectively.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Chest",
+    "Triceps"
+   ]
+  }
+ }
+]

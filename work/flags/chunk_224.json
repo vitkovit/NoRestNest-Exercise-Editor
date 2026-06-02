@@ -1,0 +1,5 @@
+[
+ {"id": "alternate_leg_raise", "issue": "Primary hip flexor is iliopsoas; mapped to 'Abductor' bucket per vocabulary rule (Hip Flexors with no knee extension -> Abductor/iliopsoas). No dedicated hip-flexor bucket exists."},
+ {"id": "alternate_leg_raise_from_reverse_plank_position", "issue": "Triceps and posterior deltoid are isometric arm stabilizers in the reverse plank hold; included as secondary but activation is support-only."},
+ {"id": "alternate_oblique_crunch", "issue": "Hip flexors (iliopsoas) act as secondary; mapped to 'Abductor' bucket due to no hip-flexor bucket."}
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "id": "dumbbell_bulgarian_split_squat",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand about 60 cm in front of a bench, holding a dumbbell in each hand at your sides.\n2. Place the top of one foot on the bench behind you.\n3. Lower your body by bending your front knee until your front thigh is parallel to the floor.\n4. Push through your front heel to stand back up, keeping your torso upright.\n5. Finish all reps on one side, switch legs.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and your front knee tracking over your toes.\n2. Drive through the front heel, not the back foot.\n3. Brace your core to stay balanced through the whole rep.\n4. Start light to master balance before adding load.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "dumbbell_chest_press_decline",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a decline bench with your feet secured under the footpads.\n2. Hold a dumbbell in each hand with arms extended above your chest.\n3. Lower the dumbbells slowly to your chest, keeping your upper arms at about 45 degrees to your body.\n4. Press the dumbbells back up by straightening your arms.\n5. Repeat.",
+  "tips": "1. Keep your feet locked under the pads to stay stable.\n2. Move under control, no bouncing off the chest.\n3. Inhale as you lower, exhale as you press.\n4. Drive the dumbbells slightly inward at the top to load the lower chest.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "dumbbell_chest_press_flat",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on a bench with your feet firmly on the floor.\n2. Hold a dumbbell in each hand with arms extended above your chest.\n3. Lower the dumbbells slowly to your chest, keeping your upper arms at about 45 degrees to your body.\n4. Press the dumbbells back up by straightening your arms.\n5. Repeat.",
+  "tips": "1. Keep your feet flat and your upper back tight on the bench.\n2. Move under control, no jerking.\n3. Inhale as you lower, exhale as you press.\n4. Keep your wrists stacked over your elbows.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "dumbbell_chest_press_incline_bench",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set the bench to a 30 to 45 degree incline and sit back with feet flat on the floor.\n2. Hold a dumbbell in each hand with arms extended above your upper chest.\n3. Lower the dumbbells slowly to chest level, keeping your upper arms at about 45 degrees to your body.\n4. Press the dumbbells back up by straightening your arms.\n5. Repeat.",
+  "tips": "1. Use a 30 to 45 degree incline to target the upper chest.\n2. Keep your upper back and hips against the bench.\n3. Move under control through the full range.\n4. Inhale as you lower, exhale as you press.",
+  "primary": [
+   {"group": "chest", "latins": ["Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "dumbbell_chest_pull_over",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie crosswise on a bench with your upper back supported and feet flat on the floor.\n2. Hold one dumbbell with both hands above your chest, elbows slightly bent.\n3. Lower the dumbbell in an arc over and behind your head until you feel a stretch.\n4. Pull the dumbbell back over your chest along the same arc.\n5. Repeat.",
+  "tips": "1. Keep a firm two-hand grip on the dumbbell.\n2. Stop the descent when you feel a stretch, do not overstretch the shoulders.\n3. Keep a slight, fixed bend in your elbows throughout.\n4. Brace your core to keep your hips steady.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "mid back", "latins": ["Rhomboids"]}
+  ]
+ }
+]

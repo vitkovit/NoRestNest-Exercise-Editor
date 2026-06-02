@@ -1,0 +1,100 @@
+[
+ {
+  "id": "bottoms_up_half_rep",
+  "name": "Bottoms-up half rep",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs extended just off the floor and your arms resting on the floor by your sides.\n2. Bend your knees towards your chest, stopping when your upper legs are vertical to the floor.\n3. Lower your legs back down without letting them touch the floor.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and support your lower back.\n2. Perform the movement slowly and with control to maximize muscle activation and prevent injury.\n3. Focus on using your lower abdominal muscles to lift and lower your legs.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "bouncing_circle_draw",
+  "name": "Bouncing circle draw",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, legs slightly bent, and your hands lightly bent in front of your hips.\n2. Slowly straighten your legs while simultaneously drawing circles with your hands, moving them outward and upward.\n3. Encircle your hands inward, bringing them close together and downward as you bend your knees back to the starting position.\n4. Repeat the movement for the desired number of repetitions or duration.",
+   "tips": "1. Maintain a slight bend in your knees throughout the exercise to reduce strain on your joints.\n2. Keep your shoulders relaxed to avoid tension and enhance fluidity in your movements.\n3. Focus on maintaining a consistent rhythm with both the leg movements and the circular hand motions.",
+   "primary": [
+    "Quadriceps",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Calves",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "bouncing_inner_thigh_tap",
+  "name": "Bouncing inner thigh tap",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms extended by your sides at shoulder level.\n2. Rotate your torso to touch the inside of your right thigh with your left hand, slightly bending your knees as you do so.\n3. Return to the starting position and repeat the movement on the opposite side, rotating your torso to touch the inside of your left thigh with your right hand, slightly bending your knees.\n4. Continue alternating sides for the desired number of repetitions or duration.",
+   "tips": "1. Keep your gaze forward to help maintain balance and proper alignment.\n2. Engage your core muscles to support the rotational movement and protect your lower back.\n3. Perform the exercise at a controlled pace to ensure proper form and muscle engagement.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "box_jump",
+  "name": "Box jump",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart in front of a box.\n2. Bend your knees and hips, swinging your arms back to prepare for the jump.\n3. Explosively jump onto the box, landing softly with both feet.\n4. Stand up fully on the box before stepping or jumping back down to the starting position.",
+   "tips": "1. Focus on landing softly to reduce impact on your joints.\n2. Engage your core throughout the jump to maintain stability and control.\n3. Use your arms to generate momentum and help propel your body upward.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "box_jump_squats",
+  "name": "Box jump squats",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart in front of a box.\n2. Bend your knees and hips, swinging your arms back to prepare for the jump.\n3. Explosively jump onto the box, landing softly in a squat position.\n4. Jump back down to the floor, returning to the starting position and repeat.",
+   "tips": "1. Focus on landing softly to reduce impact on your joints.\n2. Engage your core throughout the jump to maintain stability and control.\n3. Use your arms to generate momentum and help propel your body upward.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Calves"
+   ]
+  }
+ }
+]

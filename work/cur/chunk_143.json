@@ -1,0 +1,231 @@
+[
+ {
+  "id": "dumbbell_split_squat",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand upright holding a dumbbell in each hand at your sides.\n2. Step one foot forward and the other foot back into a split stance, feet hip-width apart.\n3. Lower straight down by bending both knees until the front thigh is parallel to the floor and the back knee hovers just above it.\n4. Push through the front heel to stand back up to the split stance.\n5. Finish all reps on one side, then switch legs. Repeat.",
+  "tips": "1. Keep your torso upright and brace your core throughout.\n2. Drive through the front heel, not the toes.\n3. Keep the front knee tracking over the middle of the foot.\n4. Lower under control instead of dropping into the bottom.",
+  "name": "Dumbbell Split Squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_squats",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.\n2. Keep your chest up and brace your core.\n3. Push your hips back and bend your knees to lower into a squat.\n4. Descend until your thighs are parallel to the floor, keeping weight on your heels.\n5. Drive through your heels to stand back up and squeeze your glutes at the top. Repeat.",
+  "tips": "1. Keep your feet flat and weight on your heels.\n2. Let your knees track in line with your toes.\n3. Keep your chest up so the torso does not collapse forward.\n4. Control the descent rather than dropping down.",
+  "name": "Dumbbell squats",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_squats_to_shoulder_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell at each shoulder, palms facing each other.\n2. Bend your knees and hips to lower into a squat until your thighs are parallel to the floor.\n3. Drive through your heels to stand up.\n4. As you reach standing, press both dumbbells overhead until your arms are fully extended.\n5. Lower the dumbbells back to your shoulders and descend into the next squat. Repeat.",
+  "tips": "1. Time the press to start as your legs finish extending.\n2. Brace your core to keep the torso upright during the squat.\n3. Exhale as you press overhead, inhale as you squat.\n4. Keep your knees tracking over your toes.",
+  "name": "Dumbbell squats to shoulder press",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_standing_alternate_overhead_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell at each shoulder, palms facing each other.\n2. Press the right dumbbell overhead until the arm is fully extended.\n3. Lower the right dumbbell back to shoulder height.\n4. Press the left dumbbell overhead until the arm is fully extended, then lower it back.\n5. Continue alternating sides. Repeat.",
+  "tips": "1. Brace your core to resist leaning or twisting toward the working side.\n2. Keep your ribs down and avoid arching your lower back.\n3. Press in a controlled line, not a jerk.\n4. Exhale on the press, inhale on the way down.",
+  "name": "Dumbbell Standing Alternate Overhead Press",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_standing_alternate_raise",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a dumbbell in each hand, arms at your sides and palms facing back.\n2. Raise the right dumbbell straight in front of you to shoulder height, keeping a slight bend in the elbow.\n3. Lower the right dumbbell back to your side under control.\n4. Raise the left dumbbell to shoulder height, then lower it back.\n5. Continue alternating sides. Repeat.",
+  "tips": "1. Use a controlled motion and do not swing the weight.\n2. Keep your torso still and avoid leaning back.\n3. Stop the raise at shoulder height.\n4. Keep a steady neutral neck, eyes forward.",
+  "name": "Dumbbell Standing Alternate Raise",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

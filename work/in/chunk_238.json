@@ -1,0 +1,89 @@
+[
+ {
+  "id": "barbell_hang_clean",
+  "name": "Barbell Hang Clean",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_jefferson_squat",
+  "name": "Barbell jefferson squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, positioning yourself so that the barbell is between your legs. Grip the barbell with one hand in front of you and one hand behind you, using an overhand grip for the front hand and an underhand grip for the back hand.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body until your thighs are parallel to the floor.\n3. Push through your heels to return to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on even weight distribution between both legs to ensure balanced muscle activation.\n2. Use your glutes and hamstrings to power the upward phase of the squat.\n3. Keep your grip firm but relaxed to prevent unnecessary tension in your arms and shoulders.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_jump_shrug",
+  "name": "Barbell Jump Shrug",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_jump_squat",
+  "name": "Barbell jump squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body until your thighs are parallel to the floor.\n3. Explosively push through your heels to jump straight up, extending your hips and knees fully to jump.\n4. Land softly on your forefeet, immediately bending your knees and hips to absorb the impact and lower back into the squat position. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure the barbell remains steady on your back to prevent it from shifting during the exercise.\n2. Keep your knees aligned with your toes to avoid knee injuries.\n3. Start with a lighter weight to master the form and technique before progressing to heavier loads.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_kas_glute_bridge",
+  "name": "Barbell KAS glute bridge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor with your upper back resting against a box, knees bent, and feet flat on the floor. Place a barbell across your hips, holding it securely with both hands.\n2. Push through your heels to lift your hips off the floor until your body forms a straight line from your shoulders to your knees. Your upper back should remain on the bench.\n3. Squeeze your glutes at the top of the movement and hold for a brief moment, ensuring your hips are fully extended.\n4. Lower your hips back to the starting position with control, stopping just before your glutes touch the floor. Repeat for the desired number of repetitions.",
+   "tips": "1. Drive through your heels to engage your glutes and hamstrings effectively.\n2. Ensure your knees stay in line with your toes and do not flare out or cave inward.\n3. Breathe steadily, exhaling as you lift your hips and inhaling as you lower them back down.\n4. Use a pad or towel on the barbell for added comfort on your hips.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ }
+]

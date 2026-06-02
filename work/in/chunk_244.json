@@ -1,0 +1,88 @@
+[
+ {
+  "id": "cable_cross_pushdown",
+  "name": "Cable Cross Pushdown",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "cable_goblet_squat",
+  "name": "Cable Goblet Squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "cable",
+   "tracking_mode": "",
+   "instructions": "1. Stand upright facing the cable machine with your feet shoulder-width apart, holding a bar attachment with both hands at chest level with elbows facing the floor.\n2. Begin squatting by bending your hips and knees, descend into a deep squat until your thighs are parallel to the ground or lower.\n3. Push through your heels to return to the starting position.\n4. Repeat for the desired repetitions.",
+   "tips": "1. Keep your elbows pointed down and tucked in to stabilize the bar during the squat.\n2. Engage your core to protect your lower back and maintain balance.\n3. Ensure your knees track in line with your toes as you descend.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_hamstring_curl",
+  "name": "Cable Hamstring Curl",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "cable",
+   "tracking_mode": "",
+   "instructions": "1. Attach an ankle strap to a low pulley and secure it around your working ankle, then stand upright facing the machine and hold onto a stable surface or clasp your hands together for balance.\n2. Keep your upper body stationary and your knees aligned as you slowly bend your working knee, curling your foot up toward your glutes.\n3. Pause briefly at the top of the movement, focusing on squeezing your hamstring.\n4. Lower your foot back down to the starting position with control and repeat for the desired number of repetitions before switching legs.",
+   "tips": "1. Squeeze your hamstring at the top of the curl for peak contraction.\n2. Adjust the weight appropriately to maintain proper form throughout the set.\n3. Maintain a slight bend in your standing leg for better stability.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "cable_individual_glute_kickbacks",
+  "name": "Cable Individual Glute Kickbacks",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "cable",
+   "tracking_mode": "",
+   "instructions": "1. Attach an ankle strap to a low pulley on a cable machine and secure it around one ankle. Stand facing the machine and hold onto the handles or frame for support while keeping your torso leaning slightly forward.\n2. Engage your core and shift your weight onto the stationary leg while slightly bending the knee of the supporting leg.\n3. Extend the strapped leg straight back in a controlled motion, squeezing your glute at the top without hyperextending your lower back.\n4. Slowly return your leg to the starting position without letting the weight stack touch, and repeat for the desired number of repetitions before switching sides.",
+   "tips": "1. Perform each repetition with slow and controlled motion to maximize glute engagement.\n2. Avoid swinging your leg or using momentum to lift the weight.\n3. Focus on squeezing the glute at the top of the movement for better muscle activation.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Core",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_lat_prayer",
+  "name": "Cable Lat Prayer",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

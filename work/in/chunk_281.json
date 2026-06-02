@@ -1,0 +1,92 @@
+[
+ {
+  "id": "seated_leg_extension_alternate_legs",
+  "name": "Seated leg extension_alternate legs",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the leg extension machine. Position both feet under the padded lever, with the lever resting just above your ankles.\n2. Grip the handles on the sides of the machine for support. Engage your core and keep your back pressed firmly against the backrest.\n3. Extend your right leg by pushing the padded lever upward, straightening your knee, then slowly lower the lever to the starting position.\n4. Immediately repeat the movement with your left leg. Alternate between right and left legs for the desired number of repetitions.",
+   "tips": "1. Avoid locking your knees at the top of the movement to reduce strain on your joints.\n2. Keep your back pressed firmly against the backrest to maintain proper form.\n3. Exhale as you extend your legs and inhale as you lower them back down.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "seated_leg_extension_both_legs",
+  "name": "Seated leg extension_both legs",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the leg extension machine. Position your feet under the padded lever, with the lever resting just above your ankles.\n2. Grip the handles on the sides of the machine for support. Engage your core and keep your back pressed firmly against the backrest.\n3. Extend your legs by pushing the padded lever upward, straightening your knees, then slowly lower the lever to the starting position.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid locking your knees at the top of the movement to reduce strain on your joints.\n2. Keep your back pressed firmly against the backrest to maintain proper form.\n3. Exhale as you extend your legs and inhale as you lower them back down.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "seated_machine_hip_adductor",
+  "name": "Seated machine hip adductor",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on a hip abductor machine with your back straight, knees open wide and bent, and feet on the footrests.\n2. Set the padded bars against the inner sides of your knees.\n3. Close your knees to bring the bars together.\n4. As the bars come together, return to the initial position and repeat.",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_basic_pull",
+  "name": "Ski Ergometer Cross Country Ski Basic Pull",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in front of the ski ergometer machine with your feet shoulder-width apart, holding the handles with both hands.\n2. Begin by pulling both handles down towards your thighs simultaneously, extending your elbows while pushing your hips back, bending your knees, and leaning your torso forward.\n3. Bring your arms back up to the starting position in a controlled manner.\n4. Continue pulling the handles down at a consistent pace for the desired duration or number of repetitions.",
+   "tips": "1. Breathe steadily and rhythmically to maintain oxygen flow during the exercise.\n2. Focus on using both your arms and legs to distribute the effort evenly and delay fatigue.\n3. Adjust the resistance level if needed to provide a challenging but manageable workout.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Middle Back",
+    "Arms",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_face_biceps_curl_pull",
+  "name": "Ski Ergometer Cross Country Ski Face Biceps Curl Pull",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in front of the ski ergometer machine with your feet shoulder-width apart, holding the handles with both hands, palms facing each other. Engage your core and maintain an upright posture.\n2. Begin by pulling both handles towards your face in a curl motion, bending your elbows, and keeping your upper arms stationary.\n3. Squeeze your biceps at the top of the movement, ensuring the handles reach close to your face.\n4. Extend your arms back to the starting position with control, maintaining a steady rhythm. Repeat the movement for the desired duration or number of repetitions.",
+   "tips": "1. Maintain a steady pace to ensure consistent tension on the muscles.\n2. Use a weight or resistance level that provides enough challenge without compromising form.\n3. Keep your upper arms stationary and avoid using your shoulders to lift the handles.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ }
+]

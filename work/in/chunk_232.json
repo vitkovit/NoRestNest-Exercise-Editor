@@ -1,0 +1,98 @@
+[
+ {
+  "id": "band_horizontal_shrug",
+  "name": "Band Horizontal Shrug",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach one end of a loop resistance band to a sturdy anchor point at head height. Stand facing the band with your feet shoulder-width apart. Hold the other end of the band with your arms extended straight forward.\n2. Pull your shoulders backward in a horizontal shrugging motion, squeezing your shoulder blades together at the peak of the movement.\n3. Slowly release the tension in the band, returning to the starting position.\n4. Repeat the movement for the desired repetitions",
+   "tips": "1. Focus on using your upper back and shoulders for the shrugging motion, avoiding any arm bending.\n2. Breathe steadily, exhaling as you shrug and inhaling as you return to the starting position.\n3. Use a controlled motion to ensure proper form and maximize muscle activation.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "band_kneeling_single_arm_high_row",
+  "name": "Band Kneeling Single Arm High Row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a loop resistance band to a sturdy anchor point above head height. Kneel on your right knee, with the opposite foot flat on the ground for balance. Hold one end of the band with your right arm and keep it fully extended.\n2. Pull the band down towards your torso by bending your elbow and squeezing your shoulder blade.\n3. Slowly return to the starting position, extending your arm fully while maintaining control.\n4. Repeat for the desired repetitions, then switch sides.",
+   "tips": "1. Use a controlled motion to pull and release the band, avoiding jerking movements.\n2. Breathe steadily, exhaling as you pull the band and inhaling as you return to the starting position.\n3. Focus on squeezing your shoulder blade at the top of the movement to maximize back activation.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Rear Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "band_leg_press",
+  "name": "Band Leg Press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a resistance band at a low-mid point on sturdy equipment. Lie on your back facing the extended cable passing over your torso, and attach your right ankle to the band using a cuff.\n2. Bend your right knee and pull it toward your chest, while the other leg stays extended and relaxed on the floor.\n3. Press your foot forward against the resistance, straightening your leg fully without locking the knee.\n4. Return slowly to the starting position. Repeat for the desired repetitions, switch legs, and repeat.",
+   "tips": "1. Engage your core to stabilize your body during the motion.\n2. Adjust your body’s distance from the anchor to maintain consistent tension.\n3. Ensure the band or cable has tension at the start of the movement.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "band_pull_up",
+  "name": "Band Pull Up",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Securely loop a resistance band around a pull-up bar. Place one or both feet into the bottom of the loop band. Grip the pull-up bar with your hands slightly wider than shoulder-width apart, palms facing forward.\n2. Start in a dead hang position with your arms fully extended.\n3. Pull yourself upward by bending your elbows and driving them down towards your sides, bringing your chin above the bar.\n4. Lower yourself back to the starting position with control. Repeat for the desired repetitions.",
+   "tips": "1. Breathe steadily, exhaling as you pull up and inhaling as you lower yourself.\n2. Adjust the resistance band to match your strength level. Thicker bands provide more assistance.\n3. Avoid using momentum; focus on pulling with your back and arms.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "band_pullthrough",
+  "name": "Band Pullthrough",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing away from the anchor point with your feet shoulder-width apart and the resistance band passing between your legs, held securely with both hands in front of you. Keep your knees slightly bent and your spine neutral. \n2. Push your hips back while hinging at the hips, allowing your hands to move between your legs as the band stretches. Maintain a flat back and keep your arms extended.\n3. Drive your hips forward by squeezing your glutes and return to a fully upright position while keeping your arms straight and the band under tension.\n4. Pause briefly at the top with your glutes fully contracted, then repeat for the desired number of repetitions.",
+   "tips": "1. Keep your spine neutral and avoid rounding your back throughout the movement.\n2. Focus on hinging at the hips rather than squatting down.\n3. Maintain a slight bend in your knees throughout the exercise.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Core"
+   ]
+  }
+ }
+]

@@ -1,0 +1,95 @@
+[
+ {
+  "id": "hammer_strength_plate_loaded_high_row_single_arm",
+  "name": "Hammer Strength Plate Loaded High Row Single Arm",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the Hammer Strength Plate Loaded High Row machine with your feet flat on the floor and your chest pressed against the chest pad. Grasp the handles with both hands, palms facing forward.\n2. Pull the right handle towards your torso by bending your elbow and squeezing your shoulder blade back, while keeping the other arm extended.\n3. Squeeze your back muscles at the end of the movement and slowly return the handle to the starting position with control.\n4. Repeat with the same arm for the desired number of repetitions and then switch to your left arm and repeat.",
+   "tips": "1. Keep your chest pressed against the pad and your back straight throughout the exercise.\n2. Focus on engaging your back muscles throughout the movement.\n3. Exhale as you pull the handle towards your torso and inhale as you return it to the starting position.",
+   "primary": [
+    "Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "hamstring_lying_curl_up_stretch",
+  "name": "Hamstring lying curl up stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs extended and your arms at your sides.\n2. Bend your right knee and bring it towards your chest until thigh is vertical to the floor, interlacing your fingers behind your thigh.\n3. Slowly straighten your right leg, extending your heel towards the ceiling and feeling the stretch in your hamstring. Keep your left leg extended and flat on the floor.\n4. Hold the stretch for 15-30 seconds, then slowly bend your right knee and lower your leg back to the starting position. Repeat on the left side.",
+   "tips": "1. Keep your lower back pressed into the floor to maintain proper alignment and support.\n2. Engage your core to stabilize your body and prevent your back from arching.\n3. Move slowly and with control to maximize the stretch and avoid any sudden movements.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "hamstring_lying_straight_leg_stretch",
+  "name": "Hamstring lying straight leg stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your back with your legs extended and your arms at your sides.\n2. Lift your right leg towards the ceiling, keeping it straight. Use both hands to gently hold the back of your right leg, just below the knee or higher if possible.\n3. Pull your right leg gently towards your torso, feeling the stretch in your hamstring. Keep your left leg extended and flat on the floor.\n4. Hold the stretch for 15-30 seconds, then slowly lower your right leg back to the starting position. Repeat on the left side.",
+   "tips": "1. Move slowly and with control to maximize the stretch and avoid any sudden movements.\n2. Perform the stretch on a comfortable surface, such as a yoga mat, to prevent discomfort or injury.\n3. Only stretch as far as is comfortable without causing pain or discomfort.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "handstand_push_on_chair",
+  "name": "Handstand push on chair",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing a sturdy chair against a wall for stability. Position yourself in front of the chair, with your back facing it.\n2. Place your hands on the floor slightly wider than shoulder-width apart, about a foot away from the chair. Kick up into a handstand position, with your feet resting on the seat of the chair.\n3. Slowly lower your head towards the floor by bending your elbows, keeping your body straight and your core engaged.\n4. Push through your hands to extend your arms and return to the starting handstand position. Repeat for the desired number of repetitions.",
+   "tips": "1. Engage your core throughout the exercise to maintain stability and prevent arching your back.\n2. Keep your movements slow and controlled to maximize muscle engagement and prevent injury.\n3. Focus on steady breathing, exhaling as you push up and inhaling as you lower down.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "hanging_knee_raises",
+  "name": "Hanging knee raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Hang from a pull-up bar with your hands shoulder-width apart, palms facing forward or towards each other. Allow your body to hang straight with your feet off the floor.\n2. Engage your core and, keeping your legs together, bend your knees and lift them towards your chest.\n3. Raise your knees as high as comfortably possible, aiming to bring them towards your chest.\n4. Slowly lower your legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid swinging your body; use controlled movements to lift and lower your legs.\n2. Focus on steady breathing, exhaling as you lift your knees and inhaling as you lower them.\n3. Ensure your grip on the bar is secure to prevent slipping.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ }
+]

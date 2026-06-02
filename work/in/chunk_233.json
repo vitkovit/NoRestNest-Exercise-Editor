@@ -1,0 +1,89 @@
+[
+ {
+  "id": "band_single_arm_overhead_press",
+  "name": "Band Single Arm Overhead Press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart and place one end of the resistance band securely under your foot of the working side. Hold the other end of the band in your working hand at shoulder height, palm facing inward.\n2. Press the band overhead by fully extending your arm, keeping your wrist straight and elbow slightly bent at the top.\n3. Slowly lower the band back to the starting position, maintaining control. \n4. Repeat the movement for the desired repetitions, then switch sides.",
+   "tips": "1. Use a controlled motion to press and lower the band to maximize muscle activation.\n2. Breathe steadily, exhaling as you press the band up and inhaling as you return to the starting position.\n3. Ensure the band is securely anchored under your foot to prevent slipping.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Upper Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "band_single_arm_pec_fly",
+  "name": "Band Single Arm Pec Fly",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a resistance band to a sturdy anchor point at chest height. Stand facing away from the anchor point, holding the handle of the band in your working hand with your arm extended out to the side, palm facing forward.\n2. Keep your feet shoulder-width apart, knees slightly bent, and your chest engaged.\n3. Pull the band in an arc motion, bringing your hand towards the center of your chest.\n4. Slowly return your arm to the starting position. Repeat the movement for the desired number of repetitions, then switch sides.",
+   "tips": "1. Engage your core to stabilize your body and prevent unnecessary movement.\n2. Use a controlled motion to pull and return the band, preventing any jerking movements.\n3. Breathe steadily, exhaling as you pull the band across your body and inhaling as you return to the starting position.\n4. Keep your elbow slightly bent throughout the movement to avoid joint strain.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "band_spanish_split_squat",
+  "name": "Band Spanish Split Squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in a split stance with your left leg forward and the other leg behind you, facing sturdy equipment. Loop a resistance band around your left leg, just under the knee, and anchor it in front of you at knee level.\n2. Hold your hands together in front of your chest and keep your torso upright.\n3. Lower your body straight down by bending both knees until your left thigh is parallel to the floor.\n4. Push through the heel of your left foot to return to the starting position. Repeat for the desired repetitions, switch legs, and repeat.",
+   "tips": "1. Keep your torso upright and avoid leaning forward during the movement.\n2. Drive through the heel of your front foot for better glute and quad engagement.\n3. Adjust the band tension before starting to ensure proper resistance.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves",
+    "Abdominals"
+   ]
+  }
+ },
+ {
+  "id": "band_squat_row",
+  "name": "Band Squat Row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "band_triceps_pushdown_single_arm",
+  "name": "Band Triceps Pushdown Single Arm",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "barbell_rack_pull",
+  "name": "Barbell rack pull",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Position a barbell on a rack set to just below knee height. Stand with your feet hip-width apart, and grip the barbell with an overhand grip (palms facing your body), hands slightly wider than shoulder-width apart.\n2. Begin the lift by driving through your heels, extending your hips and knees to lift the barbell.\n3. Pull the barbell up your legs until you reach a standing position with your shoulders back and hips fully extended. Keep the barbell close to your body throughout the movement.\n4. Lower the barbell back to the rack with control by hinging at your hips and bending your knees. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep the barbell close to your body to ensure an efficient and powerful lift.\n2. Focus on engaging your glutes and hamstrings during the hip extension.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Glutes",
+    "Hamstrings",
+    "Middle Back",
+    "Lower Back"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_rear_delt_raise",
+  "name": "Barbell rear delt raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell behind your glutes with an overhand grip (palms facing back), hands slightly wider than shoulder-width apart. Keep your back straight and your core engaged.\n2. Engage your rear deltoids and lift the barbell upward behind your back by raising your elbows.\n3. Lower the barbell back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.\n2. Breathe steadily, exhaling as you lift the barbell and inhaling as you lower it back down.\n3. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Deltoids"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_rear_lunge_on_box",
+  "name": "Barbell rear lunge on box",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand on a sturdy box with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Step one foot backward off the box, lowering your body into a lunge position. Your front knee should be directly over your ankle, and your back knee should hover just above the floor.\n3. Push through the heel of your front foot to return to the starting position on the box, bringing your back foot forward to meet your front foot.\n4. Repeat the movement with the opposite leg, alternating legs for the desired number of repetitions.",
+   "tips": "1. Keep your front knee aligned with your toes to avoid placing undue stress on your knee joint.\n2. Lower your body with control to maximize muscle engagement and prevent injury.\n3. Focus on driving through your front heel to engage your glutes and quadriceps effectively.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_rear_lunges",
+  "name": "Barbell rear lunges",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Step one foot backward, lowering your body into a lunge position. Your front knee should be directly over your ankle, and your back knee should hover just above the floor.\n3. Push through the heel of your front foot to return to the starting position, bringing your back foot forward to meet your front foot.\n4. Repeat the movement with the opposite leg, alternating legs for the desired number of repetitions.",
+   "tips": "1. Keep your front knee aligned with your toes to avoid placing undue stress on your knee joint.\n2. Lower your body with control to maximize muscle engagement and prevent injury.\n3. Focus on driving through your front heel to engage your glutes and quadriceps effectively.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_reverse_biceps_curl",
+  "name": "Barbell reverse biceps curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip, hands slightly wider than shoulder-width apart. Let the barbell hang at arm's length in front of your thighs.\n2. Curl the barbell upwards towards your shoulders by bending your elbows. \n3. Squeeze your forearms and biceps at the top of the movement, ensuring the barbell reaches shoulder height.\n4. Lower the barbell back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your body and avoid swinging your arms to ensure proper form.\n2. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.\n3. Ensure a firm grip on the barbell to maintain control and proper alignment.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

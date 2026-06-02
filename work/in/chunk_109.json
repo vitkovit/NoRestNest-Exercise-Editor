@@ -1,0 +1,94 @@
+[
+ {
+  "id": "dumbbell_half_kneeling_military_press",
+  "name": "Dumbbell half kneeling military press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a half-kneeling position with your right knee on the floor and left foot flat on the floor in front of you. Hold a dumbbell in each hand at shoulder level with your palms facing forward.\n2. Engage your core and press both dumbbells upward until your arms are fully extended overhead.\n3. Slowly lower the dumbbells back to shoulder level with control, maintaining a steady motion.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your gaze forward and your neck in a neutral position.\n2. Exhale as you press the dumbbells up and inhale as you lower them.\n3. Ensure your front knee remains aligned over your ankle to maintain balance.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_hammer_curl",
+  "name": "Dumbbell Hammer Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing your torso). Let your arms hang straight down at your sides.\n2. Curl the dumbbell in your right hand upward towards your shoulder by bending your elbow, focusing on engaging your biceps.\n3. Squeeze your biceps at the top of the movement, ensuring the dumbbell reaches shoulder height.\n4. Lower the dumbbell back to the starting position with control, fully extending your arm. Repeat the movement with your left arm.",
+   "tips": "1. Avoid using momentum; focus on a controlled motion.\n2. Keep your back straight and core engaged to prevent swaying.\n3. Maintain a neutral wrist position to reduce strain on your joints.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_hammer_curl_simultaneous_arms",
+  "name": "Dumbbell Hammer Curl Simultaneous Arms",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing your torso). Let your arms hang straight down at your sides.\n2. Simultaneously curl both dumbbells upward towards your shoulders by bending your elbows, focusing on engaging your biceps and forearms.\n3. Squeeze your biceps at the top of the movement, ensuring the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; focus on a controlled motion.\n2. Keep your back straight and core engaged to prevent swaying.\n3. Maintain a neutral wrist position to reduce strain on your joints.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_hammer_grip_incline_bench_two_arm_row",
+  "name": "Dumbbell Hammer Grip Incline Bench Two Arm Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Adjust an incline bench to a 45-degree angle. Lie face down on the bench with your feet firmly on the floor. Hold a dumbbell in each hand using a hammer grip (palms facing each other).\n2. Let your arms hang straight down toward the floor, fully extended, with your elbows slightly bent.\n3. Pull the dumbbells towards your torso by bending your elbows and squeezing your shoulder blades together.\n4. Pause briefly at the top of the movement, then slowly lower the dumbbells back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; perform the movement in a slow and controlled manner.\n2. Exhale as you pull the dumbbells towards your torso and inhale as you lower them.\n3. Keep your feet firmly planted on the floor for stability.",
+   "primary": [
+    "Upper Back",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_hammer_preacher_curl_simultaneous_arms",
+  "name": "Dumbbell Hammer Preacher Curl Simultaneous Arms",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your chest pressed against the pad, feet flat on the floor, and hold a dumbbell in each hand using a hammer grip (palms facing each other).\n2. Extend your arms fully over the bench pad, keeping a slight bend in your elbows to maintain tension on your biceps.\n3. Curl both dumbbells simultaneously towards your shoulders by bending your elbows, focusing on engaging your biceps. Squeeze your biceps at the top of the movement, ensuring the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control, fully extending your arms over the bench pad. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms pressed against the pad to isolate your biceps.\n2. Avoid using momentum; perform the movement in a slow and controlled manner.\n3. Exhale as you curl the dumbbells towards your shoulders and inhale as you lower them.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

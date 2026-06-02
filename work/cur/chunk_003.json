@@ -1,0 +1,221 @@
+[
+ {
+  "id": "alternating_lunge_with_rotation",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under your shoulders.\n2. Step your right foot up beside your right hand into a lunge.\n3. Rotate your torso right and reach your right arm to the ceiling.\n4. Return your hand and foot to the plank.\n5. Repeat on the left side. Repeat.",
+  "tips": "1. Keep your front knee over your ankle.\n2. Brace your core during the rotation.\n3. Move under control.",
+  "name": "Alternating Lunge with Rotation",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "alternating_oblique_sit_ups",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and hands lightly behind your head.\n2. Lift your shoulders and twist to bring your right elbow toward your left knee.\n3. Lower under control.\n4. Twist to bring your left elbow toward your right knee. Repeat.",
+  "tips": "1. Twist using your obliques, not your arms.\n2. Do not pull on your neck.\n3. Keep the movement slow and controlled.",
+  "name": "Alternating oblique sit ups",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "alternating_plank_lunge",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under your shoulders.\n2. Step your right foot up outside your right hand into a low lunge.\n3. Return your right foot to the plank.\n4. Step your left foot outside your left hand, then return. Repeat.",
+  "tips": "1. Keep your front knee over your ankle.\n2. Keep your core braced and hips level.\n3. Move under control.",
+  "name": "Alternating Plank Lunge",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "alternating_toe_tap",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with legs straight and arms by your sides.\n2. Lift your right leg and left arm toward each other, reaching for your toe.\n3. Lower under control.\n4. Lift your left leg and right arm. Repeat.",
+  "tips": "1. Keep the working leg straight.\n2. Press your lower back into the floor.\n3. Lift with your abs.",
+  "name": "Alternating toe tap",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "archer_pull_up",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Hang from a pull-up bar with your hands wider than shoulder-width.\n2. Pull up while shifting toward your right hand, keeping the left arm straight.\n3. Lower under control.\n4. Pull up shifting toward your left hand. Repeat.",
+  "tips": "1. Drive your elbow down to lead with the back.\n2. Keep the straight arm extended along the bar.\n3. Lower fully under control.",
+  "name": "Archer pull up",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

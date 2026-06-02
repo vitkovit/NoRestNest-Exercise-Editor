@@ -1,0 +1,97 @@
+[
+ {
+  "id": "dumbbell_standing_wide_simultaneous_biceps_curl",
+  "name": "Dumbbell Standing Wide Simultaneous Biceps Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing slightly outwards and your arms extended down by your sides. Position your arms slightly wider than your shoulders.\n2. Curl both dumbbells diagonally upward simultaneously by bending your elbows, keeping your upper arms stationary.\n3. Squeeze your biceps at the top of the movement when the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary; only your forearms should move.\n2. Avoid swinging the dumbbells; use a controlled motion.\n3. Exhale as you curl the dumbbells up and inhale as you lower them.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_wrist_curl",
+  "name": "Dumbbell Standing Wrist Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell with both hands with an underhand grip (palms facing forward). Let your arms hang straight down in front of your hips.\n2. Keeping your upper arms stationary, curl your wrists upward as far as possible, bringing the dumbbell up towards your forearms.\n3. Squeeze your forearm muscles at the top of the movement.\n4. Lower the dumbbell back to the starting position with control, fully extending your wrists. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms and elbows close to your body; only your wrists should move.\n2. Avoid using momentum; perform the movement in a controlled manner.\n3. Use a weight that allows you to perform the exercise with proper form.",
+   "primary": [
+    "Forearms"
+   ],
+   "secondary": [
+    "None"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_starfish_crunch_alternating",
+  "name": "Dumbbell Starfish Crunch Alternating",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying flat on your back with your arms and legs extended out in a starfish position, holding a dumbbell in each hand.\n2. Simultaneously lift your right arm and left leg towards each other, crunching your torso and bringing the dumbbell towards your left foot.\n3. Lower back down to the starting position with control.\n4. Repeat the movement with your left arm and right leg, alternating sides for the desired number of repetitions.",
+   "tips": "1. Perform the exercise in a controlled manner to maximize muscle engagement.\n2. Avoid using momentum to lift your limbs; focus on the contraction of your core muscles.\n3. Exhale as you lift your arm and leg, and inhale as you lower them back down.",
+   "primary": [
+    "Abdominals",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Obliques"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_static_lunge",
+  "name": "Dumbbell Static Lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart, holding a dumbbell in each hand at your sides. Step your right foot forward and your left foot back.\n2. Lower your body by bending both knees until your right thigh is parallel to the floor and your left knee nearly touches the floor.\n3. Push through your right heel to return to the starting position, keeping your feet in the same place.\n4. Repeat the movement for the desired number of repetitions before switching to the other leg.",
+   "tips": "1. Maintain an upright posture throughout the exercise.\n2. Keep your front knee aligned with your ankle to avoid strain.\n3. Avoid letting your front knee extend past your toes.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_step_up_on_bench",
+  "name": "Dumbbell Step up on Bench",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by standing in front of a bench with your feet shoulder-width apart, holding a dumbbell in each hand at your sides.\n2. Place your right foot on the bench, ensuring your entire foot is firmly planted. Push through your right heel to lift your body onto the bench, bringing your left foot up to meet the right.\n3. Step down with your left foot first, followed by your right foot, returning to the starting position.\n4. Repeat the movement for the desired number of repetitions, then switch to the other leg.",
+   "tips": "1. Avoid pushing off with your back leg; focus on using your front leg to lift your body.\n2. Ensure your entire foot is on the bench to avoid slipping.\n3. Control your descent to prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

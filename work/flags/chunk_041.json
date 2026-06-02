@@ -1,0 +1,4 @@
+[
+ {"id": "bodyweight_knee_to_hand_tap", "issue": "Hip flexors (iliopsoas) are a prime mover but have no dedicated bucket; mapped to Abductor per vocabulary translation rules."},
+ {"id": "bodyweight_kneeling_sissy_squat", "issue": "Glutes included as secondary for the isometric hip-extension hold; activation is modest and sources focus almost entirely on rectus femoris/quads."}
+]

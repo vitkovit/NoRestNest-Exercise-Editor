@@ -1,0 +1,91 @@
+[
+ {
+  "id": "kettlebell_skull_crusher",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a bench holding a kettlebell with both hands, arms extended above your chest.\n2. Keep your upper arms vertical and fixed in place.\n3. Bend your elbows to lower the kettlebell toward your forehead.\n4. Press through your triceps to extend your arms back to the start.\n5. Repeat.",
+  "tips": "1. Keep your upper arms still and move only at the elbows.\n2. Lower the kettlebell under control to protect your head.\n3. Brace your core so your lower back stays flat.\n4. Exhale as you extend your arms.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "kettlebell_snatch",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a kettlebell on the floor between your feet.\n2. Hinge at the hips and grip the kettlebell with one hand.\n3. Drive your hips forward explosively to swing the kettlebell upward.\n4. Pull the kettlebell close to your body and punch your hand through at the top, locking it overhead.\n5. Lower it back down between your legs with control.\n6. Repeat.",
+  "tips": "1. Drive the movement with your hips, not your arm.\n2. Keep the kettlebell close to your body on the way up.\n3. Punch your hand through to avoid the bell banging your wrist.\n4. Brace your core to resist rotation.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "forearms", "latins": ["Wrist Flexors", "Wrist Extensors"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ]
+ },
+ {
+  "id": "kettlebell_staggered_deadlift",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with one foot slightly behind the other, most of your weight on the front leg.\n2. Hold a kettlebell in front of your thighs.\n3. Hinge at the hips and lower the kettlebell along your front leg, keeping your back flat.\n4. Feel the stretch in the front-leg hamstring, then drive your hips forward to stand up.\n5. Squeeze your glutes at the top.\n6. Repeat, then switch legs.",
+  "tips": "1. Keep most of your weight on the front leg.\n2. Maintain a flat back throughout the hinge.\n3. Push your hips back rather than bending your knees.\n4. Brace your core to stay balanced.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "kettlebell_standing_tricep_extension",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a kettlebell with both hands overhead.\n2. Keep your upper arms vertical and close to your head.\n3. Bend your elbows to lower the kettlebell behind your head.\n4. Press through your triceps to extend your arms back overhead.\n5. Repeat.",
+  "tips": "1. Keep your upper arms still and move only at the elbows.\n2. Lower the kettlebell under control behind your head.\n3. Brace your core so your lower back does not arch.\n4. Exhale as you press up.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "kettlebell_step_up",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand facing a bench, holding a kettlebell in each hand at your sides.\n2. Step onto the bench with your right foot.\n3. Press through your right heel to lift your body up, bringing your left foot to meet it.\n4. Step down with your left foot first, then your right.\n5. Repeat, alternating the leading leg.",
+  "tips": "1. Drive through the heel of your stepping foot.\n2. Keep your chest up and torso upright.\n3. Place your whole foot on the bench to avoid slipping.\n4. Control the step down rather than dropping.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ }
+]

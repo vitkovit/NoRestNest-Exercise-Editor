@@ -1,0 +1,96 @@
+[
+ {
+  "id": "scissors_kick",
+  "name": "Scissors kick",
+  "sheet": "universal",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs extended and your arms by your sides, palms facing down.\n2. Lift both legs off the floor a few inches, keeping them straight.\n3. Alternately cross your legs over each other in a scissor-like motion. Move your right leg over your left leg and then switch, bringing your left leg over your right leg.\n4. Continue alternating legs in a controlled manner for the desired number of repetitions or duration.",
+   "tips": "1. Ensure your lower back remains pressed against the floor to avoid strain and maintain proper form.\n2. Move your legs slowly and with control to maximize muscle engagement and prevent injury.\n3. Perform the exercise on a comfortable, non-slip surface to ensure safety and reduce discomfort.\n4. Avoid letting your legs drop too low, which could increase strain on your lower back.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Obliques",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "seated_cable_row_v_bar_machine",
+  "name": "Seated cable row V bar machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the cable row machine with your feet secure on the foot platform. Grasp the V bar with both hands.\n2. Sit upright with your back straight, extending your arms fully in front of you.\n3. Pull the V bar towards your abdomen by bringing your elbows back and squeezing your shoulder blades together.\n4. Slowly extend your arms back to the starting position. Repeat for the desired repetitions.",
+   "tips": "1. Keep your back straight throughout the exercise to avoid strain.\n2. Engage your core to maintain stability and proper posture.\n3. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Shoulders",
+    "Biceps",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "seated_calf_machine",
+  "name": "Seated calf machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the calf raise machine with your forefeet positioned on the foot platform and your knees secured under the padded lever.\n2. Hold the handles with both hands and allow your heels to lower as far as possible, fully stretching your calves.\n3. Press through your forefeet to lift your heels as high as possible, then slowly lower your heels back to the starting position.\n4. Repeat for the desired repetitions.",
+   "tips": "1. Keep your back straight and torso still throughout the exercise.\n2. Maintain tension in the calves from start to finish.\n3. Lower your heels slowly to emphasize the eccentric portion of the lift.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Anterior Tibialis"
+   ]
+  }
+ },
+ {
+  "id": "seated_calf_raises_dumbbell_on_knee",
+  "name": "Seated calf raises dumbbell on knee",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your forefeet on the edge of a plate, close together, allowing your heels to hang off. Place a dumbbell on both knees, holding them securely with your hands.\n2. Raise your heels as high as possible, pushing through your forefeet and lifting the dumbbells.\n3. Lower your heels back down to the starting position in a controlled manner. Repeat for the desired number of repetitions, then switch to the left leg and repeat.",
+   "tips": "1. Focus on using your calf muscles to lift and lower your heel.\n2. Keep the movement slow and controlled to maximize muscle engagement.\n3. Avoid bouncing or using momentum to lift the weight.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "none"
+   ]
+  }
+ },
+ {
+  "id": "seated_calf_stretch",
+  "name": "Seated calf stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on the floor with your legs extended straight in front of you. Keep your back straight and your core engaged.\n2. Extend your right foot while lightly bending the left knee, reaching forward to grasp your toes with both hands.\n3. Gently pull your toes towards you, feeling the stretch in your calf muscle.\n4. Hold the stretch for 15-30 seconds, then slowly release. Repeat on the left leg.",
+   "tips": "1. Focus on maintaining a straight back to enhance the effectiveness of the stretch.\n2. Ensure your movements are slow and controlled to prevent overstretching or injury.\n3. If you find it difficult to reach your toes, use a towel or strap for assistance without forcing the stretch.\n4. Keep your shoulders relaxed and away from your ears to prevent unnecessary tension.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ }
+]

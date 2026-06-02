@@ -1,0 +1,197 @@
+[
+ {
+  "id": "bottoms_up_half_rep",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with legs extended just off the floor and arms by your sides.\n2. Press your lower back into the floor and engage your core.\n3. Bend your knees toward your chest until your thighs are vertical.\n4. Lower your legs back down without letting them touch the floor.\n5. Repeat.",
+  "tips": "1. Keep your lower back pressed into the floor to protect your spine.\n2. Move slowly and with control.\n3. Drive the motion from your lower abs.\n4. Breathe out as you bring your knees in.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "LowerRectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bouncing_circle_draw",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and knees slightly bent.\n2. Hold your hands in front of your hips.\n3. Straighten your legs while drawing circles outward and upward with your hands.\n4. Bend your knees as you circle your hands back down and inward to the start.\n5. Repeat.",
+  "tips": "1. Keep a slight bend in your knees throughout.\n2. Keep your shoulders relaxed and movements fluid.\n3. Hold a steady rhythm with legs and arms.\n4. Engage your core to stay balanced.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids",
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bouncing_inner_thigh_tap",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and arms out at shoulder level.\n2. Rotate your torso and reach your left hand to the inside of your right thigh, bending your knees slightly.\n3. Return to the start.\n4. Rotate to the other side, reaching your right hand to the inside of your left thigh.\n5. Continue alternating sides.\n6. Repeat.",
+  "tips": "1. Keep your gaze forward to stay balanced.\n2. Drive the rotation from your obliques, not your arms.\n3. Move at a controlled pace.\n4. Keep your core braced to protect your lower back.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "box_jump",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart in front of a box.\n2. Bend your knees and hips and swing your arms back.\n3. Swing your arms forward and jump explosively onto the box.\n4. Land softly with both feet and knees bent.\n5. Stand up fully, then step back down to the start.\n6. Repeat.",
+  "tips": "1. Land softly with bent knees to absorb impact.\n2. Drive your arms up to add power.\n3. Step down rather than jumping down to spare your joints.\n4. Brace your core during takeoff and landing.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "box_jump_squats",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart in front of a box.\n2. Bend your knees and hips and swing your arms back.\n3. Jump explosively onto the box and land softly in a squat.\n4. Stand up, then jump or step back down to the floor.\n5. Repeat.",
+  "tips": "1. Land softly in the squat with bent knees.\n2. Keep your chest up as you land.\n3. Drive your arms up to add power.\n4. Brace your core throughout the movement.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ]
+ }
+]

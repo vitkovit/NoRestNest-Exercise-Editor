@@ -1,0 +1,180 @@
+[
+ {
+  "id": "spider_curl_ez_bar",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to about 45 degrees and lie face down with your chest on the pad.\n2. Hold an EZ bar with an underhand grip, hands shoulder-width apart, arms hanging straight down.\n3. Keep your upper arms still and curl the bar up toward your shoulders.\n4. Squeeze your biceps at the top.\n5. Lower the bar under control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your upper arms vertical and stationary throughout.\n2. Use the angled grip to reduce wrist strain.\n3. Exhale as you curl, inhale as you lower.\n4. Control the lowering phase for full tension.",
+  "name": "Spider curl ez bar",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "spider_plank",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start in a forearm plank with elbows under your shoulders and body in a straight line.\n2. Keep your core tight and feet hip-width apart.\n3. Bring your right knee toward your right elbow, keeping your hips level.\n4. Return your right foot to the start.\n5. Bring your left knee toward your left elbow, then return.\n6. Repeat.",
+  "tips": "1. Keep your hips level and resist torso rotation.\n2. Brace your abs the whole time.\n3. Exhale as you draw the knee in, inhale as you return.\n4. Move slowly and with control rather than rushing.",
+  "name": "Spider plank",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_adductor_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet wider than shoulder-width, toes pointing slightly out.\n2. Place your hands on your hips.\n3. Shift your weight onto your right leg, bending the right knee while keeping the left leg straight.\n4. Lean your torso slightly forward until you feel a stretch in the inner thigh of the straight leg.\n5. Hold, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep the bent knee tracking over the toes, not past them.\n2. Ease into the stretch slowly without bouncing.\n3. Breathe steadily and let the inner thigh relax.\n4. Increase depth gradually as flexibility improves.",
+  "name": "Standing adductor stretch",
+  "primary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_arnold_press_dumbbell",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand at shoulder height with palms facing you.\n2. Brace your core and keep your back straight.\n3. Press the dumbbells overhead while rotating your palms to face forward.\n4. Fully extend your arms at the top.\n5. Lower the dumbbells back down, rotating your palms to face you again.\n6. Repeat.",
+  "tips": "1. Rotate your wrists smoothly through the whole movement.\n2. Keep your core braced to support your spine while standing.\n3. Exhale as you press up, inhale as you lower.\n4. Do not arch your lower back at the top.",
+  "name": "Standing arnold press dumbbell",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_bow_hamstring_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet together and arms by your sides.\n2. Hinge at your hips and lower your torso toward your legs, reaching your hands toward the back of your feet.\n3. Keep your back straight and your knees soft.\n4. Hold, feeling the stretch along the back of your legs.\n5. Return to standing.\n6. Repeat.",
+  "tips": "1. Move slowly and stop at mild tension, never pain.\n2. Hinge from the hips rather than rounding your lower back.\n3. Keep your weight even across both feet for balance.\n4. Breathe steadily and relax into the stretch.",
+  "name": "Standing bow hamstring stretch",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

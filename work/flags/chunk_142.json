@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbell_standing_reverse_curl", "issue": "Brachioradialis/brachialis are the true prime movers per EMG; mapped to forearms->Wrist Extensors (brachioradialis sits in wrist-extensor group). No dedicated brachialis/brachioradialis allowed value exists."},
+ {"id": "dumbbell_standing_single_arm_cross_raise", "issue": "Cross-body raise is a hybrid; sources split between anterior deltoid and lateral deltoid plus upper chest. Chose Anterior Deltoids primary with Lateral Deltoids and Clavicular Head secondary. Unilateral so obliques added for anti-rotation."}
+]

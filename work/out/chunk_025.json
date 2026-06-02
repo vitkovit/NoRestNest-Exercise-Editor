@@ -1,0 +1,85 @@
+[
+ {
+  "id": "barbell_standing_close_grip_military_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell at chest height with an overhand grip, hands closer than shoulder-width.\n2. Brace your core and keep a neutral spine.\n3. Press the barbell straight overhead until your arms are fully extended.\n4. Keep the bar path close to your face and head.\n5. Lower the barbell under control back to chest height.\n6. Repeat.",
+  "tips": "1. Keep your core tight to stop your lower back arching.\n2. Exhale as you press up, inhale as you lower.\n3. The close grip loads the triceps harder, so keep elbows tracking forward.\n4. Squeeze your glutes to keep your torso stable.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "barbell_standing_concentration_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip at thigh level.\n2. Hinge forward at your hips so your torso is close to parallel with the floor.\n3. Let your arms hang straight down with elbows fixed.\n4. Curl the barbell up toward your shoulders by bending your elbows.\n5. Lower the barbell under control until your arms are straight.\n6. Repeat.",
+  "tips": "1. Keep your elbows still so the biceps do all the work.\n2. Do not swing your torso or use momentum.\n3. Exhale as you curl up, inhale as you lower.\n4. Squeeze the biceps hard at the top of each rep.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "barbell_standing_leg_calf_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand on a raised step with your forefeet on the edge and heels hanging off.\n2. Rest a barbell across your upper back with an overhand grip.\n3. Set your feet shoulder-width apart and stand tall.\n4. Raise your heels as high as possible by extending your ankles.\n5. Lower your heels below the level of the step to stretch the calves.\n6. Repeat.",
+  "tips": "1. Move slowly and avoid bouncing at the bottom.\n2. Drive up through the balls of your feet.\n3. Exhale as you rise, inhale as you lower.\n4. Get a full stretch by dropping the heels below the step.",
+  "primary": [
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ],
+  "secondary": [
+   {"group": "Shin", "latins": ["Tibialis"]}
+  ]
+ },
+ {
+  "id": "barbell_standing_leg_calf_raises",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand on a raised step with your forefeet on the edge and heels hanging off.\n2. Rest a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width.\n3. Set your feet shoulder-width apart and stand tall.\n4. Raise your heels as high as possible by extending your ankles.\n5. Lower your heels below the level of the step to stretch the calves.\n6. Repeat.",
+  "tips": "1. Move slowly and avoid bouncing at the bottom.\n2. Drive up through the balls of your feet.\n3. Exhale as you rise, inhale as you lower.\n4. Get a full stretch by dropping the heels below the step.",
+  "primary": [
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ],
+  "secondary": [
+   {"group": "Shin", "latins": ["Tibialis"]}
+  ]
+ },
+ {
+  "id": "barbell_standing_military_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell at chest height with an overhand grip, hands slightly wider than shoulder-width.\n2. Brace your core and keep a neutral spine.\n3. Press the barbell straight overhead until your arms are fully extended.\n4. Keep the bar path close to your face and head.\n5. Lower the barbell under control back to chest height.\n6. Repeat.",
+  "tips": "1. Keep your core tight to stop your lower back arching.\n2. Exhale as you press up, inhale as you lower.\n3. Drive your head slightly forward once the bar clears it.\n4. Squeeze your glutes to keep your torso stable.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ }
+]

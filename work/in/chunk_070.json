@@ -1,0 +1,96 @@
+[
+ {
+  "id": "calf_stretch_with_rope",
+  "name": "Calf stretch with rope",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on the floor with your legs extended straight on the floor. Pass a rope with handles under your right forefoot, holding the handles with both hands.\n2. Keep your back flat against the floor and gently pull the rope towards you, flexing your foot and bringing your toes towards your shin.\n3. Straighten your leg fully to deepen the stretch in your calf muscle.\n4. Hold the stretch for 20-30 seconds, then release the rope and switch to the other foot, repeating the stretch.",
+   "tips": "1. Breathe deeply and steadily throughout the stretch to help relax your muscles.\n2. Use a moderate amount of tension on the rope to ensure a good stretch without causing discomfort or pain.\n3. Focus on feeling the stretch in your calf muscle, not your lower back or hamstrings.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "calves_stretch_on_stairs",
+  "name": "Calves stretch on stairs",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand on a step or stair with one foot on a higher step and the other foot on a lower step, ensuring the lower foot's heel is hanging off the edge.\n2. Hold onto the railing or wall for support to maintain balance.\n3. Slowly lower the heel of the lower foot below the level of the step until you feel a stretch in your calf muscle.\n4. Hold the stretch for the desired duration, then slowly raise your heel back to the starting position. Repeat as needed for both legs.",
+   "tips": "Maintain an upright posture and engage your core to ensure balance and stability.\n1. Perform the movement slowly and with control to avoid straining your calf muscles.\n2. Use the railing or wall for support but ensure your legs are performing the stretch.\n3. Perform this stretch after a workout or when your muscles are warm to maximize flexibility and prevent injury.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "captains_chair_leg_raise",
+  "name": "Captains chair leg raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand on the platform of the captain's chair and place your forearms on the arm pads, gripping the handles for stability. Allow your legs to hang straight down.\n2. Engage your core and keep your back pressed against the back pad.\n3. Raise your legs, knees first, up in front of you until your thighs are parallel to the floor and your feet are slightly forward.\n4. Slowly lower your knees back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise your knees and inhale as you lower them back down.\n2. Avoid using momentum; the movement should be controlled and deliberate.\n3. Focus on engaging your core muscles throughout the movement.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "captains_chair_straight_leg_raise",
+  "name": "Captains chair straight leg raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand on the platform of the captain's chair and place your forearms on the arm pads, gripping the handles for stability. Allow your legs to hang straight down.\n2. Engage your core and keep your back pressed against the back pad.\n3. Raise your legs straight up in front of you until they are parallel to the floor, keeping them as straight as possible.\n4. Slowly lower your legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the back pad to prevent swinging and maintain proper form.\n2. Avoid using momentum; the movement should be controlled and deliberate.\n3. Exhale as you raise your legs and inhale as you lower them back down.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "cardio_lunge",
+  "name": "Cardio lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a lunge position with your right leg forward and left leg back, ensuring your right knee is aligned over your ankle and your left knee is just above the floor. Bend both arms at your sides.\n2. Explosively push off your left foot, bringing it forward in a small step while pushing  your right leg slightly backwards.\n3. Immediately return your left foot back to the starting lunge position.\n4. Continue the explosive movement, maintaining a steady, rhythmic pace. Repeat for the desired number of repetitions or duration, then switch legs.",
+   "tips": "1. Ensure your front knee stays aligned with your toes to avoid putting unnecessary strain on your knee.\n2. Perform the movement with a controlled pace to maximize cardiovascular benefits and prevent injury.\n3. Use your arms to help balance and stabilize your movements.\n4. Focus on the explosive movement of the back leg to engage your glutes and hamstrings.\n5. Breathe steadily throughout the exercise, inhaling as you bring your leg forward and exhaling as you return to the lunge position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

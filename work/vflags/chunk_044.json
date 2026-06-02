@@ -1,0 +1,22 @@
+[
+ {
+  "id": "bodyweight_front_slam",
+  "change": "No change. Verified slam motion: lats (shoulder extension) + abs (crunch) + anterior delts (overhead reach) primary, quads/glutes secondary on the quarter-squat. Matches slam ball sources."
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_front_raise",
+  "change": "No change. Squat (quads/glutes primary, hamstrings/calves secondary) + overhead front raise (anterior delts primary). Confirmed correct."
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_front_raises",
+  "change": "No change. Duplicate of front raise variant; same encoding verified correct."
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_press",
+  "change": "No change. Thruster pattern: quads/glutes/anterior delts primary, triceps + hamstrings + calves secondary. Verified against thruster sources."
+ },
+ {
+  "id": "bodyweight_knee_thrust",
+  "change": "Moved abs from secondary to primary; demoted Quads to secondary. Standing knee drive is hip-flexion + crunch driven (hands meet knee), so hip flexors (Abductor) + abs are the prime movers; quads only assist knee extension. Gluteus Medius kept secondary for single-leg balance."
+ }
+]

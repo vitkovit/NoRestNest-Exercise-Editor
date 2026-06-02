@@ -1,0 +1,6 @@
+[
+ {"id": "plank_cross_knee_drive", "issue": "Hip flexors (psoas/iliacus) are a true prime mover for the knee drive but have no allowed bucket; mapped to Quads/Rectus Femoris as the closest dropdown value."},
+ {"id": "plank_knee_tucks", "issue": "Hip flexors (psoas/iliacus) drive the knee tuck but have no allowed bucket; mapped to Quads/Rectus Femoris as closest. Serratus anterior (scapular stabilizer) also has no allowed value and was omitted."},
+ {"id": "plank_lunges", "issue": "Hip flexors are a main mover stepping the foot forward; no allowed bucket, mapped to Quads/Rectus Femoris. trackingMode set to repsOnly to match input (alternating-side reps)."},
+ {"id": "plank_on_elbows", "issue": "Transverse abdominis is a key stabilizer but has no allowed value (only Upper/LowerRectus Abdominis in abs bucket); represented via abs bucket. Serratus anterior omitted (no allowed value)."}
+]

@@ -1,0 +1,89 @@
+[
+ {
+  "id": "gym_rowing_machine_sprint_speed",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the rowing machine with feet strapped to the footrests, knees bent and shins vertical.\n2. Grip the handle with an overhand grip and arms straight, leaning slightly forward from the hips.\n3. Drive hard through the legs to extend the knees, then swing the torso back.\n4. As the legs finish, pull the handle to the lower chest, squeezing the shoulder blades together.\n5. Reverse the order: extend the arms, hinge the torso forward, then bend the knees to return.\n6. Repeat at sprint pace for the set duration.",
+  "tips": "1. Keep the back flat and braced, never rounded.\n2. Lead each stroke with the legs, not the arms.\n3. Drive explosively and recover with control to keep stroke length.\n4. Exhale on the drive, inhale on the recovery.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]}
+  ]
+ },
+ {
+  "id": "half_lotus",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor with the legs extended forward and the spine tall.\n2. Bend one knee and place that foot on top of the opposite thigh, sole facing up.\n3. Tuck the other foot under the opposite thigh in a comfortable cross-legged position.\n4. Rest the hands on the knees and let both knees relax toward the floor.\n5. Hold the position, breathing slowly and keeping the back upright.\n6. Repeat with the legs reversed.",
+  "tips": "1. Keep the spine long and the chest open, never slumped.\n2. Ease into the stretch and stop if the knees feel any pain.\n3. Warm up the hips first if they feel tight.\n4. Breathe deeply and stay relaxed throughout the hold.",
+  "primary": [
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "half_monkey_pose",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start kneeling, then step one foot forward into a low lunge with hands on the floor.\n2. Shift the hips back over the rear knee and straighten the front leg.\n3. Flex the front foot and point the toes toward the ceiling.\n4. Hinge forward from the hips over the straight front leg, keeping the back flat.\n5. Hold the stretch, breathing steadily.\n6. Repeat on the other leg.",
+  "tips": "1. Hinge from the hips, not by rounding the spine.\n2. Keep the front foot flexed to deepen the hamstring stretch.\n3. Place hands on blocks if the floor is out of reach.\n4. Ease in gradually and never bounce.",
+  "primary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "Calves", "latins": ["Gastrocnemius Medial", "Gastrocnemius Lateral"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "half_neck_rolls",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit or stand tall with the shoulders relaxed and down.\n2. Drop the chin toward the chest.\n3. Slowly roll the head in a half circle to bring one ear toward that shoulder.\n4. Return through center to the chest, then roll to the opposite side.\n5. Move slowly and only through the front lower arc, never backward.\n6. Repeat for the set count.",
+  "tips": "1. Keep the motion slow and pain-free.\n2. Do not roll the head backward to protect the cervical spine.\n3. Let the shoulders stay relaxed throughout.\n4. Breathe steadily and stop if you feel dizzy.",
+  "primary": [
+   {"group": "neck", "latins": ["neck"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ]
+ },
+ {
+  "id": "hammer_strength_iso_lateral_leg_curl_single_leg",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Lie face down on the leg curl machine with one ankle under the pad and grip the handles.\n2. Start with the working leg fully extended and hips pressed to the bench.\n3. Curl the working leg by bending the knee, pulling the ankle toward the glutes.\n4. Squeeze the hamstring at the top of the movement.\n5. Lower the leg slowly back to full extension with control.\n6. Repeat for the set, then switch legs and repeat.",
+  "tips": "1. Keep the hips pinned to the bench so they do not lift.\n2. Control the lowering phase rather than dropping the weight.\n3. Focus tension on the hamstring throughout.\n4. Exhale on the curl, inhale on the return.",
+  "primary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "Calves", "latins": ["Gastrocnemius Medial", "Gastrocnemius Lateral"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ }
+]

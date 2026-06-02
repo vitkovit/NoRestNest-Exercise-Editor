@@ -1,0 +1,22 @@
+[
+ {
+  "id": "decline_chair_push_up_diamond",
+  "change": "No change. Verified diamond push-up: Triceps primary (EMG-confirmed dominant), chest co-primary acceptable for decline/feet-elevated variant; Anterior Deltoids + abs secondary. Format valid."
+ },
+ {
+  "id": "decline_diamond_pike_push_up",
+  "change": "No change. Verified pike push-up: Anterior Deltoids + Triceps primary, Clavicular Head + Upper Traps + abs secondary. Matches biomechanics (overhead-press-like vertical pressing)."
+ },
+ {
+  "id": "decline_kneeling_push_up",
+  "change": "No change. Verified kneeling decline push-up: chest (Clavicular+Sternal) + Triceps primary, Anterior Deltoids + abs secondary. Format valid."
+ },
+ {
+  "id": "decline_kneeling_push_up_on_box",
+  "change": "No change. Same as decline_kneeling_push_up (box vs step is a setup detail, not a muscle change). Format valid."
+ },
+ {
+  "id": "decline_levitating_sit_ups_bodyweight",
+  "change": "Added secondary Abductor (Abductor) to represent hip flexor involvement, which is significant on decline sit-ups per sources (iliopsoas/rectus femoris assist torso flexion against the incline). Kept abs primary and obliques secondary unchanged."
+ }
+]

@@ -1,0 +1,112 @@
+[
+ {
+  "id": "dumbbell_one_arm_wrist_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with feet flat on the floor.\n2. Hold a dumbbell in one hand with the palm facing up.\n3. Rest the forearm on the thigh so the wrist hangs just past the knee.\n4. Curl the dumbbell up by flexing the wrist as high as possible.\n5. Lower the dumbbell slowly by extending the wrist fully, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep the forearm pressed against the thigh and still.\n2. Move only the wrist, not the elbow.\n3. Lower under control with no swinging.\n4. Let the dumbbell roll to the fingertips at the bottom for a full range.",
+  "name": "Dumbbell One arm Wrist Curl",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_one_arm_zottman_preacher_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench and rest the back of one upper arm on the pad.\n2. Hold a dumbbell with an underhand grip, palm facing up.\n3. Curl the dumbbell up toward the shoulder, keeping the upper arm still.\n4. At the top, rotate the wrist to face the palm down.\n5. Lower the dumbbell slowly with the overhand grip, then rotate back to palm up.\n6. Repeat.",
+  "tips": "1. Keep the upper arm flat on the pad throughout.\n2. Rotate the wrist slowly and fully at the top.\n3. Use a lighter weight to control the pronated lowering.\n4. Resist the descent on the eccentric to load the forearms.",
+  "name": "Dumbbell One Arm Zottman Preacher Curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_over_bench_reverse_wrist_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Kneel in front of a bench and lay both forearms across it.\n2. Hold the dumbbells with an overhand grip, palms facing down.\n3. Let the wrists hang just off the edge so the dumbbells drop.\n4. Raise the dumbbells by extending the wrists upward as high as possible.\n5. Lower the dumbbells slowly by dropping the wrists fully.\n6. Repeat.",
+  "tips": "1. Keep the forearms flat and still on the bench.\n2. Move only the wrists.\n3. Lift and lower under control with no jerking.\n4. Use a lighter weight than a palms-up wrist curl.",
+  "name": "Dumbbell Over Bench Reverse Wrist Curl",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_over_bench_wrist_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Kneel in front of a bench and lay both forearms across it.\n2. Hold the dumbbells with an underhand grip, palms facing up.\n3. Let the wrists hang just off the edge so the dumbbells drop.\n4. Raise the dumbbells by flexing the wrists upward as high as possible.\n5. Lower the dumbbells slowly by extending the wrists fully.\n6. Repeat.",
+  "tips": "1. Keep the forearms flat and still on the bench.\n2. Move only the wrists.\n3. Let the dumbbells roll to the fingertips at the bottom for full range.\n4. Lift and lower under control with no jerking.",
+  "name": "Dumbbell Over Bench Wrist Curl",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_overhead_extension_seated",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with the back supported.\n2. Hold one dumbbell with both hands and press it fully overhead.\n3. Bend the elbows to lower the dumbbell behind the head until the forearms are about parallel to the floor.\n4. Press the dumbbell back up by straightening the elbows.\n5. Repeat.",
+  "tips": "1. Keep the elbows pointed forward and close to the head.\n2. Keep the upper arms vertical and still.\n3. Lower under control to feel the stretch on the triceps.\n4. Grip the dumbbell firmly for stability.",
+  "name": "Dumbbell overhead extension seated",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

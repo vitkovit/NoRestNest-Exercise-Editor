@@ -1,0 +1,94 @@
+[
+ {
+  "id": "dumbbell_standing_alternate_vertical_front_raises",
+  "name": "Dumbbell Standing Alternate Vertical Front Raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms hanging straight down by your sides, palms facing your body.\n2. Raise the right dumbbell in front of you, keeping your arm straight but not locked, until it reaches shoulder height.\n3. Lower the right dumbbell back to the starting position and then raise the left dumbbell in front of you to shoulder height.\n4. Continue alternating the raise between your right and left arms for the desired number of repetitions.",
+   "tips": "1. Use a controlled motion to avoid swinging the weights and maintain proper form.\n2. Keep your head and neck in a neutral position, looking straight ahead.\n3. Avoid locking your elbows at the top of the movement to reduce joint strain.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_behind_back_shoulders_press",
+  "name": "Dumbbell Standing Behind Back Shoulders Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Your hands should be at a level behind your neck with your palms facing forward and elbows bent.\n2. Press the dumbbells upward overhead by extending your arms fully.\n3. Squeeze your shoulders at the top of the movement, ensuring your arms are fully extended and in line with your shoulders.\n4. Lower the dumbbells back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you press the dumbbells up and inhale as you lower them.\n2. Use a controlled motion to avoid using momentum to lift the weights.\n3. Keep your head and neck in a neutral position, looking straight ahead.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Triceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_both_arms_kickback",
+  "name": "Dumbbell Standing Both Arms Kickback",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand. Bend your knees slightly and hinge forward at the hips, keeping your back straight and your torso almost parallel to the floor.\n2. Begin with your arms bent at 90 degrees, elbows close to your sides, and dumbbells hanging down.\n3. Extend both arms straight back by straightening your elbows, keeping your upper arms stationary and close to your body. Focus on squeezing your triceps at the top of the movement.\n4. Slowly bend your elbows to return the dumbbells to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back flat and avoid rounding your shoulders.\n2. Keep your head in a neutral position, looking slightly forward.\n3. Exhale as you extend your arms back and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_calf_raise",
+  "name": "Dumbbell standing calf raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand upright with your feet hip-width apart, holding a dumbbell in each hand at your sides. Keep your posture straight and your core engaged.\n2. Slowly raise your heels off the floor by pushing through your forefeet, lifting your body upward as high as possible.\n3. Hold the top position for a brief moment, feeling the contraction in your calf muscles.\n4. Lower your heels back down to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your movements slow and controlled to maximize muscle engagement.\n2. Avoid bouncing at the top or bottom of the movement.\n3. Maintain a straight posture throughout the exercise.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Anterior Tibialis"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_calf_raise_on_step",
+  "name": "Dumbbell Standing Calf Raise on Step",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand on a step platform with your heels hanging off the edge, holding a dumbbell in each hand at your sides. Position your feet hip-width apart.\n2. Slowly raise your heels as high as possible by pushing through your forefeet, lifting your body upward.\n3. Hold the top position for a brief moment, feeling the contraction in your calf muscles.\n4. Lower your heels below the edge of the step, feeling a stretch in your calves. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure the step or platform is stable and secure before starting the exercise.\n2. Keep your movements slow and controlled to maximize muscle engagement.\n3. Avoid bouncing at the top or bottom of the movement.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "None"
+   ]
+  }
+ }
+]

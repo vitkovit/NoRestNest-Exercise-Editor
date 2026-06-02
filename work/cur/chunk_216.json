@@ -1,0 +1,151 @@
+[
+ {
+  "id": "standing_oblique_crunch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and hands behind your head, elbows out.\n2. Engage your core and stand tall.\n3. Lift your right knee up while bending your torso to the right to bring elbow and knee together.\n4. Lower the leg and straighten the torso back to start.\n5. Repeat on the left side, alternating.\n6. Repeat.",
+  "tips": "1. Exhale as you crunch, inhale as you return.\n2. Drive the side bend from the waist, not the shoulders.\n3. Keep the standing leg slightly bent for balance.\n4. Move under control, do not swing.",
+  "name": "Standing oblique crunch",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_one_arm_chest_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your right side near a wall, feet shoulder-width apart.\n2. Extend your right arm to the side at shoulder height and place your palm flat on the wall.\n3. Slowly turn your body away from the wall, keeping the arm fixed.\n4. Hold briefly where you feel a stretch across the chest and front shoulder.\n5. Return to start and switch sides.\n6. Repeat.",
+  "tips": "1. Keep the working arm straight and the palm flat on the wall.\n2. Keep shoulders down, away from the ears.\n3. Turn gradually to avoid overstretching.\n4. Adjust arm height to target different parts of the chest.",
+  "name": "Standing one arm chest stretch",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_overhand_shoulder_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart, arms straight in front at shoulder height, palms down.\n2. Raise your right arm overhead while lowering your left arm to your side.\n3. Keep both arms straight throughout.\n4. Return to start, then swap, raising the left arm and lowering the right.\n5. Continue alternating in a controlled rhythm.\n6. Repeat.",
+  "tips": "1. Breathe steadily as the arms move.\n2. Keep both arms straight and the torso square.\n3. Use a smooth, controlled motion.\n4. Move through a full range without forcing the end position.",
+  "name": "Standing overhand shoulder stretch",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_quadriceps_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a stable surface for balance if needed.\n2. Bend your right knee and bring the heel toward your glutes.\n3. Grasp your right ankle with your right hand.\n4. Keep knees together and gently pull the heel up until you feel a stretch along the front of the thigh.\n5. Hold briefly, release, then switch legs.\n6. Repeat.",
+  "tips": "1. Keep the torso upright, do not lean forward.\n2. Keep the supporting leg slightly bent for balance.\n3. Tuck the pelvis slightly to deepen the stretch.\n4. Pull gently and hold steady, do not bounce.",
+  "name": "Standing quadriceps stretch",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "standing_quadriceps_stretch_side_angle",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart. Hold a stable surface for balance if needed.\n2. Bend your right knee and bring your heel toward your glutes.\n3. Grasp your right ankle with your right hand and keep your knees close together.\n4. Pull your ankle gently upward until you feel a stretch in the front of your thigh.\n5. Hold, release, then switch legs.\n6. Repeat.",
+  "tips": "1. Move slowly and with control to reduce injury risk.\n2. Keep the supporting leg slightly bent for balance.\n3. Keep your torso upright and do not lean forward or back.\n4. Tuck your pelvis under to deepen the stretch.",
+  "name": "Standing quadriceps stretch side angle",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

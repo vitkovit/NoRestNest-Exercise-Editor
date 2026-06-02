@@ -1,0 +1,94 @@
+[
+ {
+  "id": "dumbbell_incline_hammer_simultaneous_curl",
+  "name": "Dumbbell Incline Hammer Simultaneous Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on an incline bench set at a 45-degree angle with your feet flat on the floor. Hold a dumbbell in each hand with your arms fully extended and palms facing each other (hammer grip).\n2. Curl both dumbbells simultaneously towards your shoulders by bending your elbows, keeping your palms facing each other.\n3. Squeeze your biceps at the top of the movement, ensuring the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid swinging the dumbbells; use a slow and controlled motion.\n2. Keep your elbows close to your body throughout the movement.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_lying_front_raise",
+  "name": "Dumbbell Incline Lying Front Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie chest-first on an incline bench set at a 45-degree angle with your forefeet firm on the floor, allowing your arms to hang straight down with a dumbbell in each hand, palms facing back.\n2. Raise both dumbbells forward and upward until your arms are in level with your torso, maintaining a slight bend in your elbows.\n3. Squeeze your shoulder muscles at the top of the movement, ensuring your arms are fully extended.\n4. Lower the dumbbells back to the starting position with control, allowing your arms to hang down. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise the dumbbells and inhale as you lower them.\n2. Avoid swinging the dumbbells; use a slow and controlled motion.\n3. Maintain a slight bend in your elbows throughout the movement.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_one_arm_lateral_raise",
+  "name": "Dumbbell Incline One Arm Lateral Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Set an incline bench to a 45-degree angle and lie on your side with your lower arm resting on the bench. Hold a dumbbell with your upper hand, arm extended at your side with your palm facing your body.\n2. Raise the dumbbell up in an arc motion until your arm is straight at shoulder level.\n3. Lower the dumbbell back to the starting position with control. Repeat for the desired number of repetitions, then switch to the other side.",
+   "tips": "1. Exhale as you lift the dumbbell and inhale as you lower it.\n2. Hold the bench edge with your free hand to supportyour body during the exercise.\n3. Maintain a slight bend in your elbow throughout the movement to reduce strain on the joint.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_one_arm_press",
+  "name": "Dumbbell Incline One Arm Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Set an incline bench to a 45-degree angle and sit back against it, holding a dumbbell in one hand at shoulder height with your palm facing forward. Your other arm can hold the bench for stability.\n2. Press the dumbbell upward until your arm is fully extended above your upper chest.\n3. Lower the dumbbell back to shoulder height with control, keeping your elbow at a 45-degree angle to your body. Repeat for the desired number of repetitions before switching to the other arm.",
+   "tips": "1. Avoid locking your elbow at the top of the movement; maintain a slight bend.\n2. Hold the bench edge with your free hand to supportyour body during the exercise.\n3. Choose a weight that allows for proper form and control throughout the exercise.",
+   "primary": [
+    "Upper Chest",
+    "Front Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_palms_back_press",
+  "name": "Dumbbell Incline Palms-back Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [
+    "Upper Chest",
+    "Front Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ }
+]

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "hanging_oblique_crunches",
+  "name": "Hanging oblique crunches",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Hang from a pull-up bar with your hands shoulder-width apart, palms facing forward or towards each other. Allow your body to hang straight with your feet off the floor.\n2. Engage your core and, keeping your legs together, bend your knees and lift them towards your right elbow, twisting your torso to engage your obliques.\n3. Raise your knees as high as comfortably possible, aiming to bring them towards your elbow.\n4. Slowly lower your legs back to the starting position with control. Repeat the movement, this time lifting your knees towards your left elbow. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Avoid swinging your body; use controlled movements to lift and lower your legs.\n2. Focus on steady breathing, exhaling as you lift your knees and twist, and inhaling as you lower them.\n3. Ensure your grip on the bar is secure to prevent slipping.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "heel_touches",
+  "name": "Heel touches",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your knees bent and your feet flat on the floor, hip-width apart. Position your arms along your sides with your palms facing down.\n2. Lift your shoulders slightly off the floor, engaging your core and keeping your neck relaxed.\n3. Reach your right hand towards your right heel, bending your torso to the side. Return to the center and then reach your left hand towards your left heel.\n4. Alternate sides in a controlled manner, maintaining the contraction in your core throughout the exercise. Repeat for the desired number of repetitions.",
+   "tips": "1. Move slowly and with control to maximize the effectiveness of the exercise and prevent injury.\n2. Focus on steady breathing, exhaling as you reach towards your heel and inhaling as you return to the center.\n3. Ensure your lower back remains pressed into the floor to prevent strain.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "high_cable_kneeling_crunch",
+  "name": "High cable kneeling crunch",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "cable",
+   "tracking_mode": "",
+   "instructions": "1. Attach a rope handle to a high pulley on a cable machine. Kneel down facing the machine, holding the rope handles with both hands, and position them close to your head.\n2. Keep your back straight and engage your core muscles topull the rope down by crunching your torso towards your knees, bringing your elbows towards your thighs.\n3. Just before your elbows touch your thighs, return to the starting position with control, keeping the tension on the cable.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees are firmly planted on the floor for stability.\n2. Keep your hips stable and avoid using momentum.\n3. Exhale as you crunch down and inhale as you return to the starting position.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "high_knee_twist",
+  "name": "High knee twist",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet hip-width apart and your arms raised to shoulder height in front of you, palms facing down.\n2. Lift your right knee towards your left elbow while simultaneously twisting your torso to the right, engaging your core.\n3. Return to the starting position, then lift your left knee towards your right elbow while twisting your torso to the left.\n4. Alternate sides in a controlled manner, maintaining a steady rhythm. Repeat for the desired number of repetitions.",
+   "tips": "1. Twist your torso and lift your knee simultaneously to engage both your abs and obliques.\n2. Move smoothly and with control to avoid straining your back or hips.\n3. Ensure your movements are balanced and controlled to prevent injury.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "high_knees",
+  "name": "High knees",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet hip-width apart and your arms at your sides.\n2. Begin by lifting your right knee towards your chest as high as possible while simultaneously swinging your left arm forward.\n3. Quickly switch to lift your left knee towards your chest while swinging your right arm forward, mimicking a running motion.\n4. Continue to alternate knees rapidly, maintaining a steady rhythm and engaging your core. Repeat for the desired duration or number of repetitions.",
+   "tips": "1. Lift your knees as high as possible while maintaining proper form and balance.\n2. Move quickly but with control to maximize cardiovascular benefits and prevent injury.\n3. Ensure your movements are balanced and coordinated to avoid straining your muscles.",
+   "primary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

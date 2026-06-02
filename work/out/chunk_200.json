@@ -1,0 +1,85 @@
+[
+ {
+  "id": "seated_side_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on a bench with your feet flat on the floor and your back straight.\n2. Hold the edge of the bench with your left hand for support.\n3. Reach your right arm up overhead.\n4. Lean your torso to the left until you feel a stretch down the right side of your body.\n5. Hold for 15 to 30 seconds, return to center, then switch sides.\n6. Repeat.",
+  "tips": "1. Move into the stretch slowly and stay in control.\n2. Keep your supporting hand firm on the bench for stability.\n3. Lengthen up through the reaching arm rather than collapsing sideways.\n4. Breathe steadily and relax deeper on each exhale.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "seated_single_leg_hamstring_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor with both legs extended in front of you.\n2. Bend your left knee and place the sole of your left foot against your right inner thigh.\n3. Keep your right leg straight.\n4. Reach forward toward your right foot with both hands, keeping your back straight.\n5. Hold for 15 to 30 seconds, then switch legs.\n6. Repeat.",
+  "tips": "1. Hinge from the hips instead of rounding your back.\n2. Keep the straight leg long without forcing the knee.\n3. Move in gradually and stop at a mild stretch.\n4. Breathe out as you reach a little deeper.",
+  "primary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "seated_straight_leg_calf_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor with both legs extended in front of you.\n2. Keep your right leg straight and reach forward to grasp the toes of your right foot.\n3. Gently pull your toes toward you until you feel a stretch in your calf.\n4. Hold for 15 to 30 seconds, then switch legs.\n5. Repeat.",
+  "tips": "1. Keep the working leg straight so the stretch reaches the calf.\n2. Hinge from the hips and keep your back long.\n3. Pull the toes back slowly and stop at a mild stretch.\n4. Breathe steadily throughout the hold.",
+  "primary": [
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ]
+ },
+ {
+  "id": "seated_v_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the floor with your legs extended and your hands on the floor behind you for support.\n2. Lean your torso back slightly and engage your core.\n3. Lift your legs and draw your knees toward your chest while bringing your torso up to form a V shape.\n4. Hold briefly and squeeze your abs.\n5. Lower your legs and torso back with control.\n6. Repeat.",
+  "tips": "1. Exhale as you lift into the V and inhale as you lower.\n2. Use your abs to raise your legs, not momentum.\n3. Keep your chest lifted and avoid rounding your back.\n4. Move slowly to keep tension on the core.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "Quads", "latins": ["Rectus Femoris"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "shadow_boxing",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart, one foot slightly forward and knees soft.\n2. Raise your hands to guard position with elbows close to your body.\n3. Throw punches in the air, alternating jabs, crosses, hooks, and uppercuts.\n4. Rotate your hips and shoulders to drive each punch.\n5. Move around with light footwork, stepping forward, back, and side to side.\n6. Repeat.",
+  "tips": "1. Rotate through the hips and pivot the rear foot to generate power.\n2. Keep your hands up in guard between punches.\n3. Exhale sharply with each punch.\n4. Stay light on your feet and move continuously.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Lateralis"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]}
+  ]
+ }
+]

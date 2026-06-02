@@ -1,0 +1,196 @@
+[
+ {
+  "id": "kettlebell_incline_shrug",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Set a bench to about a 45 degree incline and lie face down with your chest on the pad.\n2. Hold a kettlebell in each hand with arms hanging straight down.\n3. Shrug your shoulder blades up and back toward the ceiling.\n4. Squeeze the upper back at the top for a moment.\n5. Lower the kettlebells under control until the shoulders fully relax.\n6. Repeat.",
+  "tips": "1. Keep your arms straight and drive the movement from the shoulder blades, not the elbows.\n2. Pull the shoulders back and up to hit the mid traps and rhomboids.\n3. Keep your chest pinned to the pad to remove momentum.\n4. Use a controlled tempo rather than heavy swinging.",
+  "name": "Kettlebell Incline Shrug",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "kettlebell_lateral_lunge",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand tall holding a kettlebell at your chest with both hands.\n2. Step wide to one side, about 90 cm, keeping both feet flat.\n3. Bend the stepping leg and push your hips back while the other leg stays straight.\n4. Lower until the bent knee is near a right angle.\n5. Push through the heel to return to standing.\n6. Repeat on both sides.",
+  "tips": "1. Keep the trailing leg straight to stretch the inner thigh.\n2. Push your hips back rather than letting the knee cave inward.\n3. Keep your chest up and core braced throughout.\n4. Point both feet forward to load the adductors evenly.",
+  "name": "Kettlebell Lateral Lunge",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "kettlebell_preacher_curl",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Sit at a preacher bench with the back of your upper arm resting on the pad.\n2. Hold a kettlebell with an underhand grip, arm extended.\n3. Curl the kettlebell up toward your shoulder.\n4. Squeeze the biceps at the top.\n5. Lower the kettlebell slowly until the arm is straight.\n6. Repeat.",
+  "tips": "1. Keep your upper arm flat on the pad through the whole rep.\n2. Lower under control to get the most from the stretch.\n3. Avoid swinging or using your shoulder to lift.\n4. Keep the wrist neutral to manage the off-center kettlebell load.",
+  "name": "Kettlebell Preacher Curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "kettlebell_pullover",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a bench holding a kettlebell with both hands over your chest.\n2. Keep a slight bend in your elbows.\n3. Lower the kettlebell back over your head until you feel a stretch in the lats.\n4. Pull the kettlebell back over your chest using your lats.\n5. Keep the core braced throughout.\n6. Repeat.",
+  "tips": "1. Drive the movement with your lats by thinking of shoulder extension.\n2. Keep the elbows in a fixed slight bend rather than flexing them.\n3. Brace the abs to stop your ribs flaring.\n4. Use a range that you can control without arching the low back.",
+  "name": "Kettlebell Pullover",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "kettlebell_rear_delt_row",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Hinge forward at the hips with a flat back, holding a kettlebell in one hand.\n2. Let the arm hang straight down from the shoulder.\n3. Row the kettlebell up with the elbow flared out to the side.\n4. Squeeze the rear shoulder and upper back at the top.\n5. Lower the kettlebell under control.\n6. Repeat on both sides.",
+  "tips": "1. Keep the elbow flared wide to bias the rear delt.\n2. Maintain a flat back and braced core through each rep.\n3. Pull with the shoulder and upper back, not the lower arm.\n4. Keep the movement strict and controlled, not jerky.",
+  "name": "Kettlebell Rear Delt Row",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi",
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

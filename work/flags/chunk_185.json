@@ -1,0 +1,4 @@
+[
+ {"id": "over_head_weight_sit_up", "issue": "Hip flexors (iliopsoas) are a meaningful secondary mover in weighted sit-ups but have no allowed bucket/latin value; omitted."},
+ {"id": "over_weight_ab_crunch", "issue": "Hip flexors (iliopsoas) assist the knees-to-chest motion but have no allowed bucket/latin value; omitted. Movement combines torso crunch and reverse crunch, so both upper and lower rectus abdominis treated as primary."}
+]

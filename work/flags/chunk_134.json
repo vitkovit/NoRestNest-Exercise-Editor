@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbell_side_lying_one_hand_raise", "issue": "Name is ambiguous; interpreted as a side-lying lateral raise (arm rests at side, raises toward ceiling) = Lateral Deltoid primary. If the variant is a side-lying rear/posterior raise the primary would shift to Posterior Deltoid."},
+ {"id": "dumbbell_side_plank_with_rear_fly", "issue": "Two distinct prime movers (obliques for the side-plank hold, posterior deltoid for the rear fly); both placed as primary. Supraspinatus/Rotator Cuff also stabilizes but omitted to keep within meaningful activation."}
+]

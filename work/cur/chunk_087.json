@@ -1,0 +1,160 @@
+[
+ {
+  "id": "cross_over_shoulder_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand tall with feet shoulder-width apart.\n2. Bring your right arm straight across your chest at shoulder height.\n3. Place your left hand on the right upper arm.\n4. Gently pull the right arm toward your chest until you feel a stretch in the back of the shoulder.\n5. Hold, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep the stretched arm straight and relaxed.\n2. Do not pull on the elbow joint; pull on the upper arm.\n3. Keep both shoulders down, away from your ears.\n4. Breathe slowly and stay relaxed during the hold.",
+  "name": "Cross over shoulder stretch",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "crossed_arms_front_leg_kick",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand tall with feet hip-width apart and arms crossed over your chest.\n2. Shift your weight onto your left leg with a slight knee bend.\n3. Kick your right leg straight forward, keeping it as straight as you can.\n4. Lower the right leg back to the floor with control.\n5. Kick your left leg forward in the same way.\n6. Repeat.",
+  "tips": "1. Keep your torso upright; do not lean back as you kick.\n2. Brace your core to stay balanced.\n3. Move with control, no jerking.\n4. Exhale as you kick, inhale as you lower.",
+  "name": "Crossed arms front leg kick",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "crossover_kneeling_hip_flexor_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel with your left knee on the floor and your right foot flat in front, both legs bent about 90 degrees.\n2. Brace your core and rotate your torso toward the right leg.\n3. Reach both hands to the outside of the right thigh.\n4. Push your hips forward while keeping your back straight to feel the stretch in the left hip.\n5. Hold, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep the front knee stacked over the ankle.\n2. Move into the stretch slowly with control.\n3. Keep your back straight, do not arch the lower back.\n4. Breathe slowly throughout the hold.",
+  "name": "Crossover kneeling hip flexor stretch",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "crouching_heel_back_calf_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with legs wide in a semi-lunge, turned to the right, left leg extended back and right knee bent.\n2. Bend forward at the hips and place your hands on the floor for balance.\n3. Keep the left leg straight and press the left heel down toward the floor.\n4. Feel the stretch in the left calf and hold.\n5. Switch sides.\n6. Repeat.",
+  "tips": "1. Keep the back leg straight to target the calf.\n2. Keep your back flat and shoulders relaxed.\n3. Ease the heel down with control.\n4. Breathe slowly during the hold.",
+  "name": "Crouching heel back calf stretch",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "crunch_arms_straight",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat, hip-width apart.\n2. Extend your arms straight overhead, in line with your ears.\n3. Brace your core and lift your shoulder blades off the floor, reaching your arms toward the ceiling.\n4. Lower your shoulder blades back down with control, keeping the arms extended.\n5. Repeat.",
+  "tips": "1. Use your abs to lift, not your neck or momentum.\n2. Keep the arms straight to add load to the abs.\n3. Use a mat to support your back.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Crunch (arms straight)",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

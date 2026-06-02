@@ -1,0 +1,76 @@
+[
+ {
+  "id": "abdominal_crunches_with_hold",
+  "name": "Abdominal crunches with hold",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with knees slightly bent and feet placed on the floor.\n2. Inhale and try reaching forward with straight arms while lifting your upper back off the floor.                                                                   3. Hold the end position for few seconds and slowly return to the starting position.",
+   "tips": "1. Keep your neck relaxed and avoid pulling on it with your hands to prevent strain.\n2. Focus on engaging your core muscles throughout the movement to maximize effectiveness.\n3. Hold the crunch position for a count of two to five seconds to increase muscle activation and endurance.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Obliques"
+   ]
+  }
+ },
+ {
+  "id": "abs_snails",
+  "name": "Abs Snails",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "air_swing_running",
+  "name": "Air Swing Running",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "air_swing_side_to_side_swing",
+  "name": "Air Swing Side To Side Swing",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "air_swing_walking",
+  "name": "Air Swing Walking",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

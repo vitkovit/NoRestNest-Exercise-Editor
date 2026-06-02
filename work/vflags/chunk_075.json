@@ -1,0 +1,22 @@
+[
+ {
+  "id": "chair_bulgarian_split_squats_bodyweight_left",
+  "change": "No change. Quads + glutes primary; hamstrings/adductors/obliques (unilateral anti-rotation)/calves secondary all confirmed by EMG sources for single-leg split squat. Category/equipment/tracking correct."
+ },
+ {
+  "id": "chair_bulgarian_split_squats_bodyweight_right",
+  "change": "No change. Same verification as left variant."
+ },
+ {
+  "id": "chair_elevated_single_leg_glute_bridge",
+  "change": "No change. Glutes + hamstrings primary; erector spinae + abs + obliques secondary (single-leg pelvic anti-rotation/stabilization) confirmed. Category/equipment/tracking correct."
+ },
+ {
+  "id": "chair_feet_elevated_glute_bridge",
+  "change": "No change. Glutes + hamstrings primary; erector spinae + abs secondary confirmed for bilateral elevated bridge. Category/equipment/tracking correct."
+ },
+ {
+  "id": "chair_frog_feet_elevated_glute_bridge_bodyweight",
+  "change": "Removed Hamstrings from secondary. Frog position (heels together, knees out, externally rotated/abducted hips) specifically eliminates hamstring and erector involvement and shifts load to gluteus maximus + medius (Bret Contreras). Kept Adductors secondary (knees-out hold). Glutes remain sole primary."
+ }
+]

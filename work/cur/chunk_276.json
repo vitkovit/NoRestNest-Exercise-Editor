@@ -1,0 +1,173 @@
+[
+ {
+  "id": "landmine_hollow_hold",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your back and grip the end of the landmine barbell with both hands, arms extended above your chest.\n2. Press your lower back into the floor and brace your core.\n3. Lift your head and shoulders off the floor and raise your straight legs to about 30 to 45 degrees.\n4. Hold the hollow position, keeping the bar steady and the lower back flat.\n5. Maintain the hold for the set time, then lower with control. Repeat.",
+  "tips": "1. Keep your lower back pressed to the floor the entire time.\n2. Lower the legs if the back starts to arch.\n3. Breathe steadily; do not hold your breath.\n4. Keep arms locked and the bar directly over the chest.",
+  "name": "Landmine Hollow Hold",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "leg_press_machine_normal_stance",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the leg press machine with your back flat against the pad.\n2. Place your feet shoulder-width apart in the center of the platform, toes slightly out.\n3. Release the safety and bend your knees to lower the platform until they reach about 90 degrees.\n4. Press through your heels to extend your legs without locking the knees.\n5. Lower under control back to the start. Repeat.",
+  "tips": "1. Keep your hips and lower back pressed into the seat throughout.\n2. Do not let your knees cave inward.\n3. Drive through the heels, not the toes.\n4. Exhale as you press and inhale as you lower.",
+  "name": "Leg press machine normal stance",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Gastrocnemius Lateral"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "lever_leg_extension",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the leg extension machine with your back against the pad.\n2. Position the padded lever just above your ankles and align your knees with the machine pivot.\n3. Hold the side handles and brace your core.\n4. Extend your legs to straighten the knees, squeezing the quads at the top.\n5. Lower the weight under control to the start. Repeat.",
+  "tips": "1. Keep your hips and back pressed into the seat.\n2. Control the lowering phase rather than letting the weight drop.\n3. Pause briefly at full extension for a stronger contraction.\n4. Exhale as you extend and inhale as you lower.",
+  "name": "Lever Leg Extension",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "lying_on_side_arm_circle_warm_up",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your side with your legs stacked and your head supported by your lower arm.\n2. Extend your top arm straight up toward the ceiling.\n3. Slowly draw large circles with the top arm, keeping it straight.\n4. Reverse the direction of the circles after several reps.\n5. Roll to the other side and repeat with the other arm. Repeat.",
+  "tips": "1. Move slowly and keep the motion controlled.\n2. Keep your core braced so your torso does not roll.\n3. Start with small circles and gradually make them larger.\n4. Keep the shoulder relaxed, not shrugged.",
+  "name": "Lying On Side Arm Circle Warm Up",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids",
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "mts_iso_lateral_kneeling_leg_curl",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Set the machine to your height and kneel with one knee on the pad.\n2. Place the other leg under the padded lever, just above the heel, and rest your chest on the pad.\n3. Hold the handles and keep your back flat.\n4. Curl the lever by bending the knee and pulling your heel toward your glute.\n5. Lower under control to the start, then switch legs. Repeat.",
+  "tips": "1. Keep your chest on the pad and avoid arching your back.\n2. Squeeze the hamstring at the top of each rep.\n3. Control the lowering phase fully.\n4. Exhale as you curl and inhale as you lower.",
+  "name": "MTS ISO-LATERAL KNEELING LEG CURL",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Gastrocnemius Lateral"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

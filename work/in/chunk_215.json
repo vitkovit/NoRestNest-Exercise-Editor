@@ -1,0 +1,106 @@
+[
+ {
+  "id": "sumo_squat_in_between_legs_resistance_band",
+  "name": "Sumo squat in between legs Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward. Place a resistance band under your feet.\n2. Hold the ends of the resistance band with both hands in between your legs, keeping your hands at hip level.\n3. Lower your body into a squat by bending your knees and pushing your hips back. Keep your chest up and your back straight.\n4. Lower until your thighs are parallel to the floor, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: inhale as you lower into the squat and exhale as you push back up to the starting position.\n2. Focus on keeping your knees in line with your toes to avoid inward collapse.\n3. Ensure your chest stays up and avoid leaning forward excessively.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Adductors",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "sumo_squat_over_shoulder_resistance_band",
+  "name": "Sumo squat over shoulder Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet wider than shoulder-width apart, toes pointing slightly outward. Place a resistance band under your feet.\n2. Hold the ends of the resistance band with both hands near your shoulders, palms facing forward and elbows pointing down.\n3. Lower your body into a squat by bending your knees and pushing your hips back. Keep your chest up and your back straight.\n4. Lower until your thighs are parallel to the floor, then push through your heels to return to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: inhale as you lower into the squat and exhale as you push back up to the starting position.\n2. Focus on keeping your knees in line with your toes to avoid inward collapse.\n3. Ensure your chest stays up and avoid leaning forward excessively.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Adductors",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "superman",
+  "name": "Superman",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie face down on the floor with your arms extended straight out in front of you and your legs extended straight behind you.\n2. Simultaneously lift your arms, chest, and legs off the floor as high as you comfortably can, engaging your lower back and glutes.\n3. Hold the lifted position for a second, feeling the contraction in your lower back and glutes.\n4. Slowly lower your arms, chest, and legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your lower back and glute muscles to lift your body off the floor.\n2. Keep your neck in a neutral position to avoid straining it.\n3. Use a mat to provide cushioning and support for your body.",
+   "primary": [
+    "Lower Back",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "superman_holds",
+  "name": "Superman holds",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie face down on the floor with your arms extended straight out in front of you and your legs extended straight behind you.\n2. Simultaneously lift your arms, chest, and legs off the floor as high as you comfortably can, engaging your lower back and glutes.\n3. Hold the lifted position for 5-10 seconds, feeling the contraction in your lower back and glutes.\n4. Slowly lower your arms, chest, and legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your lower back and glute muscles to lift your body off the floor.\n2. Keep your neck in a neutral position to avoid straining it.\n3. Use a mat to provide cushioning and support for your body.",
+   "primary": [
+    "Lower Back",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "superman_pulls",
+  "name": "Superman pulls",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie face down on the floor with a resistance band secured to a low anchor point in front of you. Hold one end of the resistance band in each hand with your arms extended straight out in front of you and your legs extended straight behind you.\n2. Simultaneously lift your arms, chest, and legs off the floor as high as you comfortably can, engaging your lower back and glutes.\n3. While holding the lifted position, bend your elbows and pull the resistance band towards your shoulders, squeezing your shoulder blades together.\n4. Extend your arms back out in front of you, keeping tension on the resistance band, and then slowly lower your arms, chest, and legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your lower back and glute muscles to lift your body off the floor.\n2. Keep your neck in a neutral position to avoid straining it.\n3. Use a mat to provide cushioning and support for your body.",
+   "primary": [
+    "Lower Back",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ }
+]

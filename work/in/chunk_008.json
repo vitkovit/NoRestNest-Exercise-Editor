@@ -1,0 +1,105 @@
+[
+ {
+  "id": "barbell_bulgarian_split_squat_left_side_view",
+  "name": "Barbell Bulgarian split squat left side view",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your back turned to a box, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart. \n2. Place one foot behind you on the box, ensuring the top of your foot is resting on the box.\n3. Keep your chest up, and maintain a neutral spine. Begin the squat by bending your front knee and lowering your body until your back knee nearly touches the floor.\n4. Push through the heel of your front foot to return to the starting position, extending your hip and knee fully. Repeat for the desired number of repetitions, then switch legs.",
+   "tips": "1. Ensure your front knee tracks over your toes to prevent knee injuries and ensure proper form.\n2. Lower your body slowly and with control to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you push up and inhaling as you lower down.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_clean_and_jerk_split_squat",
+  "name": "Barbell clean and jerk split squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lean with your feet shoulder-width apart, holding a barbell with an overhand grip. Clean the barbell to your shoulders by explosively lifting it from the floor, shrugging your shoulders, and rotating your wrists so the bar rests on your shoulders with your elbows pointing forward.\n2. Engage your core and slightly dip your knees. Explosively push the barbell overhead by extending your legs and arms fully.\n3. Step into a split squat position by moving one leg forward and the other leg back, lowering your body until your back knee nearly touches the floor. Ensure your front knee tracks over your toes and your back knee is bent.\n4. Push through the heel of your front foot to stand back up, bringing your feet together while keeping the barbell overhead. Carefully lower the barbell back to the starting position. Repeat for the desired number of repetitions, alternating the leg that steps forward for each rep.",
+   "tips": "1. Move explosively but with control to ensure proper form and maximize muscle engagement.\n2. Ensure your knees track over your toes to prevent knee injuries and maintain proper alignment.\n3. Keep your chest up and back straight throughout the movement to maintain proper posture.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "barbell_clean_and_press",
+  "name": "Barbell clean and press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Start in a squatted position with your feet shoulder-width apart, holding a barbell with an overhand grip. The barbell should be on the floor in front of you.\n2. Explosively lift the barbell by extending your hips and knees, shrugging your shoulders, and rotating your wrists so the bar rests on your shoulders with your elbows pointing forward (clean position).\n3. From the clean position, engage your core and press the barbell overhead by extending your arms fully. Keep the bar slightly behind your head at the top of the movement.\n4. Slowly lower the barbell back to your shoulders with control, then return the barbell to the floor by reversing the clean movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on leg drive during the clean to generate power from your lower body.\n2. Keep your grip firm but not too tight to allow smooth wrist rotation during the clean.\n3. Exhale powerfully as you press the bar overhead to stabilize your core.",
+   "primary": [
+    "Shoulders",
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back",
+    "Triceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_close_grip_bench_press",
+  "name": "Barbell close grip bench press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor. Grip the barbell with your hands placed closer than shoulder-width apart.\n2. Unrack the barbell by extending your arms fully. Lower the barbell slowly and with control to your lower chest, keeping your elbows facing away from your body.\n3. Press the barbell back up to the starting position by extending your arms fully, focusing on using your triceps and chest muscles.\n4. Repeat for the desired number of repetitions, then carefully rack the barbell back onto the bench press rack.",
+   "tips": "1. Maintain a controlled pace to ensure that you're using muscle strength rather than momentum.\n2. Keep your feet flat on the floor to maintain stability and support your lower back.\n3. Breathe steadily, exhaling as you press the barbell up and inhaling as you lower it back down.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "barbell_close_grip_press",
+  "name": "Barbell close grip press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1.Lie on a flat bench with your feet flat on the floor, holding a barbell with your hands placed closer than shoulder-width apart, arms straight over your chest.\n2. Lower the barbell slowly and with control to your lower chest, keeping your elbows tucked close to your body.\n3. Press the barbell back up to the starting position by extending your arms fully, focusing on using your triceps muscles.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows tucked in close to your body to engage your triceps effectively.\n2. Maintain a controlled pace to ensure that you're using muscle strength rather than momentum.\n3. Keep your feet flat on the floor to maintain stability and support your lower back.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Shoulders"
+   ]
+  }
+ }
+]

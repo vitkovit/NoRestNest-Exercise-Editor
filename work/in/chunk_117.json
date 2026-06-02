@@ -1,0 +1,99 @@
+[
+ {
+  "id": "dumbbell_lateral_to_front_raise",
+  "name": "Dumbbell Lateral to Front Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your arms at your sides and palms facing your body.\n2. Lift the dumbbells laterally to shoulder height, keeping a slight bend in your elbows.\n3. From the lateral position, move the dumbbells forward until they are directly in front of you, keeping them at shoulder height.\n4. Lower the dumbbells back to the starting position with control. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Maintain a slight bend in your elbows to protect your joints.\n2. Keep your shoulders down and back to avoid straining your neck.\n3. Use a weight that allows you to perform the exercise with proper form.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_leaning_fly",
+  "name": "Dumbbell Leaning Fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench holding a dumbbell in each hand, with your arms hanging down by your sides and feet flat on the floor.\n2. Lean your torso slightly forward, keeping your back straight. Raise both arms out to your sides at shoulder height, maintaining a slight bend in your elbows.\n3. Lower the dumbbells down to your sides and repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; focus on a slow and controlled movement.\n2. Maintain a slight bend in your elbows to protect your joints.\n3. Breathe steadily, exhaling as you bring the dumbbells across your body and inhaling as you extend them back out.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_low_windmill",
+  "name": "Dumbbell Low Windmill",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet slightly wider than shoulder-width apart, holding a dumbbell in your left hand. Extend your left arm down, and raise your right arm straight up overhead.\n2. Engage your core and hinge at your hips, bending your left knee slightly while keeping your right leg straight. Lower the dumbbell toward your left foot, keeping your back flat and left arm extended upward.\n3. Rotate your torso slightly to follow the movement of the dumbbell. Lower the dumbbell as close to the floor as you can while maintaining proper form.\n4. Reverse the motion by pushing through your left foot and straightening your torso back to the starting position. Repeat for the desired number of repetitions, then switch sides.",
+   "tips": "1. Ensure your back remains flat and avoid rounding your spine during the movement.\n2. Maintain a slight bend in your left knee while keeping your right leg straight.\n3. Focus on a controlled movement, avoiding any jerky or rapid motions.",
+   "primary": [
+    "Abdominals",
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_lunge_alternating_on_the_spot",
+  "name": "Dumbbell lunge alternating on the spot",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a dumbbell in each hand by your sides.\n2. Take a step forward with your right foot and lower your body into a lunge position by bending both knees. Your right knee should be directly above your right ankle, and your left knee should hover just above the floor.\n3. Push through your right heel to return to the starting position.\n4. Repeat the movement with your left leg, alternating legs with each repetition.",
+   "tips": "1. Ensure your front knee does not extend past your toes to avoid strain on the knee joint.\n2. Maintain a steady and controlled pace to ensure proper form and balance.\n3. Exhale as you push back to the starting position and inhale as you lower into the lunge.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_lunge_pulse",
+  "name": "Dumbbell lunge pulse",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a dumbbell in each hand by your sides.\n2. Take a step forward with your right foot and lower your body into a lunge position by bending both knees. Your right knee should be directly above your right ankle, and your left knee should hover just above the floor.\n3. From the lunge position, pulse up and down by slightly raising and lowering your body a few inches for 2-3 pulses. Keeping the movement controlled and small.\n4. Push through your right heel to return to the starting position. Repeat the movement with your left leg, alternating legs with each set.",
+   "tips": "1. Ensure your front knee does not extend past your toes to avoid strain on the knee joint.\n2. Maintain a steady and controlled pace to ensure proper form and balance.\n3. Exhale as you push back to the starting position and inhale as you lower into the lunge.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

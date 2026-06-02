@@ -1,0 +1,4 @@
+[
+ {"id": "hammer_strength_plate_loaded_high_row_single_arm", "issue": "Equipment is a plate-loaded machine; input category 'Resistance' kept as 'Free Weights' per dropdown rule (plate-loaded). Could also map to 'Resistance'; equipment set to 'machine' (no plate-loaded-machine option)."},
+ {"id": "hanging_knee_raises", "issue": "Hip flexors (iliopsoas) are meaningfully involved but have no allowed bucket/latin value, so omitted."}
+]

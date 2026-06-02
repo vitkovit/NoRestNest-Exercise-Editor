@@ -1,0 +1,101 @@
+[
+ {
+  "id": "barbell_single_leg_split_squat",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand holding a barbell across your upper back, hands slightly wider than shoulder-width.\n2. Place one foot back on a bench, front foot planted about 60 cm ahead.\n3. Bend your front knee and lower until your front thigh is near parallel to the floor.\n4. Push through your front heel to stand back up.\n5. Finish all reps on one leg, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep your chest up and torso tall.\n2. Track your front knee over your foot.\n3. Lower under control, do not bounce at the bottom.\n4. Brace your core to stay balanced.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ]
+ },
+ {
+  "id": "barbell_snatch",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width, barbell over your mid-foot, close to your shins.\n2. Grip the bar wide with palms facing down and set a flat back.\n3. Explosively extend your hips, knees, and ankles to drive the bar up, keeping it close.\n4. Pull yourself under and catch the bar overhead with straight arms in a squat.\n5. Stand up tall with the bar locked out overhead.\n6. Lower the bar and repeat.",
+  "tips": "1. Drive through the floor and finish with full hip extension.\n2. Keep the bar close to your body the whole pull.\n3. Drop fast under the bar to catch it stable overhead.\n4. Use a weight you can control with clean technique.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids", "Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "barbell_snatch_balance",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with the barbell across your upper back, hands in a wide snatch grip.\n2. Set your feet about shoulder-width with a tall torso.\n3. Dip slightly by bending your knees and hips.\n4. Drive up fast, then push yourself under the bar into a deep squat.\n5. Catch the bar overhead with straight arms and stand up tall.\n6. Lower the bar and repeat.",
+  "tips": "1. Drive hard with your legs to move the bar up.\n2. Drop quickly and aggressively under the bar.\n3. Lock your arms and keep the bar over your mid-foot.\n4. Brace your core to stay stable in the catch.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids", "Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_snatch_deadlift_close_grip",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width, barbell over your mid-foot, close to your shins.\n2. Grip the bar with palms down, hands slightly wider than shoulder-width, and set a flat back.\n3. Lift the bar by extending your hips and knees together, keeping it close to your body.\n4. Stand fully upright with the bar at hip level.\n5. Lower the bar under control by hinging at the hips and bending the knees.\n6. Repeat.",
+  "tips": "1. Keep your back flat and chest up the whole lift.\n2. Keep the bar close to your legs.\n3. Push through your mid-foot as you stand.\n4. Brace your core before each rep.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "barbell_snatch_deadlift_wide_grip",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width, barbell over your mid-foot, close to your shins.\n2. Grip the bar with palms down, hands set wide in a snatch grip, and flatten your back.\n3. Lift the bar by extending your hips and knees together, keeping it close to your body.\n4. Stand fully upright with the bar at hip level.\n5. Lower the bar under control by hinging at the hips and bending the knees.\n6. Repeat.",
+  "tips": "1. Keep your back flat and shoulders pulled back.\n2. The wide grip lowers your hips, so push hard with your legs off the floor.\n3. Keep the bar close to your body.\n4. Brace your core before each rep.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

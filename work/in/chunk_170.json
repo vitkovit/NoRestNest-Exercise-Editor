@@ -1,0 +1,100 @@
+[
+ {
+  "id": "kettlebell_split_squat",
+  "name": "Kettlebell split squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a kettlebell in each hand with your arms hanging by your sides. Take a step forward with your right foot and position your left foot back, standing on the ball of your left foot.\n2. Bend both knees to lower your body into a split squat. Your back knee should hover just above the floor, and your front thigh should be parallel to the floor.\n3. Push through your right heel to return to the starting position, fully extending both legs.\n4. Repeat for the desired number of repetitions, then switch legs and perform the same number of repetitions on the other side.",
+   "tips": "1. Keep your chest up and your back straight throughout the movement.\n2. Ensure your front knee stays aligned with your ankle, not extending past your toes.\n3. Keep your feet hip-width apart to maintain proper alignment and balance.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "kettlebell_squats",
+  "name": "Kettlebell squats",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a kettlebell with each hand hanging by your sides.\n2. Lower your body into a squat by bending your knees and pushing your hips back as if sitting in a chair.\n3. Continue lowering yourself until your thighs are parallel to the floor, making sure your knees track over your toes.\n4. Push through your heels to stand back up to the starting position, fully extending your legs.",
+   "tips": "1. Ensure your knees stay in line with your toes to prevent any inward collapse.\n2. Inhale as you lower into the squat and exhale as you push back up to standing.\n3. Focus on pressing through your heels to activate your glutes and quadriceps.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "kettlebell_standing_bottoms_up_one_arm_shoulder_press",
+  "name": "Kettlebell Standing Bottoms-up One Arm Shoulder Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a kettlebell in your right hand with the bell facing up (bottoms-up position). Place your  left hand on your hip.\n2. Press the kettlebell overhead by extending your elbow, keeping your wrist straight.\n3. Once your arm is fully extended overhead, pause for a second to fully activate the shoulder muscles.\n4. Slowly lower the kettlebell back to the starting position with control, keeping the bottoms-up orientation throughout the movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain a strong grip on the kettlebell to keep it stable in the bottoms-up position.\n2. Start with a lighter weight to master the balance and control required for the bottoms-up position.\n3. Avoid locking your elbow completely at the top of the press to protect your joint.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "kettlebell_strict_press",
+  "name": "Kettlebell strict press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a kettlebell in your right hand, close to the front of your shoulder. The kettlebell should rest against the back of your wrist, with your palm facing inward and your elbow close to your body facing down.\n2. Press the kettlebell directly overhead by extending your arm upward, keeping your wrist straight.\n3. Lower the kettlebell back to the starting position with control, returning it to shoulder height.\n4. Repeat for the desired number of repetitions, then switch to the left hand and perform the exercise on the other side.",
+   "tips": "1. Maintain a neutral wrist position to avoid strain.\n2. Avoid using momentum; focus on a slow, controlled press.\n3. Exhale as you press the kettlebell up and inhale as you lower it.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Upper Chest"
+   ]
+  }
+ },
+ {
+  "id": "kettlebell_suitcase_squat",
+  "name": "Kettlebell suitcase squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a kettlebell in your right hand next to your right thigh, with your arm extended. Your left arm can hang by your side or be extended in front of you for counterbalance.\n2. Push your hips back as if sitting into a chair to lower your body into a squat until your thighs are parallel to the floor.\n3. Push through your heels to stand back up to the starting position, maintaining a straight back and engaged core. \n4. Repeat for the desired number of repetitions, then switch the kettlebell to your left hand and perform the exercise on the other side.",
+   "tips": "1. Keep your back straight and avoid leaning to one side.\n2. Use a weight that allows you to maintain proper form throughout the exercise.\n3. Ensure your knees track over your toes to prevent knee strain.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Core Muscles",
+    "Calves"
+   ]
+  }
+ }
+]

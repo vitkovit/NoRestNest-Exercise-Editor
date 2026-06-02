@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_drag_over_shoulder_bicep_curl",
+  "change": "Changed secondary forearms latin from 'Wrist Extensors' to 'Wrist Flexors'. A supinated drag curl loads the wrist flexors to grip/hold the dumbbell, not the extensors. EMG shows minimal forearm/brachioradialis involvement in drag curls, so kept it as a light single secondary. Primary biceps (Biceps Brachii) confirmed correct."
+ },
+ {
+  "id": "dumbbell_external_rotatio",
+  "change": "No change. Primary rotator cuff (Lats->Rotator Cuff) confirmed (infraspinatus/teres minor); secondary Posterior Deltoid + Rhomboids/Lower Traps steady the arm, per sources."
+ },
+ {
+  "id": "dumbbell_external_rotation",
+  "change": "No change. Duplicate of dumbbell_external_rotatio; same verified mapping."
+ },
+ {
+  "id": "dumbbell_face_down_lying_shoulder_pres",
+  "change": "No change. Prone (chest-supported) press: rear delt (Posterior Deltoid) prime mover; Rhomboids/Upper Traps stabilize scapula and Triceps assist elbow extension during the press. Confirmed."
+ },
+ {
+  "id": "dumbbell_face_down_lying_shoulder_press",
+  "change": "No change. Duplicate of dumbbell_face_down_lying_shoulder_pres; same verified mapping."
+ }
+]

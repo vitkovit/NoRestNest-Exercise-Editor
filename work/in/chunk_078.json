@@ -1,0 +1,102 @@
+[
+ {
+  "id": "chin_up_reverse_close_grip",
+  "name": "Chin up reverse close grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping a pull-up bar with a close underhand grip (palms facing you) and your hands placed closer than shoulder-width apart. Hang with your arms fully extended and your legs slightly bent or crossed behind you.\n2. Engage your back and start pulling your body upward by bending your elbows and contracting your biceps, continuing until your chin is above the bar.\n3. Lower yourself back to the starting position with a controlled movement, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your biceps and upper back muscles to lift your body, avoiding excessive momentum.\n2. Perform the movement slowly and with control, especially during the lowering phase, to maximize muscle activation and prevent injury.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you pull up and inhaling as you lower yourself.\n5. Use a full range of motion by fully extending your arms at the bottom and bringing your chin above the bar at the top.",
+   "primary": [
+    "Biceps",
+    "Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "chin_up_reverse_normal_grip",
+  "name": "Chin up reverse normal grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping a pull-up bar with an underhand grip (palms facing you) and your hands shoulder-width apart. Hang with your arms fully extended and your legs slightly bent or crossed behind you.\n2. Engage your core and pull your shoulder blades down and back to start the movement.\n3. Pull your body upward by bending your elbows and contracting your biceps, continuing until your chin is above the bar.\n4. Lower yourself back to the starting position with a controlled movement, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your biceps and back muscles to lift your body, avoiding excessive momentum.\n2. Perform the movement slowly and with control, especially during the lowering phase, to maximize muscle activation and prevent injury.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you pull up and inhaling as you lower yourself.\n5. Use a full range of motion by fully extending your arms at the bottom and bringing your chin above the bar at the top.",
+   "primary": [
+    "Biceps",
+    "Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "chin_up_reverse_wide_grip",
+  "name": "Chin up reverse wide grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping a pull-up bar with an underhand grip (palms facing you) and your hands placed wider than your shoulder-width. Hang with your arms fully extended and your legs slightly bent or crossed behind you.\n2. Engage your core and pull your shoulder blades down and back to start the movement.\n3. Pull your body upward by bending your elbows and contracting your biceps, continuing until your chin is above the bar.\n4. Lower yourself back to the starting position with a controlled movement, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your biceps and back muscles to lift your body, avoiding excessive momentum.\n2. Perform the movement slowly and with control, especially during the lowering phase, to maximize muscle activation and prevent injury.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you pull up and inhaling as you lower yourself.\n5. Use a full range of motion by fully extending your arms at the bottom and bringing your chin above the bar at the top.",
+   "primary": [
+    "Biceps",
+    "Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "chin_ups_narrow_parallel_grip",
+  "name": "Chin ups (narrow parallel grip)",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping a pull-up bar with a narrow parallel grip (palms facing each other) and your hands close together. Hang with your arms fully extended and your legs slightly bent or crossed behind you.\n2. Engage your core and start pulling your body upward by bending your elbows and contracting your biceps, continuing until your chin is above the bar.\n3. Lower yourself back to the starting position with a controlled movement, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your biceps and back muscles to lift your body, avoiding excessive momentum.\n2. Perform the movement slowly and with control, especially during the lowering phase, to maximize muscle activation and prevent injury.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you pull up and inhaling as you lower yourself.\n5. Use a full range of motion by fully extending your arms at the bottom and bringing your chin above the bar at the top.",
+   "primary": [
+    "Biceps",
+    "Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "circle_elbow_arm",
+  "name": "Circle elbow arm",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart. Extend your arms out to the sides at shoulder level, keeping them straight.\n2. Bend your arms at the elbows, bringing your fingers to touch your shoulders on the same side, keeping your elbows pointing outwards.\n3. Begin to make small circular motions with your elbows, moving them forward, up, back, and down in a controlled manner.\n4. Continue circling your elbows for the desired number of repetitions, then reverse the direction of the circles and repeat.",
+   "tips": "1. Focus on making smooth and controlled movements to maximize muscle activation and avoid straining your joints.\n2. Perform the movement slowly to maintain control and improve shoulder mobility.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, maintaining a consistent rhythm.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Forearms",
+    "Chest"
+   ]
+  }
+ }
+]

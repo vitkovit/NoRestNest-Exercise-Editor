@@ -1,0 +1,155 @@
+[
+ {
+  "id": "dumbbell_decline_shrug",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie chest down on a bench set to a decline or incline angle. Place your feet flat on the floor.\n2. Hold a dumbbell in each hand with your arms hanging straight down, palms facing each other.\n3. Let your shoulders drop to feel a stretch in your upper traps.\n4. Lift your shoulders up toward your ears and squeeze your shoulder blades.\n5. Lower your shoulders back down under control.\n6. Repeat.",
+  "tips": "1. Lift with your shoulders, not your arms.\n2. Squeeze your shoulder blades hard at the top.\n3. Keep your head and neck neutral.\n4. Exhale as you shrug up.",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_decline_sit_up",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a decline bench with your feet secured under the footpads.\n2. Hold a dumbbell with both hands against your chest.\n3. Curl your upper body up toward your knees, keeping the dumbbell close to your chest.\n4. Sit up until your torso is upright.\n5. Lower your upper body back down under control.\n6. Repeat.",
+  "tips": "1. Keep the dumbbell close to your chest for balance.\n2. Drive the movement with your abs, not momentum.\n3. Keep your head and neck in line with your spine.\n4. Exhale as you sit up.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_decline_triceps_pull_over_extension",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a decline bench with your feet secured. Hold a dumbbell with both hands, arms extended above your chest.\n2. Lower the dumbbell in an arc over your head, keeping a slight bend in your elbows.\n3. When your arms are near parallel to the floor, bend your elbows to bring the dumbbell toward the sides of your head.\n4. Straighten your elbows to press the dumbbell back up.\n5. Raise the dumbbell in an arc back over your chest to the start.\n6. Repeat.",
+  "tips": "1. Keep your upper arms steady during the elbow extension.\n2. Move slowly and stay in control through the arc.\n3. Use a full range of motion.\n4. Keep your core braced to protect your lower back.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_decline_twist_fly",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a decline bench with your feet secured. Hold a dumbbell in each hand with arms out to your sides at chest level, palms facing up.\n2. Raise the dumbbells in a wide arc, twisting your wrists so your palms face back as they meet above your chest.\n3. Keep a slight bend in your elbows throughout.\n4. Lower your arms back out to the sides under control, twisting your palms back to face up.\n5. Stop when your arms are level with your chest.\n6. Repeat.",
+  "tips": "1. Squeeze your chest at the top of the arc.\n2. Keep your wrists aligned with your forearms during the twist.\n3. Move slowly to keep tension on the chest.\n4. Keep your shoulder blades pinned to the bench.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_diagonal_chop",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell with both hands extended above one shoulder.\n2. Rotate your torso and pull the dumbbell diagonally across your body to the opposite hip, pivoting your feet as you turn.\n3. Keep your arms extended through the chop.\n4. Reverse the motion and bring the dumbbell back up to the start under control.\n5. Finish all reps, then switch sides.\n6. Repeat.",
+  "tips": "1. Rotate through your torso and pivot your feet for full range.\n2. Keep a firm grip on the dumbbell.\n3. Control the dumbbell instead of swinging it.\n4. Brace your core throughout the chop.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ }
+]

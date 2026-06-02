@@ -1,0 +1,22 @@
+[
+ {
+  "id": "barbell_shrugs",
+  "change": "Moved Rhomboids from primary to secondary. Upper Traps is the sole prime mover for scapular elevation in a shrug; rhomboids only retract/stabilize. Sources confirm upper trapezius primary, rhomboids/levator scapulae/forearms secondary."
+ },
+ {
+  "id": "barbell_side_bends",
+  "change": "No change. Obliques (both) primary; Erector Spinae (QL/lower back) and abs secondary all confirmed by sources."
+ },
+ {
+  "id": "barbell_side_split_squat",
+  "change": "No change. Lateral squat targets quads, glutes (incl. gluteus medius), and adductors as primary; hamstrings and calves secondary stabilizers, all confirmed."
+ },
+ {
+  "id": "barbell_single_arm_biceps_curl",
+  "change": "Added oblique (External + Internal) as secondary. Single-arm loading creates an anti-rotation/lateral-flexion core demand (sources liken it to a side plank). Biceps primary and forearms secondary unchanged."
+ },
+ {
+  "id": "barbell_single_leg_deadlift",
+  "change": "No change. Hamstrings + glutes primary; Erector Spinae and obliques (anti-rotation) secondary. EMG sources confirm high glute medius and trunk anti-rotation demand on single-leg RDL."
+ }
+]

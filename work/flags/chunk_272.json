@@ -1,0 +1,5 @@
+[
+ {"id": "multi_hip_abduction", "issue": "Prime mover is gluteus medius/minimus + TFL. Encoded as glutes->Gluteus Medius (side glutes) primary with Abductor (TFL) secondary; no allowed latin for gluteus minimus."},
+ {"id": "push_pull_chair_over_head_pull", "issue": "Obscure outdoor-gym push/pull chair apparatus; identified as a seated overhead/lat-pull lever movement from manufacturer descriptions. Equipment 'other' used (no outdoor-station value in dropdown)."},
+ {"id": "push_pull_front_handle_push", "issue": "Obscure outdoor-gym push/pull chair apparatus; identified as a seated chest-press lever movement from manufacturer descriptions. Equipment 'other' used (no outdoor-station value in dropdown)."}
+]

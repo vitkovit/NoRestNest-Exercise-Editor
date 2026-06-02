@@ -1,0 +1,4 @@
+[
+ {"id": "elbow_lift_reverse_push_up", "issue": "Name is ambiguous across sources; some describe a face-up upper-back retraction movement (rhomboids/posterior delts/triceps) while the original data described a between-chairs reverse plank. Corrected to the upper-back retraction interpretation per majority of exercise-library sources (Fitwill, ManiacMuscle, Lyfta)."},
+ {"id": "elbow_push_plank_up", "issue": "Original data described a non-standard hip-lift from a forearm plank with fists on floor. Treated as an anti-extension core plank variant; abs primary, shoulders/triceps stabilizers."}
+]

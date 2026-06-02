@@ -1,0 +1,94 @@
+[
+ {
+  "id": "standing_quadriceps_stretch_side_angle",
+  "name": "Standing quadriceps stretch side angle",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet shoulder-width apart and find a stable surface to hold onto for balance if needed.\n2. Bend your right knee and bring your heel towards your glutes. Grasp your right ankle with your right hand.\n3. Keep your knees close together and lightly pull your right ankle upward, feeling a stretch along the front of your right thigh.\n4. Hold the stretch for 20-30 seconds, then release your right ankle and return to the starting position. Repeat the stretch on the left leg.",
+   "tips": "1. Perform the stretch slowly and with control to maximize muscle flexibility and reduce injury risk.\n2. Ensure your supporting leg remains slightly bent to maintain balance.\n3. Focus on keeping your torso upright and avoid leaning forward or backward.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "standing_reverse_shoulder_stretch",
+  "name": "Standing reverse shoulder stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, keeping your posture upright. Clasp your hands behind your back, interlocking your fingers.\n2. Straighten your arms and slowly lift your hands upwards, feeling a stretch in your shoulders.\n3. Hold the stretch for 20-30 seconds, and return to the starting position by lowering your hands and releasing the clasp. \n4. Repeat the stretch for the desired number of repetitions.",
+   "tips": "1. Focus on keeping your arms straight and avoiding any bending at the elbows.\n2. Ensure your shoulders remain relaxed and avoid tensing them up towards your ears.\n3. Use a gentle motion to avoid over-stretching and potential muscle strain.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Chest"
+   ]
+  }
+ },
+ {
+  "id": "standing_shoulder_press_dumbbell",
+  "name": "Standing shoulder press dumbbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height with your palms facing forward and elbows pointing to the floor.\n2. Press both dumbbells overhead until your arms are fully extended, keeping your elbows slightly bent at the top.\n3. Slowly lower the dumbbells back to shoulder height with control, maintaining tension in your shoulders.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you press the dumbbells up and inhale as you lower them down.\n2. Focus on using your shoulder muscles to lift the weight, avoiding excessive strain on your neck.\n3. Keep your back straight and avoid arching your lower back during the press.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "standing_side_leg_raises",
+  "name": "Standing side leg raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands on your hips for balance.\n2. Shift your weight onto your left leg and slowly lift your right leg out to the side as high as you comfortably can, keeping it straight.\n3. Hold the raised leg for a second, and slowly lower your right leg back to the starting position with control. \n4. Repeat for the desired number of repetitions, then switch to your left leg.",
+   "tips": "1. Focus on keeping your torso upright and avoid leaning to the side.\n2. Keep your supporting leg slightly bent to maintain balance.\n3. Start with a smaller range of motion and gradually increase it as your strength improves.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Abductors"
+   ]
+  }
+ },
+ {
+  "id": "standing_side_slope_stretch",
+  "name": "Standing side slope stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet shoulder-width apart, keeping your posture upright. Raise your right arm overhead and allow your left hand to hang by your side.\n2. Gently lean your torso to the left, reaching your right arm over your head and feeling a stretch along the right side of your torso.\n3. Hold the stretch for 20-30 seconds, and slowly return to the starting position.\n4. Perform the stretch for the desired number of repetitions on each side.",
+   "tips": "1. Ensure your shoulders remain relaxed and avoid tensing them up towards your ears.\n2. Use a gentle motion to avoid over-stretching and potential muscle strain.\n3. Gradually increase the depth of the stretch as your flexibility improves.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Core"
+   ]
+  }
+ }
+]

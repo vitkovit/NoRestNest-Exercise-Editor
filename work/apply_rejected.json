@@ -1,0 +1,9 @@
+[
+  {
+    "i": 881,
+    "id": "leg_lift_circles",
+    "errs": [
+      "primary[0] \"abs\": latin \"Lower Rectus Abdominis\" not a valid advance term (allowed: Upper Rectus Abdominis, LowerRectus Abdominis)"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+[
+ {"id": "kettlebell_sumo_deadlift_with_high_pull", "issue": "High pull phase activates upper traps strongly (upright-row-like); mapped to 'mid back' bucket since no dedicated traps/shoulders-shrug bucket exists. Biceps also assist the pull but omitted to stay within 5 primary groups."},
+ {"id": "kettlebell_swing", "issue": "Shoulders engage mainly to control/guide the bell rather than as prime movers; classified as secondary. Anterior and Posterior deltoid both involved across phases."}
+]

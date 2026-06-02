@@ -1,0 +1,4 @@
+[
+ {"id": "trap_bar_deadlift", "issue": "Equipment 'trap bar' (hex bar) has no dropdown value; used closest 'barbell'."},
+ {"id": "trap_bar_shrug", "issue": "Equipment 'trap bar' (hex bar) has no dropdown value; used closest 'barbell'. Levator scapulae is a notable mover but has no allowed latin in the 'mid back' bucket (only Upper Traps/Rhomboids/Lower Traps), so omitted."}
+]

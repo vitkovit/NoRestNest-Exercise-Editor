@@ -1,0 +1,7 @@
+[
+ { "id": "barbell_single_leg_split_squat", "change": "No change. Verified Quads + glutes primary, Hamstrings/Adductors/Calves secondary against EMG/modeling sources (front-leg quads and glutes dominant, hamstrings and adductors strong assistors). Format compliant." },
+ { "id": "barbell_snatch", "change": "No change. Full-body Olympic lift: Quads/glutes/shoulders primary; Hamstrings, mid back (traps/rhomboids), Lower Back, Lats, Triceps secondary all confirmed. At 5 secondary cap; forearms/abs also engaged but omitted to respect cap. Format compliant." },
+ { "id": "barbell_snatch_balance", "change": "No change. Overhead-squat receiving drill: Quads/glutes/shoulders primary; Hamstrings, mid back, Triceps, abs secondary confirmed against overhead squat / snatch balance sources. Format compliant." },
+ { "id": "barbell_snatch_deadlift_close_grip", "change": "No change. Posterior-chain hinge: glutes/Hamstrings/Lower Back/Quads primary; mid back, Lats, forearms secondary confirmed. Format compliant." },
+ { "id": "barbell_snatch_deadlift_wide_grip", "change": "No change. Same posterior-chain encoding as close grip; sources note wide grip increases upper-back/traps/lats demand, already captured as secondary buckets. Format compliant. Minor uncertainty: wide grip arguably warrants stronger upper-back emphasis but bucket set is identical, so no reclassification possible." }
+]

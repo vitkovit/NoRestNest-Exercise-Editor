@@ -1,0 +1,4 @@
+[
+ {"id": "high_knee_twist", "issue": "Hip flexors (iliopsoas) are a true prime mover for the knee lift but have no dedicated bucket; mapped to Abductor (closest allowed: Tensor Fasciae Latae/Iliopsoas) per vocabulary lookup."},
+ {"id": "high_knees", "issue": "Primary mover is hip flexors (iliopsoas); no hip-flexor bucket exists, so mapped to Abductor (closest allowed). Also commonly performed as timed cardio; kept repsOnly per input data."}
+]

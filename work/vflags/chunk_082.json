@@ -1,0 +1,22 @@
+[
+ {
+  "id": "circles_knee_stretch",
+  "change": "Deflated inflated muscle list. This is a gentle knee-mobility/warm-up drill, not a strength move. Sources cite inner thighs, hip flexors, core, glutes engaged lightly. Kept Quads primary (stabilize bent knees during the circular motion); moved Calves and glutes to secondary and added Adductors secondary; removed Hamstrings (not a meaningful mover in this stretch)."
+ },
+ {
+  "id": "clap_curtsy_squat",
+  "change": "Demoted shoulders from primary to secondary and trimmed to Anterior Deltoids only (the overhead clap is a light, non-loaded raise, not a prime mover). Promoted Adductors to secondary near top (curtsy diagonal step loads inner thighs more than standard lunge, confirmed by sources). Kept glutes (max+medius) and Quads primary; Hamstrings secondary."
+ },
+ {
+  "id": "clap_jack",
+  "change": "No muscle change in content; reordered primary so legs (Quads, Calves) lead and shoulders follow, consistent with this being a lower-body plyometric jack with arm clap. Glutes and Hamstrings remain secondary. Format valid."
+ },
+ {
+  "id": "clap_push_ups",
+  "change": "Removed mid back/Rhomboids from secondary — a clap push-up is a pressing movement; the scapular retractors are not meaningfully worked (sources cite serratus anterior, which has no allowed bucket, so omitted). Kept chest (both heads), Anterior Deltoids, Triceps primary and abs secondary as confirmed."
+ },
+ {
+  "id": "climber_a_padded_stool_supported",
+  "change": "No change. Verified as an elevated hand-walk/climber onto a stool: core and shoulders are the prime stabilizers (primary); chest, triceps, and obliques (anti-rotation) assist (secondary). Sources confirm. Format valid."
+ }
+]

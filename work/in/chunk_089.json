@@ -1,0 +1,98 @@
+[
+ {
+  "id": "dead_hang_stretch",
+  "name": "Dead hang stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by standing under a pull-up bar or a similar overhead bar.\n2. Reach up and grasp the bar with both hands, palms facing forward (overhand grip), and your hands shoulder-width apart.\n3. Allow your body to hang freely with your feet off the floor, keeping your arms fully extended and your shoulders relaxed.\n4. Hold this position for the desired duration, focusing on deep breathing and maintaining a relaxed grip.",
+   "tips": "1. Keep your shoulders relaxed and avoid shrugging them towards your ears.\n2. Focus on deep, steady breaths to enhance the stretch and promote relaxation.\n3. Use a bar that is high enough to allow your body to hang freely without touching the floor.\n4. If you find it challenging to maintain the grip, use chalk to prevent slipping.\n5. Ensure the bar and your grip are secure to avoid any accidents during the stretch.",
+   "primary": [
+    "Lower Back",
+    "Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Forearms",
+    "Chest"
+   ]
+  }
+ },
+ {
+  "id": "decline_bench_full_sit_up",
+  "name": "Decline bench full sit up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured under the footpads.\n2. Place your hands behind your head with your elbows pointing out to the sides.\n3. Engage your core and lift your upper body towards your knees and stop until a few inches away.\n4. Lower your upper body back to the starting position with control. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Avoid pulling on your neck with your hands; focus on using your abdominal muscles to lift your shoulders.\n2. Perform the movement with control to maximize muscle activation and prevent injury.\n3. Breathe steadily throughout the exercise, exhaling as you lift your shoulders and inhaling as you lower them.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "decline_bench_oblique_crunches_bodyweight",
+  "name": "Decline bench oblique crunches bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured under the footpads. Position yourself so that your hips are at the edge of the bench.\n2. Place your hands behind your head or crossed on your chest with your elbows pointing out to the sides.\n3. Engage your core and lift your upper body towards your right knee, twisting your torso to engage your oblique muscles.\n4. Lower your upper body back to the starting position with control and then lift your upper body towards your left knee. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and support your lower back.\n2. Avoid pulling on your neck with your hands; focus on using your abdominal and oblique muscles to lift your shoulders.\n3. Perform the movement with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Abdominals",
+    "Obliques"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "decline_bench_oblique_crunches_dumbbells",
+  "name": "Decline bench oblique crunches dumbbells",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Secure your feet at the end of a decline bench and lie back with your knees slightly bent. Hold a dumbbell in each hand close to your chest.\n2. Engage your core and lift your upper body off the bench by contracting your abdominal muscles, while simultaneously twisting your torso to the right.\n3. Squeeze your obliques at the top of the movement, ensuring that the contraction is felt along the side of your abdomen.\n4. Slowly lower your upper body back to the starting position and repeat the movement, this time twisting your torso to the left. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Breathe out as you twist and crunch, and breathe in as you return to the starting position.\n2. Ensure your lower back stays in contact with the bench to support your spine.\n3. Use a weight that challenges you but allows you to maintain proper form.\n4. Keep your feet securely anchored to the bench to stabilize your body throughout the exercise.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Biceps",
+    "Abdominals",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "decline_bent_leg_reverse_crunch",
+  "name": "Decline bent leg reverse crunch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on a decline bench with your head at the higher end and place your hands on the side edges of the bench for stability. Bend your knees at 90 degrees and lift your legs so your thighs are perpendicular to the bench and your lower legs are parallel to the floor.\n2. Engage your core and lift your hips off the bench, curling your knees towards your chest while keeping both legs bent.\n3. Lower your hips back to the starting position with control, keeping your knees bent at 90 degrees. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and support your lower back.\n2. Avoid using momentum to lift your hips; focus on using your abdominal muscles for the movement.\n3. Breathe steadily throughout the exercise, exhaling as you lift your hips and inhaling as you lower them.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ }
+]

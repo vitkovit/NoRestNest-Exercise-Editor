@@ -1,0 +1,185 @@
+[
+ {
+  "id": "dumbbell_narrow_stance_squats",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet close together, about hip-width apart, holding a dumbbell in each hand at your sides, palms facing your body.\n2. Brace your core and keep your chest up.\n3. Push your hips back and bend your knees to lower your body.\n4. Lower until your thighs are at least parallel to the floor.\n5. Push through your heels to stand back up and straighten your legs.\n6. Repeat.",
+  "tips": "1. Keep weight on your heels and mid-foot, not your toes.\n2. Track your knees over your toes, do not let them cave inward.\n3. Breathe in on the way down, breathe out as you stand up.\n4. Keep your torso upright to emphasize the quads.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_one_arm_floor_fly",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back on the floor with your legs straight.\n2. Hold a dumbbell in one hand over your chest with a slight bend in the elbow, palm facing inward.\n3. Lower the dumbbell out to the side in a wide arc until your upper arm touches the floor.\n4. Squeeze your chest to bring the dumbbell back over your chest in the same arc.\n5. Repeat, then switch arms.",
+  "tips": "1. Keep a fixed slight bend in your elbow throughout.\n2. Keep your back flat on the floor.\n3. Brace your core to resist your torso rotating toward the working side.\n4. Lead the movement with your chest, not your shoulder.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_one_arm_floor_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back on the floor with your legs straight.\n2. Hold a dumbbell in one hand with your arm extended straight up, palm facing forward.\n3. Bend your elbow and lower until your upper arm touches the floor, keeping the elbow about 45 degrees from your body.\n4. Press the dumbbell back up by extending your elbow.\n5. Repeat, then switch arms.",
+  "tips": "1. Keep your back flat and supported on the floor.\n2. Brace your core to resist your torso rotating toward the working side.\n3. Keep your wrist straight and aligned with your forearm.\n4. Drive through the heel of your hand on the press.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_one_arm_front_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in one hand by your side, palm facing your thigh.\n2. Keeping your arm nearly straight, lift the dumbbell in front of you to shoulder height with your palm facing down.\n3. Pause briefly at the top.\n4. Slowly lower the dumbbell back to your side.\n5. Repeat, then switch arms.",
+  "tips": "1. Do not swing or use momentum to lift the weight.\n2. Brace your core to resist your torso rotating toward the working side.\n3. Stop the lift at shoulder height.\n4. Lower the dumbbell under control.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_one_arm_hammer_preacher_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a preacher bench and place your upper arm flat on the arm pad, holding a dumbbell in a neutral grip, palm facing inward.\n2. Keep your elbow pressed against the pad.\n3. Curl the dumbbell toward your shoulder by bending your elbow.\n4. Squeeze at the top.\n5. Slowly lower the dumbbell until your arm is fully extended.\n6. Repeat, then switch arms.",
+  "tips": "1. Keep your upper arm pressed firmly against the pad.\n2. Move slowly and under control through the full range.\n3. Do not swing or use momentum.\n4. Keep your wrist neutral and firm throughout.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors",
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ }
+]

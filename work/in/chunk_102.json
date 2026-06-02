@@ -1,0 +1,91 @@
+[
+ {
+  "id": "dumbbell_curl_press_extend",
+  "name": "Dumbbell Curl Press Extend",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "dumbbell_curls",
+  "name": "Dumbbell curls",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing inwards (neutral grip).\n2. Keep your elbows close to your torso and curl the dumbbells up towards your shoulders, rotating your wrists so your palms face upward at the top of the curl.\n3. Hold the top position for a brief moment, ensuring you squeeze your biceps.\n4. Slowly lower the dumbbells back to the starting position, rotating your wrists back to the neutral grip, maintaining control throughout the movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Perform the movements in a controlled manner, avoiding any jerking or swinging.\n2. Ensure your elbows stay close to your body and do not flare out during the curl.\n3. Keep your wrists straight and avoid excessive bending.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_curls_alternating",
+  "name": "Dumbbell curls alternating",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing inwards (neutral grip).\n2. Keep your elbows close to your torso and curl one dumbbell up towards your shoulder, rotating your wrist so your palm faces upward (supinated grip) at the top of the curl.\n3. Hold the top position for a brief moment, ensuring you squeeze your biceps, then slowly lower the dumbbell back to the starting position, rotating your wrist back to the neutral grip.\n4. Repeat the curl with the other arm, alternating arms for the desired number of repetitions.",
+   "tips": "1. Perform the movements in a controlled manner, avoiding any jerking or swinging.\n2. Ensure your elbows stay close to your body and do not flare out during the curl.\n3. Keep your wrists straight and avoid excessive bending.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_curtsy_lunge",
+  "name": "Dumbbell curtsy lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, arms bent at 90 degrees, holding a dumbbell in each hand in front of your chest.\n2. Step your right leg behind and to the left of your left leg, lowering your hips into a curtsy lunge position. Your front knee should be aligned with your front ankle, and your back knee should hover just above the floor.\n3. Push through your left heel to return to the starting position, bringing your right leg back to starting position.\n4. Repeat the lunge with your left leg stepping behind and to the right of your right leg, alternating legs for the desired number of repetitions.",
+   "tips": "1. Ensure your front knee does not extend past your toes.\n2. Perform the movement in a controlled manner, focusing on balance and stability.\n3. Exhale as you push back to the starting position and inhale as you lower into the lunge.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_alternate_bench_press",
+  "name": "Dumbbell Decline Alternate Bench Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured and a dumbbell in each hand, arms lowered and elbows bent at a 90-degree angle, palms facing forward.\n2. Press the left dumbbell upward until your arm is fully extended while keeping the right arm lowered.\n3. Lower the left dumbbell back to the starting position, and press the right dumbbell upward until your arm is fully extended.\n4. Alternate the press with each arm, maintaining control and stability throughout the exercise, and repeat for the desired number of repetitions.",
+   "tips": "1. Avoid locking your elbows at the top of the movement to keep tension on your muscles.\n2. Ensure your wrists remain straight and aligned with your forearms.\n3. Focus on a slow and controlled motion to maximize muscle engagement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

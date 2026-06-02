@@ -1,0 +1,95 @@
+[
+ {
+  "id": "dumbbell_farmer_walks",
+  "name": "Dumbbell farmer walks",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by standing upright with a dumbbell in each hand, arms fully extended at your sides, and palms facing inward. Ensure your feet are hip-width apart.\n2. Engage your core and keep your chest up and shoulders back to maintain proper posture.\n3. Start walking forward, taking controlled, even steps, while maintaining a tight grip on the dumbbells.\n4. Walk for the desired distance or time, keeping your torso upright and your core engaged. Once you reach the end of the distance, turn around and walk back to the starting point.",
+   "tips": "1. Maintain an upright posture throughout the exercise to prevent strain on your lower back.\n2. Keep your shoulders back and down, avoiding any hunching or rounding of your shoulders.\n3. Use a firm grip on the dumbbells to ensure they do not slip from your hands.",
+   "primary": [
+    "Forearms",
+    "Trapezius",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Core Muscles",
+    "Legs"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_floor_fly",
+  "name": "Dumbbell floor Fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on your back on the floor with your legs straight on the floor. Hold a dumbbell in each hand with your arms extended straight above your chest, palms facing each other.\n2. Slowly lower the dumbbells out to your sides in a wide arc, keeping a slight bend in your elbows. Lower until your upper arms slightly touch the floor. \n3. Bring the dumbbells back up to the starting position by squeezing your chest muscles, maintaining the slight bend in your elbows throughout the movement.",
+   "tips": "1. Perform the movement in a slow and controlled manner to maximize muscle engagement.\n2. Exhale as you lift the dumbbells back up and inhale as you lower them.\n3. Avoid allowing the dumbbells to touch at the top to maintain tension in the chest muscles.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_fly_flat_bench",
+  "name": "Dumbbell fly flat bench",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a flat bench with your feet flat on the floor for stability. Hold a dumbbell in each hand with your arms extended straight above your chest, palms facing each other.\n2. Lower the dumbbells out to your sides in a wide arc, maintaining a slight bend in your elbows. Lower until your upper arms are parallel to the floor or slightly below chest level.\n3. Bring the dumbbells back up to the starting position by squeezing your chest muscles, keeping the slight bend in your elbows throughout the movement.",
+   "tips": "1. Avoid allowing the dumbbells to touch at the top to maintain tension in the chest muscles.\n2. Keep your feet flat on the floor to provide stability and support.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_fly_flat_bench_slow",
+  "name": "Dumbbell fly flat bench slow",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a flat bench with your feet flat on the floor for stability. Hold a dumbbell in each hand with your arms extended straight above your chest, palms facing each other.\n2. Slowly lower the dumbbells out to your sides in a wide arc, maintaining a slight bend in your elbows. Lower until your upper arms are parallel to the floor or slightly below chest level.\n3. Slowly bring the dumbbells back up to the starting position by squeezing your chest muscles, keeping the slight bend in your elbows throughout the movement.",
+   "tips": "1. Avoid allowing the dumbbells to touch at the top to maintain tension in the chest muscles.\n2. Keep your feet flat on the floor to provide stability and support.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_fly_incline_bench",
+  "name": "Dumbbell fly incline bench",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie down on an incline bench with your feet flat on the floor. Hold a dumbbell in each hand and lie back on the bench with your arms extended straight above your chest, palms facing each other.\n2. Slowly lower the dumbbells out to your sides in a wide arc, maintaining a slight bend in your elbows. Lower until your upper arms are parallel to the floor or slightly below chest level.\n3. Bring the dumbbells back up to the starting position by squeezing your chest muscles, keeping the slight bend in your elbows throughout the movement.\n4. Repeat for the desired number of repetitions, maintaining control and proper form throughout the exercise.",
+   "tips": "1. Avoid allowing the dumbbells to touch at the top to maintain tension in the chest muscles.\n2. Keep your feet flat on the floor to provide stability and support.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Upper Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

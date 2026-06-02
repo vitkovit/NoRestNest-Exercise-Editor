@@ -1,0 +1,97 @@
+[
+ {
+  "id": "side_plank_with_hip_lift",
+  "name": "Side Plank with hip lift",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a side plank position on your right side, with your legs extended straight and stacked on top of each other. Prop yourself up on your right elbow, keeping your elbow directly under your shoulder. Raise your left arm straight toward the ceiling.\n2. Engage your core and lift your hips off the floor, forming a straight line from your head to your feet.\n3. Once in the top position, perform two small controlled bounces with your hips, lifting them slightly higher each time.\n4. Lower your hips back to the floor without touching it and repeat the steps for the desired number of repetitions, then switch to the other side and perform the exercise on your left side.",
+   "tips": "1. Move your hips slowly and with control to maximize muscle engagement and prevent injury.\n2. Breathe steadily, exhaling as you lift your hips and inhaling as you lower them.\n3. Ensure your elbow is directly under your shoulder to support your upper body.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Core",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "side_push_up",
+  "name": "Side push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your right side with your legs bent and stacked on top of each other. Place your right arm across your chest and your left hand on the floor in front of you for support.\n2. Engage your core and press your left hand into the floor, lifting your upper body off the floor.\n3. Hold the top position for a moment, feeling the contraction in your chest and triceps.\n4. Slowly lower your upper body back to the starting position with control. Repeat for the desired number of repetitions, then switch to your left side and perform the exercise with your right hand for support.",
+   "tips": "1. Breathe steadily, exhaling as you push up and inhaling as you lower back down.\n2. Ensure your supporting hand is firmly placed on the floor to provide stability.\n3. Avoid using momentum to lift your upper body; focus on using your chest and triceps muscles.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "side_to_side_punch",
+  "name": "Side to side punch",
+  "sheet": "universal",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet wider than shoulder-width apart and your knees slightly bent. Hold your fists up in front of your face in a guard position.\n2. Rotate your torso to the left as you punch across your body with your right hand, extending your arm fully. Keep your legs and hips stationary.\n3. Quickly return to the starting position, then rotate your torso to the right as you punch across your body with your left hand.\n4. Continue alternating punches from side to side for the desired duration or number of repetitions, maintaining a steady rhythm and controlled movements.",
+   "tips": "1. Focus on rotating your torso to generate power in your punches while keeping your legs and hips stationary.\n2. Breathe steadily, exhaling as you punch and inhaling as you return to the starting position.\n3. Keep your fists up in a guard position when not punching to simulate a defensive stance.",
+   "primary": [
+    "Shoulders",
+    "Arms"
+   ],
+   "secondary": [
+    "Chest",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "side_to_side_push_up",
+  "name": "Side to side push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a standard push-up position with your hands placed slightly wider than shoulder-width apart, your body forming a straight line from head to heels.\n2. Lower your body into a push-up, bending both arms but leaning more to the right side, bringing your chest closer to your right hand.\n3. Push through both hands to return to the starting position.\n4. Lower your body into a push-up again, this time leaning more to the left side, bringing your chest closer to your left hand. Continue alternating sides with each push-up for the desired number of repetitions.",
+   "tips": "1. Breathe steadily, exhaling as you lower your chest and inhaling as you push back up.\n2. Ensure your hands are placed firmly on the floor to provide stability during the exercise.\n3. Focus on using your chest and triceps muscles to push back up to the starting position.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "side_wrist_pull_stretch",
+  "name": "Side wrist pull stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet shoulder-width apart.\n2. Extend your right arm across your torso at chest height, keeping it bent and your forearm parallel to the floor.\n3. Bend your left arm and use your left hand to grasp your right hand, gently pulling your right wrist backward to feel a stretch in your right wrist and forearm.\n4. Hold the stretch for 15-30 seconds, then slowly release. Repeat on the other side.",
+   "tips": "1. Move your wrist slowly and with control to avoid any sudden movements that could cause strain.\n2. Breathe deeply and steadily as you hold the stretch.\n3. Focus on relaxing into the stretch to allow your muscles to lengthen fully.",
+   "primary": [
+    "Wrist Extensors"
+   ],
+   "secondary": [
+    "Forearm Flexors"
+   ]
+  }
+ }
+]

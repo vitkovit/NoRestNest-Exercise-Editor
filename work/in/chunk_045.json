@@ -1,0 +1,100 @@
+[
+ {
+  "id": "bodyweight_squats_hold",
+  "name": "Bodyweight squats hold",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands crossed to your chest.\n2. Lower your body into a squat position by bending your knees and pushing your hips back.\n3. Hold the squat position for the desired duration, maintaining proper form throughout.\n4. Stand back up to the starting position by pressing through your heels and straightening your legs.",
+   "tips": "1. Focus on keeping your feet flat on the floor to ensure stability and proper form.\n2. Ensure your knees are aligned with your toes during the squat to prevent strain on your knees.\n3. Focus on steady breathing to help maintain the hold and prevent fatigue.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_standing_around_world_wall_supported",
+  "name": "Bodyweight standing around world wall supported",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your back against a wall for support.\n2. Extend your arms to the sides of your torso with palms facing forward.\n3. Move your arms in a circular motion, bringing them overhead, and back to the starting position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your back flat against the wall to maintain proper alignment and support.\n2. Maintain a slight bend in your elbows to reduce strain on your joints.\n3. Perform the arm movements slowly and with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Shoulders",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Upper Chest"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_standing_back_stretch",
+  "name": "Bodyweight standing back stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand with your feet shoulder-width apart and bring both arms straight behind your back, holding your hands together.\n2. Gently arch your back, pushing your hips forward and looking towards the ceiling.\n3. Hold the stretched position for a few seconds, maintaining a gentle and controlled stretch.\n4. Return to the starting position and repeat for the desired number of repetitions.",
+   "tips": "1. Keep the movement gentle to avoid straining your lower back.\n2. Engage your core to support your lower back during the stretch.\n3. Breathe deeply and steadily to enhance the stretch and relaxation.",
+   "primary": [
+    "Lower Back",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Chest"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_standing_calf_raise",
+  "name": "Bodyweight standing calf raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands on your hips or by your sides for balance.\n2. Rise up onto your toes, lifting your heels off the floor.\n3. Repeat the movement for the desired number of repetitions.\n4. Lower your heels back to the floor to return to the starting position.",
+   "tips": "1. Keep your core engaged to maintain balance throughout the exercise.\n2. Perform the movement slowly and with control to maximize muscle activation.\n3. Ensure your weight is evenly distributed on both feet to prevent imbalance.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Tibialis",
+    "Fibularis Muscles"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_standing_fly",
+  "name": "Bodyweight standing fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms extended out to the sides, bent at 90 degrees, elbows at shoulder height.\n2. Bring your arms together in front of your body until your forearms meet.\n3. Open your arms back out to the sides to return to the starting position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Ensure your movements are smooth and controlled to maximize muscle engagement and prevent injury.\n2. Keep your shoulders down and away from your ears to avoid tension.\n3. Focus on squeezing your chest muscles as you bring your arms together to enhance muscle activation.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ }
+]

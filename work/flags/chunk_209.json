@@ -1,0 +1,4 @@
+[
+ {"id": "standing_calf_raise_resistance_band", "issue": "Input listed Quadriceps and Hamstrings as secondary; these are not prime movers or meaningful stabilizers in a standing calf raise, so they were dropped. Tibialis anterior is an antagonist, not a worker, so omitted."},
+ {"id": "standing_calf_raises_smith_machine", "issue": "Input equipment was resistance_band (incorrect); changed to machine for a Smith machine exercise. Quadriceps/Hamstrings secondary from input dropped as not meaningful movers."}
+]

@@ -1,0 +1,99 @@
+[
+ {
+  "id": "dumbbell_front_rack_lunge",
+  "name": "Dumbbell Front Rack Lunge",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by standing with your feet hip-width apart, holding a dumbbell in each hand. Rack the dumbbells on your shoulders by bending your elbows and positioning your upper arms parallel to the floor.\n2. Keep your chest up, and step forward with your right leg. Lower your body by bending both knees until your right thigh is parallel to the floor and your left knee is just above the floor.\n3. Push through your right heel to return to the starting position. Repeat the movement with your left leg.\n4. Continue alternating legs for the desired number of repetitions.",
+   "tips": "1. Keep your front foot flat on the floor and your back foot balanced on the ball of your foot.\n2. Focus on keeping your weight evenly distributed between both legs.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_front_raise",
+  "name": "Dumbbell Front Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a dumbbell in each hand with your arms fully extended by your sides and palms facing your thighs.\n2. Raise the dumbbells in front of you to shoulder height, keeping your arms straight and palms facing down.\n3. Pause briefly at the top of the movement, ensuring your shoulders are not shrugging up towards your ears.\n4. Slowly lower the dumbbells back to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid swinging the weights; use a controlled motion to lift and lower the dumbbells.\n2. Maintain a slight bend in your elbows to reduce joint strain.\n3. Keep your shoulders down and relaxed throughout the exercise.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_front_squat",
+  "name": "Dumbbell Front Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand and racking them on your shoulders with your elbows pointing forward.\n2. Begin the movement by pushing your hips back and bending your knees to lower into a squat position.\n3. Continue lowering yourself until your thighs are parallel to the floor, ensuring your knees stay in line with your toes and your back remains straight.\n4. Push through your heels to stand back up, extending your hips and knees fully to return to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your elbows stay up and forward to keep the dumbbells stable on your shoulders.\n2. Avoid letting your knees collapse inward; keep them aligned with your toes.\n3. Maintain a neutral spine and avoid rounding your back.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_glute_bridge",
+  "name": "Dumbbell Glute Bridge",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on your back with your knees bent and feet flat on the floor, hip-width apart. Place a dumbbell horizontally across your hips, holding it securely with both hands.\n2. Engage your core and glutes, and press through your heels to lift your hips toward the ceiling. Your body should form a straight line from your shoulders to your knees.\n3. Squeeze your glutes at the top of the movement, holding for a brief moment while keeping the dumbbell stable on your hips.\n4. Lower your hips back to the starting position in a controlled manner without letting your glutes touch the floor. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees stay aligned with your toes and do not splay outwards.\n2. Focus on squeezing your glutes at the top to maximize muscle activation.\n3. Avoid arching your lower back; maintain a neutral spine.",
+   "primary": [
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Core Muscles"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_goblet_2_sec_hold_squat",
+  "name": "Dumbbell Goblet 2 sec Hold Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell vertically against your chest with both hands, between your palms. Keep your elbows pointed downward.\n2. Push your hips back and bend your knees until your thighs are just lower than parallel to the floor.\n3. Hold the squat position for 2 seconds, keeping your chest up and your weight distributed evenly through your heels.\n4. Push through your heels to return to the standing position, squeezing your glutes at the top. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees track over your toes and do not cave inward during the squat.\n2. Focus on keeping your weight on your heels to engage your glutes and hamstrings.\n3. Maintain a neutral spine and avoid rounding your lower back.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ }
+]

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "lying_abs_resistance_band",
+  "name": "Lying abs Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back with your knees bent and feet flat on the floor. Attach the resistance band to a low anchor point behind your head and hold the handles with both hands, keeping your arms bent and handles close to your head.\n2. Curl your upper body, bringing your elbows towards your knees while lifting your back off the floor. \n3. Slowly lower your upper body back to the starting position with control. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you curl your torso up and inhale as you lower it back down.\n2. Keep your feet flat on the floor for better stability.\n3. Focus on engaging your abdominal muscles throughout the movement.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "lying_back_extension",
+  "name": "Lying back extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying face down on the floor with your legs extended straight behind you and your hands placed behind your head, elbows out to the sides.\n2. Engage your core and glutes, then lift your upper torso off the floor, keeping your neck in a neutral position and your lower body relaxed on the floor.\n3. Hold the top position for a moment, squeezing your lower back muscles.\n4. Slowly lower your upper torso back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your neck in a neutral position to avoid straining it.\n2. Perform the exercise on a comfortable, non-slip surface to prevent discomfort or injury.\n3. If you find it challenging to lift your upper torso, you can start with smaller movements and gradually increase the range of motion as you build strength.",
+   "primary": [
+    "Lower Back"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "lying_bench_external_shoulder_rotation",
+  "name": "Lying bench external shoulder rotation",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back on a bench with your arms extended out to the sides, your elbows bent at 90 degrees, and your forearms hanging off the sides of the bench, perpendicular to the floor in line with your head.\n2. Rotate your shoulders to lift your forearms upward until they are vertical to the floor, maintaining the 90-degree angle at your elbows throughout the movement.\n3. Slowly lower your forearms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged and your back flat against the bench to maintain stability.\n2. Move slowly and with control to maximize muscle engagement and prevent injury.\n3. Keep your elbows fixed at a 90-degree angle throughout the movement to isolate the shoulder rotation.",
+   "primary": [
+    "Rotator Cuff"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "lying_bench_internal_rotation_stretch",
+  "name": "Lying bench internal rotation stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back on a bench with your arms extended out to the sides, your elbows bent at 90 degrees, and your forearms hanging off the sides of the bench, perpendicular to the floor in line with your torso.\n2. Rotate your shoulders to lift your forearms upward until they are vertical to the floor, maintaining the 90-degree angle at your elbows throughout the movement.\n3. Slowly lower your forearms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged and your back flat against the bench to maintain stability.\n2. Move slowly and with control to maximize muscle engagement and prevent injury.\n3. Keep your elbows fixed at a 90-degree angle throughout the movement to isolate the shoulder rotation.",
+   "primary": [
+    "Rotator Cuff"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "lying_crossover_stretch",
+  "name": "Lying crossover stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your back with your legs extended straight and your arms out to the sides to form a T shape.\n2. Bend and lift your right leg and cross it over your body, aiming to touch the floor on the left side, and extend your left arm to hold your right knee down. \n3. Hold the stretch for 15-30 seconds, feeling the stretch in your lower back and hips.\n4. Slowly return your right leg to the starting position. Repeat the stretch with your left leg, crossing it over your body to the right side. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Move slowly and with control to avoid any sudden movements that could cause strain.\n2. Focus on deep, steady breathing, inhaling as you lift your leg and exhaling as you hold the stretch.\n3. Avoid forcing your leg to touch the floor if you feel any pain; go as far as your flexibility allows.",
+   "primary": [
+    "Lower Back",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Obliques"
+   ]
+  }
+ }
+]

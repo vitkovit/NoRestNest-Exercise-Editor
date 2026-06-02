@@ -1,0 +1,180 @@
+[
+ {
+  "id": "resistance_band_glute_bridge_abduction",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat, hip-width apart, and place a loop band just above your knees.\n2. Rest your arms by your sides with palms pressing the floor.\n3. Drive through your heels and lift your hips until shoulders, hips and knees form a straight line.\n4. Holding the bridge, press your knees outward against the band as far as possible.\n5. Bring your knees back together, then lower your hips with control.\n6. Repeat.",
+  "tips": "1. Keep a straight line from shoulders to knees; do not arch the lower back.\n2. Squeeze your glutes hard at the top of each rep.\n3. Press the knees out and feel the outer hips engage.\n4. Exhale lifting and pressing out, inhale on the way down.",
+  "name": "Resistance Band Glute Bridge Abduction",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_glute_bridge_version2",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat, hip-width apart, and place a loop band just above your knees.\n2. Bring your hands to your chest and interlock your fingers.\n3. Drive through your heels and lift your hips until shoulders, hips and knees form a straight line.\n4. Press your knees gently outward against the band to keep tension on the glutes.\n5. Hold briefly, squeezing your glutes at the top, then lower your hips with control.\n6. Repeat.",
+  "tips": "1. Keep a straight line from shoulders to knees; do not arch the lower back.\n2. Push the knees outward against the band throughout the set.\n3. Squeeze the glutes at the top rather than pushing with the lower back.\n4. Exhale lifting, inhale lowering.",
+  "name": "Resistance Band Glute Bridge_Version2",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_hip_thrusts_on_knees",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Kneel upright with a loop band anchored at a low point behind you and wrapped around your hips.\n2. Keep your back straight and your core engaged.\n3. Sit back onto your heels, keeping the band taut.\n4. Thrust your hips forward, rising tall onto your knees and squeezing your glutes at the top.\n5. Lower back onto your heels with control.\n6. Repeat.",
+  "tips": "1. Squeeze your glutes hard at full hip extension.\n2. Keep the band securely anchored to hold steady tension.\n3. Avoid over-arching the lower back; finish with a tall, neutral hip position.\n4. Exhale thrusting forward, inhale sitting back.",
+  "name": "Resistance Band Hip Thrusts on Knees",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_kneeling_cross_body_single_straight_arm_supinated_pulldown",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Anchor a band to a high point in front of you and to your left.\n2. Kneel on your right knee with your left foot flat, holding the handle in your right hand, palm facing up.\n3. Extend your right arm straight overhead toward the anchor, keeping the arm straight.\n4. Pull the handle down across your body toward your right hip, keeping the elbow locked.\n5. Return slowly to the overhead start with control.\n6. Repeat, then switch sides.",
+  "tips": "1. Drive the movement from the lat, not the arm.\n2. Keep the working arm straight throughout the pull.\n3. Keep hips square and resist any twisting of the torso.\n4. Exhale pulling down, inhale returning up.",
+  "name": "Resistance Band Kneeling Cross Body Single Straight Arm Supinated Pulldown",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_kneeling_leg_half_circle_on_bench",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Kneel in a tabletop position on a bench, hands gripping the edges and knees under your hips.\n2. Loop a resistance band around both thighs just above the knees.\n3. Extend your right leg straight back and down, kept below bench level.\n4. Sweep the leg in a half-circle inward, crossing over the left leg until level with the bench.\n5. Return the leg along the same path with control.\n6. Repeat, then switch legs.",
+  "tips": "1. Keep shoulders and hips square to the floor; do not rotate the torso.\n2. Move slowly and feel the outer hip and glute working.\n3. Keep the band taut through the full half-circle.\n4. Exhale sweeping the leg, inhale returning.",
+  "name": "Resistance Band Kneeling Leg Half Circle on bench",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

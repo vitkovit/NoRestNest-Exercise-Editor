@@ -1,0 +1,236 @@
+[
+ {
+  "id": "plank_jack",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a forearm plank with elbows under your shoulders and body in a straight line.\n2. Brace your core and keep your hips level.\n3. Jump both feet out to the sides, slightly wider than shoulder-width.\n4. Jump both feet back together.\n5. Keep your upper body still throughout.\n6. Repeat.",
+  "tips": "1. Keep your hips from bouncing as your feet move.\n2. Land softly on the balls of your feet.\n3. Maintain a straight line from head to heels.\n4. Keep your shoulders directly over your elbows.",
+  "name": "Plank jack",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "plank_knee_tucks",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under your shoulders and body in a straight line.\n2. Brace your core and keep your shoulders over your wrists.\n3. Jump both knees toward your chest, landing with feet flat under your body.\n4. Jump your feet back to the plank position.\n5. Keep your upper body stable throughout.\n6. Repeat.",
+  "tips": "1. Drive the knees in with your abs and hip flexors.\n2. Keep your shoulders stacked over your wrists on each landing.\n3. Land softly to protect your wrists.\n4. Exhale as the knees come in, inhale as you extend back.",
+  "name": "Plank Knee Tucks",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "plank_lunges",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under your shoulders and body in a straight line.\n2. Brace your core and keep your hips level.\n3. Step your right foot forward and plant it outside your right hand.\n4. Return your right foot to the plank position.\n5. Step your left foot outside your left hand, then return.\n6. Repeat, alternating sides.",
+  "tips": "1. Keep your hips low and level as the foot steps up.\n2. Brace the core to stop the torso from rotating.\n3. Keep your shoulders over your wrists throughout.\n4. Move with control rather than rushing the step.",
+  "name": "Plank lunges",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Lateralis",
+     "Vastus Medialis"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "plank_on_elbows",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with your elbows under your shoulders and forearms flat on the floor.\n2. Tuck your toes under and brace your core.\n3. Lift your body off the floor into a straight line from head to heels.\n4. Squeeze your glutes and keep your hips from sagging or rising.\n5. Hold the position, breathing steadily.\n6. Repeat.",
+  "tips": "1. Keep your shoulders stacked over your elbows.\n2. Squeeze your glutes to keep your hips level.\n3. Pull your belly button toward your spine to brace the core.\n4. Breathe steadily instead of holding your breath.",
+  "name": "Plank on elbows",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "plank_reach_through",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your right side and prop up on your right elbow, elbow under your shoulder.\n2. Raise your hips so your body forms a straight line from head to heels.\n3. Reach your left arm straight up toward the ceiling.\n4. Rotate your torso and reach your left arm under and across your body.\n5. Rotate back and return the left arm to vertical.\n6. Finish the set, switch sides, and Repeat.",
+  "tips": "1. Stack your shoulder directly over your supporting elbow.\n2. Keep your hips lifted and avoid letting them drop.\n3. Drive the rotation from your obliques, not momentum.\n4. Exhale as you reach under, inhale as you return.",
+  "name": "Plank reach through",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

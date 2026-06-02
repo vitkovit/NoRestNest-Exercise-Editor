@@ -1,0 +1,4 @@
+[
+ {"id": "standing_quadriceps_stretch", "issue": "Iliopsoas/psoas hip flexor is stretched but has no clean bucket; mapped to Abductor (TFL/Iliopsoas) per vocab translation rule as secondary."},
+ {"id": "standing_one_arm_chest_stretch", "issue": "Pectoralis minor and serratus anterior are stretched but have no allowed latin value; omitted. Sternal and Clavicular heads cover the chest stretch."}
+]

@@ -1,0 +1,4 @@
+[
+ {"id": "kneeling_lat_floor_stretch", "issue": "Static stretch, not a strength movement; muscles listed are those being stretched (lats, teres major, posterior deltoid). Teres major has no allowed latin value so it is folded under Lats."},
+ {"id": "kneeling_wrist_flexor_stretch", "issue": "Static stretch; targets wrist flexors only. No secondary muscle meaningfully involved."}
+]

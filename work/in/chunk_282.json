@@ -1,0 +1,106 @@
+[
+ {
+  "id": "ski_ergometer_cross_country_ski_flyes",
+  "name": "Ski Ergometer Cross Country Ski Flyes",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your back facing the ski ergometer machine, feet shoulder-width apart. Hold the handles with both hands. Arms extended out to the sides at shoulder height. \n2. Begin by pulling both handles inward towards each other in a fly motion, keeping a slight bend in your elbows and squeezing your chest muscles as your hands come together.\n3. Pause briefly when the handles are close together in front of your chest, ensuring a strong contraction.\n4. Slowly extend your arms back to the starting position with control, maintaining a steady rhythm. Repeat the movement for the desired duration or number of repetitions.",
+   "tips": "1. Keep a slight bend in your elbows to reduce strain on your joints.\n2. Maintain a steady pace to ensure consistent tension in the muscles.\n3. Focus on engaging your chest muscles throughout the movement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_jump_squat_pull",
+  "name": "Ski Ergometer Cross Country Ski Jump Squat pull",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in front of the ski ergometer machine with your feet shoulder-width apart, holding the handles with both hands. Engage your core and maintain an upright posture.\n2. Begin by pulling both handles down towards your hips while simultaneously lowering into a squat position, bending your knees, and pushing your hips back.\n3. Explosively jump up from the squat position, extending your legs fully while pulling the handles back up in a controlled manner.\n4. Land softly back into the squat position with control, immediately transitioning into the next repetition. Repeat for the desired duration or number of repetitions.",
+   "tips": "1. Perform the movement with control, focusing on a smooth transition between the squat and jump to maximize efficiency and reduce injury risk.\n2. Breathe steadily and rhythmically to maintain oxygen flow during the exercise.\n3. Focus on using both your arms and legs to distribute the effort evenly and prevent fatigue.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Shoulders",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_kneeling_reverse_fly_pull",
+  "name": "Ski Ergometer Cross Country Ski Kneeling Reverse Fly Pull",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Kneel on the floor facing the ski ergometer machine, holding opposite handles with cables crossing, arms extended forward at head height. Engage your core and keep your back straight.\n2. Begin by pulling both handles outward in a reverse fly motion, keeping a slight bend in your elbows and squeezing your shoulder blades together as your arms move out to your sides.\n3. Pause for a second when your arms are fully extended to the sides and slowly return your arms to the starting position with control, maintaining a steady rhythm. \n4. Repeat the movement for the desired duration or number of repetitions.",
+   "tips": "1. Exhale as you pull the handles outward and inhale as you return them to the starting position.\n2. Use a resistance level that provides enough challenge without compromising form.\n3. Focus on engaging your upper back and shoulder muscles throughout the movement.",
+   "primary": [
+    "Upper Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Core",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_pullover_pull",
+  "name": "Ski Ergometer Cross Country Ski pullover pull",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in front of the ski ergometer machine with your feet shoulder-width apart, holding the handles with both hands and arms straight. Slightly bend your knees, push your hips back, and lean slightly forward.\n2. Begin by pulling both handles down and back in a pullover motion, keeping your arms straight.\n3. Pull the handles down until they are at hip level, then slowly return your arms to the starting position with control, maintaining a steady rhythm. \n4. Repeat the movement for the desired duration or number of repetitions.",
+   "tips": "1. Exhale as you pull the handles down and inhale as you return them to the starting position.\n2. Use a resistance level that provides enough challenge without compromising form.\n3. Keep your arms straight but avoid locking your elbows.",
+   "primary": [
+    "Middle Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Core",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_fly_pull",
+  "name": "Ski Ergometer Cross Country Ski Reverse Fly Pull",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in front of the ski ergometer machine with your feet shoulder-width apart, holding opposite handles with cables crossing. Extend your arms forward at head height. \n2. Begin by pulling both handles outward in a reverse fly motion, keeping a slight bend in your elbows and squeezing your shoulder blades together as your arms move out to your sides.\n3. Pause for a second when your arms are fully extended to the sides and slowly return your arms to the starting position with control, maintaining a steady rhythm. \n4. Repeat the movement for the desired duration or number of repetitions.",
+   "tips": "1. Exhale as you pull the handles outward and inhale as you return them to the starting position.\n2. Use a resistance level that provides enough challenge without compromising form.\n3. Focus on engaging your upper back and shoulder muscles throughout the movement.",
+   "primary": [
+    "Middle Back",
+    "Upper Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Core",
+    "Arms"
+   ]
+  }
+ }
+]

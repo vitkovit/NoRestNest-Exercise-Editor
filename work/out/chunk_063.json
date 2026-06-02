@@ -1,0 +1,80 @@
+[
+ {
+  "id": "cable_reverse_grip_pushdown",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a straight bar to the high pulley of a cable machine.\n2. Grasp the bar with an underhand grip, hands shoulder-width apart.\n3. Stand upright with feet shoulder-width apart and tuck your elbows against your sides.\n4. Push the bar down until your arms are fully extended.\n5. Return the bar slowly until your forearms are parallel to the floor.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and move only at the elbows.\n2. Squeeze the triceps hard at the bottom.\n3. Exhale as you push down, inhale as you return.\n4. Use a controlled tempo and avoid swinging.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "cable_reverse_grip_straight_back_seated_high_row",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit at the cable row station with feet braced and knees slightly bent.\n2. Attach a straight bar to the pulley and grasp it with an underhand grip, hands shoulder-width apart.\n3. Sit upright with your back straight and arms extended.\n4. Pull the bar to your upper abdomen, driving your elbows down and back.\n5. Squeeze your shoulder blades together at the end of the pull.\n6. Extend your arms slowly to the start. Repeat.",
+  "tips": "1. Keep your torso upright and avoid using momentum.\n2. Lead with the elbows to load the back, not the arms.\n3. Squeeze the shoulder blades together at the top.\n4. Exhale as you pull, inhale as you return.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "cable_reverse_grip_triceps_push_down_straight_bar_on_crossover",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a straight bar to a high pulley on the cable crossover.\n2. Grasp the bar with an underhand grip, hands shoulder-width apart.\n3. Stand upright with feet shoulder-width apart and tuck your elbows against your sides.\n4. Push the bar down until your arms are fully extended.\n5. Return the bar slowly until your forearms are parallel to the floor.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and move only at the elbows.\n2. Squeeze the triceps hard at the bottom.\n3. Exhale as you push down, inhale as you return.\n4. Keep your torso steady and avoid leaning into the bar.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "cable_reverse_grip_triceps_pushdown_back_side_pov",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a straight bar to the high pulley of a cable machine.\n2. Grasp the bar with an underhand grip, hands shoulder-width apart.\n3. Stand upright with feet shoulder-width apart and tuck your elbows against your sides.\n4. Push the bar down until your arms are fully extended.\n5. Return the bar slowly until your forearms are parallel to the floor.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and move only at the elbows.\n2. Squeeze the triceps hard at the bottom.\n3. Exhale as you push down, inhale as you return.\n4. Use a controlled tempo and avoid swinging.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "cable_reverse_grip_triceps_pushdown_ez_bar",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach an EZ bar to the high pulley of a cable machine.\n2. Grasp the EZ bar with an underhand grip, hands shoulder-width apart.\n3. Stand upright with feet shoulder-width apart and tuck your elbows against your sides.\n4. Push the bar down until your arms are fully extended.\n5. Return the bar slowly until your forearms are parallel to the floor.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and move only at the elbows.\n2. The angled bar eases wrist strain, so grip it firmly.\n3. Squeeze the triceps hard at the bottom.\n4. Exhale as you push down, inhale as you return.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

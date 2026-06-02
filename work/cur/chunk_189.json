@@ -1,0 +1,202 @@
+[
+ {
+  "id": "modified_hindu_push_up",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank with hands slightly wider than shoulders and feet hip-width apart.\n2. Bend your elbows and lower your chest toward the floor.\n3. Push your hips up and back into a downward-dog position, forming an inverted V.\n4. Lower your hips and bring your body forward back to the plank.\n5. Repeat.",
+  "tips": "1. Keep your core engaged so your hips do not sag in the plank.\n2. Lower your chest with control before sweeping forward.\n3. Drive your hips up high with arms and legs straight in the V position.\n4. Move smoothly through each phase.",
+  "name": "Modified hindu push up",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "mountain_climbers",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank with hands under your shoulders and body in a straight line.\n2. Drive your right knee toward your chest.\n3. Return your right foot to the plank.\n4. Drive your left knee toward your chest.\n5. Alternate sides at a steady pace.\n6. Repeat.",
+  "tips": "1. Keep your hips low and level with your shoulders.\n2. Keep your core braced and shoulders stable.\n3. Breathe steadily as you alternate legs.\n4. Keep movements controlled to hold form.",
+  "name": "Mountain climbers",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "normal_push_up",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank with hands slightly wider than shoulders and feet together.\n2. Keep your body in a straight line from head to heels.\n3. Bend your elbows at about 45 degrees and lower your chest toward the floor.\n4. Stop when your chest is just above the floor.\n5. Push through your hands to extend your arms back to the start.\n6. Repeat.",
+  "tips": "1. Keep your elbows at about 45 degrees to the body.\n2. Exhale as you push up and inhale as you lower.\n3. Keep your head aligned with your spine.\n4. Brace your core to keep your hips from sagging.",
+  "name": "Normal Push-up",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "oblique_crunch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor.\n2. Place your hands behind your head with elbows wide.\n3. Lift your upper back off the floor and rotate to bring your right elbow toward the ceiling.\n4. Squeeze your obliques at the top.\n5. Lower your upper back with control, then repeat to the other side.\n6. Repeat.",
+  "tips": "1. Exhale as you lift and rotate, inhale as you lower.\n2. Do not pull on your neck, let your core do the work.\n3. Focus on rotating the torso, not just lifting.\n4. Keep the movement slow and controlled.",
+  "name": "Oblique crunch",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "one_arm_reverse_dumbbell_fly",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand with a neutral grip.\n2. Bend at the hips and knees, keeping your back flat and almost parallel to the floor. Brace your free hand on a bench.\n3. Let the dumbbell hang straight down from your shoulder with a slight bend in the elbow.\n4. Raise the dumbbell out to the side until your arm is parallel to the floor, squeezing the rear shoulder.\n5. Lower the dumbbell with control. Finish all reps, then switch arms. Repeat.",
+  "tips": "1. Lead with the elbow and keep the slight elbow bend fixed throughout.\n2. Move slowly and avoid swinging or using momentum.\n3. Keep your spine neutral and resist twisting toward the working side.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "One arm reverse dumbbell fly",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

@@ -1,0 +1,105 @@
+[
+ {
+  "id": "cobra_full_push_up",
+  "name": "Cobra full push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands placed under your shoulders, your body forming a straight line from head to heels.\n2. Perform a push-up by lowering your body towards the floor by bending your elbows, keeping them close to your sides.\n3. As your chest reaches the floor, leave your hips on the floor and press through your palms to lift your chest up, straightening your arms and arching your back into the cobra position.\n4. Bend your arms to lower your chest back to the floor, then press through your palms to lift your body back to the starting plank position. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your chest, shoulders, and triceps to push your body up while keeping your elbows close to your sides.\n2. Perform the movement with control, especially during the transitions between plank, push-up, and cobra positions to maximize muscle activation and prevent injury.\n3. Keep your hips on the floor during the cobra position to maintain proper form and maximize the stretch in your lower back.\n4. Breathe steadily throughout the exercise, exhaling as you push up and lift your chest, and inhaling as you lower yourself.",
+   "primary": [
+    "Chest",
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cobra_push_up",
+  "name": "Cobra push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying face down on the floor with your legs extended straight behind you and your hands placed at shoulder level, palms flat on the floor and elbows close to your sides.\n2. Engage your core and press through your palms to lift your chest off the floor, straightening your arms to come into the cobra position. 3. Keep your hips on the floor. Hold the cobra position for a moment, feeling the stretch in your lower back and abdomen.\n4. . Slowly lower your chest back to the floor by bending your elbows, returning to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your chest, shoulders, and triceps to push your body up while keeping your elbows close to your sides.\n2. Keep your hips on the floor during the cobra position to maintain proper form and maximize the stretch in your lower back.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you push up and lift your chest, and inhaling as you lower yourself.",
+   "primary": [
+    "Chest",
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cobra_side_ab_stretch",
+  "name": "Cobra side Ab stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by lying face down on the floor with your legs extended straight behind you and your hands placed at shoulder level, palms flat on the floor.\n2. Press through your palms to lift your chest off the floor, straightening your arms to come into the cobra position, keeping your hips on the floor.\n3. From the cobra position, slowly rotate your torso to the right, looking over your right shoulder, and hold the stretch for a moment, feeling the stretch along the left side of your abdomen. Return to the center cobra position.\n4. Slowly rotate your torso to the left, looking over your left shoulder, and hold the stretch, feeling the stretch along the right side of your abdomen. Return to the center cobra position. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your chest, shoulders, and triceps to push your body up while keeping your elbows close to your sides.\n2. Perform the movement with control to maximize muscle activation and prevent injury.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you push up and lift your chest, and inhaling as you lower yourself and rotate.\n5. Keep your hips on the floor during the cobra and side stretches to maintain proper form and maximize the stretch in your lower back and sides.",
+   "primary": [
+    "Chest",
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cobra_yoga_pose_hold",
+  "name": "Cobra yoga pose hold",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by lying face down on the floor with your legs extended straight behind you and your hands placed at shoulder level, palms flat on the floor.\n2. Engage your core and press through your palms to lift your chest off the floor, straightening your arms to come into the cobra position, keeping your hips on the floor.\n3. Hold the cobra position, keeping your arms straight and your chest lifted, while breathing steadily.",
+   "tips": "1. Perform the movement with control, ensuring a smooth and steady rise into the cobra position.\n2. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n3. Breathe deeply and steadily throughout the exercise, inhaling as you lift your chest and exhaling as you hold the position.\n4. Keep your hips on the floor during the cobra hold to maintain proper form and maximize the stretch in your lower back and abdomen.",
+   "primary": [
+    "Chest",
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cocoons",
+  "name": "Cocoons",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying flat on your back with your legs extended straight and your arms extended overhead on the floor.\n2. Engage your core and simultaneously lift your legs off the floor while bringing your arms forward to meet your knees, curling your body into a \"cocoon\" position.\n3. Hold the cocoon position for a moment, squeezing your core muscles.\n4. Slowly lower your legs and arms back to the starting position, maintaining control. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your abdominal muscles to lift your legs and upper body, avoiding momentum.\n2. Use a mat or soft surface to support your back and prevent discomfort during the exercise.\n3. Ensure your lower back remains in contact with the floor as you lift and lower your legs to avoid unnecessary strain.\n4. Breathe steadily throughout the exercise, exhaling as you curl into the cocoon position and inhaling as you return to the starting position.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Obliques"
+   ]
+  }
+ }
+]

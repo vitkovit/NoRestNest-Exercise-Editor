@@ -1,0 +1,217 @@
+[
+ {
+  "id": "landmine_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Anchor one end of a barbell in a landmine attachment or secure corner.\n2. Stand over the bar with feet shoulder-width apart and knees slightly bent.\n3. Hinge at the hips and grab the bar near the loaded end with a V-handle, arms extended.\n4. Pull the bar toward your chest by driving your elbows back and squeezing your shoulder blades together.\n5. Lower the bar with control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your back flat and brace your core throughout.\n2. Drive the elbows back to engage the lats and mid back.\n3. Exhale as you pull, inhale as you lower.\n4. Keep the movement controlled, do not jerk the weight.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lat_pull_down_close_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit at the lat pulldown machine with thighs secured under the pads and feet flat on the floor.\n2. Grasp the bar with hands just closer than shoulder-width apart, arms fully extended overhead.\n3. Pull the bar down toward your upper chest by driving your elbows down and squeezing your shoulder blades together.\n4. Hold the contraction briefly, keeping your back straight.\n5. Return the bar slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and avoid leaning back excessively.\n2. Lead the pull with your elbows to target the lats.\n3. The close grip increases biceps involvement, control the eccentric.\n4. Exhale as you pull down, inhale as you return.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lat_pull_down_normal_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit at the lat pulldown machine with thighs secured under the pads and feet flat on the floor.\n2. Grasp the bar with hands just wider than shoulder-width apart, arms fully extended overhead.\n3. Pull the bar down toward your upper chest by driving your elbows down and squeezing your shoulder blades together.\n4. Hold the contraction briefly, keeping your back straight.\n5. Return the bar slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and avoid leaning back excessively.\n2. Lead the pull with your elbows to target the lats.\n3. Control the bar on the way up, do not let it pull you out of position.\n4. Exhale as you pull down, inhale as you return.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lat_pull_down_wide_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit at the lat pulldown machine with thighs secured under the pads and feet flat on the floor.\n2. Grasp the bar with hands wider than shoulder-width apart, arms fully extended overhead.\n3. Pull the bar down toward your upper chest by driving your elbows down and squeezing your shoulder blades together.\n4. Hold the contraction briefly, keeping your back straight.\n5. Return the bar slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and avoid leaning back excessively.\n2. Lead the pull with your elbows to target the lats.\n3. The wide grip increases rear delt and upper-back involvement.\n4. Exhale as you pull down, inhale as you return.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lateral_raise_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with feet shoulder-width apart and arms at your sides.\n2. Raise both arms out to the sides until they reach shoulder height, elbows slightly bent and palms facing down.\n3. Hold the top position briefly.\n4. Lower your arms back to your sides with control.\n5. Repeat.",
+  "tips": "1. Keep your shoulders down, do not shrug.\n2. Lead with your elbows to target the lateral deltoids.\n3. Move slowly to keep tension on the muscle.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ]
+ }
+]

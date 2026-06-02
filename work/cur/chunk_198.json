@@ -1,0 +1,187 @@
+[
+ {
+  "id": "rear_deltoid_fly_cable_resistance_band",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the band at shoulder height in front of you.\n2. Stand with feet shoulder-width apart, holding a handle in each hand, arms extended forward at shoulder height, palms facing each other.\n3. Pull the handles out to the sides, squeezing the shoulder blades together, keeping a slight bend in the elbows.\n4. Pause briefly at full contraction.\n5. Return slowly to the start with control.\n6. Repeat.",
+  "tips": "1. Lead with the elbows, not the hands.\n2. Keep the torso still, do not swing.\n3. Exhale as you pull apart, inhale on return.\n4. Use lighter resistance to keep strict form.",
+  "name": "Rear deltoid fly cable Resistance band",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "rear_deltoid_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with feet shoulder-width apart.\n2. Extend one arm straight across the body at shoulder height.\n3. Use the opposite hand to gently pull the arm closer to the chest.\n4. Hold, feeling the stretch in the back of the shoulder.\n5. Release slowly and switch sides.\n6. Repeat.",
+  "tips": "1. Keep shoulders relaxed and down, away from the ears.\n2. Do not twist the torso, keep it facing forward.\n3. Move slowly and stop short of pain.\n4. Pull from the elbow, not the wrist.",
+  "name": "Rear deltoid stretch",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "resistance_band_cable_row",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the band at chest height to a sturdy point.\n2. Kneel on one knee with the other foot flat and forward.\n3. Hold a handle in each hand, arms extended forward, palms facing in.\n4. Pull the handles toward the chest, driving the elbows back and squeezing the shoulder blades together.\n5. Return to the start with control, keeping tension on the band.\n6. Repeat.",
+  "tips": "1. Squeeze the shoulder blades at the end of each pull.\n2. Keep shoulders down, do not shrug.\n3. Brace the core to stop the torso from twisting.\n4. Adjust position to set band tension.",
+  "name": "Resistance band - cable row",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "resistance_band_face_pull",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the band at head height to a sturdy point.\n2. Stand facing the anchor, feet shoulder-width apart, holding a handle in each hand with arms extended forward, palms facing down.\n3. Pull the handles toward the face, flaring the elbows out to the sides.\n4. Keep the upper arms parallel to the floor and squeeze the shoulder blades together.\n5. Extend the arms back to the start with control, keeping tension.\n6. Repeat.",
+  "tips": "1. Keep the elbows high, in line with the shoulders.\n2. Pull the hands toward the ears, not the chin.\n3. Squeeze the shoulder blades at the end.\n4. Exhale on the pull, inhale on return.",
+  "name": "Resistance band face pull",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "resistance_band_kneeling_leg_half_circle",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Start on all fours with hands under shoulders and knees under hips. Place a loop band around both thighs, just above the knees.\n2. Extend your right leg straight back, lifted a few cm off the floor.\n3. Sweep the leg in a half-circle inward over the left leg until it lightly touches the floor, keeping the band taut.\n4. Reverse the motion with control to return to the start.\n5. Finish the set, then switch legs.\n6. Repeat.",
+  "tips": "1. Keep hips and shoulders square to the floor.\n2. Move slowly and control the band tension.\n3. Drive the motion from the glute, not the lower back.\n4. Exhale as you sweep the leg, inhale as you return.",
+  "name": "Resistance Band Kneeling Leg Half Circle",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

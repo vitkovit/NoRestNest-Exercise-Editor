@@ -1,0 +1,95 @@
+[
+ {
+  "id": "barbell_seated_on_knee_calve_raises",
+  "name": "Barbell seated on knee calve raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor and a barbell resting across your thighs, just above your knees. Position your feet hip-width apart.\n2. Lift your heels off the floor by pressing through your forefeet, raising your knees towards the ceiling.\n3. Squeeze your calf muscles at the top of the movement, ensuring your heels are as high as possible.\n4. Lower your heels back down to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure a secure grip on the barbell to maintain control and proper alignment.\n2. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.\n3. Breathe steadily, exhaling as you lift your heels and inhaling as you lower them.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Anterior Tibialis"
+   ]
+  }
+ },
+ {
+  "id": "barbell_seated_overhead_press",
+  "name": "Barbell seated overhead press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor. Hold a barbell with an overhand grip (palms facing forward), hands slightly wider than shoulder-width apart. Position the barbell at shoulder height in front of you.\n2. Press the barbell overhead by extending your elbows until your arms are fully extended.\n3. Lower the barbell back down to the starting position with control, bending your elbows.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.\n2. Breathe steadily, exhaling as you press the barbell overhead and inhaling as you lower it back down.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_seated_overhead_triceps_press",
+  "name": "Barbell seated overhead triceps press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor, maintaining an upright posture. Hold a barbell with a close grip (palms facing up), hands positioned slightly narrower than shoulder-width apart. \n2. Position the barbell behind your head with your elbows bent and pointing upwards. Press the barbell overhead by extending your elbows until your arms are fully extended.\n3. Lower the barbell back down to the starting position with control, bending your elbows.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain an upright posture to ensure proper form and avoid leaning forward.\n2. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.\n3. Ensure your elbows stay pointed upwards to maintain proper alignment and effectively target the triceps.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "barbell_seated_twist",
+  "name": "Barbell seated twist",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart. Keep your back straight and your core engaged.\n2. Begin by rotating your torso to the right, keeping your hips and lower body stationary. Rotate until you feel a stretch in your obliques.\n3. Reverse the movement, rotating your torso to the left, again keeping your hips and lower body stationary.\n4. Repeat the rotation to both sides for the desired number of repetitions.",
+   "tips": "1. Engage your core muscles to stabilize your spine and maintain proper form.\n2. Maintain an upright posture to avoid straining your lower back.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_seated_twist_on_exercise_ball",
+  "name": "Barbell seated twist on exercise ball",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on an exercise ball with your feet flat on the floor, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart. Keep your back straight and your core engaged.\n2. Begin by rotating your torso to the right, keeping your hips and lower body stationary. Rotate until you feel a stretch in your obliques.\n3. Reverse the movement, rotating your torso to the left, again keeping your hips and lower body stationary.\n4. Repeat the rotation to both sides for the desired number of repetitions.",
+   "tips": "1. Engage your core muscles to stabilize your spine and maintain proper form.\n2. Maintain an upright posture to avoid straining your lower back.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Lower Back"
+   ]
+  }
+ }
+]

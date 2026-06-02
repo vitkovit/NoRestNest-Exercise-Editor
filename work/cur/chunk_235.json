@@ -1,0 +1,247 @@
+[
+ {
+  "id": "balance_board_lateral_squat",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand on the balance board with feet shoulder-width apart.\n2. Brace your core to steady the board.\n3. Shift your weight to one side and bend that knee and hip into a squat.\n4. Push back to centre through the heel.\n5. Repeat to the other side. Repeat.",
+  "tips": "1. Keep the working knee in line with the toes.\n2. Brace your core to control the unstable surface.\n3. Fix your eyes on a point ahead to hold balance.\n4. Move slowly and stay in control.",
+  "name": "Balance board lateral squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "ball_headlock_squat",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and hold an exercise ball tight against one side with that arm.\n2. Extend the other arm forward for balance.\n3. Bend at the hips and knees to lower into a squat, keeping your chest up and back straight.\n4. Descend until your thighs are at least parallel to the floor.\n5. Drive through your heels to stand. Repeat, then switch sides.",
+  "tips": "1. Press the ball firmly to your side to keep your torso square.\n2. Do not let the ball pull you sideways; resist the lean.\n3. Keep your knees tracking over your toes.\n4. Brace your core throughout.",
+  "name": "Ball Headlock Squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "ball_slams",
+  "category": "Free Weights",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and hold a slam ball with both hands.\n2. Lift the ball overhead, fully extending your body.\n3. Forcefully slam the ball to the floor, hinging at the hips and crunching your torso down.\n4. Squat to pick the ball back up.\n5. Stand and lift it overhead again. Repeat.",
+  "tips": "1. Drive the slam with your abs and lats, not just your arms.\n2. Hinge at the hips as you slam to protect your lower back.\n3. Exhale sharply on the slam.\n4. Catch or trap the ball on rebound to stay in control.",
+  "name": "Ball Slams",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "band_bent_over_row",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Stand on the centre of the band with feet shoulder-width apart, holding a handle in each hand.\n2. Hinge forward at the hips with a flat back and slightly bent knees.\n3. Let your arms hang straight down with a slight elbow bend.\n4. Pull the handles to your torso, driving your elbows back and squeezing your shoulder blades together.\n5. Lower under control. Repeat.",
+  "tips": "1. Anchor the band securely under both feet to stop slipping.\n2. Keep your back flat and core braced throughout.\n3. Drive with the elbows and squeeze the shoulder blades at the top.\n4. Exhale as you pull, inhale as you lower.",
+  "name": "Band bent-over row",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "band_bicycle_crunch",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back on a mat and loop a resistance band around both feet.\n2. Place your hands behind your head and extend your legs, lifting your shoulders off the floor.\n3. Bring your right knee toward your chest and twist your torso to move your left elbow toward it.\n4. Switch sides, bringing your left knee in and your right elbow toward it in a pedaling motion.\n5. Keep alternating sides in a controlled rhythm. Repeat.",
+  "tips": "1. Drive the movement from your abs, not by pulling on your neck.\n2. Twist the torso fully so the obliques engage on each rep.\n3. Exhale as you crunch and twist, inhale as you switch sides.\n4. Move slowly and keep your lower back pressed toward the mat.",
+  "name": "Band bicycle crunch",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

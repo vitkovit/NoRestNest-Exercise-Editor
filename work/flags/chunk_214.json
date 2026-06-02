@@ -1,0 +1,4 @@
+[
+ {"id": "straight_bar_cable_pull_down", "issue": "Name 'pull down' is ambiguous, but the instructions describe a standing straight-arm pulldown (torso hinged, arms straight, bar to thighs), so corrected as a lat-isolation straight-arm pulldown rather than a vertical lat pulldown."},
+ {"id": "straight_bar_cable_row_normal_grip", "issue": "'Normal grip' is described as wider than shoulder-width; EMG shows wide grip shifts emphasis toward mid-back/traps and rear delts vs the close-grip variant which favors lats. Classified accordingly."}
+]

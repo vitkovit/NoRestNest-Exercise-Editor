@@ -1,0 +1,98 @@
+[
+ {
+  "id": "resistance_band_one_leg_glute_bridge",
+  "name": "Resistance Band One Leg Glute Bridge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back with your knees bent and feet flat on the floor, hip-width apart. Place a loop resistance band around your right thigh, just above your knee, and loop it under your right forefoot.\n2. Press through your right heel to lift your hips towards the ceiling, forming a straight line from your shoulders to your knees, while keeping your left leg bent off the floor.\n3. Hold the bridge position for a second, then slowly lower your hips back to the starting position with control. \n4. Repeat for the desired number of repetitions, then switch to the left leg.",
+   "tips": "1. Focus on engaging your glutes and hamstrings throughout the movement.\n2. Exhale as you lift your hips and inhale as you lower them back down.\n3. Use a resistance band that provides enough tension to challenge your muscles without compromising form.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Hamstrings",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_one_leg_kickback_bent_position",
+  "name": "Resistance Band One Leg Kickback (Bent Position)",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Start standing with a loop resistance band around your ankles. Bend forward at your hips, keeping your back straight, and place your hands on an incline bench's top edge for support.\n2. Engage your glutes and lift your right leg off the floor, reaching as high as possible while keeping it straight.\n3. Slowly return your right leg to the starting position with control.\n4. Repeat for the desired number of repetitions, then switch to the left leg.",
+   "tips": "1. Exhale as you kick your leg back and inhale as you return it to the starting position.\n2. Use a resistance band that provides enough tension to challenge your muscles without compromising form.\n3. Keep your upper body straight and avoid rounding your back.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_pull_apart",
+  "name": "Resistance Band Pull Apart",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a loop resistance band with both hands. Your arms should be extended straight in front of you at shoulder height, and your palms should be facing down.\n2. Pull the resistance band apart by moving your arms out to your sides, squeezing your shoulder blades together, and keeping your arms straight.\n3. Slowly return your arms to the starting position with control, maintaining tension in the band. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your arms straight throughout the exercise, maintaining a slight bend in your elbows.\n2. Maintain a neutral wrist position to prevent strain.\n3. Focus on engaging your upper back and shoulder muscles throughout the movement.",
+   "primary": [
+    "Upper Back",
+    "Rear Shoulders"
+   ],
+   "secondary": [
+    "Rotator Cuff"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_reverse_hyper_with_stability_ball_on_flat_bench",
+  "name": "Resistance Band Reverse Hyper with Stability Ball on Flat Bench",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Place a flat bench in front of you and lie face down on the bench with your hips on the edge and your legs extended straight behind you. Place a loop resistance band around your thighs, just above your knees, and a stability ball between your feet.\n2. Grip the sides of the bench for stability and ensure the stability ball is secure between your feet.\n3. Engage your core and glutes, then lift your legs upward, squeezing your glutes and keeping your legs straight.\n4. Slowly lower your legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep a firm grip on the sides of the bench to maintain stability.\n2. Focus on lifting with your glutes and not using momentum.\n3. Maintain a steady breathing rhythm, exhaling as you lift and inhaling as you lower your legs.",
+   "primary": [
+    "Glutes",
+    "Lower Back"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Abdominals"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_seated_bent_knee_abduction",
+  "name": "Resistance Band Seated Bent Knee Abduction",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor with your legs bent at a 90-degree angle and your feet flat on the floor. Place a loop resistance band around your thighs, just above your knees.\n2. Engage your core, lean slightly back, and place your hands on the floor behind you for support.\n3. Press your knees outward against the resistance of the band, spreading your legs as wide as possible while keeping your feet flat on the floor.\n4. Slowly bring your knees back together to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you press your knees outward and inhale as you bring them back together.\n2. Keep your feet flat on the floor and avoid lifting them off the floor.\n3. Focus on engaging your hip abductors and glutes throughout the movement.",
+   "primary": [
+    "Hip Abductors"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ }
+]

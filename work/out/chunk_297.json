@@ -1,0 +1,89 @@
+[
+ {
+  "id": "landmine_romanian_deadlift",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Stand facing the bar with feet hip-width apart and hold the end with both hands.\n3. Keep a slight knee bend and push the hips back, lowering the bar along your legs.\n4. Stop when you feel a stretch in the hamstrings and your back stays flat.\n5. Drive the hips forward to stand tall and squeeze the glutes.\n6. Repeat.",
+  "tips": "1. Hinge at the hips, do not squat down.\n2. Keep the bar close to your legs throughout.\n3. Maintain a flat back and neutral neck.\n4. Brace your core before each rep.",
+  "primary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "landmine_rotational_lift_to_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Stand side-on to the bar and grip the end with both hands at hip level.\n3. Rotate your torso and pivot the rear foot as you swing the bar across your body.\n4. Drive through the legs and press the bar up and away to lockout.\n5. Reverse the motion under control back to the start.\n6. Repeat, then switch sides.",
+  "tips": "1. Generate power from the hips and legs, not the arms.\n2. Pivot the back foot to let the hips rotate freely.\n3. Brace the core to control the rotation.\n4. Move smoothly without jerking the weight.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "landmine_russian_twist",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Stand facing the bar and hold the end with both hands at chest height.\n3. Keep the arms slightly bent and the core braced.\n4. Rotate the torso to swing the bar in an arc to one side.\n5. Control the bar back across to the opposite side.\n6. Repeat, alternating sides.",
+  "tips": "1. Move from the trunk, keeping the arms fixed.\n2. Let the hips and shoulders rotate together.\n3. Keep the movement slow and controlled.\n4. Brace the core to protect the lower back.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "landmine_seated_alternating_overhead_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Sit on a bench or the floor facing the bar.\n3. Hold the end with one hand at shoulder height.\n4. Press the bar up and away until the arm is extended.\n5. Lower under control and repeat on the other arm.\n6. Repeat, alternating arms.",
+  "tips": "1. Brace the obliques to stop the torso twisting toward the load.\n2. Keep the shoulder down and away from the ear.\n3. Press in a smooth diagonal line.\n4. Control the lowering on each rep.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "landmine_seated_overhead_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine anchor and load the free end.\n2. Sit on a bench or the floor facing the bar.\n3. Hold the end with both hands at shoulder height.\n4. Press the bar up and away until the arms are extended.\n5. Lower under control to the starting position.\n6. Repeat.",
+  "tips": "1. Keep the core braced to support the spine.\n2. Press in a smooth diagonal line away from the body.\n3. Keep the shoulders down, away from the ears.\n4. Control the bar on the way down.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis"]}
+  ]
+ }
+]

@@ -1,0 +1,95 @@
+[
+ {
+  "id": "seated_side_stretch",
+  "name": "Seated side stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on a bench with your feet flat on the floor and your back straight.\n2. Extend your right arm overhead, keeping your left hand holding on the bench for support.\n3. Lean your torso to the left, reaching your right arm over your head and to the left side, feeling the stretch along the right side of your body.\n4. Hold the stretch for 15-30 seconds, then slowly return to the starting position. Repeat on the other side by extending your left arm overhead and leaning to the right.",
+   "tips": "1. Move into the stretch gradually, ensuring that your movements are controlled to avoid muscle strain.\n2. Ensure your supporting hand is firmly placed on the bench to maintain stability.\n3. Perform the stretch on a stable, non-slip surface to ensure safety and reduce discomfort.",
+   "primary": [
+    "Obliques",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "seated_single_leg_hamstring_stretch",
+  "name": "Seated single leg hamstring stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on the floor with your legs extended straight in front of you.\n2. Bend your left knee and place the sole of your left foot against your right inner thigh. Keep your right leg extended and straight.\n3. Reach forward with both hands towards your right foot, keeping your back straight. Aim to grasp your toes or reach as far as comfortable.\n4. Hold the stretch for 15-30 seconds, feeling the stretch in your right hamstring. Slowly release and return to the starting position. Repeat on the other side by extending your left leg and bending your right knee.",
+   "tips": "1. Keep your extended leg straight and avoid locking your knee to protect the joint.\n2. Ensure your bent knee is relaxed and the sole of your foot is comfortably placed against your inner thigh.\n3. Move into the stretch gradually and with control to prevent muscle strain or injury.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "seated_straight_leg_calf_stretch",
+  "name": "Seated straight leg calf stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on the floor with your legs extended straight in front of you.\n2. Lightly bend both knees and extend your right foot, reaching forward to grasp your toes with your right hand.\n3. Gently pull your toes towards you, feeling the stretch in your calf muscle.\n4. Hold the stretch for 15-30 seconds, then slowly release. Repeat on the left leg.",
+   "tips": "1. Maintain a straight back as you reach forward to enhance the effectiveness of the stretch.\n2. Engage your core muscles to support your lower back and avoid rounding your shoulders.\n3. Move slowly and with control to prevent overstretching or injury.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "seated_v_up",
+  "name": "Seated v up",
+  "sheet": "universal",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the floor with your legs extended straight in front of you and your arms placed on the floor slightly behind you for support.\n2. Engage your core and lift your torso off the floor, bringing your knees towards your chest to form a V shape with your body.\n3. Hold the top position for a moment, squeezing your abdominal muscles.\n4. Lower your legs and torso back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily, exhaling as you lift into the V position and inhaling as you lower back down.\n2. Avoid using momentum to lift your legs and torso; focus on using your abdominal muscles.\n3. Keep your back straight and avoid rounding your shoulders to maintain proper form.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "shadow_boxing",
+  "name": "Shadow boxing",
+  "sheet": "universal",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, one foot slightly in front of the other, and your knees slightly bent. Position your hands in front of your face in a guard position, with your elbows close to your body.\nBegin throwing punches in the air, alternating between jabs, crosses, hooks, and uppercuts. Use a full range of motion and rotate your hips and shoulders to generate power.\nMove around as you throw your punches, incorporating footwork to simulate a real boxing match. Step forward, backward, and side to side, keeping light on your feet.\nContinue shadow boxing for the desired duration, maintaining a steady pace and controlled movements.",
+   "tips": "1. Focus on proper form and technique with each punch to maximize effectiveness and prevent injury.\n2. Breathe steadily, exhaling with each punch and inhaling between movements.\n3. Keep your hands up in the guard position to protect your face, even while moving and throwing punches.\n4. Use your lower body to generate power, rotating your hips and pivoting on your feet with each punch.\n5. Maintain a light and agile stance, allowing you to move quickly and fluidly.",
+   "primary": [
+    "Shoulders",
+    "Arms"
+   ],
+   "secondary": [
+    "Chest",
+    "Core"
+   ]
+  }
+ }
+]

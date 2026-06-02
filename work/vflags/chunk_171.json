@@ -1,0 +1,22 @@
+[
+ {
+  "id": "incline_dumbbell_curl",
+  "change": "No change. Confirmed biceps brachii (long-head emphasis from behind-body arm position) as prime mover; forearms/brachioradialis as secondary. Format valid."
+ },
+ {
+  "id": "incline_lateral_raises_dumbbell",
+  "change": "No change. This is a prone/chest-supported raise; instructions and sources confirm rear-delt focus, so Posterior Deltoid primary with mid back (Rhomboids, Upper Traps) secondary is correct."
+ },
+ {
+  "id": "incline_push_up_on_box",
+  "change": "No change. Hands elevated = lower-pec/sternal-dominant push-up. Chest (Sternal + Clavicular) primary; Triceps, Anterior Deltoids, abs secondary. Format valid."
+ },
+ {
+  "id": "incline_push_ups_on_chair",
+  "change": "No change. Same mechanics as box incline push-up. Format valid."
+ },
+ {
+  "id": "intermediate_hip_flexor_and_quad_stretch",
+  "change": "No change. Quads (Rectus Femoris primary stretched, plus vasti) confirmed. Hip flexor/iliopsoas/psoas is also stretched but has no allowed bucket, so it is omitted (flag: psoas unmappable). Secondary correctly empty."
+ }
+]

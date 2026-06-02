@@ -1,0 +1,96 @@
+[
+ {
+  "id": "dumbbell_decline_bench_press",
+  "name": "Dumbbell Decline Bench Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured and a dumbbell in each hand, arms lowered and elbows bent at a 90-degree angle, palms facing forward.\n2. Press both dumbbells upward simultaneously until your arms are fully extended, keeping the motion controlled.\n3. Lower the dumbbells back to the starting position with controlled motion until your elbows are at a 90-degree angle.\n4. Repeat the press and lowering motion for the desired number of repetitions, maintaining stability throughout the exercise.",
+   "tips": "1. Keep your feet firmly planted and secured to avoid slipping.\n2. Maintain a slight bend in your elbows at the top of the movement to protect your joints.\n3. Concentrate on using your chest muscles to press the weights, minimizing shoulder involvement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_fly",
+  "name": "Dumbbell decline fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured and holding a dumbbell in each hand, arms extended straight out to your sides at chest level with palms facing up.\n2. Raise the dumbbells up in a wide arc until your arms are straight above your chest, maintaining a slight bend in your elbows.\n3. Slowly lower your arms back out to the sides in a controlled motion, keeping the slight bend in your elbows, until your arms are level with your chest.\n4. Repeat the steps for the desired number of repetitions, maintaining control throughout the exercise.",
+   "tips": "1. Exhale as you raise the dumbbells and inhale as you lower them.\n2. Avoid locking your elbows; maintain a slight bend to protect your joints.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_hammer_press",
+  "name": "Dumbbell Decline Hammer Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured and holding a dumbbell in each hand, arms bent and dumbbells by your sides with palms facing each other.\n2. Raise the dumbbells up over your chest, extending your arms fully without locking your elbows, keeping your elbows close to your body.\n3. Slowly lower the dumbbells back to the starting position by your sides in a controlled motion.\n4. Repeat the steps for the desired number of repetitions, maintaining control throughout the exercise.",
+   "tips": "1. Exhale as you press the dumbbells up and inhale as you lower them.\n2. Avoid locking your elbows; maintain a slight bend to protect your joints.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_one_arm_hammer_press",
+  "name": "Dumbbell Decline One Arm Hammer Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured, holding a dumbbell in one hand with your arm bent and the dumbbell by your side, palm facing inward. Place your other hand on the bench for stability.\n2. Raise the dumbbell up over your chest, extending your arm fully without locking your elbow, keeping your elbow close to your body.\n3. Slowly lower the dumbbell back to the starting position by your side in a controlled motion.\n4. Repeat the steps for the desired number of repetitions, then switch arms and repeat.",
+   "tips": "1. Exhale as you press the dumbbells up and inhale as you lower them.\n2. Avoid locking your elbows; maintain a slight bend to protect your joints.\n3. Hold the bench tightly with your free hand to ensure proper balance.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_overhead_sit_up",
+  "name": "Dumbbell Decline Overhead Sit-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured, holding a dumbbell in each hand extended overhead.\n2. Slowly lift your shoulders, and upper back off the bench while simultaneously bringing the dumbbells up and over your head.\n3. Continue to lift your torso until you are in an upright position with the dumbbell directly above your head.\n4. Slowly lower yourself back down to the starting position, keeping the dumbbells extended overhead.",
+   "tips": "1. Keep your neck in a neutral position to avoid strain.\n2. Focus on a smooth and controlled motion to maximize core engagement.\n3. Avoid using momentum to lift yourself; rely on your core muscles.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Shoulders"
+   ]
+  }
+ }
+]

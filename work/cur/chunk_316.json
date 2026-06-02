@@ -1,0 +1,65 @@
+[
+ {
+  "id": "rebounder_in_&_out_jacks",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Stand in the centre of the rebounder with feet together and knees soft.\n2. Jump and spread both feet out wide to the edges of the mat.\n3. Jump again and bring your feet back together to the centre.\n4. Keep a steady bouncing rhythm and stay light on the balls of your feet.\n5. Repeat.",
+  "tips": "1. Land softly through the balls of your feet to absorb each bounce.\n2. Keep your core braced to stay balanced on the unstable surface.\n3. Maintain an even, controlled rhythm rather than jumping as high as possible.\n4. Keep knees slightly bent throughout to protect the joints.",
+  "name": "Rebounder In & Out Jacks",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

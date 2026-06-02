@@ -1,0 +1,5 @@
+[
+ {"id": "ball_slams", "issue": "Input had empty data. Slam ball is a weighted implement; chose category Free Weights and equipment 'other' (no slam_ball/medicine_ball option in dropdown). trackingMode set to repsOnly as it is typically counted in reps."},
+ {"id": "ball_headlock_squat", "issue": "Non-standard exercise (unilateral ball held at side). Treated as anti-lateral-flexion loaded bodyweight squat; equipment kept as 'other' since no exercise-ball/stability-ball option exists in dropdown."},
+ {"id": "balance_board_lateral_squat", "issue": "No balance-board equipment value in dropdown; used 'other'."}
+]

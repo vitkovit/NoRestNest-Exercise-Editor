@@ -1,0 +1,92 @@
+[
+ {
+  "id": "dumbbell_decline_shrug",
+  "name": "Dumbbell Decline Shrug",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying chest first on an incline bench with your feet flat on the floor. Hold a dumbbell in each hand with your arms extended straight down toward the floor, palms facing each other.\n2. Allow your shoulders to relax downward, feeling a stretch in your upper traps.\n3. Lift your shoulders upward towards your ears, squeezing your shoulder blades together at the top of the movement.\n4. Inhale and slowly lower your shoulders back down to the starting position.",
+   "tips": "1. Avoid using your arms to lift the weights; focus on lifting with your shoulders.\n2. Concentrate on squeezing your shoulder blades together at the top of the movement.\n3. Ensure your head and neck remain in a neutral position to avoid strain.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_sit_up",
+  "name": "Dumbbell Decline Sit-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet securely positioned under the footpads. Hold a dumbbell with both hands against your chest.\n2. Lift your upper body towards your knees, keeping the dumbbell close to your chest.\n3. Sit up fully until your back is straight, then slowly lower your upper body back to the starting position.\n4. Repeat the exercise for the desired number of repetitions.",
+   "tips": "1. Keep the dumbbell close to your chest throughout the exercise to maintain balance.\n2. Focus on engaging your abdominal muscles, not using momentum.\n3. Keep your head and neck in line with your spine to avoid strain.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_triceps_pull_over_extension",
+  "name": "Dumbbell Decline triceps pull-over extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a decline bench with your feet secured and hold a dumbbell with both hands, extending your arms straight above your chest.\n2. Slowly lower the dumbbell in an arc over your head, keeping your arms slightly bent at the elbows.\n3. Once your arms are almost parallel to the floor, bend your elbows to lower the dumbbells down to your head sides, and immediately straighten your elbows.\n4. Raise both dumbbells in an arc over your head to starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid locking your elbows; maintain a slight bend to reduce joint strain.\n2. Perform the movement slowly to maximize muscle activation and control.\n3. Ensure a full range of motion for optimal muscle engagement.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_decline_twist_fly",
+  "name": "Dumbbell Decline Twist Fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured and holding a dumbbell in each hand. Extend your arms straight out to your sides at chest level with palms facing each up.\n2. As you raise the dumbbells up in a wide arc, twist your wrists so that your palms face backward, bringing the dumbbells to meet above your chest while maintaining a slight bend in your elbows.\n3. Slowly lower your arms back out to the sides in a controlled motion, twisting your wrists back so that your palms face up, until your arms are level with your chest.\n4. Repeat the raising and lowering motion for the desired number of repetitions, maintaining control throughout the exercise.",
+   "tips": "1. Avoid locking your elbows; maintain a slight bend to protect your joints.\n2. Ensure your wrists remain straight and aligned with your forearms during the twist.\n3. Focus on a slow and controlled motion to maximize muscle engagement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_diagonal_chop",
+  "name": "Dumbbell diagonal chop",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell with both hands extended opposite your chest.\n2. Rotate your torso and lower the dumbbell diagonally across your body to the left side, extending your arms fully as you reach downward, while pivoting your feet towards your left side.\n3. In a controlled motion, bring the dumbbell back up to the starting position, reversing the diagonal path.\n4. Repeat the movement for the desired number of repetitions, then switch sides and repeat.",
+   "tips": "1. Rotate your torso and pivot your feet to allow for a full range of motion.\n2. Maintain a firm grip on the dumbbell to ensure control.\n3. Perform the movement in a controlled manner to avoid swinging the dumbbell.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

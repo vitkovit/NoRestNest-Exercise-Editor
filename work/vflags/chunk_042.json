@@ -1,0 +1,22 @@
+[
+ {
+  "id": "bird_dog",
+  "change": "No change. Web search/EMG (PMC10305076) confirms erector spinae, rectus abdominis, obliques as core prime movers with anti-rotation demand; glutes (max 80% MVIC, medius 45%) and shoulders as secondary. Glutes activate strongly but role is hip extension assist/stabilization, so secondary placement is defensible."
+ },
+ {
+  "id": "bird_dog_version_2",
+  "change": "No change. Same as bird_dog; higher leg lift variant. Encoding identical and confirmed valid."
+ },
+ {
+  "id": "boat_stretch",
+  "change": "No change. Boat/V-sit (Navasana): abs and hip flexors are prime stabilizers; iliopsoas is the true hip-flexor prime mover but has no allowed bucket, so abs + Quads (Rectus Femoris for hip flexion/knee extension with toes flexed) kept as primary. Adductors, vastii, erector spinae secondary all confirmed. Note: iliopsoas omitted (no allowed value)."
+ },
+ {
+  "id": "body_saw_plank",
+  "change": "No change. EMG confirms rectus abdominis + obliques as dominant (>87% plank activation), with serratus/deltoids, erector spinae, glutes, quads as stabilizing secondary. Equipment 'other' (sliders/towel) and timed tracking appropriate."
+ },
+ {
+  "id": "body_slide",
+  "change": "Replaced secondary 'abs' with 'oblique' (External + Internal Obliques). Lateral/frontal-plane hip shift is stabilized primarily by the obliques rather than the rectus abdominis. Primary Abductor + Adductors and secondary glutes (Gluteus Medius) confirmed by hip-abduction/adduction frontal-plane sources."
+ }
+]

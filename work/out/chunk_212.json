@@ -1,0 +1,83 @@
+[
+ {
+  "id": "standing_quadriceps_stretch_side_angle",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart. Hold a stable surface for balance if needed.\n2. Bend your right knee and bring your heel toward your glutes.\n3. Grasp your right ankle with your right hand and keep your knees close together.\n4. Pull your ankle gently upward until you feel a stretch in the front of your thigh.\n5. Hold for 20 to 30 seconds, release, then switch legs.\n6. Repeat.",
+  "tips": "1. Move slowly and with control to reduce injury risk.\n2. Keep the supporting leg slightly bent for balance.\n3. Keep your torso upright and do not lean forward or back.\n4. Tuck your pelvis under to deepen the stretch.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ]
+ },
+ {
+  "id": "standing_reverse_shoulder_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart and posture upright.\n2. Clasp your hands behind your back and interlock your fingers.\n3. Straighten your arms and slowly lift your hands upward until you feel a stretch in your shoulders and chest.\n4. Hold for 20 to 30 seconds.\n5. Lower your hands and release the clasp.\n6. Repeat.",
+  "tips": "1. Keep your arms straight without bending the elbows.\n2. Keep your shoulders relaxed and down, away from your ears.\n3. Use a gentle motion to avoid over-stretching.\n4. Open your chest forward to increase the stretch.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Clavicular Head", "Sternal Head"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ]
+ },
+ {
+  "id": "standing_shoulder_press_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at shoulder height.\n2. Keep your palms facing forward and elbows pointing down.\n3. Press both dumbbells overhead until your arms are fully extended.\n4. Lower the dumbbells back to shoulder height with control.\n5. Repeat.",
+  "tips": "1. Exhale as you press up and inhale as you lower.\n2. Brace your core and keep your back straight to avoid arching the lower back.\n3. Press in a smooth path, keeping the dumbbells over your shoulders.\n4. Keep your neck relaxed and let the shoulders do the work.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "standing_side_leg_raises",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart and hands on your hips for balance.\n2. Shift your weight onto your left leg.\n3. Slowly lift your right leg out to the side as high as is comfortable, keeping it straight.\n4. Hold briefly, then lower your right leg back down with control.\n5. Finish your reps, then switch to the left leg.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and do not lean to the side.\n2. Keep the supporting leg slightly bent for balance.\n3. Lift through the hip, not by swinging the leg.\n4. Start with a smaller range and increase it as strength improves.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Medius"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "standing_side_slope_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart and posture upright.\n2. Raise your right arm overhead and let your left hand hang at your side.\n3. Gently lean your torso to the left, reaching your right arm over your head.\n4. Feel the stretch along the right side of your torso and hold for 20 to 30 seconds.\n5. Return to the start, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep your hips level and do not push them out to the side.\n2. Keep your shoulders relaxed, away from your ears.\n3. Use a gentle motion to avoid over-stretching.\n4. Increase the lean gradually as flexibility improves.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ }
+]

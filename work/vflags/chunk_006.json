@@ -1,0 +1,22 @@
+[
+ {
+  "id": "arm_rotation_knee_lift",
+  "change": "Moved abs from primary to secondary; the movement is rotation-dominant so obliques are the sole prime mover. Kept Quads (Rectus Femoris) secondary for the knee-lift hip flexion. Confirmed obliques are the main twisting muscle via web search."
+ },
+ {
+  "id": "arm_swing_side_to_side",
+  "change": "Promoted chest (Clavicular + Sternal Head) from secondary to co-primary; cross-body arm swing is horizontal adduction driven by pec major and anterior deltoid together. Kept posterior deltoid secondary for the open-out backswing."
+ },
+ {
+  "id": "arms_behind_back_shoulder_flexor_stretch",
+  "change": "No change. Anterior deltoid stretch with pectorals secondary confirmed by web search."
+ },
+ {
+  "id": "arms_up_and_down",
+  "change": "Replaced posterior deltoid secondary (not a meaningful contributor to overhead/front arm raise) with Lateral Deltoids and Upper Traps, which assist front raises and upward scapular rotation per web search."
+ },
+ {
+  "id": "arnold_press_cable_resistance_band_standing",
+  "change": "Removed standalone posterior deltoid secondary entry (Arnold press emphasizes anterior/lateral delts; posterior is minimal). Added clavicular head (upper chest) secondary, a documented assister. Kept triceps and core (standing) secondary."
+ }
+]

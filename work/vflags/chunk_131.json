@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_pullover_hip_extension_on_exercise_ball",
+  "change": "Moved Hamstrings from primary to secondary. This combo is a chest/lat pullover plus a glute-bridge-style hip extension; chest, lats and glutes are the prime movers while hamstrings assist hip extension. Added abs secondary (core stabilizes on the ball). Kept Triceps and Erector Spinae secondary; dropped redundant Posterior Deltoid to keep the list focused. Equipment/category/tracking confirmed (dumbbell, Free Weights, weighted reps)."
+ },
+ {
+  "id": "dumbbell_pullover_on_floor",
+  "change": "No muscle changes. Chest + Lats primary, Triceps + Posterior Deltoid (shoulder extension assist) secondary, confirmed by sources. Equipment/category/tracking confirmed."
+ },
+ {
+  "id": "dumbbell_push_press",
+  "change": "No changes. Anterior/Lateral Deltoids, Quads, Triceps primary (leg drive then press); glutes, hamstrings, abs, erector secondary all confirmed by sources. Equipment/category/tracking confirmed."
+ },
+ {
+  "id": "dumbbell_rdl_stretch_isometric",
+  "change": "Added oblique (External + Internal Obliques) as secondary. This is a single-leg/unilateral RDL hold; EMG sources confirm core and obliques fire hard for anti-rotation balance, and gluteus medius activation is high (justifies Gluteus Medius kept primary). Kept Erector Spinae and Adductors secondary. Tracking 'timed' correct for isometric hold."
+ },
+ {
+  "id": "dumbbell_rear_delt_row",
+  "change": "No changes. Posterior Deltoid + mid back (Rhomboids, Upper/middle Traps) primary; Rotator Cuff and Biceps Brachii secondary, all confirmed. Equipment/category/tracking confirmed."
+ }
+]

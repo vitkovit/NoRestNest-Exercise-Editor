@@ -1,0 +1,6 @@
+[
+ {"id": "dumbbell_reverse_wrist_curl", "issue": "Brachioradialis is a meaningful secondary mover but has no dedicated bucket/latin; folded into forearms/Wrist Extensors since both are pronated-grip extensor-side muscles."},
+ {"id": "dumbbell_russian_twist_with_legs_floor_off", "issue": "Hip flexors (iliopsoas) hold the legs up but have no allowed latin; mapped to Abductor bucket per project translation guidance. Approximate."},
+ {"id": "dumbbell_scott_press", "issue": "Upper chest (clavicular pec) is listed by some sources as secondary but activation is minor; omitted to avoid inflation."},
+ {"id": "dumbbell_scott_press_360_degrees", "issue": "Input data identical to dumbbell_scott_press; no source describes a distinct '360 degrees' variant, treated as same movement with a wider arc."}
+]

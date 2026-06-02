@@ -1,0 +1,208 @@
+[
+ {
+  "id": "lateral_raise_to_shoulder_press_resistance_band_cable",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart on the middle of the band, holding a handle in each hand at your sides, palms facing inward.\n2. Raise both arms out to the sides until they are parallel to the floor, keeping a slight bend in the elbows.\n3. Rotate your palms to face forward and bend the elbows to about 90 degrees.\n4. Press the handles overhead until your arms are fully extended.\n5. Reverse the motion back to shoulder height, then lower the arms to your sides.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and avoid using momentum.\n2. Choose a band tension that lets you control both phases.\n3. Exhale as you raise and press, inhale as you lower.\n4. Keep wrists straight and aligned with your forearms.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids",
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lateral_raises_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides, palms facing your body.\n2. Raise both arms out to the sides until they reach shoulder height, keeping a slight bend in the elbows.\n3. Pause briefly with your arms parallel to the floor.\n4. Lower the dumbbells back to your sides with control.\n5. Repeat.",
+  "tips": "1. Do not raise the dumbbells above shoulder height.\n2. Keep a slight bend in the elbows throughout.\n3. Lead with the elbows, not the hands.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lateral_raises_dumbbell_seated_with_swing",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with feet flat on the floor, holding a dumbbell in each hand, palms facing your body.\n2. Lean your torso forward toward the floor with arms hanging down.\n3. Raise your torso to vertical while swinging both arms out to the sides to shoulder height, bending the elbows to about 90 degrees.\n4. Pause briefly with your torso upright and arms parallel to the floor.\n5. Lower the dumbbells and return your torso to the leaning start position with control.\n6. Repeat.",
+  "tips": "1. Do not raise the dumbbells above shoulder height.\n2. Use a controlled swing, not heavy momentum.\n3. Brace your core as you lift the torso.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "lateral_raises_on_cable_machine",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand with your right side toward the cable machine, feet shoulder-width apart, with a handle attached to the low pulley.\n2. Grasp the handle with your left hand across your body, palm facing inward.\n3. Raise the handle out to your side until your arm is parallel to the floor, keeping a slight bend in the elbow.\n4. Lower the handle back to the start with control.\n5. Repeat, then switch sides.",
+  "tips": "1. Keep your torso upright and avoid swinging.\n2. The cable keeps tension at the bottom, so move slowly there.\n3. Lead with the elbow.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "leaning_dumbbell_lateral_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand next to a sturdy upright, holding a dumbbell in your right hand.\n2. Grasp the upright with your left hand and lean your body away until your left arm is extended.\n3. Let your right arm hang down across your body.\n4. Raise the dumbbell out to the side until your arm is parallel to the floor, palm facing down, with a slight bend in the elbow.\n5. Lower the dumbbell back to the start with control.\n6. Repeat, then switch sides.",
+  "tips": "1. Lean far enough to feel a stretch in the working shoulder at the bottom.\n2. Lift with control, not momentum.\n3. Lead with the elbow and keep the wrist neutral.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ }
+]

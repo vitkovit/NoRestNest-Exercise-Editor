@@ -1,0 +1,95 @@
+[
+ {
+  "id": "dumbbell_feet_elevated_staggered_glute_bridge",
+  "name": "Dumbbell Feet Elevated Staggered Glute Bridge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back and place both feet on an elevated surface, with one foot on the edge and the other slightly forward so only the heel rests on top. Place a dumbbell on your hips and hold it securely with both hands for support.\n2. Engage your glutes and press through your heels to lift your hips toward the ceiling, extending your hips until your body forms a straight line from your shoulders to your knees.\n3. At the peak of the movement, squeeze your glutes and pause for a second.\n4. Lower your hips with control to the starting position and repeat for the desired repetitions.",
+   "tips": "1. Ensure your feet are firm and secure on the elevated surface throughout the movement.\n2. Focus on driving through your heels to maximize glute activation.\n3. Keep the dumbbell balanced and stable on your hips; use a towel or pad for comfort if needed.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_figure_four_glute_bridge",
+  "name": "Dumbbell Figure Four Glute Bridge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back with your knees bent and feet flat on the floor. Place your right ankle across your left knee in a figure four position and rest a dumbbell on your hips, holding it securely with both hands.\n2. Engage your glutes and press through the heel of your supporting foot to lift your hips off the ground, extending through your hips until your body forms a straight line from your shoulders to your knee.\n3. Lower your hips back to the starting position with control.\n4. Repeat the movement for the desired repetitions, then switch sides and repeat.",
+   "tips": "1. Keep your figure four leg relaxed and stable throughout the movement.\n2. Focus on pressing through your heel rather than your toes to target the glutes.\n3. Position the dumbbell securely and consider using a pad or towel for added comfort.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_figure_four_hip_thrust",
+  "name": "Dumbbell Figure Four Hip Thrust",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor with your upper back against a bench and place a dumbbell across your hips. Bend your knees and place your feet flat on the floor, then cross one ankle over the opposite knee in a figure four position.\n2. Press through the heel of your grounded foot to lift your hips upward in a swift motion, extending your hips until your torso forms a straight line from your shoulders to your bent knee.\n3. At the peak of the movement, squeeze your glutes and hold the position for a second. Lower your hips back down with control until they lightly touch the floor.\n4. Repeat the movement for the desired repetitions, then switch sides and repeat.",
+   "tips": "1. Make sure the bench is stable and positioned at mid-back level for proper support.\n2. Place the dumbbell securely on your hips and use your hands to hold it in place throughout the movement.\n3. Keep your core tight to prevent lower back arching and maintain pelvic stability.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_frog_jumps",
+  "name": "Dumbbell Frog Jumps",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Bend your knees and lower into a deep squat while keeping your chest up, with your feet wider than shoulder-width, holding a dumbbell in each hand hanging between your legs.\n2. Push through your heels and extend your legs to stand upright, bringing the dumbbells to your sides.\n3. Explosively jump straight up from the squat position, extending through your hips, knees, and ankles.\n4. Land softly back into the squat position with control and immediately go into the next rep.",
+   "tips": "1. Use explosive power from your legs to jump up.\n2. Land with soft knees to reduce impact on joints.\n3. Engage your core throughout the movement.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Abdominals",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_goblet_forward_lunge",
+  "name": "Dumbbell Goblet Forward Lunge",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand holding a dumbbell vertically against your chest with both hands, elbows pointing down.\n2. Take a step forward with one leg and begin descending by bending both knees.\n3. Descend until your front thigh is parallel to the ground and your back knee is just above the floor.\n4. Push through the heel of your front foot to return to the starting position, then repeat on the opposite leg.",
+   "tips": "1. Ensure your front knee stays aligned with your foot and does not travel past your toes.\n2. Engage your core muscles for added stability during the lunge.\n3. Hold the dumbbell close to your chest to maintain proper posture and balance.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

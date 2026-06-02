@@ -1,0 +1,22 @@
+[
+ {
+  "id": "bottoms_up_half_rep",
+  "change": "Added oblique (External + Internal Obliques) as secondary. This is a reverse-crunch/lower-ab move; sources confirm obliques act as stabilizers preventing side-to-side movement. Kept Quads/Rectus Femoris secondary as hip-flexor proxy (no dedicated hip-flexor bucket). Abs primary unchanged and correct."
+ },
+ {
+  "id": "bouncing_circle_draw",
+  "change": "No change. Dynamic standing warm-up (legs straighten/bend, arms draw circles). Quads + shoulders (all 3 delt heads for circular arm motion) primary; glutes + calves secondary all confirmed reasonable. Light aerobic move so loadings are approximate but mapping is valid."
+ },
+ {
+  "id": "bouncing_inner_thigh_tap",
+  "change": "No change. Standing torso-rotation move; sources confirm obliques are primary mover and rectus abdominis secondary. Quads secondary for the slight knee bend is reasonable. Both obliques present."
+ },
+ {
+  "id": "box_jump",
+  "change": "No change. EMG sources confirm quads, glutes, hamstrings as prime movers in explosive jump; calves (gastrocnemius + soleus) secondary plantarflexion. Equipment 'other' (box) and trackingMode repsOnly correct."
+ },
+ {
+  "id": "box_jump_squats",
+  "change": "No change. Same plyometric jump pattern landing in a squat; quads/glutes/hamstrings primary, calves secondary confirmed. Equipment 'other', repsOnly correct."
+ }
+]

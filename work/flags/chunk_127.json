@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbell_rear_full_shrugs", "issue": "Behind-the-back shrug emphasizes mid/upper traps, rhomboids, levator scapulae (mapped to neck bucket). Levator scapulae has no exact allowed latin; used 'neck' bucket as closest. Serratus anterior also worked but has no allowed value; omitted."},
+ {"id": "dumbbell_renegade_row", "issue": "Supporting arm uses triceps and anterior deltoid as plank stabilizers, and glutes hold the plank; omitted from secondary to stay within meaningful prime/stabilizer limit and avoid inflation, prioritizing back, biceps, and anti-rotation core."}
+]

@@ -1,0 +1,106 @@
+[
+ {
+  "id": "cable_seated_on_floor_row",
+  "name": "Cable seated on floor row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor facing a cable machine with your legs extended straight out in front of you. Attach a straight bar to the low pulley and grasp the bar with both hands shoulder-width apart, palms facing down.\n2. Sit upright with your back straight and arms fully extended towards the machine. Bend your knees slightly for comfort.\n3. Pull the handle towards your lower abdomen by bending your elbows and bringing them backwards, keeping your upper arms close to your body.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid using momentum.\n2. Focus on squeezing your shoulder blades together at the end of the movement.\n3. Exhale as you pull the bar towards your body and inhale as you extend it back.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_seated_one_arm_alternate_row",
+  "name": "Cable seated one arm alternate row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the seated cable row machine with your feet flat on the footrests and knees slightly bent. Attach a single handle to the low pulley and grasp the handle with your right hand, arm fully extended towards the machine.\n2. Sit upright with your back straight, keeping your left hand on your left knee for support.\n3. Pull the handle towards your lower abdomen by bending your elbow and bringing it back, keeping your upper arm close to your body.\n4. Slowly extend your arm back to the starting position with control. Repeat for the desired number of repetitions, then switch to your left hand.",
+   "tips": "1. Keep your back straight and avoid using momentum.\n2. Focus on squeezing your shoulder blades together at the end of the movement.\n3. Exhale as you pull the handle towards your body and inhale as you extend it back.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Upper Back",
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_seated_rear_lateral_raise",
+  "name": "Cable seated rear lateral raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the edge of a bench in the middle of a cable machine with the pulleys set at the lowest position. Attach single handles to each pulley and grasp the left handle with your right hand and the right handle with your left hand, allowing the cables to cross under your thighs.\n2. Bend forward at the hips, keeping your back straight, so your chest is close to your knees.\n3. Raise both handles out to the sides until your arms are parallel to the floor, keeping a slight bend in your elbows.\n4. Slowly lower the handles back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise the handles and inhale as you lower them back down.\n2. Ensure your feet are firmly planted on the floor for stability.\n3. Focus on engaging your rear deltoids and upper back during the movement.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cable_seated_row",
+  "name": "Cable seated row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the seated pulldown machine with your feet flat on the floor. Attach a V-bar handle to the low pulley and grasp the handle with both hands, palms facing each other.\n2. Sit upright with your back straight and arms fully extended towards the machine.\n3. Pull the handle towards your lower abdomen by bending your elbows and bringing them backwards, keeping your upper arms close to your body.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the handle towards your body and inhale as you extend it back.\n2. Avoid rounding your back; keep your chest lifted throughout the exercise.\n3. Focus on squeezing your shoulder blades together at the end of the movement.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Upper Back",
+    "Biceps",
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cable_seated_supine_grip_row",
+  "name": "Cable seated supine grip row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the seated pulldown machine with your feet flat on the floor. Attach a straight bar to the middle pulley and grasp the bar with both hands using a supine grip (palms facing up), hands shoulder-width apart.\n2. Sit upright with your back straight and arms fully extended towards the machine.\n3. Pull the bar towards your lower abdomen by bending your elbows and bringing them back, keeping your upper arms close to your body.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the bar towards your body and inhale as you extend it back.\n2. Avoid rounding your back; keep your chest lifted throughout the exercise.\n3. Focus on squeezing your shoulder blades together at the end of the movement.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Upper Back",
+    "Biceps",
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ }
+]

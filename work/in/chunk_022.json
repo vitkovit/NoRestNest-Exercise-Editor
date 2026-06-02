@@ -1,0 +1,108 @@
+[
+ {
+  "id": "barbell_single_leg_split_squat",
+  "name": "Barbell single leg split squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart. Position one foot behind you on a bench, and the other foot firmly planted on the floor.\n2. Lower your body by bending your front knee, allowing your back knee to drop towards the floor.\n3. Continue lowering until your front thigh is parallel to the floor and your back knee is close to the floor.\n4. Push through your front heel to return to the starting position. Repeat for the desired number of repetitions, then switch to the other leg.",
+   "tips": "1. Keep your chest up and avoid leaning forward to maintain an upright posture.\n2. Ensure your front knee aligns with your foot to prevent strain on your knee joint.\n3. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_snatch",
+  "name": "Barbell snatch",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Start in a squat position with your feet shoulder-width apart, toes pointed slightly outward. Hold the barbell with a wide overhand grip (palms facing down), hands placed wider than shoulder-width apart. The barbell should be on the floor, close to your shins.\n2. Explosively extend your hips, knees, and ankles while pulling the barbell upward in one smooth motion. Keeping the barbell close to your body as you lift.\n3. As the barbell reaches chest height, quickly drop into a squat position and catch the barbell overhead with your arms fully extended.\n4. Stand up by extending your hips and knees, keeping the barbell overhead. Lower the barbell back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Explode through your hips and knees to generate the power needed for the lift.\n2. Drop quickly into the squat to catch the barbell overhead in a stable position.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Shoulders",
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_snatch_balance",
+  "name": "Barbell snatch balance",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back with an overhand grip, hands placed wider than shoulder-width apart. Your feet should be in a slight squat stance.\n2. Dip slightly by bending your knees and hips, then quickly drive upwards, extending your knees and hips.\n3. As you extend, use the upward momentum to press the barbell overhead while simultaneously dropping into a deep squat position, catching the barbell with your arms fully extended overhead.\n4. Stand up by extending your hips and knees, keeping the barbell overhead. Lower the barbell back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Explode through your hips and knees to generate the power needed for the lift.\n2. Drop quickly into the squat to catch the barbell overhead in a stable position.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Shoulders",
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_snatch_deadlift_close_grip",
+  "name": "Barbell snatch deadlift close grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Start in a squat position with your feet shoulder-width apart, toes pointed slightly outward. Hold the barbell with an overhand grip (palms facing down), hands placed slightly wider than shoulder-width apart. The barbell should be on the floor, close to your shins.\n2. Lift the barbell off the floor by extending your hips and knees simultaneously, keeping the barbell close to your body.\n3. Continue lifting until you are standing upright with the barbell at hip level.\n4. Lower the barbell back to the starting position with control, bending your hips and knees. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid rounding your shoulders to ensure proper form.\n2. Keep the barbell close to your body throughout the lift to maximize efficiency and control.\n3. Focus on smooth, controlled movements to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Lower Back"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_snatch_deadlift_wide_grip",
+  "name": "Barbell snatch deadlift wide grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Start in a squat position with your feet shoulder-width apart, toes pointed slightly outward. Hold the barbell with an overhand grip (palms facing down), hands placed about 2 fists wider than shoulder-width apart. The barbell should be on the floor, close to your shins.\n2. Lift the barbell off the floor by extending your hips and knees simultaneously, keeping the barbell close to your body.\n3. Continue lifting until you are standing upright with the barbell at hip level.\n4. Lower the barbell back to the starting position with control, bending your hips and knees. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid rounding your shoulders to ensure proper form.\n2. Keep the barbell close to your body throughout the lift to maximize efficiency and control.\n3. Focus on smooth, controlled movements to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Lower Back"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Upper Back"
+   ]
+  }
+ }
+]

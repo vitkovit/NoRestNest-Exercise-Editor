@@ -1,0 +1,144 @@
+[
+ {
+  "id": "extension_of_arms_in_vertical_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart and core engaged.\n2. Raise both arms overhead and interlock your fingers with palms turned up.\n3. Reach upward, lengthening your spine toward the ceiling.\n4. Hold the stretch.\n5. Slowly lower your arms back to your sides.\n6. Repeat.",
+  "tips": "1. Move slowly and with control through the stretch.\n2. Breathe steadily, exhaling as you reach upward.\n3. Lengthen the spine rather than arching the lower back.\n4. Keep the shoulders down away from the ears.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_biceps_curl_close_grip",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding an EZ bar with a grip closer than shoulder-width, palms up, arms extended down.\n2. Curl the bar up by bending the elbows, keeping the upper arms still and pinned to your sides.\n3. Squeeze the biceps at the top as the bar reaches shoulder height.\n4. Lower the bar under control until the arms are fully extended.\n5. Repeat.",
+  "tips": "1. Keep the elbows fixed at your sides so the biceps do the work.\n2. Control the lowering phase to keep tension on the muscle.\n3. Exhale as you curl up and inhale as you lower.\n4. The close grip biases the long head, so keep the wrists neutral.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_biceps_curl_normal_grip",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding an EZ bar at shoulder-width, palms up, arms extended down.\n2. Curl the bar up by bending the elbows, keeping the upper arms still and pinned to your sides.\n3. Squeeze the biceps at the top as the bar reaches shoulder height.\n4. Lower the bar under control until the arms are fully extended.\n5. Repeat.",
+  "tips": "1. Keep the elbows fixed at your sides throughout the curl.\n2. Control the lowering phase to keep tension on the muscle.\n3. Exhale as you curl up and inhale as you lower.\n4. Avoid swinging the torso to lift the bar.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_biceps_curl_wide_grip",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding an EZ bar slightly wider than shoulder-width, palms up, arms extended down.\n2. Curl the bar up by bending the elbows, keeping the upper arms still and pinned to your sides.\n3. Squeeze the biceps at the top as the bar reaches shoulder height.\n4. Lower the bar under control until the arms are fully extended.\n5. Repeat.",
+  "tips": "1. Keep the elbows fixed at your sides through the curl.\n2. Control the lowering phase to keep tension on the muscle.\n3. Exhale as you curl up and inhale as you lower.\n4. The wide grip biases the short head, so keep the wrists steady.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ez_bar_cable_curl_wide_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach an EZ bar to a low cable pulley and stand facing the machine, feet shoulder-width apart.\n2. Hold the bar slightly wider than shoulder-width, palms up, arms extended down.\n3. Curl the bar toward your shoulders by bending the elbows, keeping the upper arms pinned to your sides.\n4. Squeeze the biceps at the top as the bar reaches shoulder height.\n5. Lower the bar under control until the arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep the elbows fixed at your sides through the curl.\n2. The cable keeps tension at the top, so squeeze hard there.\n3. Control the lowering phase rather than letting the stack pull your arm down.\n4. Exhale as you curl up and inhale as you lower.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ]
+ }
+]

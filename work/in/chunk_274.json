@@ -1,0 +1,99 @@
+[
+ {
+  "id": "resistance_band_bent_leg_kickback_kneeling",
+  "name": "Resistance Band Bent Leg Kickback (Kneeling)",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Place a loop resistance band around both thighs, just above your knees. Start in a kneeling position on all fours with your hands directly under your shoulders and knees under your hips.\n2. Engage your core and keep your back flat. Begin with your left knee bent at a 90-degree angle and your foot flexed.\n3. Push your left foot upward towards the ceiling while keeping your knee bent, squeezing your glutes at the top of the movement.\n4. Slowly return your leg to the starting position with control. Repeat for the desired number of repetitions, then switch to the right leg.",
+   "tips": "1. Use a loop resistance band that provides enough tension to challenge your muscles without compromising form.\n2. Exhale as you kick your leg back and inhale as you return it to the starting position.\n3. Focus on engaging your glutes throughout the movement.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_calf_press_sitting_on_chair",
+  "name": "Resistance Band Calf Press Sitting on Chair",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a chair with your back straight, knees bent at 90 degrees and feet flat hovering just above the floor. Loop a resistance band around your forefeet, holding the ends of the band with your hands.\n2. Extend your forefeet downward to point your toes to the floor, pressing against the resistance of the band to engage your calf muscles.\n3. Slowly return to the starting position with control, flexing your forefeet back towards you. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid leaning forward.\n2. Keep your hands steady to ensure consistent tension in the band.\n3. Exhale as you press your toes forward and inhale as you return them to the starting position.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Calves",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_clam",
+  "name": "Resistance Band Clam",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Place a loop resistance band around your thighs, just above your knees. Lie on your side with your legs bent at a 90-degree angle and your feet stacked together.\n2. Rest your head on your bottom arm and place your top hand on the floor for stability.\n3. Keeping your feet together, lift your top knee as high as you can without moving your pelvis or back, squeezing your glutes at the top of the movement.\n4. Slowly return your knee to the starting position with control. Repeat for the desired number of repetitions, then switch to the other side.",
+   "tips": "1. Keep your feet together to ensure proper form and muscle activation.\n2. Exhale as you lift your knee and inhale as you lower it back down.\n3. Ensure your head and neck remain aligned with your spine for comfort.",
+   "primary": [
+    "Glutes",
+    "Thighs"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_cross_body_single_straight_arm_supinated_pulldown",
+  "name": "Resistance Band Cross Body Single Straight Arm Supinated Pulldown",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Attach the resistance band to a high anchor point in front of you, on your left side. Stand with your feet shoulder-width apart, holding the handle with your right hand, palm facing up.\n2. Extend your right arm straight opposite the left side of your head, keeping your arm straight.\n3. Pull the handle down across your body towards your right hip until fully extended by your side and slowly return to the starting position.\n4. Repeat for the desired number of repetitions, then switch to the other side.",
+   "tips": "1. Exhale as you pull the band down and inhale as you release it back up.\n2. Focus on pulling with your back muscles rather than your arm for better engagement.\n3. Ensure your hips stay square and stable, avoiding any twisting motion.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "resistance_band_floor_hyperextension",
+  "name": "Resistance Band Floor Hyperextension",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bands",
+   "tracking_mode": "",
+   "instructions": "1. Lie face down on the floor with a loop resistance band over your ankles and another loop resistance band over your forearms. Extend your arms forward and keep your legs straight.\n2. Engage your core and glutes, and lift your chest and legs off the floor simultaneously, spreading your legs apart against the resistance of the band.\n3. Squeeze your lower back muscles at the top of the movement, keeping your arms and legs straight.\n4. Slowly lower your chest and legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your neck in a neutral position to avoid straining it.\n2. Focus on engaging your lower back and glute muscles throughout the movement.\n3. Exhale as you lift your chest and legs and inhale as you lower them back down.",
+   "primary": [
+    "Lower Back",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Shoulders"
+   ]
+  }
+ }
+]

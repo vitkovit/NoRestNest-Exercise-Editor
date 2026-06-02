@@ -1,0 +1,100 @@
+[
+ {
+  "id": "barbell_step_up_on_bench",
+  "name": "Barbell step up on bench",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing a bench with your feet shoulder-width apart, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart.\n2. Step up onto the bench with your right foot, pressing through your heel to lift your body up.\n3. Bring your left foot up to meet your right foot on the bench, standing fully upright.\n4. Step back down with your left foot, followed by your right foot, returning to the starting position. Repeat the movement, alternating the leading leg, for the desired number of repetitions.",
+   "tips": "1. Push through your heel of the leading foot to maximize glute and quadriceps activation.\n2. Breathe steadily, exhaling as you step up and inhaling as you step down.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.\n4. Ensure the bench is stable and secure to prevent any movement during the exercise.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_stiff_leg_deadlift",
+  "name": "Barbell stiff leg deadlift",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing down), hands placed slightly wider than shoulder-width apart. Your arms should be fully extended, and the barbell should rest against your thighs.\n2. Slightly bend your knees and hinge at your hips to lower the barbell toward your feet. Keep your legs mostly straight but not locked.\n3. Lower the barbell down the front of your legs until you feel a stretch in your hamstrings. Your back should remain straight throughout the movement.\n4. Lift the barbell back up to the starting position by extending your hips, squeezing your glutes at the top. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight throughout the movement to avoid rounding your spine.\n2. Focus on hinging at your hips rather than bending your lower back.\n3. Ensure your knees are slightly bent to avoid locking them and putting stress on your joints.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_straight_leg_deadlift",
+  "name": "Barbell straight leg deadlift",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing down), hands placed slightly wider than shoulder-width apart. Your arms should be fully extended, and the barbell should rest against your thighs.\n2. Keep your legs straight but not locked as you hinge at your hips to lower the barbell toward your feet.\n3. Lower the barbell down the front of your legs until you feel a stretch in your hamstrings. Your back should remain straight throughout the movement.\n4. Lift the barbell back up to the starting position by extending your hips, squeezing your glutes at the top. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight throughout the movement to avoid rounding your spine.\n2. Focus on hinging at your hips rather than bending your lower back.\n3. Ensure your knees are slightly bent to avoid locking them and putting stress on your joints.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_sumo_deadlift",
+  "name": "Barbell sumo deadlift",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet wider than shoulder-width apart and your toes pointing slightly outward. Position a barbell on the floor in front of you, and squat down to grip the barbell with both hands inside your legs, using an overhand grip (palms facing down).\n2. Drive through your heels and extend your hips and knees simultaneously to lift the barbell off the floor. Keep the barbell close to your body and your arms straight as you stand up.\n3. Once you reach the top position, squeeze your glutes and stand tall. Slowly lower the barbell back to the floor by bending at the hips and knees, maintaining a straight back. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your chest up and back straight throughout the movement to avoid rounding your spine.\n2. Drive through your heels to lift the barbell and engage your glutes and hamstrings.\n3. Breathe steadily, exhaling as you lift the barbell and inhaling as you lower it back down.",
+   "primary": [
+    "Glutes",
+    "Hamstrings",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Adductors",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_sumo_romanian_deadlift",
+  "name": "Barbell sumo romanian deadlift",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet wider than shoulder-width apart and your toes pointing slightly outward. Hold a barbell with an overhand grip (palms facing down), hands placed inside your legs. Your arms should be fully extended, and the barbell should rest against your thighs.\n2. Slightly bend your knees and hinge at your hips to lower the barbell toward your feet. Keep your legs mostly straight but not locked.\n3. Lower the barbell down the front of your legs until you feel a stretch in your hamstrings. Your back should remain straight throughout the movement.\n4. Lift the barbell back up to the starting position by extending your hips, squeezing your glutes at the top. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight throughout the movement to avoid rounding your spine.\n2. Focus on hinging at your hips rather than bending your lower back.\n3. Ensure your knees are slightly bent to avoid locking them and putting stress on your joints.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ }
+]

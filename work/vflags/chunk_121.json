@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_jumping_squat",
+  "change": "No change. Quads + glutes primary; hamstrings, calves, adductors secondary all confirmed by sources (adductors and calves listed as secondary movers in jump squat). Format valid."
+ },
+ {
+  "id": "dumbbell_kickback",
+  "change": "No change. Triceps Brachii isolation primary (all three heads); posterior deltoid secondary stabilizer confirmed. Format valid."
+ },
+ {
+  "id": "dumbbell_kneeling_arnold_press",
+  "change": "No change. Arnold press emphasizes anterior + lateral delts primary with posterior delt, triceps, and upper traps secondary — matches sources noting it recruits all three deltoid heads plus traps/triceps. Format valid."
+ },
+ {
+  "id": "dumbbell_kneeling_hold_to_stand_clean_grip",
+  "change": "No change. Kneel-to-stand is a unilateral squat/lunge pattern: quads + glutes primary, hamstrings + erector spinae secondary, confirmed. Format valid."
+ },
+ {
+  "id": "dumbbell_kneeling_squat",
+  "change": "Demoted Quads from co-primary to secondary. The kneeling squat is a pure hip-extension movement with minimal knee ROM, so it is glute-dominant; sources consistently list glutes (with hamstrings) as primary and quads as a supporting/stabilizing muscle only. Now: primary glutes; secondary hamstrings, quads, erector spinae."
+ }
+]

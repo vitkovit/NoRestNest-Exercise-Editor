@@ -1,0 +1,4 @@
+[
+ {"id": "lying_bench_internal_rotation_stretch", "issue": "Named a 'stretch' but the input instructions describe an active internal rotation strengthening movement (mirror of the external rotation exercise). Treated it as an active rotator cuff (subscapularis) exercise. Subscapularis has no allowed latin value; mapped to Lats->Rotator Cuff per available vocabulary."},
+ {"id": "lying_bench_external_shoulder_rotation", "issue": "Rotator Cuff (infraspinatus/teres minor) has no dedicated bucket; mapped to Lats->Rotator Cuff, the only allowed location for that term."}
+]

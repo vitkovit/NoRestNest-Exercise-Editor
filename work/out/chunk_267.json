@@ -1,0 +1,96 @@
+[
+ {
+  "id": "kettlebell_turkish_get_up",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back and press a kettlebell over the shoulder with arm locked out, vertical.\n2. Bend the same-side knee, place the foot flat, and extend the opposite arm and leg out at 45 degrees.\n3. Drive through the bent foot and roll onto the free forearm, then up onto the free hand.\n4. Sweep the straight leg back into a half-kneeling position, keeping the kettlebell overhead.\n5. Stand up, then reverse each step in order to return to the floor.\n6. Repeat.",
+  "tips": "1. Keep your eyes on the kettlebell until you are standing, then fix gaze forward.\n2. Keep the loaded arm locked vertically throughout every transition.\n3. Move slowly and pause at each position to control balance.\n4. Brace your core hard to protect the spine under load.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids", "Posterior Deltoid"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Lower Traps"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ]
+ },
+ {
+  "id": "kettlebell_upright_row",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a kettlebell in front of the thighs with both hands.\n2. Keep the kettlebell close to the body and pull the elbows straight up.\n3. Raise it until the upper arms are roughly parallel to the floor and elbows lead the hands.\n4. Pause briefly at the top, keeping the wrists relaxed.\n5. Lower the kettlebell under control to the start.\n6. Repeat.",
+  "tips": "1. Lead with your elbows, not your hands, to target the side delts and traps.\n2. Keep the kettlebell close to your torso throughout.\n3. Do not shrug excessively or jerk the weight up.\n4. Stop the pull if you feel shoulder pinching at the top.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids", "Anterior Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "mid back", "latins": ["Rhomboids"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "kettlebell_walkover_pushup",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set a kettlebell on the floor and take a push-up position with one hand on it, one hand on the floor.\n2. Lower the chest toward the floor by bending the elbows.\n3. Press back up to full arm extension.\n4. Walk both hands over the kettlebell to the other side.\n5. Perform another push-up, then walk back over.\n6. Repeat.",
+  "tips": "1. Keep your body in a straight line from head to heels.\n2. Brace your core to resist hip rotation as you walk over.\n3. Keep the kettlebell stable and weighted enough not to tip.\n4. Move the hands deliberately to keep shoulders square.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "kettlebell_windmill",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Press a kettlebell overhead with arm locked, feet wider than shoulder-width.\n2. Turn the feet about 45 degrees away from the loaded arm.\n3. Push the loaded-side hip out and hinge sideways, sliding the free hand down the front leg.\n4. Lower until the torso is near horizontal, keeping the kettlebell stacked overhead.\n5. Drive the hip back and stand tall to return.\n6. Repeat.",
+  "tips": "1. Keep your eyes on the kettlebell and the arm locked the whole time.\n2. Hinge at the hip, do not just bend the spine sideways.\n3. Keep both legs fairly straight to load the hamstrings and obliques.\n4. Start light to master the mobility before adding load.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ]
+ },
+ {
+  "id": "kettlebell_wrist_curl",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench and rest the forearm on the thigh, palm up, with a kettlebell in the hand.\n2. Let the wrist drop so the kettlebell rolls toward the fingertips.\n3. Curl the wrist up by flexing as high as possible.\n4. Squeeze briefly at the top.\n5. Lower under control to the start.\n6. Repeat.",
+  "tips": "1. Keep your forearm pressed firmly against the thigh to isolate the wrist.\n2. Use a full range, letting the kettlebell roll down then curling all the way up.\n3. Move slowly to keep tension on the forearm flexors.\n4. Keep grip relaxed enough to allow the roll at the bottom.",
+  "primary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ],
+  "secondary": []
+ }
+]

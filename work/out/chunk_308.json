@@ -1,0 +1,88 @@
+[
+ {
+  "id": "one_arm_cow_face_pose_easy",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit or stand tall with a straight spine.\n2. Reach your right arm overhead, bend the elbow and drop the hand behind your neck.\n3. Bring your left arm behind your back and reach the hand up toward the right hand.\n4. Hook the fingers together or hold a strap between them.\n5. Hold the stretch and breathe steadily, keeping the chest open.\n6. Release, switch arms and repeat.",
+  "tips": "1. Keep the top elbow pointing up, not flaring out.\n2. Do not force the hands together; use a strap if they do not meet.\n3. Avoid arching the lower back to reach further.\n4. Breathe slowly into the shoulder stretch.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi", "Rotator Cuff"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "chest", "latins": ["Clavicular Head"]}
+  ]
+ },
+ {
+  "id": "pike_jacks_feet_kicking_in_and_out",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under shoulders and body in a line.\n2. Lift your hips up and back into a pike, forming an inverted V.\n3. Keep legs straight and core braced.\n4. Jump both feet wide apart, then jump them back together.\n5. Keep the hips high and the arms firm throughout.\n6. Repeat.",
+  "tips": "1. Keep your weight evenly between hands and feet.\n2. Land softly on the balls of your feet.\n3. Hold the pike shape; do not let the hips drop.\n4. Breathe out as you jump the feet wide.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Abductor", "latins": ["Abductor"]},
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "pigeon_pose",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start on all fours in a tabletop position.\n2. Bring your right knee forward toward your right wrist.\n3. Slide your left leg straight back and lower the hips toward the floor.\n4. Keep the front shin angled and square the hips forward.\n5. Hold upright or fold forward over the front leg and breathe steadily.\n6. Release, switch sides and repeat.",
+  "tips": "1. Keep your hips level and square to the front.\n2. Support the front hip with a folded towel if needed.\n3. Do not let the back leg roll outward.\n4. Ease into the stretch; never force the depth.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Quads", "latins": ["Rectus Femoris"]}
+  ],
+  "secondary": [
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "pike_alternating_opposite_hip_taps",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under shoulders.\n2. Lift your hips up and back into a pike, forming an inverted V.\n3. Brace your core and keep the legs straight.\n4. Reach your right hand back to tap your left hip.\n5. Return the hand and tap the right hip with the left hand.\n6. Repeat, alternating sides.",
+  "tips": "1. Keep the hips high and stable as you tap.\n2. Resist twisting the torso when one hand lifts.\n3. Spread the supporting hand wide for balance.\n4. Move with control rather than speed.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "pike_individual_alternating_arm_reaches",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with hands under shoulders.\n2. Lift your hips up and back into a pike, forming an inverted V.\n3. Brace your core and keep the legs straight.\n4. Reach your right arm forward and overhead while balancing on the left hand.\n5. Return the hand and reach the left arm forward.\n6. Repeat, alternating arms.",
+  "tips": "1. Keep your hips high and square when one arm lifts.\n2. Press firmly through the supporting hand.\n3. Resist letting the torso rotate during the reach.\n4. Move slowly to keep balance.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ }
+]

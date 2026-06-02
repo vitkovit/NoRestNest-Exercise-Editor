@@ -1,0 +1,262 @@
+[
+ {
+  "id": "jumping_jack",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet together and arms at your sides.\n2. Jump your feet out wider than shoulder-width while raising your arms overhead.\n3. Form an X shape at the top with arms up and feet apart.\n4. Jump your feet back together and lower your arms to the sides.\n5. Land softly with a slight knee bend.\n6. Repeat.",
+  "tips": "1. Keep a slight bend in the knees to absorb landing impact.\n2. Land on the balls of the feet, not flat.\n3. Raise the arms to full overhead range each rep.\n4. Keep the movement light and rhythmic.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_bulgarian_split_squat_right",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand about 60 cm in front of a bench, holding a kettlebell in each hand.\n2. Place the top of your right foot on the bench behind you.\n3. Lower your body by bending your left knee until the left thigh is parallel to the floor.\n4. Keep your torso upright and your weight on the left heel.\n5. Press through the left heel to stand back up.\n6. Repeat.",
+  "tips": "1. Keep most of your weight on the front foot.\n2. Lower under control; do not drop into the bottom.\n3. Keep the front shin near vertical.\n4. Brace your core to stay balanced.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_bulgarian_split_squat_right_side_view",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand about 60 cm in front of a bench, holding a kettlebell in each hand.\n2. Place the top of your left foot on the bench behind you.\n3. Lower your body by bending your right knee until the right thigh is parallel to the floor.\n4. Keep your torso upright and your weight on the right heel.\n5. Press through the right heel to stand back up.\n6. Repeat.",
+  "tips": "1. Keep most of your weight on the front foot.\n2. Lower under control; do not drop into the bottom.\n3. Keep the front shin near vertical.\n4. Brace your core to stay balanced.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_half_kneeling_shoulder_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Kneel with your right knee on the floor and your left foot flat in front, knee at 90 degrees.\n2. Rack a kettlebell at your right shoulder with the elbow bent and wrist straight.\n3. Press the kettlebell straight overhead until the arm is fully extended.\n4. Keep your torso upright and core braced.\n5. Lower the kettlebell back to the shoulder under control.\n6. Repeat.",
+  "tips": "1. Keep the wrist straight and the kettlebell resting on the forearm.\n2. Press in a straight line over the shoulder.\n3. Brace the core to stop the torso from leaning.\n4. Exhale as you press, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_kneeling_one_arm_shoulder_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Kneel on both knees with your torso upright.\n2. Rack a kettlebell at your right shoulder with the elbow bent and wrist straight.\n3. Press the kettlebell straight overhead until the arm is fully extended.\n4. Keep your spine neutral and core braced.\n5. Lower the kettlebell back to the shoulder under control.\n6. Repeat.",
+  "tips": "1. Keep the wrist straight and the kettlebell resting on the forearm.\n2. Press in a straight line over the shoulder.\n3. Squeeze the glutes to keep the hips stable.\n4. Exhale as you press, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

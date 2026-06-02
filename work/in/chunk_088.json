@@ -1,0 +1,99 @@
+[
+ {
+  "id": "curtsy_lunge_slide_with_towel",
+  "name": "Curtsy lunge slide with towel",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet hip-width apart and place a towel under your right foot.\n2. Slide your right foot behind and across your left leg, bending both knees to lower into a curtsy lunge. Your front knee should be aligned with your front ankle.\n3. Push through your left heel to return to the starting position, sliding your right foot back to the original position.\n4. Complete the desired number of repetitions on one side, then switch the towel to the other foot and repeat the movement with the opposite leg.",
+   "tips": "1. Perform the movement with control to maximize muscle activation and prevent injury.\n2. Ensure your front knee does not extend beyond your toes to protect your knees from strain.\n3. Focus on pushing through your heel as you return to the starting position to engage your glutes.\n4. Use a smooth surface to ensure the towel slides easily and reduces friction.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Inner Thighs"
+   ]
+  }
+ },
+ {
+  "id": "curtsy_lunges_resistance_band",
+  "name": "Curtsy lunges Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart and place a resistance band under your left foot. Hold the handles of the band with both hands either at shoulder height or by your abdomane sides.\n2. Step your right leg behind and across your left leg, while bending both knees to lower into a lunge.\n3. Push through your left heel to return to the starting position, bringing your right leg back to the starting position.\n4. Repeat for the desired number of repetitions, then switch sides to work the other leg.",
+   "tips": "1. Keep your chest up and your back straight to maintain proper form.\n2. Perform the movement slowly and with control to maximize muscle activation and reduce injury risk.\n3. Exhale as you push back to the starting position and inhale as you lower into the lunge.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "curtsy_squat",
+  "name": "Curtsy squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet hip-width apart and your hands on your hips or by your sides.\n2. Step your right leg behind and across your left leg, bending both knees to lower into a curtsy squat. Your front knee should be aligned with your front ankle, and your back knee should point towards the floor.\n3. Push through your left heel to return to the starting position.\n4. Repeat the movement on the opposite side, stepping your left leg behind and across your right leg. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Perform the movement with control to maximize muscle activation and prevent injury.\n2. Ensure your front knee does not extend beyond your toes to protect your knees from strain.\n3. Focus on pushing through your heel as you return to the starting position to engage your glutes.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Inner Thighs"
+   ]
+  }
+ },
+ {
+  "id": "dead_bug",
+  "name": "Dead bug",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying flat on your back with your arms extended straight up towards the ceiling and your legs lifted with your knees bent at a 90-degree angle.\n2. Engage your core and slowly lower your right arm and left leg towards the floor, keeping your back flat on the floor and not allowing it to arch.\n3. Return your right arm and left leg to the starting position.\n4. Repeat the movement with your left arm and right leg. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and support your lower back. \n2. Avoid letting your leg touch the floor; keep it just above the floor to maintain tension in your muscles.\n3. Ensure your lower back remains pressed into the floor to avoid unnecessary strain.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Obliques"
+   ]
+  }
+ },
+ {
+  "id": "dead_bug_extended_arms",
+  "name": "Dead bug extended arms",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying flat on your back, right arm extended overhead on the floor in line with your torso and left arm extended by your side. Right knee bent close to your chest, while the left leg is bent and lightly extended away from your hips level, keeping both lower legs parallel to the floor.\n2. In a semi circular motion bring your right arm to your side while slowly extending your right leg to pass your hip level and simultaneously bring your left arm in a semi circular motion extended overhead on the floor in line with your torso and your left knee closer to your chest.\n3. Repeat the movement with the opposite arm and leg, lowering the arm extended by your side and the opposite leg. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Breathe steadily throughout the exercise, exhaling as you lower your arm and leg and inhaling as you return to the starting position.\n2. Avoid letting your leg touch the floor; keep it just above the floor to maintain tension in your muscles.\n3. Use a mat or soft surface to support your back and prevent discomfort during the exercise.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Obliques"
+   ]
+  }
+ }
+]

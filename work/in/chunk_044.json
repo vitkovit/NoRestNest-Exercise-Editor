@@ -1,0 +1,100 @@
+[
+ {
+  "id": "bodyweight_squat",
+  "name": "Bodyweight squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands extended in front of you for balance.\n2. Lower your body into a squat position until your thighs are parallel to the floor, keeping your back straight.\n3. Stand back up to the starting position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your feet flat on the floor to maintain balance and stability.\n2. Ensure your knees are aligned with your toes during the squat to prevent strain on your knees.\n3. Perform the movement slowly and with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_squat_to_front_leg",
+  "name": "Bodyweight squat to front leg",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands extended down by your sides.\n2. Lower your body into a squat position until your thighs are parallel to the floor, keeping your back straight.\n3. Stand up from the squat and raise your right leg straight in front of you to hip level mimicking a kick, lower it down and immidiately raise your left leg to hip level.\n4. Lower your left leg back to the floor and repeat.",
+   "tips": "1. Focus on maintaining an upright posture to ensure proper alignment and form.\n2. Ensure your knees are aligned with your toes during the squat to prevent strain on your knees.\n3. Move at a controlled pace, particularly when raising and lowering your leg, to avoid unnecessary strain and enhance muscle engagement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_squat_to_side_leg",
+  "name": "Bodyweight squat to side leg",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands extended by your sides.\n2. Lower your body into a squat position until your thighs are parallel to the floor, keeping your back straight.\n3. Stand up from the squat and raise your right leg as high as possible, kicking it to the side until straight.\n4. Lower your right leg back to the floor and immediately transition into the next squat, alternating legs with each repetition.",
+   "tips": "1. Focus on maintaining an upright posture to ensure proper alignment and form.\n2. Keep your weight distributed evenly on your feet during the squat to maintain balance.\n3. Move at a controlled pace, particularly when raising and lowering your leg, to avoid unnecessary strain and enhance muscle engagement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hip Abductors"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_squat_to_side_to_front_leg",
+  "name": "Bodyweight Squat to Side to Front Leg",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands at your sides.\n2. Lower your body into a squat position until your thighs are parallel to the floor, keeping your back straight.\n3. Stand up from the squat and raise your right leg straight to the side, then lower it back to the floor.\n4. Perform another squat, then stand up and raise your right leg straight to the front. Lower it back to the floor and repeat the movement, alternating legs with each repetition.",
+   "tips": "1. Focus on engaging your core to maintain stability and balance throughout the exercise.\n2. Keep your weight distributed evenly on your feet during the squat to maintain balance.\n3. Move at a controlled pace, especially when lifting and lowering your leg, to avoid unnecessary strain and enhance muscle engagement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hip Abductors",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_squats",
+  "name": "bodyweight squats",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

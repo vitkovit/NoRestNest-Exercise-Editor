@@ -1,0 +1,199 @@
+[
+ {
+  "id": "bodyweight_svend_press",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and press your palms together in front of your chest, elbows bent.\n2. Push your palms together hard to create tension in your chest.\n3. Extend your arms straight out in front of you, keeping your palms pressed together.\n4. Bend your elbows to bring your hands back to your chest.\n5. Repeat.",
+  "tips": "1. Press your palms together firmly the whole time to keep tension on the chest.\n2. Keep your core tight to stay stable.\n3. Move slowly and with control.\n4. Breathe out as you extend your arms.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_triceps_extension",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank with hands on the floor at shoulder-width and arms straight, positioned slightly in front of your shoulders.\n2. Keep your core tight and elbows tucked.\n3. Bend your elbows to lower your forearms to the floor.\n4. Press through your palms to straighten your arms and lift your forearms off the floor.\n5. Repeat.",
+  "tips": "1. Keep your body in a straight line from head to heels.\n2. Engage your core so your hips do not sag.\n3. Keep elbows tucked close to your body to load the triceps.\n4. Breathe in as you lower, breathe out as you press up.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_wall_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your back to a wall and feet shoulder-width apart, about 15 cm from the wall.\n2. Bend your knees and hips to lower into a squat until your buttocks touch the wall.\n3. Push through your heels to stand back up.\n4. Repeat.",
+  "tips": "1. Keep your knees in line with your toes.\n2. Keep your core braced for stability.\n3. Push through your heels, not your toes.\n4. Move with control.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_windmill",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet wider than shoulder-width and arms straight out to the sides at shoulder height.\n2. Hinge at the hips and rotate your torso to touch your right hand to your left foot, keeping your left arm pointing up.\n3. Return to standing.\n4. Hinge and rotate the other way to touch your left hand to your right foot.\n5. Repeat, alternating sides.",
+  "tips": "1. Keep your core braced to control the rotation.\n2. Hinge from the hips rather than rounding your back.\n3. Keep a slight bend in your knees.\n4. Move slowly and with control.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_windmill_cut",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet wider than shoulder-width and arms straight out to the sides at shoulder height.\n2. Hinge at the hips and rotate your torso to touch your right hand toward your left foot, keeping your left arm pointing up.\n3. Pulse the reach a few times at the bottom.\n4. Return to standing, then hinge and rotate the other way to touch your left hand toward your right foot.\n5. Repeat, alternating sides.",
+  "tips": "1. Keep your core braced to control the rotation and pulses.\n2. Hinge from the hips rather than rounding your back.\n3. Keep a slight bend in your knees.\n4. Keep the pulses small and controlled.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ]
+ }
+]

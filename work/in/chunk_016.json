@@ -1,0 +1,103 @@
+[
+ {
+  "id": "barbell_power_snatch",
+  "name": "Barbell power snatch",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a squatted position with your feet hip-width apart, holding a barbell with a wide grip (palms facing your body), hands wider than shoulder-width apart. The barbell should be resting on the floor.\n2. Explosively extend your hips and knees while pulling the barbell up towards your chest, keeping it close to your body. As the barbell passes your knees, shrug your shoulders and continue to pull the barbell upward.\n3. Quickly rotate your elbows under the bar and catch it in a wide overhead position with your elbows fully extended and your body in a partial squat. Stand up straight to complete the lift.\n4. Lower the barbell back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on an explosive hip extension to generate the necessary force for the snatch.\n2. Engage your shoulders and traps during the shrug to assist in lifting the barbell.\n3. Use your legs and hips rather than relying solely on your arms to lift the barbell.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Forearms",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "barbell_preacher_curl",
+  "name": "Barbell preacher curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your feet flat on the floor. Position your upper arms on the preacher pad, holding a barbell with an underhand grip (palms facing up), hands shoulder-width apart. Your arms should be fully extended.\n2. Engage your core and keep your back straight. Curl the barbell upwards towards your shoulders by bending your elbows.\n3. Squeeze your biceps at the top of the movement, ensuring the barbell reaches shoulder height.\n4. Lower the barbell back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary on the preacher pad to isolate the biceps.\n2. Perform the movement slowly and with control to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you curl the barbell up and inhaling as you lower it back down.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_pullover_to_triceps_extension",
+  "name": "Barbell pullover to triceps extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor. Hold a barbell with an overhand grip (palms facing the barbell), hands slightly wider than shoulder-width apart. Extend your arms so the barbell is directly above your chest.\n2. Bend your elbows and lower the barbell in an arc motion behind your head. Lower the barbell until you feel a stretch in your chest and lats.\n3. Reverse the motion by pulling the barbell back over your chest, then extend the barbell straight up by extending your arms fully.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily, inhaling as you lower the barbell and exhaling as you press it back up.\n2. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.\n3. Ensure a firm grip on the barbell to maintain control and proper alignment.",
+   "primary": [
+    "Chest",
+    "Back"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "barbell_push_bent_over_row",
+  "name": "Barbell push bent over row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with palms facing the barbell, hands slightly wider than shoulder-width apart. Bend at the hips and knees to lower your torso until it is nearly parallel to the floor.\n2. Pull the barbell towards your abdomen by bending your elbows and squeezing your shoulder blades together. At the peak of the movement, perform a small push of the barbell downwards and pull it up again.\n3. Lower the barbell back to the starting position with control, extending your arms fully while keeping your back straight.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back flat and avoid rounding your shoulders to ensure proper form.\n2. Focus on squeezing your shoulder blades together at the top of the movement to maximize back muscle activation.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_quarter_squat",
+  "name": "Barbell quarter squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body into a quarter squat position where your thighs are above parallel to the floor.\n3. Push through your heels to return to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your knees aligned with your toes to avoid unnecessary strain on your joints.\n2. Lower your body with control to maximize muscle engagement and prevent injury.\n3. Focus on driving through your heels to engage your glutes and quadriceps effectively.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

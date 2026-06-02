@@ -1,0 +1,252 @@
+[
+ {
+  "id": "barbell_hang_clean",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, holding a barbell at thigh level with an overhand grip slightly wider than shoulder-width.\n2. Hinge at the hips and bend the knees slightly to lower the bar to just above the knees, keeping the back flat.\n3. Explosively extend the hips, knees and ankles, shrugging the shoulders to accelerate the bar upward.\n4. Pull the body under the bar and catch it on the front of the shoulders in a quarter-squat, elbows high.\n5. Stand fully upright, then lower the bar back to thigh level under control. Repeat.",
+  "tips": "1. Drive the bar with the hips and legs, not the arms.\n2. Keep the bar close to the body throughout the pull.\n3. Catch with the elbows pointing forward to rack the bar securely.\n4. Brace the core before each explosive pull.",
+  "name": "Barbell Hang Clean",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "barbell_jefferson_squat",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Straddle a barbell on the floor so it runs between the legs, feet roughly shoulder-width apart.\n2. Grip the bar with one hand in front of the body and one hand behind, using a mixed grip.\n3. Brace the core, push the hips back and bend the knees to lower into a squat with a tall torso.\n4. Drive through the heels to extend the hips and knees and stand fully upright.\n5. Lower the bar back to the floor under control. Repeat.",
+  "tips": "1. Keep weight balanced evenly between both legs.\n2. Drive through the heels using the glutes and hamstrings.\n3. Keep the torso upright and the back flat throughout.\n4. Alternate hand and stance positions between sets for balance.",
+  "name": "Barbell jefferson squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "barbell_jump_shrug",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, holding a barbell at thigh level with an overhand grip slightly wider than shoulder-width.\n2. Dip slightly by bending the hips and knees, keeping the back flat.\n3. Explosively extend the hips, knees and ankles to drive the bar upward.\n4. At full extension, shrug the shoulders forcefully toward the ears as the body rises onto the toes.\n5. Land softly and reset the bar at thigh level under control. Repeat.",
+  "tips": "1. Time the shrug with full hip and knee extension.\n2. Keep the arms straight and let the legs drive the bar.\n3. Keep the bar close to the thighs throughout.\n4. Brace the core to protect the lower back.",
+  "name": "Barbell Jump Shrug",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "barbell_jump_squat",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell across the upper back with a grip slightly wider than the shoulders.\n2. Push the hips back and bend the knees to lower until the thighs are about parallel to the floor.\n3. Explosively drive through the heels to jump straight up, fully extending the hips and knees.\n4. Land softly on the forefeet, bending the knees and hips to absorb the impact.\n5. Lower back into the squat position. Repeat.",
+  "tips": "1. Keep the barbell steady and centered on the upper back.\n2. Keep the knees tracking over the toes on takeoff and landing.\n3. Land softly to absorb impact through the legs.\n4. Use a lighter load to keep the movement explosive.",
+  "name": "Barbell jump squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "barbell_kas_glute_bridge",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on the floor with the upper back resting against a bench, knees bent and feet flat.\n2. Position a barbell across the hips and hold it securely with both hands.\n3. Push through the heels to lift the hips until the body forms a straight line from shoulders to knees.\n4. Squeeze the glutes at the top and hold briefly with the hips fully extended.\n5. Lower the hips under control, stopping just before they touch the floor. Repeat.",
+  "tips": "1. Drive through the heels to load the glutes.\n2. Keep the range short and controlled, emphasizing the squeeze at the top.\n3. Keep the knees tracking in line with the toes.\n4. Use a pad on the bar for hip comfort.",
+  "name": "Barbell KAS glute bridge",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

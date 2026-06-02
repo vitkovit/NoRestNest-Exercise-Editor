@@ -1,0 +1,4 @@
+[
+ {"id": "lateral_raises_dumbbell_seated_with_swing", "issue": "Original instructions describe a torso swing/raise to vertical, making this a cheat/swing variant; erector spinae added as secondary due to the torso movement. If intended as a strict seated raise, drop Lower Back."},
+ {"id": "leaning_dumbbell_lateral_raise", "issue": "Unilateral, but the non-working hand grips a support and the body leans, so anti-rotation core demand is minimal; obliques omitted intentionally."}
+]

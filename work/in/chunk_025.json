@@ -1,0 +1,89 @@
+[
+ {
+  "id": "barbell_standing_close_grip_military_press",
+  "name": "Barbell standing close grip military press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing forward), hands placed at shoulder-width apart. The barbell should be at chest height.\n2. Press the barbell overhead by extending your arms fully, making sure to keep the bar path straight and close to your body.\n3. Hold the barbell overhead for a moment and slowly lower the barbell back to the starting position at chest height. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid arching your back by maintaining a neutral spine throughout the movement.\n2. Breathe steadily, exhaling as you press the barbell overhead and inhaling as you lower it back down.\n3. Keep your elbows slightly in front of your body at the starting position to avoid shoulder strain.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_concentration_curl",
+  "name": "Barbell standing concentration curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip (palms facing up), hands placed about shoulder-width apart. Your arms should be fully extended, and the barbell should rest against your thighs.\n2. Engage your core, keep your chest up, and maintain a neutral spine. Slightly bend forward from your hips and allow your elbows to hang close to your knees.\n3. Curl the barbell upward by bending your elbows, bringing the barbell toward your shoulders. Keep your elbows stationary against your thighs to isolate your biceps.\n4. Hold the contraction at the top for a moment, squeezing your biceps. Slowly lower the barbell back to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on smooth, controlled movements to maximize muscle engagement and prevent injury.\n2. Breathe steadily, exhaling as you curl the barbell up and inhaling as you lower it back down.\n3. Avoid using momentum or swinging your body to lift the barbell.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_leg_calf_raise",
+  "name": "Barbell standing leg calf raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_standing_leg_calf_raises",
+  "name": "Barbell standing leg calf raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand on a step with your feet shoulder-width apart, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart. Your forefeet should be on the edge of the step, and your heels should hang off.\n2. Raise your heels as high as possible by extending your ankles, lifting your body upward.\n3. Hold the top position for a moment, feeling the contraction in your calf muscles.\n4. Slowly lower your heels back down below the level of the step, stretching your calves. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your movements slow and controlled to maximize muscle engagement and prevent injury.\n2. Focus on using your calf muscles to lift your body, avoiding bouncing or using momentum.\n3. Breathe steadily, exhaling as you raise your heels and inhaling as you lower them back down.\n4. Ensure your heels drop below the level of the step to achieve a full range of motion and effective stretch.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Anterior Tibialis"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_military_press",
+  "name": "Barbell standing military press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing forward), hands placed slightly wider than shoulder-width apart. The barbell should be at chest height.\n2. Press the barbell overhead by extending your arms fully, making sure to keep the bar path straight and close to your body.\n3. Hold the barbell overhead for a moment, ensuring your arms are fully extended and your shoulders are engaged.\n4. Slowly lower the barbell back to the starting position at chest height. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid arching your back by maintaining a neutral spine throughout the movement.\n2. Breathe steadily, exhaling as you press the barbell overhead and inhaling as you lower it back down.\n3. Keep your elbows slightly in front of your body at the starting position to avoid shoulder strain.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Chest"
+   ]
+  }
+ }
+]

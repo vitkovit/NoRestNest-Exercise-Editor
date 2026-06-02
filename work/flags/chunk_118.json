@@ -1,0 +1,3 @@
+[
+ {"id": "dumbbell_lying_pronation_rotation_on_floor", "issue": "Prime movers are pronator teres and pronator quadratus, which have no allowed latin value in the forearms bucket. Mapped to 'Wrist Flexors' (pronator teres lies on the flexor/medial side of the forearm) as the closest allowed value."}
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "lunge_to_knee_drive_left_bodyweight",
+  "name": "Lunge to knee drive left bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet hip-width apart and your arms at your sides.\n2. Step your left foot back into a lunge position, lowering your hips until your right thigh is parallel to the floor and your left knee nearly touches the floor.\n3. Push through your right heel to stand back up, simultaneously driving your left knee up towards your chest.\n4. Return your left leg to the starting position and repeat for the desired number of repetitions. Switch sides and repeat the movement with your right leg stepping back.",
+   "tips": "1. Ensure your front knee is aligned with your ankle and does not extend past your toes to avoid strain.\n2. Perform the knee drive with control, avoiding any jerky movements to prevent injury.\n3. Focus on steady breathing, exhaling as you drive your knee up and inhaling as you lower into the lunge.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "lunge_to_knee_drive_right_bodyweight",
+  "name": "Lunge to knee drive right bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet hip-width apart and your arms at your sides.\n2. Step your right foot back into a lunge position, lowering your hips until your left thigh is parallel to the floor and your right knee nearly touches the floor.\n3. Push through your left heel to stand back up, simultaneously driving your right knee up towards your chest.\n4. Return your right leg to the starting position and repeat for the desired number of repetitions. Switch sides and repeat the movement with your left leg stepping back.",
+   "tips": "1. Ensure your front knee is aligned with your ankle and does not extend past your toes to avoid strain.\n2. Perform the knee drive with control, avoiding any jerky movements to prevent injury.\n3. Focus on steady breathing, exhaling as you drive your knee up and inhaling as you lower into the lunge.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "lunges_alternate_leg_with_pause_bodyweight",
+  "name": "lunges alternate leg with pause bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet hip-width apart and your arms at your sides.\n2. Step your right foot forward into a lunge position, lowering your hips until your right thigh is parallel to the floor and your left knee nearly touches the floor. Pause for a moment in this position.\n3. Push through your right heel to return to the starting position, then step your left foot forward into a lunge position, lowering your hips until your left thigh is parallel to the floor and your right knee nearly touches the floor. Pause for a moment in this position.\n4. Push through your left heel to return to the starting position. Alternate legs for the desired number of repetitions.",
+   "tips": "1. Ensure your front knee is aligned with your ankle and does not extend past your toes to avoid strain.\n2. Perform each lunge with control, pausing briefly to enhance muscle engagement.\n3. Focus on steady breathing, exhaling as you push back to the starting position and inhaling as you step forward into the lunge.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "lunges_same_leg_side_view_bodyweight",
+  "name": "Lunges same leg side view bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet hip-width apart and your arms at your sides.\n2. Step your right foot forward into a lunge position, lowering your hips until your right thigh is parallel to the floor and your left knee nearly touches the floor. Pause for a moment in this position.\n3. Push through your right heel to return to the starting position.\n4. Repeat the lunge with your right leg for the desired number of repetitions before switching to your left leg.",
+   "tips": "1. Focus on steady breathing, exhaling as you push back to the starting position and inhaling as you step forward into the lunge.\n2. Keep your back straight and your chest lifted to maintain proper posture.\n3. Use a controlled motion when bringing your leg back to the starting position to maintain balance.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "lunging_straight_leg_calf_stretch",
+  "name": "Lunging straight leg calf stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Stand upright with your feet hip-width apart and your arms at your sides.\n2. Step your right foot back into a lunge position, keeping your right leg straight and your heel on the floor. Bend your left knee slightly, keeping your left foot flat on the floor.\n3. Lean forward slightly, pressing your hips downward and feeling the stretch in your right calf. Hold this position for 15-30 seconds.\n4. Return to the starting position and switch legs, stepping your left foot back and repeating the stretch.",
+   "tips": "1. Ensure your back leg remains straight and your heel stays on the floor to maximize the stretch in your calf.\n2. Keep your front knee aligned with your ankle to avoid unnecessary strain on your joints.\n3. Perform the stretch on a stable, non-slip surface to prevent slipping or discomfort.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ }
+]

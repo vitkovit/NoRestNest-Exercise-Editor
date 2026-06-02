@@ -1,0 +1,237 @@
+[
+ {
+  "id": "lateral_box_jump",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand beside a sturdy box about 30 to 50 cm tall, feet hip-width apart.\n2. Bend your knees and hinge slightly at the hips to load your legs.\n3. Swing your arms and push explosively off both feet, jumping sideways onto the box.\n4. Land softly on top with knees bent and hips back to absorb the impact.\n5. Step down to the start position and switch sides.\n6. Repeat.",
+  "tips": "1. Land softly on the mid-foot with bent knees to cushion each landing.\n2. Keep your chest up and core braced throughout the jump.\n3. Step down rather than jumping down to protect your joints.\n4. Use a box height you can clear with controlled form.",
+  "name": "Lateral Box Jump",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "lawnmower_row",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Hold a dumbbell in one hand and stand in a staggered stance, opposite foot forward.\n2. Hinge forward at the hips and rest your free hand on your front thigh for support.\n3. Let the dumbbell hang toward the floor with a slight bend in the elbow.\n4. Drive the elbow up and back past your ribs, rotating slightly as if starting a mower.\n5. Lower the weight under control to the start.\n6. Repeat, then switch sides.",
+  "tips": "1. Pull with your back and elbow, not by jerking with the arm.\n2. Keep your spine neutral and core braced through the hinge.\n3. Squeeze the shoulder blade at the top of each rep.\n4. Control the descent rather than dropping the weight.",
+  "name": "Lawnmower Row",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "laying_lateral_raise",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your side on a bench or the floor, holding a dumbbell in the top hand.\n2. Rest the dumbbell across the front of your hip with a slight bend in the elbow.\n3. Keep your body stacked and core engaged.\n4. Raise the dumbbell out and up until your arm reaches shoulder height.\n5. Lower it back down under control.\n6. Repeat, then switch sides.",
+  "tips": "1. Lead with the elbow and keep the wrist neutral.\n2. Move slowly and avoid swinging the weight with momentum.\n3. Stop at shoulder height to keep tension on the side delt.\n4. Use a light weight; this position is harder than a standing raise.",
+  "name": "Laying Lateral Raise",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "long_lever_plank",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Set your forearms on the floor and walk them forward so your elbows are ahead of your shoulders.\n2. Extend your legs back and rise onto your toes.\n3. Tuck your pelvis under and brace your abs hard.\n4. Form a straight line from head to heels and keep your glutes tight.\n5. Hold the position while breathing steadily.\n6. Repeat.",
+  "tips": "1. Keep the pelvis tucked to maximize abdominal tension.\n2. Do not let the hips sag or pike up.\n3. Move the elbows only as far forward as you can hold with good form.\n4. Breathe steadily instead of holding your breath.",
+  "name": "Long Lever Plank",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "lord_of_the_dance",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand tall and shift your weight onto one foot.\n2. Bend the other knee and grasp that ankle or foot behind you.\n3. Press the lifted foot into your hand and raise the thigh up and back.\n4. Reach the opposite arm forward as your chest lifts.\n5. Hold the balance while breathing steadily.\n6. Release and repeat on the other side.",
+  "tips": "1. Fix your gaze on a still point to hold your balance.\n2. Press the foot into the hand to open the chest and hips.\n3. Keep the standing leg slightly soft, not locked.\n4. Engage your core to stay tall and stable.",
+  "name": "Lord Of The Dance",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

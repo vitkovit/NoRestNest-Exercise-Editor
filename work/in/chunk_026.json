@@ -1,0 +1,95 @@
+[
+ {
+  "id": "barbell_standing_overhead_triceps_extension",
+  "name": "Barbell standing overhead triceps extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing forward), hands placed closer than shoulder-width apart. Lift the barbell overhead, fully extending your arms. Your elbows should be close to your head.\n2. Slowly lower the barbell behind your head by bending your elbows, keeping your upper arms stationary.\n3. Lower the barbell until your forearms are parallel to the floor, feeling the stretch in your triceps.\n4. Press the barbell back up to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary and close to your head throughout the movement to isolate your triceps.\n2. Focus on smooth, controlled movements to maximize muscle engagement and prevent injury.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_shoulder_press",
+  "name": "Barbell standing shoulder press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing forward), hands placed slightly wider than shoulder-width apart. The barbell should be at chest height.\n2. Press the barbell overhead by extending your arms fully, keeping your elbows outwards.\n3. Hold the barbell overhead for a moment, ensuring your arms are fully extended and your shoulders are engaged.\n4. Slowly lower the barbell back to the starting position at chest height. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid arching your back by maintaining a neutral spine throughout the movement.\n2. Breathe steadily, exhaling as you press the barbell overhead and inhaling as you lower it back down.\n3. Keep your elbows slightly in front of your body at the starting position to avoid shoulder strain.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Chest"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_twist",
+  "name": "Barbell standing twist",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart.\n2. Rotate your torso to the right, keeping your hips and knees aligned with the movement.\n3. Rotate back to the center position with control, then twist your torso to the left.\n4. Continue alternating sides, repeating for the desired number of repetitions.",
+   "tips": "1. Rotate your torso, not just your arms, to effectively engage your oblique muscles.\n2. Breathe steadily, exhaling as you twist and inhaling as you return to the center position.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_wide_grip_biceps_curls",
+  "name": "Barbell standing wide grip biceps curls",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip (palms facing up), hands placed wider than shoulder-width apart. Your arms should be fully extended, and the barbell should rest against your thighs.\n2. Curl the barbell upward by bending your elbows, bringing the barbell toward your shoulders. Keep your elbows close to your torso throughout the movement.\n3. Hold the contraction at the top for a moment, squeezing your biceps.\n4. Slowly lower the barbell back to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows stationary and close to your torso throughout the movement to isolate your biceps.\n2. Focus on smooth, controlled movements to maximize muscle engagement and prevent injury.\n3. Avoid using momentum or swinging your body to lift the barbell.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_wide_grip_military_press",
+  "name": "Barbell standing wide grip military press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing forward), hands placed  2 fists wider than shoulder-width apart. The barbell should be at chest height.\n2. Press the barbell overhead by extending your arms fully, making sure to keep the bar path straight and close to your body.\n3. Hold the barbell overhead for a moment, ensuring your arms are fully extended and your shoulders are engaged.\n4. Slowly lower the barbell back to the starting position at chest height. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid arching your back by maintaining a neutral spine throughout the movement.\n2. Breathe steadily, exhaling as you press the barbell overhead and inhaling as you lower it back down.\n3. Keep your elbows slightly in front of your body at the starting position to avoid shoulder strain.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Upper Chest"
+   ]
+  }
+ }
+]

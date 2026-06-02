@@ -1,0 +1,172 @@
+[
+ {
+  "id": "dumbbell_incline_breeding",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to a 30-45 degree angle and lie back with a dumbbell in each hand.\n2. Press the dumbbells above your chest, palms facing each other, elbows slightly bent.\n3. Lower the dumbbells out to your sides in a wide arc until you feel a stretch across your upper chest.\n4. Squeeze your chest and bring the dumbbells back together above your chest along the same arc.\n5. Repeat.",
+  "tips": "1. Keep a fixed slight bend in your elbows throughout the movement.\n2. Lower under control and feel the stretch before reversing.\n3. Drive the chest, not the shoulders, to bring the dumbbells together.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Dumbbell Incline Breeding",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_fly",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to a 30-45 degree angle and lie back with a dumbbell in each hand.\n2. Press the dumbbells above your chest, palms facing each other, elbows slightly bent.\n3. Lower the dumbbells out to your sides in a wide arc until your upper chest is stretched.\n4. Squeeze your chest and bring the dumbbells back together above your chest along the same arc.\n5. Repeat.",
+  "tips": "1. Keep the elbows fixed at a slight bend the whole set.\n2. Control the lowering phase and pause briefly at the stretch.\n3. Lead with the chest to close the arc, keeping the shoulders down.\n4. Exhale as you raise, inhale as you lower.",
+  "name": "Dumbbell Incline Fly",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_fly_on_exercise_ball",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on an exercise ball and walk your feet forward until your upper back rests on the ball, feet slightly wider than shoulder-width.\n2. Lift your hips so your torso is roughly horizontal and hold a dumbbell in each hand above your chest, palms facing each other, elbows slightly bent.\n3. Lower the dumbbells out to your sides in a wide arc until your chest is stretched.\n4. Squeeze your chest and bring the dumbbells back together above your chest along the same arc.\n5. Repeat.",
+  "tips": "1. Brace your core and keep your hips raised to stay stable on the ball.\n2. Keep elbows fixed at a slight bend throughout.\n3. Move slowly and control the dumbbells on the way down.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Dumbbell Incline Fly on Exercise Ball",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_front_raise",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to a 30-45 degree angle and lie back with a dumbbell in each hand, arms straight, palms facing down.\n2. Keeping your arms straight, raise both dumbbells in front of you until they reach shoulder height.\n3. Pause briefly at the top.\n4. Lower the dumbbells back to the start under control.\n5. Repeat.",
+  "tips": "1. Raise with your front shoulders, not momentum.\n2. Keep your arms straight with only a slight elbow bend.\n3. Stay pressed into the bench to isolate the delts.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Dumbbell Incline Front Raise",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_hammer_shoulder_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to a 30-45 degree angle and lie back with feet flat on the floor.\n2. Hold a dumbbell in each hand at shoulder height, palms facing each other in a neutral grip, elbows bent.\n3. Press the dumbbells up until your arms are fully extended above your chest.\n4. Lower the dumbbells back to shoulder height under control.\n5. Repeat.",
+  "tips": "1. Keep your wrists straight and stacked over your elbows.\n2. Press in a smooth path without flaring the elbows wide.\n3. Drive the shoulders and upper chest through the press.\n4. Exhale as you press, inhale as you lower.",
+  "name": "Dumbbell Incline Hammer Shoulder Press",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

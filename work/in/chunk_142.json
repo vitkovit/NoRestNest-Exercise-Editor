@@ -1,0 +1,92 @@
+[
+ {
+  "id": "dumbbell_standing_reverse_curl",
+  "name": "Dumbbell Standing Reverse Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other). Let your arms hang straight by your sides.\n2. Keep your upper arms stationary and curl the dumbbells towards your shoulders by bending your elbows while rotating your wrists so your palms face down.\n3. Squeeze your biceps muscles at the peak of the movement, ensuring the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control. Repeat for the desired repetitions.",
+   "tips": "1. Keep your upper arms close to your body and stationary throughout the exercise.\n2. Avoid swinging the dumbbells; focus on controlled movements.\n3. Exhale as you curl the dumbbells up and inhale as you lower them.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_simultaneous_biceps_curl",
+  "name": "Dumbbell Standing Simultaneous Biceps Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1.  Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other). Let your arms hang straight by your sides.\n2. Keep your upper arms stationary and curl the dumbbells towards your shoulders by bending your elbows while rotating your wrists so your palms face up.\n3. Squeeze your biceps muscles at the peak of the movement, ensuring the dumbbells reach shoulder height.\n4. Lower the dumbbells back to the starting position with control. Repeat for the desired repetition.",
+   "tips": "1. Keep your upper arms close to your body and stationary throughout the exercise.\n2. Avoid swinging the dumbbells; focus on controlled movements.\n3. Exhale as you curl the dumbbells up and inhale as you lower them.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_single_arm_cross_raise",
+  "name": "Dumbbell Standing Single Arm Cross Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1.Stand with your feet shoulder-width apart, holding a dumbbell in your right hand with a neutral grip. Extend your right arm straight down at your side. Your left hand should be on your hip for support.\n2. Raise the dumbbell diagonally across your body towards your left shoulder, keeping your arm straight and maintaining a slight bend in your elbow.\n3. Hold the position briefly at the top, ensuring the dumbbell reaches shoulder height.\n4. Lower the dumbbell back to the starting position, keeping your movements slow and steady. Repeat for the desired number of repetitions, then switch to the left arm.",
+   "tips": "1. Exhale as you raise the dumbbell and inhale as you lower it.\n2. Avoid using momentum; focus on controlled movements.\n3. Keep a slight bend in your elbow to reduce strain on your joints.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Chest"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_single_leg_calf_raise",
+  "name": "Dumbbell Standing Single Leg Calf Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your left foot on the floor, keeping your right foot a few inches off the floor, holding a dumbbell in both hands with your arms hanging by your sides.\n2. Press through your left heel to raise your heel off the floor as high as possible by extending your ankle.\n3. Hold the position briefly at the top, squeezing your calf muscle.\n4. Lower your heel back down to the starting position with control. Repeat for the desired number of repetitions, then switch to the right leg.",
+   "tips": "1. Use a full range of motion, lifting your heel as high as possible.\n2. Avoid bouncing; focus on a slow and controlled movement.\n3. Maintain a steady pace and avoid using momentum.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "none"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_standing_triceps_extension",
+  "name": "Dumbbell Standing Triceps Extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell with both hands behind your head. Your elbows should be bent, and your upper arms should be close to your ears.\n2. Extend your arms fully by pressing the dumbbell overhead until your arms are straight. Keep your elbows close to your head.\n3. Lower the dumbbell back down behind your head by bending your elbows, returning to the starting position.\n4. Repeat the extension and flexion of your arms for the desired number of repetitions.",
+   "tips": "1. Avoid flaring your elbows out; keep them close to your ears.\n2. Use a controlled motion, avoiding swinging the dumbbell.\n3. Exhale as you extend your arms and inhale as you lower the dumbbell.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

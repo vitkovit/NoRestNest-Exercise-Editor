@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbells_single_arm_row", "issue": "Input had empty data (category Uncategorized, equipment other, no instructions/muscles); reconstructed as a standard bench-supported one-arm dumbbell row based on the name/id. Stance assumed bench-supported."},
+ {"id": "dumbell_burpee", "issue": "Movement is dynamic and depends on the variant; assumed an overhead dumbbell press at the top of the jump per common dumbbell-burpee form. If no overhead press is performed, shoulders/triceps/chest emphasis is lower."}
+]

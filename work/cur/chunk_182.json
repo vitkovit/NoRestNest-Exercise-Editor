@@ -1,0 +1,155 @@
+[
+ {
+  "id": "legs_hand_reach_spine_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor with your legs extended straight together in front.\n2. Keep your back long and your toes pointing up.\n3. Hinge forward at the hips and reach your hands toward your feet.\n4. Reach as far as your flexibility allows and relax your head and neck.\n5. Hold, breathing deeply.\n6. Repeat.",
+  "tips": "1. Lead with the hips to stretch the hamstrings.\n2. Allow the spine to round gently to stretch the back.\n3. Use a strap around your feet if you cannot reach.\n4. Breathe steadily and ease deeper on each exhale.",
+  "name": "Legs hand reach spine stretch",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Gastrocnemius Lateral"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "long_arm_crunches",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat, hip-width apart.\n2. Extend your arms straight overhead, close to your ears, hands crossed.\n3. Brace your core and lift your upper body, arms following your torso line.\n4. Raise until your torso is about 45 degrees off the floor.\n5. Lower slowly to the start.\n6. Repeat.",
+  "tips": "1. Keep arms straight and aligned with your ears.\n2. Press your lower back into the floor throughout.\n3. Lead with the chest, not the neck.\n4. Exhale as you crunch up, inhale as you lower.",
+  "name": "Long arm crunches",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "low_cable_overhead_flyes",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Set both cable pulleys to the lowest position and grasp a handle in each hand, palms up.\n2. Step forward to create tension, feet shoulder-width apart, back straight.\n3. Lean slightly forward with arms extended low and behind you, slight bend in the elbows.\n4. Sweep the handles up and together in a wide arc to meet overhead.\n5. Lower your arms slowly back to the start.\n6. Repeat.",
+  "tips": "1. Drive the arc low to high to load the upper chest.\n2. Keep the elbow bend fixed throughout.\n3. Do not use momentum or shrug the shoulders.\n4. Exhale as you raise, inhale as you lower.",
+  "name": "Low Cable Overhead Flyes",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "low_resistance_band_lying_bicep_curl",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the middle of the band to a low point in front of you.\n2. Lie on a bench, feet flat, holding a handle in each hand, palms up, arms extended by your sides.\n3. Curl the handles toward your shoulders by bending the elbows.\n4. Keep your upper arms still throughout.\n5. Lower slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your back flat on the bench.\n2. Keep upper arms pinned and move only at the elbow.\n3. Squeeze the biceps hard at the top.\n4. Exhale as you curl, inhale as you lower.",
+  "name": "Low Resistance band lying bicep curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "low_resistance_band_lying_bicep_curl_half_repetition",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the middle of the band to a low point in front of you. Lie on a bench, feet flat on the floor, holding a handle in each hand with palms up and arms extended by your sides.\n2. Bend your elbows to curl the handles halfway up until your forearms are parallel to the floor.\n3. Keep your upper arms still against your sides.\n4. Lower the handles with control back to the start.\n5. Repeat.",
+  "tips": "1. Keep your back flat on the bench and do not arch your spine.\n2. Move only at the elbows, keeping the upper arms fixed.\n3. Control the band on the way down to keep tension on the biceps.\n4. Exhale as you curl up and inhale as you lower.",
+  "name": "Low Resistance band lying bicep curl half repetition",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

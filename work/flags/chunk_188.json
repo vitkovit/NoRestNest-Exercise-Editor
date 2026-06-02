@@ -1,0 +1,5 @@
+[
+ {"id": "plank_reverse_fly_with_bottle", "issue": "Equipment is a water bottle (improvised); mapped to 'other' as no bottle option exists. Serratus anterior is a notable stabilizer but has no allowed value, so omitted."},
+ {"id": "plank_shoulder_taps", "issue": "Serratus anterior is a primary stabilizer per sources but has no allowed value; omitted."},
+ {"id": "plate_front_raise", "issue": "Serratus anterior is a meaningful stabilizer per EMG sources but has no allowed value; omitted."}
+]

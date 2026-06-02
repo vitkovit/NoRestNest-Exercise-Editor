@@ -1,0 +1,187 @@
+[
+ {
+  "id": "single_leg_calf_raise_leg_press_machine",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit in the leg press machine and extend one leg, placing the forefoot on the lower edge of the platform with the heel hanging off.\n2. Keep a slight bend in the knee.\n3. Press through the forefoot to push the platform up by extending your ankle.\n4. Squeeze your calf at the top.\n5. Lower the heel below the platform edge for a full stretch under control. Switch legs. Repeat.",
+  "tips": "1. Keep a slight bend in the knee throughout.\n2. Let the heel drop fully at the bottom for a deep stretch.\n3. Pause briefly at the top contraction.\n4. Move at a steady pace to keep tension on the calf.",
+  "name": "Single leg calf raise leg press machine",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "universal"
+ },
+ {
+  "id": "single_leg_incline_45_degree_leg_press_machine",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit in the 45 degree leg press and place one foot flat on the platform, mid-foot centered.\n2. Keep your back against the seat and release the safety handles.\n3. Press through your foot to extend the leg and push the platform up.\n4. Stop just short of locking the knee.\n5. Lower the platform under control until your knee nears your chest. Switch legs. Repeat.",
+  "tips": "1. Exhale as you press, inhale as you lower.\n2. Keep your knee tracking over your toes.\n3. Press through the whole foot, not just the toes.\n4. Keep your hips and lower back flat against the seat.",
+  "name": "Single leg incline 45 degree leg press machine",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "single_leg_romanian_deadlift_dumbbell",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand on your right leg holding a dumbbell in your right hand, knee slightly bent.\n2. Hinge at the hip and extend your left leg straight back.\n3. Lower the dumbbell toward the floor until your torso and back leg are parallel to the ground.\n4. Keep your back flat and hips level.\n5. Drive through your standing heel to return to standing. Switch sides. Repeat.",
+  "tips": "1. Exhale as you rise, inhale as you lower.\n2. Keep a slight bend in the standing knee.\n3. Keep your hips square to the floor, do not let them open.\n4. Practice without weight first to learn balance.",
+  "name": "Single leg romanian deadlift dumbbell",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "single_leg_romanian_deadlifts_right_cable_resistance_band",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor a resistance band low and hold the free end in your right hand.\n2. Stand on your left leg with the knee slightly bent.\n3. Hinge at the hip and extend your right leg straight back.\n4. Lower your torso until it is parallel to the floor against the band tension.\n5. Drive your hips forward to return to standing. Switch sides. Repeat.",
+  "tips": "1. Exhale as you hinge forward, inhale as you return.\n2. Keep a slight bend in the standing knee for balance.\n3. Keep your back flat and shoulders down.\n4. Keep your hips level, do not let the pelvis rotate.",
+  "name": "Single leg romanian deadlifts right cable Resistance band",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "situps",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor, hip-width apart.\n2. Place your hands behind your head or across your chest.\n3. Brace your core and curl your torso up off the floor.\n4. Keep lifting until your chest is close to your knees.\n5. Lower your back to the floor with control.\n6. Repeat.",
+  "tips": "1. Keep your core braced through the whole movement.\n2. Move slowly and avoid yanking with your hands or neck.\n3. Exhale as you sit up, inhale as you lower.\n4. Anchor or relax your feet to reduce hip flexor takeover.",
+  "name": "Situps",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

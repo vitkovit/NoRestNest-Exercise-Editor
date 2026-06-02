@@ -1,0 +1,96 @@
+[
+ {
+  "id": "exercise_ball_hip_flexor_stretch",
+  "name": "Exercise ball hip flexor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on an exercise ball in a lunge position with your left foot flat on the floor in front of you and your right leg extended behind you, the ball supporting your hips.\n2. Lower your hips downwards towards the floor, allowing the ball to support your weight and feeling a stretch in your right hip flexor.\n3. Keep your torso upright and your core engaged as you hold the stretch.\n4. Hold the stretch for 15-30 seconds, then switch legs and repeat on the other side.",
+   "tips": "1. Move slowly into the stretch to prevent overextending or causing discomfort.\n2. Breathe deeply and steadily, focusing on relaxing the hip flexor muscles.\n3. Use a properly inflated exercise ball to provide adequate support for your hips.",
+   "primary": [
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_lat_stretch",
+  "name": "Exercise ball lat stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin on the floor in a tabletop position with your hands and knees on the floor.\n2. Have an exercise ball on your right side and position your right hand on the ball, keeping your arm bent at 90 degrees.\n3. Slowly roll the ball forward with your right hand, extending your right arm overhead and lowering your chest lightly towards the floor, feeling the stretch along your back.\n4. Hold the stretch for 15-30 seconds, then slowly roll the ball back towards you to return to the starting position. Repeat on the left side.",
+   "tips": "1. Ensure your hips remain above your knees to maintain proper form and support.\n2. Move slowly into the stretch to prevent overextending or causing discomfort.\n3. Use a properly inflated exercise ball to provide adequate support for your arm.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_leg_curl",
+  "name": "Exercise Ball Leg Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your arms at your sides, palms facing down. Place your heels and calves on top of an exercise ball.\n2. Engage your core and lift your hips off the floor, forming a straight line from your shoulders to your heels. This is your starting position.\n3. Bend your knees and roll the ball towards your glutes by pulling your heels in. Keep your hips elevated and maintain the straight line from your shoulders to your knees.\n4. Slowly extend your legs, rolling the ball back to the starting position while keeping your hips lifted. Repeat for the desired number of repetitions.",
+   "tips": "1. Use a properly inflated exercise ball to provide stability and ease of movement.\n2. Move slowly and with control to maximize muscle engagement and prevent injury.\n3. Focus on steady breathing, exhaling as you curl the ball in and inhaling as you extend your legs.",
+   "primary": [
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_lower_back_dynamic_stretch",
+  "name": "Exercise ball lower back dynamic stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin on your hands and feet with your arms and legs straight, positioning an exercise ball under your hips.\n2. Slowly lower your body onto the ball, allowing it to support your hips and torso, while keeping your arms and legs straight and your hips bent.\n3. Relax into the stretch for a second, letting your back gently arch over the ball and feeling a stretch in your lower back.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on deep, steady breathing, inhaling as you lower onto the ball and exhaling as you return to the starting position.\n2. Ensure the exercise ball is properly inflated to provide adequate support and facilitate smooth movement.\n3. Avoid overextending your back; only lower onto the ball as far as is comfortable without causing strain.",
+   "primary": [
+    "Lower Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_lower_back_prone_stretch",
+  "name": "Exercise ball lower back prone stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin on your hands and feet with your arms and legs straight, positioning an exercise ball under your hips.\n2. Slowly lower your body onto the ball, allowing it to support your hips and torso, while keeping your arms and legs straight and your hips bent.\n3. Relax into the stretch, letting your back gently arch over the ball and feeling a stretch in your lower back.\n4. Hold the stretch for 15-30 seconds. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on deep, steady breathing, inhaling as you lower onto the ball and exhaling as you return to the starting position.\n2. Ensure the exercise ball is properly inflated to provide adequate support and facilitate smooth movement.\n3. Avoid overextending your back; only lower onto the ball as far as is comfortable without causing strain.",
+   "primary": [
+    "Lower Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Shoulders"
+   ]
+  }
+ }
+]

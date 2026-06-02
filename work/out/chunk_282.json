@@ -1,0 +1,92 @@
+[
+ {
+  "id": "ski_ergometer_cross_country_ski_flyes",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand facing away from the ski ergometer, feet shoulder-width apart, holding a handle in each hand.\n2. Open your arms out to the sides at shoulder height with a slight bend in the elbows.\n3. Pull both handles inward in an arc until your hands meet in front of your chest, squeezing your chest.\n4. Pause briefly at the contraction.\n5. Return your arms to the sides under control.\n6. Repeat.",
+  "tips": "1. Keep a fixed, slight elbow bend throughout the arc.\n2. Drive the movement from the chest, not the hands.\n3. Brace your core to keep your torso still.\n4. Move at a steady, controlled pace.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_jump_squat_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand facing the ski ergometer, feet shoulder-width apart, holding a handle in each hand.\n2. Pull the handles down toward your hips while lowering into a squat, bending your knees and pushing your hips back.\n3. Drive through your legs and jump up explosively, extending fully.\n4. Pull the handles back up under control as you rise.\n5. Land softly back into the squat and flow into the next rep.\n6. Repeat.",
+  "tips": "1. Land softly with bent knees to absorb impact.\n2. Coordinate the arm pull with the leg drive.\n3. Brace your core to protect your lower back.\n4. Breathe rhythmically across each rep.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_kneeling_reverse_fly_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Kneel facing the ski ergometer, holding the opposite handle in each hand so the cables cross.\n2. Extend your arms forward at head height with a slight elbow bend.\n3. Pull both handles outward and back in a reverse fly, squeezing your shoulder blades together.\n4. Pause when your arms reach out to your sides.\n5. Return your arms forward under control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull out, inhale as you return.\n2. Lead with your elbows to target the rear delts.\n3. Keep your back straight and core braced.\n4. Use a controlled tempo without swinging.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_pullover_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand facing the ski ergometer, feet shoulder-width apart, holding a handle in each hand with arms straight.\n2. Bend your knees slightly, push your hips back, and lean forward.\n3. Keeping your arms straight, pull both handles down and back toward your hips.\n4. Squeeze your lats at the bottom.\n5. Return your arms forward under control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull down, inhale as you return.\n2. Keep your arms straight and drive from the lats.\n3. Depress your shoulder blades to engage the back.\n4. Brace your core to keep the torso stable.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_fly_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand facing the ski ergometer, holding the opposite handle in each hand so the cables cross.\n2. Extend your arms forward at head height with a slight elbow bend.\n3. Pull both handles outward and back in a reverse fly, squeezing your shoulder blades together.\n4. Pause when your arms reach out to your sides.\n5. Return your arms forward under control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull out, inhale as you return.\n2. Lead with your elbows to target the rear delts.\n3. Keep your back straight and core braced.\n4. Use a controlled tempo without swinging.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ }
+]

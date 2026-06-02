@@ -1,0 +1,96 @@
+[
+ {
+  "id": "kneeling_lat_floor_stretch",
+  "name": "Kneeling lat floor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a tabletop position on the floor with your hands directly under your shoulders and your knees under your hips.\n2. Extend your right arm forward on the floor, palm facing up, while keeping your left hand in place.\n3. Bend your left elbow to lower your chest towards the floor, feeling the stretch in your lat muscles and upper back. Keep your head relaxed and look down at the floor.\n4. Hold the stretch for 15-30 seconds, breathing deeply and steadily. Slowly return to the starting position and repeat on the other side by extending your left arm forward and bending your right elbow.",
+   "tips": "1. Ensure your extended arm is fully extended to get the most effective stretch in your lats and upper back.\n2. Perform the stretch on a comfortable surface, such as a yoga mat, to prevent discomfort or injury.\n3. Relax your shoulders and neck to avoid tension in these areas.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "kneeling_leg_curl_machine",
+  "name": "Kneeling leg curl machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Kneel on the leg curl machine with one leg bent on the knee rest behind you and the other leg extended and secured under the pad.\n2. Hold onto the handles for stability and keep your back straight.\n3. Curl the extended leg by bending your knee and pulling your heel towards your glutes, squeezing your hamstrings at the top of the movement.\n4. Slowly return your leg to the starting position with control. Repeat for the desired number of repetitions, then switch legs.",
+   "tips": "1. Keep your back straight and avoid arching or rounding your spine.\n2. Focus on engaging your hamstrings throughout the movement.\n3. Exhale as you curl your leg up and inhale as you lower it back down.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "kneeling_squat_jumps_bodyweight",
+  "name": "Kneeling squat jumps bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a kneeling position on the floor with your knees hip-width apart and your toes pointing behind you. Sit back on your heels with your arms at your sides.\n2. Engage your core and glutes, then swing your arms forward and upward to generate momentum.\n3. Explosively jump up from your knees, bringing your feet forward to land in a squat position with your feet shoulder-width apart and your knees bent.\n4. Stand up from the squat position and then return to the starting kneeling position. Repeat for the desired number of repetitions.",
+   "tips": "1. Use your arms to generate momentum and assist with the jump.\n2. Land softly on your forefeet to reduce impact on your joints.\n3. Ensure your knees are aligned with your toes when you land in the squat position to avoid strain.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "kneeling_wrist_flexor_stretch",
+  "name": "Kneeling wrist flexor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a tabletop position on the floor with your hands directly under your shoulders and your knees under your hips.\n2. Rotate your hands so that your fingers are pointing towards your knees, palms flat on the floor.\n3. Slowly shift your weight back towards your heels to increase the stretch in your wrists and forearms, keeping your palms flat on the floor.\n4. Hold the stretch for 15-30 seconds, breathing deeply and steadily. Release the stretch by shifting your weight forward and gently lifting your hands off the floor. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your palms flat on the floor and your fingers pointing towards your knees to maximize the stretch in your wrist flexors.\n2. Move slowly and with control to avoid any sudden movements that could cause strain.\n3. If the stretch is too intense, reduce the angle by bringing your hands closer to your knees.",
+   "primary": [
+    "Wrist Flexors"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "landmine_chest_press",
+  "name": "Landmine chest press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart, holding the end of a barbell with the right hand at chest level. The other end of the barbell should be anchored securely in a landmine attachment or corner.\n2. Press the barbell forward and slightly upward until your arm is fully extended.\n3. Squeeze your chest muscles at the top of the movement.\n4. Slowly lower the barbell back to the starting position at chest level. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid arching it during the press.\n2. Exhale as you press the barbell forward and inhale as you lower it back.\n3. Focus on using your chest muscles to press the barbell.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Core Muscles"
+   ]
+  }
+ }
+]

@@ -1,0 +1,151 @@
+[
+ {
+  "id": "incline_dumbbell_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an adjustable bench to a 45-degree incline and sit back against it with feet flat on the floor.\n2. Hold a dumbbell in each hand, arms hanging straight down, palms facing forward.\n3. Keep elbows back and still as you curl both dumbbells up toward your shoulders.\n4. Squeeze the biceps at the top.\n5. Lower the dumbbells slowly to full arm extension.\n6. Repeat.",
+  "tips": "1. Let the arms hang fully behind the torso to stretch the long head of the biceps.\n2. Keep the upper arms stationary against the incline.\n3. Lower under control instead of dropping the weight.\n4. Exhale as you curl up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "incline_lateral_raises_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set a bench to a 45-degree incline and lie chest-first against it with feet planted on the floor.\n2. Hold a dumbbell in each hand with a neutral grip, arms hanging toward the floor.\n3. Keep a slight bend in the elbows as you raise the dumbbells out to the sides to shoulder height.\n4. Squeeze the rear shoulders at the top.\n5. Lower the dumbbells under control to the start.\n6. Repeat.",
+  "tips": "1. Keep the chest pinned to the bench to remove momentum.\n2. Lead with the elbows, not the hands.\n3. Use a light weight and move slowly.\n4. Avoid shrugging the traps up toward the ears.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "incline_push_up_on_box",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your hands on top of a sturdy box, slightly wider than shoulder-width.\n2. Step your feet back to form a straight line from head to heels.\n3. Brace your core and lower your chest toward the box, keeping elbows at about 45 degrees.\n4. Stop when your chest is near the box.\n5. Push through your hands to extend the arms back to the start.\n6. Repeat.",
+  "tips": "1. Keep the body in a straight line, do not let the hips sag.\n2. Use a box that will not slide or tip.\n3. Exhale as you push up, inhale as you lower.\n4. The higher the box, the easier the movement.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "incline_push_ups_on_chair",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your hands on the seat of a stable chair, slightly wider than shoulder-width.\n2. Step your feet back to form a straight line from head to heels.\n3. Brace your core and lower your chest toward the chair, keeping elbows at about 45 degrees.\n4. Stop when your chest is near the chair.\n5. Push through your hands to extend the arms back to the start.\n6. Repeat.",
+  "tips": "1. Use a chair placed against a wall so it cannot slide.\n2. Keep the body in a straight line, do not let the hips sag.\n3. Exhale as you push up, inhale as you lower.\n4. Move under control through the full range.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "intermediate_hip_flexor_and_quad_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with legs extended and arms at your sides.\n2. Loop a strap around your right ankle and hold both ends in your hands.\n3. Bend your right knee and pull the heel toward your glutes until you feel a stretch in the front of the thigh.\n4. Gently lift the right thigh off the floor to deepen the stretch in the hip flexor.\n5. Hold the stretch, then release and switch to the left leg.\n6. Repeat.",
+  "tips": "1. Breathe slowly and ease into the stretch rather than forcing it.\n2. Keep the hips pressed into the floor for the quad stretch, then lift the thigh for the hip flexor.\n3. Keep the head and neck neutral, looking down.\n4. Use a longer strap if you cannot reach the ankle comfortably.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": []
+ }
+]

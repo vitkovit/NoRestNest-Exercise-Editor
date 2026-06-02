@@ -1,0 +1,93 @@
+[
+ {
+  "id": "dumbbell_lying_rear_delt_row",
+  "name": "Dumbbell Lying Rear Delt Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie face down on an incline bench with a dumbbell in each hand, arms hanging straight down, and palms facing forward.\n2. Pull the dumbbells towards your ribcage by squeezing your shoulder blades together, keeping your elbows pointed backward.\n3. Lower the dumbbells back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum to lift the weights; use controlled motions for effective muscle engagement.\n2. Breathe out as you lift the dumbbells and breathe in as you lower them.\n3. Ensure your body remains stable on the bench and avoid lifting your chest.",
+   "primary": [
+    "Middle Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_lying_rear_lateral_raise",
+  "name": "Dumbbell Lying Rear Lateral Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie face down on a flat bench with a dumbbell in each hand, arms hanging straight down, and palms facing each other.\n2. Raise the dumbbells out to your sides until your arms are parallel to the floor, maintaining a slight bend in your elbows.\n3. Lower the dumbbells back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your neck in a neutral position and avoid straining it during the exercise.\n2. Focus on squeezing your shoulder blades together to maximize the activation of your rear deltoids and upper back muscles.\n3. Maintain a slight bend in your elbows throughout the movement to reduce joint strain.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_lying_supine_curl",
+  "name": "Dumbbell Lying Supine Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with a dumbbell in each hand, arms fully extended towards the floor by your sides, and palms facing your thighs.\n2. Curl the dumbbells by bending your elbows until your forearms are parallel to the floor while rotating the dumbbells to face backward.\n3. Lower the dumbbells back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to ensure maximum bicep engagement.\n2. Avoid using momentum; focus on a slow and controlled motion throughout the exercise.\n3. Use a weight that allows for proper form and control throughout the exercise.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_lying_triceps_extension",
+  "name": "Dumbbell Lying Triceps Extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor and knees bent at a 90-degree angle. Hold a dumbbell in each hand with your arms bent and forearms parallel to the floor, palms facing each other.\n2. Keeping your elbows stable, slowly extend your elbows to raise the dumbbells towards the ceiling until your arms are fully extended, keeping your upper arms stationary.\n3. Lower the dumbbells back to the starting position by bending your elbows, ensuring your forearms return to being parallel to the floor. \n4. Repeat the movements for the desired number of repetitions, maintaining control and proper form throughout the exercise.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to ensure maximum triceps engagement.\n2. Avoid using momentum; focus on a slow and controlled motion throughout the exercise.\n3. Maintain a neutral wrist position to prevent strain and injuries.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_lying_triceps_extension_on_floor",
+  "name": "Dumbbell Lying Triceps Extension on Floor",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back on the floor with your knees bent and feet flat on the floor. Hold one dumbbell with both hands, arms extended towards the ceiling, and palms facing each other. Position the dumbbell directly above your chest with your elbows slightly bent.\n2. Slowly bend your elbows to lower the dumbbell towards the floor just behind your forehead, keeping your upper arms stationary and elbows pointing towards the ceiling.\n3. Extend your elbows to raise the dumbbell back towards the ceiling until your arms are fully extended, keeping your upper arms stationary throughout the movement.\n4. Repeat the movements for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary and only move your forearms to ensure maximum triceps engagement.\n2. Avoid using momentum; focus on a slow and controlled motion.\n3. Maintain a neutral wrist position to prevent strain and injuries.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

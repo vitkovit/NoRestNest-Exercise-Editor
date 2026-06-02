@@ -1,0 +1,22 @@
+[
+ {
+  "id": "barbell_squat_back_pov",
+  "change": "No change. Verified: back squat is Quads + Gluteus Maximus primary; Hamstrings, Erector Spinae, gastrocnemius secondary per squat rules. Data correct."
+ },
+ {
+  "id": "barbell_squat_to_grass",
+  "change": "No change. Deep (ass-to-grass) back squat; same muscle profile as standard back squat. Verified correct."
+ },
+ {
+  "id": "barbell_squat_with_2_sec_hold",
+  "change": "No change. Paused back squat; identical muscle profile to standard back squat. Verified correct."
+ },
+ {
+  "id": "barbell_standing_back_wrist_curl",
+  "change": "Removed erroneous secondary forearms->Wrist Extensors. This is a behind-the-back wrist FLEXION movement; the extensors are not a working/assisting muscle. Real assistors (finger flexors, brachioradialis) have no allowed mapping, so omitted. Primary Wrist Flexors confirmed by searches."
+ },
+ {
+  "id": "barbell_standing_close_grip_curl",
+  "change": "No change. Close grip barbell curl: Biceps Brachii primary, forearm Wrist Flexors secondary confirmed. Brachialis/brachioradialis assist but have no mapping, so omitted."
+ }
+]

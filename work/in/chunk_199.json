@@ -1,0 +1,90 @@
+[
+ {
+  "id": "seated_leg_curl_machine",
+  "name": "Seated leg curl machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the machine with your back against the backrest and your legs fully extended. Adjust the backrest and leg pads so the pad rests just above your heels.\n2. Pull your heels down by bending your knees until the pad reaches down as far as possible.\n3. Pause for a second, then slowly return to the starting position. \n4. Repeat for the desired repetitions.",
+   "tips": "1. Exhale as you curl and inhale as you return to the starting position.\n2. Do not let the weight stack drop; control the descent movement for maximum muscle activation.\n3. Keep your toes pointed forward throughout the exercise.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "seated_normal_grip_row_machine",
+  "name": "Seated normal grip row machiNe",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench facing a row machine with a straight back and your feet placed on the footrests.\n2. Hold the rod above your knees with an overhand grip of your hands while keeping your arms straight.\n3. Pull the cable towards your chest by bending your arms and taking your elbows past your back.\n4. Return to the initial position and repeat.",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "seated_resistance_band_cable_rows",
+  "name": "Seated Resistance band - cable rows",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor with your legs fully extended and feet together, anchoring the resistance band around the soles of your feet. Hold the handles with both hands, arms extended forward, palms facing each other.\n2. Keep your back straight, chest up, and core engaged to stabilize your body.\n3. Pull the handles towards your torso by bending your elbows, keeping your arms close to your body. Focus on squeezing your shoulder blades together at the peak of the movement.\n4. Slowly extend your arms back to the starting position, maintaining control over the resistance band. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid slouching to maintain proper form.\n2. Engage your core to prevent any rocking or unnecessary movement during the exercise.\n3. Use a controlled motion to pull and release the resistance band, avoiding jerking movements.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "seated_shoulder_flexor_depressor_retractor_stretch",
+  "name": "Seated shoulder flexor depressor retractor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the floor with your legs extended straight in front of you and your back straight.\n2. Extend both arms down to your sides, then lean back slightly.\n3. Bring both arms about a foot behind you, keeping them straight, and place your hands on the floor with your fingers pointing forward.\n4. Hold this position for 15-30 seconds, feeling the stretch in your shoulders. Slowly return to the starting position.",
+   "tips": "1. Ensure your arms remain straight and your hands are firmly placed on the floor to maximize the stretch in your shoulders.\n2. Avoid lifting your shoulders towards your ears; keep them relaxed and down to deepen the stretch.\n3. Perform the stretch on a stable, non-slip surface to ensure safety and prevent slipping.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "seated_shoulder_press_barbell",
+  "name": "Seated shoulder press barbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with a backrest, feet flat on the floor. Hold a barbell with an overhand grip (palms facing forward), hands placed slightly wider than shoulder-width apart. Rest the barbell on your upper chest.\n2. Press the barbell overhead by extending your elbows, keeping your back firmly against the backrest.\n3. Fully extend your arms at the top of the movement, ensuring the barbell is directly above your head.\n4. Lower the barbell back down to your upper chest with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your wrists straight and aligned with your forearms to avoid strain.\n2. Avoid locking your elbows at the top of the movement to protect your joints.\n3. Exhale as you press the barbell up and inhale as you lower it down.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ }
+]

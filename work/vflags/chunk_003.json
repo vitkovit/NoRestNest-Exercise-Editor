@@ -1,0 +1,22 @@
+[
+ {
+  "id": "alternating_lunge_with_rotation",
+  "change": "Secondary: changed shoulders latin from 'Posterior Deltoid' to 'Anterior Deltoids' (the arm reaches overhead/to ceiling, which is shoulder flexion driven by anterior, not posterior, deltoid). Replaced the Abductor secondary with abs (torso flexion/anti-extension during the reach is a more meaningful core contribution than hip abductors). Quads/glutes/obliques primary and Hamstrings secondary confirmed correct."
+ },
+ {
+  "id": "alternating_oblique_sit_ups",
+  "change": "No muscle change. Confirmed twisting sit-up: obliques + rectus abdominis primary, hip flexors (Abductor) secondary. Format valid."
+ },
+ {
+  "id": "alternating_plank_lunge",
+  "change": "No change. Quads + abs primary (plank anti-extension + lunge), glutes/Abductor/Anterior Deltoids secondary (shoulders support bodyweight in plank) confirmed. Format valid."
+ },
+ {
+  "id": "alternating_toe_tap",
+  "change": "Added oblique (External + Internal Obliques) to secondary: this is an opposite-arm-to-opposite-leg (cross-body) toe touch, so the cross-body reach recruits the obliques in rotation. Kept abs + Abductor (hip flexion) primary and Quads (straight-leg) secondary."
+ },
+ {
+  "id": "archer_pull_up",
+  "change": "No change. Unilateral pull: Latissimus Dorsi + Biceps Brachii primary; Rhomboids/Lower Traps, Posterior Deltoid, Rotator Cuff, and Wrist Flexors (grip) secondary all confirmed appropriate. Format valid."
+ }
+]

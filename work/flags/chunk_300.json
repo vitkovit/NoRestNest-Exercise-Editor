@@ -1,0 +1,5 @@
+[
+ {"id": "lying_neck_extension", "issue": "Posterior neck extensors (splenius/semispinalis) only map to coarse 'neck' bucket; upper traps added as secondary. Name suffix '_Female' in source but sheet is malefemale pair."},
+ {"id": "lying_neck_curls", "issue": "Anterior neck flexors (sternocleidomastoid/scalenes) only map to coarse 'neck' bucket; no finer term available."},
+ {"id": "alternating_biceps_hammer_curl_resistance_band", "issue": "Brachialis and brachioradialis (key hammer-curl movers) have no allowed latin term; approximated via biceps primary and forearms (Wrist Flexors/Extensors) secondary."}
+]

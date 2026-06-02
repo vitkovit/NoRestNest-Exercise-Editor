@@ -1,0 +1,97 @@
+[
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_lunge_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing the ski ergometer with feet about 30 cm apart, holding both handles with arms overhead.\n2. Step your right foot back into a reverse lunge, lowering until the right knee nears the floor and the left thigh is parallel to the floor.\n3. As you descend, pull both handles down to your hips, driving with your back and triceps.\n4. Push through the left heel to stand, bringing the right foot forward and returning your arms overhead under control.\n5. Alternate legs each rep. Repeat.",
+  "tips": "1. Keep the front knee tracking over the toes and do not let it cave inward.\n2. Drive the pull from your lats and core, not just the arms.\n3. Exhale as you pull and lunge down, inhale as you return.\n4. Keep the torso upright and core braced throughout.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_triceps_extension_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your back to the ski ergometer, right foot a step forward and left foot back for support.\n2. Hold both handles with palms facing each other and upper arms parallel to the floor.\n3. Pull the handles forward by extending your elbows, keeping the upper arms still.\n4. Extend until the arms are straight in front of you, engaging the triceps.\n5. Return slowly to the bent-elbow start under control. Repeat.",
+  "tips": "1. Keep the upper arms stationary so the triceps do the work.\n2. Brace your core to keep the torso stable in the staggered stance.\n3. Exhale as you extend, inhale as you return.\n4. Control the return rather than letting the resistance snap back.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_squat_pull_half_circles",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing the ski ergometer with feet about shoulder-width apart, holding both handles.\n2. Pull the handles down with elbows bent to 90 degrees until the elbows reach your sides, while lowering into a squat and pushing the hips back.\n3. Keep the chest up and knees tracking over the toes at the bottom.\n4. Return the handles in a half-circle arc as you stand back up from the squat.\n5. Repeat.",
+  "tips": "1. Sync the arm pull with the squat so legs and back share the load.\n2. Keep the core braced and back flat during the squat.\n3. Breathe steadily and rhythmically with each cycle.\n4. Push through your heels to stand.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_squat_wide_lat_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing the ski ergometer with feet about shoulder-width apart, holding both handles, core braced.\n2. Pull the handles down in a wide arc while lowering into a squat, bending the knees and pushing the hips back.\n3. Continue pulling until the handles reach hip level and you are at the bottom of the squat.\n4. Return the arms to the start under control as you stand back up.\n5. Repeat.",
+  "tips": "1. Use the wide arc to engage the lats and rear delts strongly.\n2. Keep shoulders down and relaxed, not shrugged up.\n3. Drive evenly through arms and legs to share the effort.\n4. Push through your heels to stand from the squat.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_triceps_extension_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing the ski ergometer with feet about 30 cm apart, holding both handles with palms facing each other.\n2. Start with arms bent at 90 degrees and elbows pointing down at your sides.\n3. Pull the handles down toward your hips by extending the elbows, keeping the upper arms still.\n4. Extend until the arms are straight, engaging the triceps.\n5. Return slowly to the bent-elbow start under control. Repeat.",
+  "tips": "1. Keep the upper arms close to your body to isolate the triceps.\n2. Maintain a steady pace for consistent tension.\n3. Exhale as you extend, inhale as you return.\n4. Brace the core to keep the torso upright.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ }
+]

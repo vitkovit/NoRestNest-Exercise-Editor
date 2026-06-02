@@ -1,0 +1,6 @@
+[
+ {"id": "standing_gastrocnemius_stretch", "issue": "Stretch exercise, no concentric prime mover. Listed the stretched muscle (gastrocnemius) as primary; soleus is minimally involved with knee straight."},
+ {"id": "standing_hamstring_calf_stretch_with_resistance_band", "issue": "Stretch exercise; listed stretched muscles. Quadratus lumborum/erector also lightly involved on torso hinge but glutes chosen as more relevant secondary."},
+ {"id": "standing_lat_cable_pull_over", "issue": "Sources also mention teres major and pectoralis major; no allowed latin for teres major (Lats bucket only allows Latissimus Dorsi/Rotator Cuff) so omitted."},
+ {"id": "standing_lateral_stretch", "issue": "Stretch exercise; primary worked muscles are quadratus lumborum and intercostals which have no allowed bucket. Mapped to obliques (primary) and lats (secondary) as closest allowed values."}
+]

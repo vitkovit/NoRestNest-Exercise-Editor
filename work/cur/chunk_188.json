@@ -1,0 +1,153 @@
+[
+ {
+  "id": "machine_fly",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the chest fly machine with your back flat against the pad and feet flat on the floor.\n2. Grasp the handles with a slight bend in your elbows, arms out to the sides at chest level.\n3. Bring the handles together in front of your chest by squeezing your chest muscles.\n4. Hold the contraction briefly at the center.\n5. Return the handles to the sides under control until you feel a stretch.\n6. Repeat.",
+  "tips": "1. Keep your back against the pad and the elbow angle fixed throughout.\n2. Lead the movement with your chest, not your hands.\n3. Exhale as you bring the handles together, inhale as you open.\n4. Control the return; do not let the weight pull your arms back fast.",
+  "name": "Machine fly",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "machine_lateral_raise",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Adjust the seat so the pads rest against the outside of your upper arms.\n2. Sit with your back against the pad and feet flat on the floor.\n3. Grasp the handles with your elbows bent.\n4. Raise your arms out to the sides until they reach shoulder height.\n5. Lower your arms back to the starting position under control.\n6. Repeat.",
+  "tips": "1. Stop at shoulder height; raising higher shifts work to the traps.\n2. Lead with your elbows, not your hands.\n3. Exhale as you raise, inhale as you lower.\n4. Use a moderate weight and avoid jerking the arms up.",
+  "name": "Machine lateral raise",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "middle_back_rotation_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with your feet shoulder-width apart and hands on your hips.\n2. Slowly rotate your torso to the right while keeping your hips facing forward.\n3. Twist as far as is comfortable and feel the stretch through your trunk.\n4. Return to the center.\n5. Rotate your torso to the left in the same way.\n6. Repeat.",
+  "tips": "1. Keep your hips square to the front so the rotation comes from your trunk.\n2. Move slowly and do not force the twist past a comfortable range.\n3. Keep your core lightly braced to protect your lower back.\n4. Stand on a stable, non-slip surface.",
+  "name": "Middle back rotation stretch",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "middle_crunches",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with your legs extended and arms straight by your sides, palms down.\n2. Contract your abs and lift your upper back off the floor.\n3. At the same time raise your straight legs toward the ceiling and reach your arms toward your feet.\n4. Pause just before your hands and feet meet.\n5. Lower your upper back, legs, and arms back down under control.\n6. Repeat.",
+  "tips": "1. Move with your abs, not by swinging your legs with momentum.\n2. Keep your legs as straight as you can for stronger ab engagement.\n3. Exhale as you fold up, inhale as you lower.\n4. Lower with control rather than dropping back down.",
+  "name": "Middle crunches",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "military_press_bodyweight",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Bend your elbows and hold your hands at shoulder height, palms facing forward.\n3. Press your hands straight up until your arms are fully extended overhead.\n4. Squeeze your shoulders at the top.\n5. Lower your hands back to shoulder height with control.\n6. Repeat.",
+  "tips": "1. Exhale as you press up and inhale as you lower.\n2. Keep your core tight to protect your lower back.\n3. Keep your head and spine aligned, do not lean back.\n4. Press in a straight vertical path.",
+  "name": "Military press bodyweight",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

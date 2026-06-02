@@ -1,0 +1,5 @@
+[
+ {"id": "plate_car_driver", "issue": "No dedicated 'plate' or grip-tool equipment for this twist hold; used 'plate'. Transverse abdominis has no allowed value, approximated with abs/oblique."},
+ {"id": "low_rotational_med_ball_chops_quarter_squat,_rotating_med_ball_left_and_ride_across_core", "issue": "No 'medicine ball' equipment value; used 'other'. Categorized as Free Weights since med ball is a loaded implement, but Bodyweight could also apply."},
+ {"id": "rebounder_in_&_out_from_ground", "issue": "No 'rebounder'/'mini trampoline' equipment value; used 'other'. Ambiguous name (could be a floor agility drill rather than trampoline) but interpreted as rebounder jacks based on common usage."}
+]

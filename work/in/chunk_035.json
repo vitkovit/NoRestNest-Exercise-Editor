@@ -1,0 +1,96 @@
+[
+ {
+  "id": "bent_over_row_with_bar",
+  "name": "Bent-over Row with bar",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a bar with an underhand grip (palms facing up), hands placed shoulder-width apart. Bend your knees slightly and hinge forward at the hips until your torso is almost parallel to the floor.\n2. Let the bar hang directly in front of you with your arms fully extended. Pull the bar towards your abdomen by bending your elbows and squeezing your shoulder blades together.\n4. Slowly lower the bar back to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Squeeze your shoulder blades together at the top of the movement to maximize upper back engagement.\n2. Breathe steadily, exhaling as you pull the barbell up and inhaling as you lower it back down.\n3. Avoid using momentum or swinging your body to lift the barbell.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "bent_over_twist",
+  "name": "Bent over twist",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a straight bar behind your neck with both hands.\n2. Bend forward at the hips, keeping your back straight and your knees slightly bent, until your torso is parallel to the floor.\n3. Twist your torso to one side, bringing one end of the bar towards the ceiling.\n4. Return to the starting position and repeat the movement on the other side.",
+   "tips": "1. Keep your spine neutral to avoid unnecessary strain on your back.\n2. Focus on rotating your torso, not just your arms, to ensure you're engaging your obliques effectively.\n3. Maintain even breathing throughout the exercise to help stabilize your core and keep movements fluid.",
+   "primary": [
+    "Obliques",
+    "Lower Back"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "bicep_curl_low_cable_machine_normal_grip",
+  "name": "Bicep curl low cable machine normal grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, facing a low cable crossover machine. Hold the handle attached to the low pulley with an underhand grip (palms facing up), hands at shoulder-width apart, arms fully extended and elbows close to your body.\n2. Curl the handle upwards towards your shoulders by bending your elbows, keeping your upper arms stationary.\n3. Slowly lower the handle back to the starting position, fully extending your arms.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Maintain an upright posture and avoid leaning back during the curl.\n2. Focus on squeezing your biceps at the top of the movement to enhance muscle activation.\n3. Perform the exercise slowly and with control to maximize muscle activation and reduce the risk of injury.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "biceps_curl_cable",
+  "name": "Biceps curl cable",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, facing a low cable pulley. Hold the handle attached to the low pulley with an underhand grip (palms facing up), hands at shoulder-width apart, arms fully extended and elbows close to your body.\n2. Curl the handle upwards towards your shoulders by bending your elbows, keeping your upper arms stationary.\n3. Slowly lower the handle back to the starting position, fully extending your arms.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Maintain an upright posture and avoid leaning back during the curl.\n2. Focus on squeezing your biceps at the top of the movement to enhance muscle activation.\n3. Perform the exercise slowly and with control to maximize muscle activation and reduce the risk of injury.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "biceps_curl_cable_wide_grip",
+  "name": "Biceps curl cable wide grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, facing a low cable pulley. Hold the handle attached to the low pulley with an underhand grip (palms facing up), hands just wider than shoulder-width apart, arms fully extended and elbows close to your body.\n2. Curl the handle upwards towards your shoulders by bending your elbows, keeping your upper arms stationary.\n3. Slowly lower the handle back to the starting position, fully extending your arms.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Maintain an upright posture and avoid leaning back during the curl.\n2. Focus on squeezing your biceps at the top of the movement to enhance muscle activation.\n3. Perform the exercise slowly and with control to maximize muscle activation and reduce the risk of injury.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

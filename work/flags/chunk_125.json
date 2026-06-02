@@ -1,0 +1,5 @@
+[
+ {"id": "dumbbell_preacher_curl_turned_torso", "issue": "Brachialis is a major mover in preacher curls but has no allowed latin value (vocabulary biceps bucket only allows Biceps Brachii); omitted. Brachioradialis activation captured under forearms->Wrist Flexors."},
+ {"id": "dumbbell_pronate_grip_triceps_extension", "issue": "Pronated grip slightly raises forearm/wrist-extensor stabilization; classed as secondary forearms. Triceps Brachii is the only allowed latin so lateral/long/medial head distinction cannot be represented."},
+ {"id": "dumbbell_prone_incline_hammer_curl", "issue": "Neutral grip emphasizes brachialis and brachioradialis (forearms), which have no allowed latin beyond Wrist Flexors/Wrist Extensors; brachialis omitted. Forearms placed as co-primary due to neutral-grip emphasis."}
+]

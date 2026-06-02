@@ -1,0 +1,83 @@
+[
+ {
+  "id": "dumbbell_suitcase_crunch",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back holding a dumbbell with both hands, arms extended overhead and legs straight.\n2. Brace your core and draw your navel toward your spine.\n3. Exhale and curl your torso up while bending your knees toward your chest.\n4. Bring the dumbbell toward your shins so your body folds like a suitcase.\n5. Lower under control until your shoulders and feet nearly touch the floor.\n6. Repeat.",
+  "tips": "1. Move with control rather than swinging the legs up.\n2. Keep the dumbbell tracking over your knees, not flaring out.\n3. Exhale forcefully at the top to fully contract the abs.\n4. Keep your lower back lightly anchored to protect the spine.",
+  "primary": [
+   {"group":"abs","latins":["Upper Rectus Abdominis","LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group":"oblique","latins":["External Obliques","Internal Obliques"]},
+   {"group":"Quads","latins":["Rectus Femoris"]}
+  ]
+ },
+ {
+  "id": "dumbbell_swing",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet slightly wider than shoulder-width, holding one dumbbell with both hands.\n2. Hinge at the hips, pushing them back and letting the dumbbell swing between your legs.\n3. Keep your back flat, shins near vertical and core braced.\n4. Snap your hips forward and squeeze your glutes to drive the dumbbell up to chest height.\n5. Let the dumbbell fall back and hinge again as it passes between your legs.\n6. Repeat.",
+  "tips": "1. Drive the movement with your hips, not your arms.\n2. Hinge at the hips instead of squatting down.\n3. Keep your back flat throughout to protect the spine.\n4. Brace your core hard on every repetition.",
+  "primary": [
+   {"group":"glutes","latins":["Gluteus Maximus"]},
+   {"group":"Hamstrings","latins":["Biceps Femoris","Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group":"Lower Back","latins":["Erector Spinae"]},
+   {"group":"shoulders","latins":["Anterior Deltoids"]},
+   {"group":"Lats","latins":["Latissimus Dorsi"]},
+   {"group":"forearms","latins":["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "eagle_arms_chin_into_chest",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit or stand tall with your spine straight and shoulders relaxed.\n2. Extend both arms forward at shoulder height and cross one over the other.\n3. Bend your elbows and bring the backs of your hands or palms together.\n4. Lift your elbows and press your forearms forward to spread the shoulder blades.\n5. Tuck your chin toward your chest and hold, breathing steadily.\n6. Release, switch the arm cross, and repeat.",
+  "tips": "1. Keep your elbows lifted to shoulder height for a deeper stretch.\n2. Ease off if you feel pain in the upper back or arms.\n3. Keep breathing steadily rather than holding your breath.\n4. Round the upper back slightly to widen the stretch between the shoulder blades.",
+  "primary": [
+   {"group":"mid back","latins":["Rhomboids","Lower Traps"]}
+  ],
+  "secondary": [
+   {"group":"neck","latins":["neck"]}
+  ]
+ },
+ {
+  "id": "easy_seated_twist_pose",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit cross-legged with your spine tall and both sit bones grounded.\n2. Inhale and lengthen through the crown of your head.\n3. Exhale and rotate your torso to one side, placing one hand behind you and the other on the opposite knee.\n4. Turn from the mid-back, letting the gaze follow last.\n5. Hold and breathe, then return to center.\n6. Repeat on the other side.",
+  "tips": "1. Initiate the twist from the thoracic spine, not the neck.\n2. Keep both sit bones grounded to stay stable.\n3. Lengthen the spine on each inhale before deepening the twist.\n4. Twist only as far as feels comfortable without forcing.",
+  "primary": [
+   {"group":"oblique","latins":["External Obliques","Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group":"Lower Back","latins":["Erector Spinae"]},
+   {"group":"Lats","latins":["Latissimus Dorsi"]}
+  ]
+ },
+ {
+  "id": "elevated_pike_shoulder_shrug",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your feet on a raised surface and your hands on the floor in a pike position.\n2. Keep your hips high and arms straight so your torso is near vertical.\n3. Let your shoulders sink toward your ears by relaxing the shoulder girdle.\n4. Push the floor away and shrug your shoulders up toward your hips.\n5. Lower under control back to the sunken position.\n6. Repeat.",
+  "tips": "1. Keep your arms straight throughout the movement.\n2. Drive the motion through the shoulder blades, not the elbows.\n3. Keep your hips high to load the shoulders effectively.\n4. Move slowly to control the scapular elevation.",
+  "primary": [
+   {"group":"mid back","latins":["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group":"shoulders","latins":["Anterior Deltoids"]}
+  ]
+ }
+]

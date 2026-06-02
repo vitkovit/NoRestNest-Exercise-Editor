@@ -1,0 +1,222 @@
+[
+ {
+  "id": "alternate_sprinter_lunge",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet hip-width apart.\n2. Step your right leg back into a lunge, bending both knees while reaching your hands toward your left foot.\n3. Push off your right foot to return to standing.\n4. Step your left leg back into a lunge, reaching your hands toward your right foot.\n5. Return to standing and alternate sides.\n6. Repeat.",
+  "tips": "1. Keep your front shin near vertical and weight on the front heel.\n2. Brace your core to stay balanced.\n3. Move with control rather than rushing.\n4. Drive through the front foot to stand up.",
+  "name": "Alternate sprinter lunge",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "alternate_toe_tap_leg_lift",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with your knees bent and feet on the floor.\n2. Prop your upper body up on your elbows.\n3. Raise your right knee toward your chest, keeping the knee bent.\n4. Lower your right foot to tap the floor as you raise your left knee toward your chest.\n5. Keep alternating knees in a steady rhythm.\n6. Repeat.",
+  "tips": "1. Keep your core braced to protect your lower back.\n2. Move with control and tap the floor lightly.\n3. Keep the bend in your knees consistent.\n4. Exhale as each knee rises.",
+  "name": "Alternate toe tap leg lift",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "LowerRectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "alternating_biceps_curl_seated_dumbbells",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with your feet flat on the floor, a dumbbell in each hand, arms extended at your sides, palms facing forward.\n2. Keep your elbows close to your torso and curl the right dumbbell up toward your shoulder.\n3. Squeeze the bicep at the top, then lower the dumbbell with control.\n4. Curl the left dumbbell up the same way.\n5. Lower with control and alternate arms.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and let only the forearms move.\n2. Work both arms evenly to avoid imbalances.\n3. Control the lowering phase, do not drop the weight.\n4. Use a weight you can curl without swinging your torso.",
+  "name": "Alternating biceps curl seated dumbbells",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "alternating_hamstring_curl_with_punch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart, arms bent with fists at your chest.\n2. Curl your right heel toward your glutes while punching forward with your left arm.\n3. Lower your right leg and return your left arm to your chest.\n4. Curl your left heel toward your glutes while punching forward with your right arm.\n5. Return to the start and alternate sides.\n6. Repeat.",
+  "tips": "1. Squeeze the hamstring as you curl the heel up.\n2. Keep a steady rhythm so both sides work evenly.\n3. Stay tall and brace your core to protect your back.\n4. Snap each punch out and return the hand quickly.",
+  "name": "Alternating hamstring curl with punch",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "alternating_leg_downward_dog",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a downward dog position with hands and feet on the mat and hips lifted into an inverted V.\n2. Press the floor away to keep the shoulders strong and the spine long.\n3. Draw the right knee toward the chest while balancing on both hands and the left foot.\n4. Extend the right leg back to the start.\n5. Draw the left knee toward the chest, then return.\n6. Repeat.",
+  "tips": "1. Keep the core braced to hold the hips stable.\n2. Keep the hips square to the mat and avoid twisting.\n3. Move slowly and with control.\n4. Press evenly through both hands to protect the shoulders.",
+  "name": "Alternating leg downward dog",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

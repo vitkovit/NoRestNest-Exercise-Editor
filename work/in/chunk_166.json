@@ -1,0 +1,98 @@
+[
+ {
+  "id": "incline_dumbbell_curl",
+  "name": "Incline dumbbell curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Set an adjustable bench to a 45-degree incline and sit back against it with your feet flat on the floor. Hold a dumbbell in each hand with your arms fully extended down by your sides, palms facing forward (supinated grip).\n2. Engage your core and keep your elbows close to your torso. Slowly curl both dumbbells up towards your shoulders simultaneously, maintaining the supinated grip with your palms facing upward.\n3. Squeeze your biceps at the top of the movement, then slowly lower the dumbbells back to the starting position with control.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on a full range of motion, ensuring you fully extend your arms at the bottom of each curl.\n2. Maintain a slight bend in your elbows at the start to avoid locking them out.\n3. Keep your upper arms stationary and close to your torso to isolate the biceps effectively.",
+   "primary": [
+    "Biceps",
+    "Brachialis"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "incline_lateral_raises_dumbbell",
+  "name": "Incline lateral raises dumbbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Adjust an incline bench to a 45-degree angle and lie chest-first against it, with your feet firmly planted on the floor for stability.\n2. Hold a dumbbell in each hand with a neutral grip (palms facing each other), allowing the dumbbells to hang down towards the floor in line with your shoulders.\n3. Keeping your arms slightly bent at the elbows, raise the dumbbells up and out to the sides until they reach shoulder height.\n4. Lower the dumbbells back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain a slight bend in your elbows throughout the movement to reduce joint strain.\n2. Keep your body stabilized against the bench to isolate your shoulder muscles.\n3. Use a slow and controlled motion to maximize muscle engagement.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "incline_push_up_on_box",
+  "name": "Incline Push-Up (on box)",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing a sturdy box and place your hands on top, close to the edge, slightly wider than shoulder-width apart. Step your feet back to extend your legs behind you, forming a straight line from your head to your heels.\n2. Engage your core and keep your body straight. Lower your chest towards the box by bending your elbows, keeping them at a 45-degree angle to your body.\n3. Lower yourself until your chest is close to the box, then push through your hands to extend your arms and return to the starting position. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you push up and inhale as you lower yourself down.\n2. Use a sturdy box or bench that can support your weight without moving.\n3. Keep your core engaged to maintain a straight body line and avoid sagging your hips.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "incline_push_ups_on_chair",
+  "name": "Incline push ups on chair",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing a chair and place your hands on top, close to the edge, slightly wider than shoulder-width apart. Step your feet back to extend your legs behind you, forming a straight line from your head to your heels.\n2. Engage your core and keep your body straight. Lower your chest towards the chair by bending your elbows, keeping them at a 45-degree angle to your body.\n3. Lower yourself until your chest is close to the chair, then push through your hands to extend your arms and return to the starting position. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you push up and inhale as you lower yourself down.\n2. Use a chair that can support your weight without moving.\n3. Keep your core engaged to maintain a straight body line and avoid sagging your hips.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "intermediate_hip_flexor_and_quad_stretch",
+  "name": "Intermediate hip flexor and quad stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your stomach with your legs extended and your arms at your sides. Position an elastic cable around your right ankle.\n2. Bend your right knee to bring your foot towards your glutes, holding the elastic cable in your both hands.\n3. Gently pull on the cable to bring your foot closer to your glutes, feeling the stretch in your quadriceps. Hold this position for a moment.\n4. Extend your right leg lightly backwards, allowing the cable to provide resistance and deepen the stretch in your hip flexor and quadriceps. Repeat the movement for the desired number of repetitions, then switch to the left leg.",
+   "tips": "1. Focus on deep, steady breathing, inhaling as you extend your leg and exhaling as you pull your foot towards your glutes.\n2. If you find it difficult to reach the cable, use a longer strap or adjust the tension to ensure a comfortable stretch.\n3. Ensure your head and neck remain in a neutral position, looking down towards the floor to avoid strain.\n4. Perform the stretch on a comfortable surface, such as a yoga mat, to prevent discomfort or injury.",
+   "primary": [
+    "Quadriceps",
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ }
+]

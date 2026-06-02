@@ -1,0 +1,178 @@
+[
+ {
+  "id": "dumbbell_standing_one_arm_curl_over_incline_bench",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Set an incline bench to about 45 degrees and stand behind it.\n2. Drape your right upper arm over the top of the incline pad, holding a dumbbell with an underhand grip and arm extended.\n3. Keep the upper arm fixed against the pad and curl the dumbbell up toward your shoulder.\n4. Squeeze your biceps at the top.\n5. Lower the dumbbell under control until your arm is fully extended.\n6. Repeat, then switch to the left arm.",
+  "tips": "1. Keep the upper arm pinned to the pad to isolate the biceps.\n2. Do not swing the dumbbell; move only at the elbow.\n3. Exhale as you curl, inhale as you lower.\n4. Use the same reps on both arms to balance strength.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_standing_one_arm_extension",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in your right hand.\n2. Press the dumbbell overhead until the arm is fully extended, palm facing forward.\n3. Keep the upper arm close to your head and stationary.\n4. Lower the dumbbell behind your head by bending the elbow.\n5. Extend the arm back to the top.\n6. Repeat, then switch to the left arm.",
+  "tips": "1. Keep the upper arm vertical and still; move only at the elbow.\n2. Brace your core to stay upright.\n3. Exhale as you extend, inhale as you lower.\n4. Control the descent to protect the elbow.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_standing_overhead_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a dumbbell in each hand at shoulder height, palms facing forward.\n2. Brace your core and keep your back straight.\n3. Press both dumbbells overhead until your arms are fully extended.\n4. Lower the dumbbells back to shoulder height under control.\n5. Repeat.",
+  "tips": "1. Keep your core tight to avoid arching your lower back.\n2. Keep wrists straight and stacked over the elbows.\n3. Exhale as you press up, inhale as you lower.\n4. Press in a straight vertical path.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_standing_palms_in_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a dumbbell in each hand at head height, palms facing each other.\n2. Brace your core and keep your back straight.\n3. Press both dumbbells overhead until your arms are fully extended.\n4. Lower the dumbbells back to head height under control.\n5. Repeat.",
+  "tips": "1. Keep your core tight to avoid arching your lower back.\n2. The neutral grip is easier on the shoulders; keep wrists straight.\n3. Exhale as you press up, inhale as you lower.\n4. Move under control to protect the shoulders.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dumbbell_standing_preacher_curl",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand behind a preacher bench, holding a dumbbell in one hand with a supinated grip.\n2. Rest the back of your upper arm flat on the angled pad.\n3. Start with the arm fully extended.\n4. Curl the dumbbell up toward your shoulder, keeping the arm pressed to the pad.\n5. Lower the dumbbell under control until the arm is fully extended.\n6. Repeat, then switch arms.",
+  "tips": "1. Keep the upper arm flat on the pad to isolate the biceps.\n2. Do not use momentum; move only at the elbow.\n3. Exhale as you curl, inhale as you lower.\n4. Control the bottom to protect the elbow.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ }
+]

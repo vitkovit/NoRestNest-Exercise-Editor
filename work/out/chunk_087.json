@@ -1,0 +1,79 @@
+[
+ {
+  "id": "crunch_on_bosu_ball",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on a BOSU ball with your feet flat on the floor and knees bent.\n2. Lean back so your lower back rests on the dome and your torso extends back over the ball.\n3. Place your hands behind your head with your elbows pointing out.\n4. Curl your shoulder blades up toward your knees by contracting your abs.\n5. Lower your torso back over the ball with control.\n6. Repeat.",
+  "tips": "1. Drive the movement with your abs, not by pulling on your neck.\n2. Use the full range the ball allows by stretching back at the bottom.\n3. Exhale as you curl up and inhale as you lower.\n4. Move slowly to keep tension on the abs.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "crunch_on_stability_ball",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on a stability ball with your feet flat on the floor and knees bent.\n2. Walk your feet forward and lean back until your lower and mid back rest on the ball.\n3. Place your hands behind your head with your elbows pointing out.\n4. Curl your shoulder blades up toward your knees by contracting your abs.\n5. Lower your torso back over the ball with control.\n6. Repeat.",
+  "tips": "1. Drive the movement with your abs, not by pulling on your neck.\n2. Stretch back over the ball at the bottom for a full range of motion.\n3. Exhale as you curl up and inhale as you lower.\n4. Keep your feet planted to stay balanced on the ball.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "crunch_straight_leg_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie flat on your back with your legs extended straight up toward the ceiling.\n2. Keep your feet together and reach your arms straight up over your chest.\n3. Curl your shoulder blades off the floor and reach your hands toward your toes.\n4. Squeeze your abs at the top for a brief moment.\n5. Lower your shoulder blades back to the floor with control.\n6. Repeat.",
+  "tips": "1. Lift with your abs, not by pulling on your neck or using momentum.\n2. Keep your legs pointing straight up throughout the set.\n3. Exhale as you curl up and inhale as you lower.\n4. Press your lower back into the floor to protect your spine.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "crunch_with_medicine_ball",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "other",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with your knees bent and feet flat on the floor, hip-width apart.\n2. Hold a medicine ball in both hands with your arms extended straight over your chest.\n3. Curl your upper back off the floor by contracting your abs.\n4. Press the ball toward the ceiling and squeeze your abs at the top.\n5. Lower your upper body back to the floor with control.\n6. Repeat.",
+  "tips": "1. Lift with your abs, not by pulling your head forward.\n2. Keep your feet flat and your knee angle steady.\n3. Move slowly to keep tension on the abs.\n4. Pick a ball weight that lets you keep good form.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "curtsy_lunge_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet hip-width apart and your hands on your hips.\n2. Step your right leg behind and across your left leg.\n3. Bend both knees to lower into a curtsy, keeping your front knee over your ankle.\n4. Push through your front heel to return to standing.\n5. Repeat on the other side, alternating legs.\n6. Repeat.",
+  "tips": "1. Keep your torso upright to hold your balance.\n2. Keep your front knee tracking over your foot, not collapsing inward.\n3. Push through the front heel to drive the glutes.\n4. Control the descent instead of dropping down.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ]
+ }
+]

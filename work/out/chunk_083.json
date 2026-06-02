@@ -1,0 +1,89 @@
+[
+ {
+  "id": "cossack_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet much wider than shoulder-width and your toes pointing slightly out.\n2. Shift your weight onto your right leg and bend the right knee, keeping the left leg straight with the toes up.\n3. Lower your hips toward your right heel while keeping your chest tall and the right knee tracking over the toes.\n4. Push through the right heel to return to the wide standing position.\n5. Shift to the left leg and repeat the movement on that side.\n6. Repeat.",
+  "tips": "1. Keep your chest up and back flat the whole time.\n2. Sit back into the hip rather than letting the knee collapse inward.\n3. Control the descent to load the inner thigh of the straight leg.\n4. Exhale as you drive up, inhale as you lower.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ]
+ },
+ {
+  "id": "counterbalanced_skater_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand tall on your right foot and bend your left knee so the lower leg lifts behind you.\n2. Extend your arms forward to act as a counterbalance.\n3. Bend your right knee and hinge slightly forward, lowering until the back knee nears the floor.\n4. Keep the right knee tracking over the toes and the pelvis level.\n5. Drive through the right foot to return to standing, then switch sides.\n6. Repeat.",
+  "tips": "1. Use the forward arm reach to stay balanced and upright.\n2. Keep the working knee tracking in line with the toes.\n3. Lower under control instead of dropping into the bottom.\n4. Exhale as you stand up, inhale as you descend.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "crab_pose",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor with your knees bent and feet flat, about hip-width apart.\n2. Place your hands behind you with the fingers pointing toward your body.\n3. Press through your palms and feet to lift your hips until your torso is parallel to the floor.\n4. Keep your head in line with your spine and squeeze your glutes at the top.\n5. Hold the position, then lower your hips back down.\n6. Repeat.",
+  "tips": "1. Drive your hips up by squeezing the glutes hard.\n2. Keep the shoulders pulled down away from the ears.\n3. Distribute weight evenly between hands and feet.\n4. Breathe steadily while holding the position.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "crab_twist_toe_touch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the floor with knees bent, feet flat, and hands behind you with fingers pointing toward your body.\n2. Press through your palms and feet to lift your hips into a tabletop position.\n3. Lift your right hand and left foot off the floor at the same time.\n4. Twist your torso and reach your right hand toward your left foot.\n5. Return the hand and foot to the floor, then repeat on the opposite side.\n6. Repeat.",
+  "tips": "1. Drive the rotation from your trunk, not just your arm.\n2. Keep the hips lifted as you twist.\n3. Move under control to keep your balance.\n4. Exhale as you reach across, inhale as you return.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "crescent_moon_pose_quad_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel on the floor and step your right foot forward into a low lunge.\n2. Keep the right knee stacked over the ankle and the left knee resting on the floor.\n3. Sink your hips forward and down to stretch the front of the left hip and thigh.\n4. Lengthen your spine and keep your chest tall.\n5. Hold the stretch, then switch legs.\n6. Repeat.",
+  "tips": "1. Tuck the pelvis slightly to deepen the hip flexor stretch.\n2. Keep the front knee tracking over the foot, not past the toes.\n3. Avoid arching the lower back; stay tall through the spine.\n4. Breathe slowly and ease deeper on each exhale.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ]
+ }
+]

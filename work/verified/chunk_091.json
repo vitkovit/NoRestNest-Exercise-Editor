@@ -1,0 +1,168 @@
+[
+ {
+  "id": "dead_hang_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "timed",
+  "instructions": "1. Stand under a pull-up bar and reach up to grasp it with an overhand grip, hands shoulder-width apart.\n2. Lift your feet off the floor and let your body hang with arms fully extended.\n3. Relax your shoulders and keep your grip firm.\n4. Hold the position and breathe steadily.\n5. Repeat.",
+  "tips": "1. Keep your shoulders relaxed and do not shrug them toward your ears.\n2. Breathe deep and steady throughout the hold.\n3. Use a bar high enough that your feet clear the floor.\n4. Use chalk if your grip starts to slip.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi",
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "decline_bench_full_sit_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on a decline bench and secure your feet under the footpads.\n2. Place your hands behind your head with your elbows out to the sides.\n3. Engage your core and lift your upper body toward your knees.\n4. Lower your torso back down with control.\n5. Repeat.",
+  "tips": "1. Do not pull on your neck; lift with your abs.\n2. Move with control to keep tension on the abs.\n3. Exhale as you lift and inhale as you lower.\n4. Spread your knees slightly to reduce hip flexor takeover.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "decline_bench_oblique_crunches_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on a decline bench and secure your feet under the footpads, hips near the edge.\n2. Place your hands behind your head with your elbows out to the sides.\n3. Engage your core and lift your upper body toward your right knee, twisting your torso.\n4. Lower back down with control.\n5. Lift toward your left knee, alternating sides.\n6. Repeat.",
+  "tips": "1. Keep your core engaged to protect your lower back.\n2. Do not pull on your neck; lift with your abs and obliques.\n3. Twist fully at the top to load the obliques.\n4. Exhale as you crunch and inhale as you lower.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "decline_bench_oblique_crunches_dumbbells",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Secure your feet at the end of a decline bench and lie back with knees slightly bent.\n2. Hold a dumbbell in each hand close to your chest.\n3. Engage your core and lift your upper body, twisting your torso to the right.\n4. Squeeze your obliques at the top.\n5. Lower back down, then lift while twisting to the left, alternating sides.\n6. Repeat.",
+  "tips": "1. Exhale as you twist and crunch, inhale as you lower.\n2. Keep your lower back supported and core tight.\n3. Use a weight you can control with good form.\n4. Keep your feet anchored to stabilize your body.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "decline_bent_leg_reverse_crunch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on a decline bench with your head at the higher end and grip the side edges for stability.\n2. Bend your knees to 90 degrees with thighs perpendicular to the bench.\n3. Engage your core and lift your hips, curling your knees toward your chest.\n4. Lower your hips back down with control, keeping knees bent.\n5. Repeat.",
+  "tips": "1. Keep your core engaged to support your lower back.\n2. Lift with your abs, not momentum.\n3. Exhale as you curl your hips up and inhale as you lower.\n4. Keep the movement small and controlled to stay on the lower abs.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "LowerRectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ }
+]

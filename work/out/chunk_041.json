@@ -1,0 +1,89 @@
+[
+ {
+  "id": "bodyweight_knee_to_hand_tap",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and hands in front of your hips.\n2. Drive your right knee toward hip height while rotating your torso to tap it with your left hand.\n3. Lower the right foot and return your hands to the start.\n4. Drive your left knee up and tap it with your right hand.\n5. Repeat.",
+  "tips": "1. Keep your chest upright and avoid hunching forward.\n2. Rotate from the waist to engage both obliques.\n3. Stay balanced on the standing leg and move with control.\n4. Exhale as you lift each knee.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "bodyweight_kneeling_hold_to_stand",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel on the floor with both knees down and hands on your hips.\n2. Plant your right foot flat in front of you into a half-kneeling position.\n3. Push through the right foot to stand fully, bringing the left foot up to meet it.\n4. Lower back into the half-kneeling position, then return to kneeling.\n5. Repeat, leading with the other leg.\n6. Repeat.",
+  "tips": "1. Brace your core to stay balanced through each transition.\n2. Keep your back straight and chest up, do not lean forward.\n3. Drive your hips forward to stand, not just your knees.\n4. Move slowly under control.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "bodyweight_kneeling_push_up_row",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a kneeling push-up position with hands slightly wider than shoulder-width and knees on the floor.\n2. Bend your elbows to lower your chest toward the floor.\n3. Push back up to extend your arms.\n4. Lift your right hand and pull your elbow up toward the ceiling in a row, then lower it.\n5. Repeat the push-up and row, alternating the rowing arm.\n6. Repeat.",
+  "tips": "1. Brace your core so your hips do not sag or rotate.\n2. Keep your body in a straight line from knees to head.\n3. Pull your shoulder blade back during the row.\n4. Lower under control on each push-up.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "bodyweight_kneeling_sissy_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on the floor with knees down and torso upright.\n2. Keep your body straight from knees to head and lean back slowly.\n3. Lower as far as your control allows while keeping your hips extended.\n4. Contract your quads to pull yourself back to upright.\n5. Repeat.",
+  "tips": "1. Keep your hips and torso in one straight line throughout.\n2. Brace your core to protect your lower back.\n3. Lower slowly to keep tension on the quads.\n4. Only descend as far as you can control.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ]
+ },
+ {
+  "id": "bodyweight_kneeling_triceps_extension",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on the floor and place your hands on the floor in front of you, close together, then lean forward.\n2. Bend your elbows to lower your forearms and head toward the floor.\n3. Keep your upper arms still as your elbows bend.\n4. Push through your hands to extend your arms and straighten your elbows.\n5. Repeat.",
+  "tips": "1. Keep your elbows tucked close to target the triceps.\n2. Move only at the elbows, keep the upper arms fixed.\n3. Brace your core to keep your body in a straight line.\n4. Lower under control and avoid jerking.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Clavicular Head", "Sternal Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ }
+]

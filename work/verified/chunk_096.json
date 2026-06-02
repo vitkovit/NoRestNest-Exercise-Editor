@@ -1,0 +1,151 @@
+[
+ {
+  "id": "dips_between_chairs",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place two sturdy chairs parallel, slightly wider than shoulder-width, with the backs facing each other.\n2. Stand between them and grip the top of each chair back.\n3. Lift your body off the floor by straightening your arms.\n4. Keep your torso upright and lower by bending your elbows to about 90 degrees.\n5. Press through your hands to push back up to full arm extension.\n6. Repeat.",
+  "tips": "1. Check that both chairs are stable and will not slide or tip.\n2. Keep your torso upright to keep tension on the triceps.\n3. Lower under control and avoid dropping into the bottom.\n4. Breathe out as you press up.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "donkey_calf_raise",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your forefeet on the edge of a step with your heels hanging off.\n2. Bend at the hips and hold a bench in front of you, keeping your back flat and legs straight.\n3. Press through your forefeet to raise your heels as high as possible.\n4. Squeeze your calves at the top.\n5. Lower your heels below the step until you feel a full stretch.\n6. Repeat.",
+  "tips": "1. Keep your legs straight to bias the gastrocnemius.\n2. Move through a full range, raising high and stretching low.\n3. Use a slow, controlled tempo.\n4. Keep your back flat and avoid rounding your shoulders.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "donkey_kicks_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start on all fours with hands under your shoulders and knees under your hips.\n2. Keep your back flat and your neck neutral.\n3. Keeping the knee bent at 90 degrees, drive your right heel up toward the ceiling.\n4. Lift until your thigh is in line with your torso.\n5. Lower under control without touching the knee to the floor, then switch sides.\n6. Repeat.",
+  "tips": "1. Drive the movement with your glute, not momentum.\n2. Keep your hips square and avoid arching your lower back.\n3. Squeeze the glute hard at the top.\n4. Keep your gaze down to protect your neck.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "doorway_biceps_curl",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand in a doorway and grip both sides of the frame at about hip height.\n2. Step one foot forward and lean back to load your arms.\n3. Curl your elbows to pull your body toward the frame.\n4. Keep your elbows close to your sides.\n5. Lower under control until your arms are straight.\n6. Repeat.",
+  "tips": "1. Keep your body in a straight line and avoid swinging.\n2. Pull with your biceps, not your shoulders.\n3. Step further forward to increase resistance.\n4. Keep a firm grip to protect your wrists.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "double_jump_squat",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart and hands in front of your chest.\n2. Lower into a squat, keeping your chest up and weight in your heels.\n3. Stand back up, then immediately squat down again.\n4. Explode upward into a jump.\n5. Land softly with bent knees.\n6. Repeat.",
+  "tips": "1. Keep your chest up and back straight throughout.\n2. Land softly through the balls of your feet to absorb impact.\n3. Move fluidly between squats and jumps.\n4. Drive up explosively through your heels and forefeet.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,161 @@
+[
+ {
+  "id": "barbell_bicep_curl_close_grip",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand upright with feet shoulder-width apart, holding a barbell with a supinated grip narrower than shoulder-width.\n2. Keep your elbows tucked close to your torso and your core braced.\n3. Curl the barbell up toward your shoulders, keeping your elbows fixed in place.\n4. Squeeze your biceps at the top.\n5. Lower the barbell slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Move at a controlled pace and avoid swinging the bar with momentum.\n2. Keep your back straight and shoulders set throughout.\n3. The close grip emphasizes the long head, so focus on the squeeze.\n4. Exhale as you curl up, inhale as you lower.",
+  "name": "Barbell bicep curl close grip",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_bicep_curl_normal_grip",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand upright with feet shoulder-width apart, holding a barbell with a supinated grip about shoulder-width.\n2. Keep your elbows tucked close to your torso and your core braced.\n3. Curl the barbell up toward your shoulders, keeping your elbows fixed in place.\n4. Squeeze your biceps at the top.\n5. Lower the barbell slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Move at a controlled pace and avoid swinging the bar with momentum.\n2. Keep your back straight and shoulders set throughout.\n3. Keep your wrists neutral, not bent back.\n4. Exhale as you curl up, inhale as you lower.",
+  "name": "Barbell bicep curl normal grip",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_bicep_curl_wide_grip",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand upright with feet shoulder-width apart, holding a barbell with a supinated grip slightly wider than shoulder-width.\n2. Keep your elbows tucked close to your torso and your core braced.\n3. Curl the barbell up toward your shoulders, keeping your elbows fixed in place.\n4. Squeeze your biceps at the top.\n5. Lower the barbell slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Move at a controlled pace and avoid swinging the bar with momentum.\n2. Keep your back straight and shoulders set throughout.\n3. The wide grip emphasizes the short head for arm width.\n4. Exhale as you curl up, inhale as you lower.",
+  "name": "Barbell bicep curl wide grip",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_biceps_curl",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand upright with feet shoulder-width apart, holding a barbell with a supinated grip about shoulder-width.\n2. Keep your elbows tucked close to your torso and your core braced.\n3. Curl the barbell up toward your shoulders, keeping your elbows fixed in place.\n4. Squeeze your biceps at the top.\n5. Lower the barbell slowly until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Move at a controlled pace and avoid swinging the bar with momentum.\n2. Keep your back straight and shoulders set throughout.\n3. Keep your wrists neutral, not bent back.\n4. Exhale as you curl up, inhale as you lower.",
+  "name": "Barbell biceps curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_bulgarian_split_squat_left_front_back_view",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand about 60 cm in front of a bench with a barbell across your upper back, hands slightly wider than shoulder-width.\n2. Rest the top of your rear foot on the bench.\n3. Keep your chest up and spine neutral.\n4. Bend your front knee and lower until your back knee nearly touches the floor.\n5. Drive through your front heel to stand back up, fully extending the hip and knee.\n6. Repeat, then switch legs.",
+  "tips": "1. Keep your front knee tracking over your toes.\n2. Lower under control to keep tension on the working leg.\n3. Brace your core to resist trunk rotation on the single leg.\n4. Exhale as you push up, inhale as you lower.",
+  "name": "Barbell bulgarian split squat left front-back view",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

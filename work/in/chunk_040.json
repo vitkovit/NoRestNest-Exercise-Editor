@@ -1,0 +1,104 @@
+[
+ {
+  "id": "bodyweight_front_slam",
+  "name": "Bodyweight front slam",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and extend your hands overhead.\n2. Swing your arms down forcefully in front of your body, as if slamming a medicine ball to the floor, while simultaneously bending your knees into a squat position.\n3. Return to the starting position with hands extended overhead.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Engage your core to maintain stability and control throughout the exercise.\n2. Ensure your back stays straight and avoid rounding your spine when swinging your arms down.\n3. Perform the movement explosively but with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Core Muscles",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_front_raise",
+  "name": "bodyweight full squat with overhead front raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Start in a squat position with your feet shoulder-width apart, your torso leaning slightly forward, and both arms extended between your thighs.\n2. Begin to straighten your legs to rise into a standing position while simultaneously raising both arms straight overhead.\n3. Fully extend your legs and arms, standing tall with your arms overhead.\n4. Lower your body back into the squat position, bringing your arms back down between your thighs. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Maintain a neutral spine throughout the movement to protect your back and improve stability.\n2. Keep your knees aligned with your toes during the squat to avoid putting strain on your knees.\n3. Focus on a controlled descent back into the squat to ensure smooth and effective movement.",
+   "primary": [
+    "Quadriceps",
+    "Shoulders",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_front_raises",
+  "name": "Bodyweight full squat with overhead front raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your arms extended in close to your knees.\n2. Lower your body into a squat position until your thighs are parallel to the floor, while simultaneously raising your arms overhead.\n3. Stand back up to the starting position, lowering your arms back close to your knees.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Maintain a neutral spine and avoid rounding your back during the exercise to ensure proper form.\n2. Ensure your knees are aligned with your toes during the squat to prevent strain on your knees.\n3. Move at a controlled pace, especially when lifting and lowering your arms, to avoid unnecessary strain and enhance muscle engagement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_press",
+  "name": "Bodyweight full squat with overhead press",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Start in a squat position with your feet shoulder-width apart, your torso leaning slightly forward, and both hands just in front of your knees.\n2. Straighten your legs to rise into a standing position while simultaneously pressing your hands upwards until they are extended overhead.\n3. Fully extend your legs and arms, standing tall with your arms overhead.\n4. Lower your body back into the squat position, bringing your hands back down in front of your knees. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain a neutral spine throughout the movement to protect your back and improve stability.\n2. Keep your knees aligned with your toes during the squat to avoid putting strain on your knees.\n3. Focus on a controlled descent back into the squat to ensure smooth and effective movement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "bodyweight_knee_thrust",
+  "name": "Bodyweight knee thrust",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Start in a partial lunge position with your left foot forward and right foot back, hands in front of your hips.\n2. Thrust your right knee forward and up to hip level, bringing your hands to meet your knee.\n3. Return to the partial lunge position, lowering your right leg back to the starting position.\n4. Repeat the movement for the desired number of repetitions, then switch legs.",
+   "tips": "1. Maintain a steady breathing pattern to support balance and coordination during the movement.\n2. Keep your supporting leg slightly bent to absorb impact and provide stability.\n3. Focus on a powerful knee thrust while maintaining proper form and balance.",
+   "primary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Core Muscles"
+   ]
+  }
+ }
+]

@@ -1,0 +1,218 @@
+[
+ {
+  "id": "band_kneeling_single_arm_high_row",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor a resistance band above head height. Kneel on one knee with the other foot flat for balance.\n2. Hold the band with the same-side hand as the kneeling leg, arm fully extended toward the anchor.\n3. Pull the band down toward your torso by bending the elbow and driving it back.\n4. Squeeze your shoulder blade at the end of the pull.\n5. Slowly extend your arm to return to the start.\n6. Repeat, then switch sides.",
+  "tips": "1. Keep your torso upright and core braced to resist rotation.\n2. Lead the pull with your elbow, not your hand.\n3. Squeeze the shoulder blade at the end range.\n4. Avoid jerking; control both directions.",
+  "name": "Band Kneeling Single Arm High Row",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "band_leg_press",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor a resistance band at a low point. Lie on your back facing the anchor and loop the band around one foot.\n2. Bend that knee and pull it toward your chest against the band tension.\n3. Keep the other leg relaxed and extended on the floor.\n4. Press your foot forward and straighten the leg fully.\n5. Slowly bend the knee back to the start under control.\n6. Repeat, then switch legs.",
+  "tips": "1. Brace your core to keep your hips and torso still.\n2. Set up so the band has tension at the start.\n3. Press through the whole foot, not just the toes.\n4. Control the return rather than letting the band snap back.",
+  "name": "Band Leg Press",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "band_pull_up",
+  "category": "Bodyweight",
+  "equipment": "resistance_band",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Loop a resistance band securely around a pull-up bar. Place one or both feet in the bottom of the loop.\n2. Grip the bar slightly wider than shoulder-width with palms facing forward.\n3. Start in a dead hang with arms fully extended.\n4. Pull yourself up by driving your elbows down and back until your chin clears the bar.\n5. Lower yourself with control to a full hang.\n6. Repeat.",
+  "tips": "1. Pull with your back and arms, not momentum.\n2. Thicker bands give more assistance; pick one to match your strength.\n3. Squeeze your shoulder blades down and back as you rise.\n4. Exhale on the way up, inhale on the way down.",
+  "name": "Band Pull Up",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "band_pullthrough",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor a resistance band at a low point. Stand facing away with feet shoulder-width apart and the band passing between your legs, held in both hands in front.\n2. Keep your knees slightly bent and your spine neutral.\n3. Push your hips back and hinge forward, letting your hands travel between your legs.\n4. Drive your hips forward and squeeze your glutes to stand fully upright.\n5. Pause briefly with glutes contracted at the top.\n6. Repeat.",
+  "tips": "1. Hinge at the hips rather than squatting down.\n2. Keep your spine neutral and back flat throughout.\n3. Drive the movement with your glutes, not your arms.\n4. Keep a slight bend in the knees the whole time.",
+  "name": "Band Pullthrough",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "band_single_arm_overhead_press",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and anchor one end of the band under the foot on the working side.\n2. Hold the other end in your working hand at shoulder height, palm facing inward.\n3. Brace your core and press the hand straight overhead until the arm is fully extended.\n4. Lower the hand back to shoulder height under control.\n5. Finish all reps, switch sides, and repeat.",
+  "tips": "1. Keep your wrist straight and stacked over the elbow.\n2. Brace your core to resist leaning toward the working side.\n3. Exhale as you press up, inhale as you lower.\n4. Anchor the band firmly under your foot so it cannot slip.",
+  "name": "Band Single Arm Overhead Press",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

@@ -1,0 +1,95 @@
+[
+ {
+  "id": "side_lying_floor_stretch",
+  "name": "Side lying floor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your left side with your legs stacked on top of each other and your body in a straight line. Rest your head on your left arm.\n2. Extend your right arm straight over your head.\n3. Slowly lower your right hand towards your left hand to stretch your back.\n4. Hold the stretch for 15-30 seconds, feeling the stretch in your back and shoulders. Slowly return to the starting position and repeat on the other side by lying on your right side and following the same steps.",
+   "tips": "1. Ensure your extended arm stays straight to maximize the stretch in your back and shoulders.\n2. Keep your core engaged to support your lower back during the stretch.\n3. Perform the stretch on a comfortable, non-slip surface to ensure safety and reduce discomfort.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "side_lying_leg_lift_left",
+  "name": "Side lying leg lift left",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your right side with your legs extended straight and stacked on top of each other. Rest your head on your right arm and place your left hand on your hips.\n2. Slowly lift your left leg straight up towards the ceiling, keeping it straight and in line with your body.\n3. Hold the top position for a moment, feeling the contraction in your outer thigh and hip.\n4. Slowly lower your leg back to the starting position with control. Repeat for the desired number of repetitions, then switch to your left side and perform the exercise with your right leg.",
+   "tips": "1. Breathe steadily, exhaling as you lift your leg and inhaling as you lower it.\n2. Ensure your leg stays straight and in line with your body throughout the movement.\n3. Avoid using momentum to lift your leg; focus on using your hip and thigh muscles.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Abductors"
+   ]
+  }
+ },
+ {
+  "id": "side_lying_leg_lift_right",
+  "name": "side lying leg lift right",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your left side with your legs extended straight and stacked on top of each other. Rest your head on your left arm and place your right hand on your hips.\n2. Slowly lift your right leg straight up towards the ceiling, keeping it straight and in line with your body.\n3. Hold the top position for a moment, feeling the contraction in your outer thigh and hip.\n4. Slowly lower your leg back to the starting position with control. Repeat for the desired number of repetitions, then switch to your right side and perform the exercise with your left leg.",
+   "tips": "1. Breathe steadily, exhaling as you lift your leg and inhaling as you lower it.\n2. Ensure your leg stays straight and in line with your body throughout the movement.\n3. Avoid using momentum to lift your leg; focus on using your hip and thigh muscles.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Abductors"
+   ]
+  }
+ },
+ {
+  "id": "side_plank",
+  "name": "Side plank",
+  "sheet": "universal",
+  "current": {
+   "category": "bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your right side with your legs extended straight and stacked on top of each other. Prop yourself up on your right elbow, keeping your elbow directly under your shoulder.\n2. Engage your core and lift your hips off the floor, forming a straight line from your head to your feet.\n3. Hold the position for the desired duration, keeping your body straight and your core tight.\n4. Slowly lower your hips back to the starting position with control. Repeat on the other side by lying on your left side and following the same steps.",
+   "tips": "1. Ensure your elbow is directly under your shoulder to support your upper body.\n2. Focus on keeping your head in line with your spine to prevent neck strain.\n3. Maintain a straight body line, avoiding any sagging or lifting of the hips.\n4. Perform the exercise on a comfortable, non-slip surface to ensure safety and reduce discomfort.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "side_plank_oblique_crunch",
+  "name": "side plank oblique crunch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a side plank position on your right side, with your legs extended straight and stacked on top of each other. Prop yourself up on your right elbow, keeping your elbow directly under your shoulder. Place your left hand on your hip.\n2. Engage your core and lift your hips off the floor, forming a straight line from your head to your feet.\n3. Lower your hips towards the floor without touching it, then raise them back up to the starting position, squeezing your obliques at the top.\n4. Repeat for the desired number of repetitions, then switch to the other side and perform the exercise on your left side.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain balance and stability.\n2. Move your hips slowly and with control to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you lift your hips and inhaling as you lower them.",
+   "primary": [
+    "Obliques"
+   ],
+   "secondary": [
+    "Core",
+    "Shoulders"
+   ]
+  }
+ }
+]

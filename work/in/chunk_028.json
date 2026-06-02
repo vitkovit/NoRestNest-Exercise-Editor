@@ -1,0 +1,93 @@
+[
+ {
+  "id": "barbell_supinated_pendlay_row",
+  "name": "Barbell Supinated Pendlay Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_thruster",
+  "name": "Barbell thruster",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing forward), hands placed slightly wider than shoulder-width apart. Position the barbell at shoulder height.\n2. Lower your body into a squat by bending your knees and hips, ensuring your thighs are just lower than your knees.\n3. Push through your heels to extend your legs and return to a standing position. As you rise, simultaneously press the barbell overhead by extending your arms fully.\n4. Lower the barbell back to shoulder height and immediately descend into the next squat. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Drive through your heels during the squat to engage your glutes and quadriceps.\n2. Breathe steadily, exhaling as you press the barbell overhead and inhaling as you lower it back down.\n3. Ensure a fluid transition from the squat to the overhead press to maximize efficiency.",
+   "primary": [
+    "Quadriceps",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Glutes",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "barbell_underhand_bent_over_row",
+  "name": "Barbell underhand bent over row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip (palms facing up), hands placed slightly wider than shoulder-width apart. \n2. Slightly bend your knees and hinge at your hips, keeping your back straight and torso slightly above parallel to the floor. Allow the barbell to hang directly in front of you with your arms fully extended.\n3. Pull the barbell toward your lower ribcage by bending your elbows, keeping them close to your body. Squeeze your shoulder blades together at the top of the movement.\n4. Slowly lower the barbell back to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight throughout the movement to avoid rounding your spine.\n2. Focus on squeezing your shoulder blades together at the top of the movement to maximize muscle engagement.\n3. Keep your elbows close to your body throughout the movement to effectively target your back muscles.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_upright_row",
+  "name": "Barbell upright row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an overhand grip (palms facing down), hands placed shoulder-width apart. Allow the barbell to rest against your thighs with your arms fully extended.\n2. Pull the barbell upward along the front of your body by bending your elbows and lifting your upper arms.\n3. Continue lifting the barbell until it reaches chest height, keeping your elbows higher than your wrists throughout the movement.\n4. Slowly lower the barbell back to the starting position by extending your arms fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Lead with your elbows to ensure proper muscle engagement and avoid wrist strain.\n2. Breathe steadily, exhaling as you lift the barbell and inhaling as you lower it back down.\n3. Avoid using momentum or swinging your body to lift the barbell.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "barbell_wide_bench_press",
+  "name": "Barbell wide bench press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie flat on a bench with your feet firmly planted on the floor. Hold a barbell with an overhand grip (palms facing forward), hands placed wider than shoulder-width apart. Position the barbell directly above your chest with your arms fully extended.\n2. Slowly lower the barbell to your chest by bending your elbows, keeping them at a 45-degree angle to your body.\n3. Once the barbell lightly touches your chest, push the barbell back up to the starting position by extending your arms fully.\n4.  Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your chest up and shoulders retracted throughout the movement to maximize chest engagement.\n2. Breathe steadily, exhaling as you press the barbell up and inhaling as you lower it back down.\n3. Keep your feet firmly planted on the floor for stability and support.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

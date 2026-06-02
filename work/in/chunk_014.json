@@ -1,0 +1,102 @@
+[
+ {
+  "id": "barbell_meadows_row",
+  "name": "Barbell Meadows Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Set up a barbell in a landmine attachment or securely place one end of the barbell in a corner. Stand perpendicular to the barbell with your feet shoulder-width apart. Bend at the hips and knees, keeping your back straight, and grip the barbell with your hand.\n2. Start with your working arm fully extended, allowing the barbell to hang straight down.\n3. Pull the barbell towards your lower ribs by bending your elbow and squeezing your back at the peak of the movement.\n4. Slowly lower the barbell back to the starting position, fully extending your arm. Repeat the movement for the desired repetitions.",
+   "tips": "1. Squeeze your shoulder blade at the top of the movement to enhance muscle activation.\n2. Adjust the weight on the barbell to challenge your muscles without compromising your form.\n3. Ensure the landmine setup is secure to prevent slipping or tipping.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_narrow_stance_squat",
+  "name": "Barbell narrow stance squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet closer than shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body until your thighs are parallel to the floor or slightly below.\n3. Push through your heels to return to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Lower your body with control to maximize muscle engagement and prevent injury.\n2. Focus on driving through your heels to engage your glutes and quadriceps effectively.\n3. Keep your chest up and shoulders back to maintain proper posture throughout the movement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "barbell_one_arm_single_deadlift",
+  "name": "Barbell one arm single deadlift",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet hip-width apart, holding a barbell with one hand using an overhand grip (palms facing your body). The barbell should be placed to the side of your body.\n2. Begin the movement by hinging at your hips and slightly bending your knees, lowering the barbell towards the floor while keeping it close to your body.\n3. Lower the barbell until before it touches the floor. Push through your heel to return to the starting position, extending your hips and knees fully while keeping your back straight. \n4. Repeat for the desired number of repetitions, then switch to the other arm.",
+   "tips": "1. Keep the barbell close to your body to ensure an efficient and powerful lift.\n2. Ensure your shoulders remain square to avoid twisting your torso and maintain proper alignment.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Hamstrings",
+    "Glutes",
+    "Lower Back"
+   ],
+   "secondary": [
+    "Quadriceps",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_one_leg_hip_thrust",
+  "name": "Barbell one leg hip thrust",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the floor with your upper back resting against a bench, knees bent, and feet flat on the floor. Place a barbell across your hips, holding it securely with both hands. Lift one leg off the floor, extending it bent out in front of you.\n2. Push through the heel of the foot that remains on the floor to lift your hips off the floor until your body forms a straight line from your shoulders to your extended leg.\n3. Squeeze your glutes at the top of the movement and hold for a brief moment, ensuring your hips are fully extended.\n4. Lower your hips back to the starting position with control, stopping just before your glutes touch the floor. Repeat for the desired number of repetitions, then switch to the other leg.",
+   "tips": "1. Drive through your heel to engage your glutes and hamstrings effectively.\n2. Focus on the squeeze at the top to maximize glute activation.\n3. Use a pad or towel on the barbell for added comfort on your hips.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_overhead_lunges",
+  "name": "Barbell overhead lunges",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell overhead with both hands, using a grip slightly wider than shoulder-width. Keep your arms fully extended and your core engaged.\n2. Step forward with your right foot, lowering your body into a lunge position by bending both knees. Your back knee should hover just above the floor, and your front thigh should be parallel to the floor.\n3. Push through your front heel to return to the starting position. Repeat the movement with your left leg, continuing to alternate legs for the desired number of repetitions.",
+   "tips": "1. Keep your arms fully extended and your shoulders engaged to maintain control of the barbell.\n2. Focus on a controlled descent to maximize muscle engagement and prevent injury.\n3. Ensure your front knee does not extend beyond your toes to avoid placing undue stress on the knee joint.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

@@ -1,0 +1,5 @@
+[
+ {"id": "reaching_up_shoulder_stretch", "issue": "Stretch, not a strengthening move. Stretch targets rotator cuff/posterior shoulder (supraspinatus, infraspinatus); mapped to closest buckets (shoulders=Posterior Deltoid, Lats=Rotator Cuff). Pectoralis major also stretched but chest bucket lacks a stretch-appropriate term."},
+ {"id": "rear_deltoid_stretch", "issue": "Stretch, not a strengthening move; muscle map is approximate (target muscle being lengthened, not contracted)."},
+ {"id": "resistance_band_cable_row", "issue": "Instructions describe a half-kneeling stance with band held in both hands (bilateral). Included obliques as secondary in case of unilateral anti-rotation use; could be dropped if performed strictly bilateral."}
+]

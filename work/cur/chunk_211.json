@@ -1,0 +1,205 @@
+[
+ {
+  "id": "ski_ergometer_cross_country_ski_alternating_arm_pull",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "timed",
+  "instructions": "1. Stand facing the ski ergometer with feet shoulder-width apart, knees slightly bent.\n2. Reach up and grip one handle overhead with each hand.\n3. Pull one handle down toward your hip while the other arm stays high.\n4. Drive that arm back up as you pull the opposite handle down.\n5. Keep alternating arms in a steady skiing rhythm.\n6. Repeat.",
+  "tips": "1. Hinge slightly at the hips and drive the pull with your lats, not just your arms.\n2. Use a full range, finishing each pull near your hip.\n3. Brace your core to keep your torso stable.\n4. Breathe steadily with the rhythm.",
+  "name": "Ski Ergometer Cross Country Ski Alternating Arm Pull",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "skipping",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet together, holding a rope handle in each hand by your sides.\n2. Keep your core braced and posture upright.\n3. Turn the rope with small wrist circles and jump lightly off the floor.\n4. Land softly on the balls of your feet with knees slightly bent.\n5. Keep jumps low and quick in a steady rhythm.\n6. Repeat.",
+  "tips": "1. Keep jumps low to reduce joint impact.\n2. Turn the rope with your wrists, not your arms.\n3. Stay relaxed through the shoulders.\n4. Breathe steadily and rhythmically.",
+  "name": "Skipping",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "smith_machine_bulgarian_split_squat",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Set the Smith bar across your upper back and grip it with both hands.\n2. Place one foot back on a bench about 40 cm high, front foot planted ahead.\n3. Lower by bending your front knee, keeping your torso upright.\n4. Descend until your front thigh is parallel to the floor.\n5. Push through your front heel to stand back up.\n6. Repeat, then switch legs.",
+  "tips": "1. Keep your front knee tracking over your toes.\n2. Stay upright; lean slightly forward to bias glutes.\n3. Drive through the front heel, not the toes.\n4. Exhale as you press up, inhale as you lower.",
+  "name": "Smith machine bulgarian split squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "smith_machine_calf_raise",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Set the Smith bar across your upper back and grip it with both hands.\n2. Stand with feet shoulder-width apart, toes pointing forward.\n3. Push through the balls of your feet to raise your heels high.\n4. Pause at the top, feeling the calves contract.\n5. Lower your heels slowly below the start for a full stretch.\n6. Repeat.",
+  "tips": "1. Use a full range, stretching at the bottom and rising onto the toes at the top.\n2. Keep your knees nearly straight to bias the gastrocnemius.\n3. Move slowly and controlled, no bouncing.\n4. Exhale as you raise, inhale as you lower.",
+  "name": "Smith machine calf raise",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "smith_machine_press_decline",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Set a decline bench under the Smith machine so the bar lines up with your lower chest.\n2. Lie on the bench with your feet hooked under the pads. Grip the bar slightly wider than shoulder-width.\n3. Unrack the bar and lower it under control to your lower chest.\n4. Press the bar straight up until your arms are fully extended.\n5. Repeat.",
+  "tips": "1. Keep your shoulder blades pulled back and down against the bench.\n2. Lower the bar to the lower chest, not the upper chest.\n3. Exhale as you press, inhale as you lower.\n4. Keep your hips on the bench and feet anchored.",
+  "name": "Smith machine press decline",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

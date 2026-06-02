@@ -1,0 +1,175 @@
+[
+ {
+  "id": "resistance_band_one_leg_glute_bridge",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat, hip-width apart, and place a loop band around your thighs just above the knees.\n2. Lift one leg off the floor and extend it, keeping the thigh in line with the working leg.\n3. Press through the heel of the planted foot to drive your hips up until shoulders, hips and knee form a straight line.\n4. Squeeze your glutes at the top, then lower your hips with control.\n5. Finish the reps, then switch legs. Repeat.",
+  "tips": "1. Drive through the heel and squeeze the glute at the top, not the lower back.\n2. Keep your hips level; do not let the raised side drop.\n3. Exhale as you lift, inhale as you lower.\n4. Brace your core to stop your back from arching.",
+  "name": "Resistance Band One Leg Glute Bridge",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_one_leg_kickback_bent_position",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Loop a resistance band around both ankles and stand facing an incline bench.\n2. Hinge forward at the hips with a flat back and rest your hands on the top of the bench for support.\n3. Engage your glutes and drive one leg up and back against the band, keeping it straight.\n4. Pause at the top, then lower the leg with control to the start.\n5. Finish the reps, then switch legs. Repeat.",
+  "tips": "1. Lead with the heel and squeeze the glute at the top of each rep.\n2. Keep your back flat and core braced; do not arch or rotate the hips.\n3. Move slowly and avoid swinging the leg with momentum.\n4. Exhale as you kick back, inhale as you return.",
+  "name": "Resistance Band One Leg Kickback (Bent Position)",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_pull_apart",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a band with both hands.\n2. Raise your arms straight in front at shoulder height, palms down, with light tension in the band.\n3. Pull the band apart by drawing your arms out to the sides, squeezing your shoulder blades together.\n4. Pause when the band reaches your chest, then return your arms to the front with control.\n5. Repeat.",
+  "tips": "1. Squeeze the shoulder blades together at the end of each rep.\n2. Keep arms straight and at shoulder height; do not let them drift up or down.\n3. Keep wrists neutral and avoid shrugging the shoulders.\n4. Move slowly and resist the band on the way back.",
+  "name": "Resistance Band Pull Apart",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_reverse_hyper_with_stability_ball_on_flat_bench",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie face down on a flat bench with hips at the edge and legs hanging straight down.\n2. Loop a band around your thighs above the knees and hold a stability ball between your feet.\n3. Grip the sides of the bench to stay stable.\n4. Squeeze your glutes and lift your legs until they are in line with your torso.\n5. Lower your legs with control to the start. Repeat.",
+  "tips": "1. Lift with the glutes, not by swinging the legs.\n2. Keep your core braced and avoid overarching the lower back.\n3. Grip the bench firmly to keep your upper body still.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Resistance Band Reverse Hyper with Stability Ball on Flat Bench",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "resistance_band_seated_bent_knee_abduction",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Sit on the floor with knees bent about 90 degrees and feet flat, hip-width apart.\n2. Loop a band around your thighs just above the knees.\n3. Lean back slightly and place your hands on the floor behind you for support.\n4. Press your knees outward against the band as far as you can.\n5. Bring your knees back together with control. Repeat.",
+  "tips": "1. Push the knees out under control and resist on the way back in.\n2. Keep your feet flat and planted throughout.\n3. Drive from the outer hips and glutes, not the lower back.\n4. Exhale as you press out, inhale as you return.",
+  "name": "Resistance Band Seated Bent Knee Abduction",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

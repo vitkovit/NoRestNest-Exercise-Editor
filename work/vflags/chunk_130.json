@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_preacher_curl_turned_torso",
+  "change": "No change. Verified biceps primary, forearms (brachioradialis -> Wrist Flexors) secondary on a supinated preacher curl. Brachialis folds into biceps bucket per allowed mapping."
+ },
+ {
+  "id": "dumbbell_press_squat",
+  "change": "No change. Squat -> Quads + Glutes primary, anterior deltoid primary for the forward press (chest-height press, not overhead, still anterior delt). Triceps, Hamstrings, Erector Spinae secondary all confirmed for this thruster-style move."
+ },
+ {
+  "id": "dumbbell_pronate_grip_triceps_extension",
+  "change": "No change. Pronated lying extension -> Triceps primary; forearm/wrist extensors secondary stabilizers confirmed."
+ },
+ {
+  "id": "dumbbell_prone_incline_curl",
+  "change": "No change. Supinated incline curl -> biceps primary, wrist flexors secondary. Correct."
+ },
+ {
+  "id": "dumbbell_prone_incline_hammer_curl",
+  "change": "Trimmed primary forearms latins from [Wrist Extensors, Wrist Flexors] to [Wrist Extensors]. Hammer/neutral grip emphasizes brachioradialis (extensor-compartment elbow flexor), justifying forearms as co-primary, but including wrist flexors as a prime mover was inflation. Wrist extensors alone better represents brachioradialis."
+ }
+]

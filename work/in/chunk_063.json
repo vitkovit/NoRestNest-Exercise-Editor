@@ -1,0 +1,98 @@
+[
+ {
+  "id": "cable_reverse_grip_pushdown",
+  "name": "Cable reverse grip pushdown",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with a straight bar attached to the high pulley. Grasp the bar with both hands using an underhand grip (palms facing up), hands shoulder-width apart.\n2. Stand with your feet shoulder-width apart, keeping your back straight and elbows close to your body. Your forearms should be parallel to the floor.\n3. Push the bar down towards your thighs by straightening your elbows, keeping your upper arms stationary.\n4. Slowly return to the starting position with control, allowing your forearms to become parallel to the floor again. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your body and avoid moving your upper arms.\n2. Focus on squeezing your triceps at the bottom of the movement.\n3. Exhale as you push the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_reverse_grip_straight_back_seated_high_row",
+  "name": "Cable reverse grip straight back seated high row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the pulldown machine with your feet flat on the floor and knees secured under the pads. Attach a straight bar to the high pulley and grasp the bar with both hands using an underhand grip (palms facing back), hands shoulder-width apart.\n2. Sit upright with your back straight and arms fully extended above your head.\n3. Pull the bar down towards your upper chest by bending your elbows and bringing them down and back, keeping your upper arms close to your body.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid leaning back or using momentum.\n2. Focus on squeezing your shoulder blades together at the bottom of the movement.\n3. Exhale as you pull the bar down and inhale as you extend it back up.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_reverse_grip_triceps_push_down_straight_bar_on_crossover",
+  "name": "Cable reverse grip triceps push down straight bar on crossover",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with a straight bar attached to the high pulley. Grasp the bar with both hands using an underhand grip (palms facing up), hands shoulder-width apart.\n2. Stand with your feet shoulder-width apart, keeping your back straight and elbows close to your body. Your forearms should be parallel to the floor.\n3. Push the bar down towards your thighs by straightening your elbows, keeping your upper arms stationary.\n4. Slowly return to the starting position with control, allowing your forearms to become parallel to the floor again. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your body and avoid moving your upper arms.\n2. Focus on squeezing your triceps at the bottom of the movement.\n3. Exhale as you push the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_reverse_grip_triceps_pushdown_back_side_pov",
+  "name": "Cable reverse grip triceps pushdown back side POV",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with a straight bar attached to the high pulley. Grasp the bar with both hands using an underhand grip (palms facing up), hands shoulder-width apart.\n2. Stand with your feet shoulder-width apart, keeping your back straight and elbows close to your body. Your forearms should be parallel to the floor.\n3. Push the bar down towards your thighs by straightening your elbows, keeping your upper arms stationary.\n4. Slowly return to the starting position with control, allowing your forearms to become parallel to the floor again. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your body and avoid moving your upper arms.\n2. Focus on squeezing your triceps at the bottom of the movement.\n3. Exhale as you push the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "cable_reverse_grip_triceps_pushdown_ez_bar",
+  "name": "Cable reverse grip triceps pushdown (EZ bar)",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand facing the cable machine with a straight an EZ bar attached to the high pulley. Grasp the EZ bar with both hands using an underhand grip (palms facing up), hands shoulder-width apart.\n2. Stand with your feet shoulder-width apart, keeping your back straight and elbows close to your body. Your forearms should be parallel to the floor.\n3. Push the EZ bar down towards your thighs by straightening your elbows, keeping your upper arms stationary.\n4. Slowly return to the starting position with control, allowing your forearms to become parallel to the floor again. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your body and avoid moving your upper arms.\n2. Focus on squeezing your triceps at the bottom of the movement.\n3. Exhale as you push the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Forearms",
+    "Shoulders"
+   ]
+  }
+ }
+]

@@ -1,0 +1,244 @@
+[
+ {
+  "id": "bodyweight_lying_leg_curl",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie face down on the floor with your legs straight and together.\n2. Rest your forehead on your hands and press your hips into the floor.\n3. Bend your knees to pull your heels toward your glutes.\n4. Squeeze your hamstrings at the top.\n5. Lower your feet back down with control.\n6. Repeat.",
+  "tips": "1. Keep your hips and thighs pressed into the floor throughout.\n2. Do not arch your lower back to lift your feet higher.\n3. Move slowly to keep tension on the hamstrings.\n4. Flex your feet to keep the calves engaged.",
+  "name": "Bodyweight lying leg curl",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "bodyweight_muscle_up",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Hang from the bar with arms fully extended and body straight.\n2. Pull explosively, driving your chest up toward the bar.\n3. Lean forward and transition your shoulders over the bar.\n4. Press down to push your body up until your arms are straight.\n5. Lower back through the transition to the hanging position.\n6. Repeat.",
+  "tips": "1. Keep your core tight to control swing during the transition.\n2. Use an explosive pull to clear the bar.\n3. Lean your torso forward early to make the transition easier.\n4. Control the descent to protect your shoulders and elbows.",
+  "name": "Bodyweight muscle-up",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "bodyweight_overhead_squat",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and arms extended straight overhead.\n2. Keep your chest up and arms locked overhead.\n3. Bend your knees and hips to lower until your thighs are parallel to the floor.\n4. Keep the arms overhead and your torso upright.\n5. Drive through your heels to stand back up.\n6. Repeat.",
+  "tips": "1. Keep your core braced to stabilize the overhead position.\n2. Keep your arms locked and aligned over your midfoot.\n3. Track your knees in line with your toes.\n4. Keep your chest lifted to avoid leaning forward.",
+  "name": "Bodyweight overhead squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "bodyweight_overhead_triceps_extension",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Clasp your hands together and extend your arms overhead, elbows slightly bent.\n3. Bend your elbows to lower your hands behind your head.\n4. Keep your upper arms still and close to your head.\n5. Extend your arms back to the overhead position.\n6. Repeat.",
+  "tips": "1. Keep your upper arms still and close to your ears.\n2. Brace your core to avoid arching your back.\n3. Move slowly to keep tension on the triceps.\n4. Lower until you feel a stretch, then drive back up.",
+  "name": "Bodyweight Overhead Triceps Extension",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "bodyweight_pulse_forward_lunge",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and hands on your hips.\n2. Step forward with one foot into a lunge, front knee over the ankle.\n3. Lower until the back knee is close to the floor.\n4. Pulse up and down with small movements in the lunge.\n5. Push through the front heel to return to standing.\n6. Repeat on the other side.",
+  "tips": "1. Keep your torso upright and core braced for balance.\n2. Keep the front knee tracking over the foot.\n3. Pulse with control and steady tempo.\n4. Press through the front heel to drive the working leg.",
+  "name": "Bodyweight pulse forward lunge",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

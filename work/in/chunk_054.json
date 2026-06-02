@@ -1,0 +1,97 @@
+[
+ {
+  "id": "butterfly_yoga_pose",
+  "name": "Butterfly yoga pose",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the floor with your legs bent and the soles of your feet pressed together, allowing your knees to fall out to the sides.\n2. Hold your feet with both hands and sit up tall, then lean forward slightly towards the floor, creating a gentle arch in your back.\n3. Press your knees gently towards the floor to deepen the stretch in your hips.\n4. Hold the position for the desired duration, breathing deeply and evenly throughout.",
+   "tips": "1. Maintain a gentle arch in your back while leaning forward to ensure a proper stretch and avoid straining.\n2. Inhale deeply and exhale slowly throughout the pose to help relax your muscles and enhance the stretch.\n3. Apply gentle pressure to your knees without forcing them down to prevent overstraining your hip joints.",
+   "primary": [
+    "Adductors"
+   ],
+   "secondary": [
+    "Iliopsoas"
+   ]
+  }
+ },
+ {
+  "id": "cable_alternate_triceps_extension",
+  "name": "Cable alternate triceps extension",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your back facing the low pulley, holding the handle behind your head with your arm bent, elbow pointing up and palm facing the ceiling. Use your other hand to support the active arm by holding it just above the elbow.\n2. Extend your active arm up overhead, straightening your elbow to push the handle upward.\n3. Slowly return your arm to the starting position behind your head. Repeat the movement for the desired number of repetitions, then switch arms.",
+   "tips": "1. Keep your upper arm stationary throughout the exercise to isolate the triceps.\n2. Avoid using momentum; perform the movement slowly and with control.\n3. Exhale as you extend your arm and inhale as you return to the starting position.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "none"
+   ]
+  }
+ },
+ {
+  "id": "cable_assisted_inverse_leg_curl",
+  "name": "Cable assisted inverse leg curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Kneel on the seat of a cable pulldown machine with both legs secured under the thigh pads. Face away from the machine and hold the cable bar behind your neck with both hands.\n2. Lean forward to straighten your legs until your torso is almost parallel to the floor.\n3. Slowly return to the starting position by bringing your upper body back up, bending at the knees.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.\n2. Avoid using momentum; focus on the controlled contraction of your hamstrings.\n3. Exhale as you straighten your legs and inhale as you return to the starting position.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes",
+    "Lower Back",
+    "Abdominals"
+   ]
+  }
+ },
+ {
+  "id": "cable_bar_lateral_pulldown",
+  "name": "Cable bar lateral pulldown",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at a cable pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the bar with a wide overhand grip, your arms fully extended overhead.\n2. Lean back slightly, keeping your back straight and core engaged.\n3. Pull the bar down towards your upper chest, bringing your elbows down and back.\n4. Slowly return the bar to the starting position with your arms fully extended overhead. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; perform the movement slowly and with control.\n2. Exhale as you pull the bar down and inhale as you return to the starting position.\n3. Focus on the contraction of your back muscles as you pull the bar down.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_bench_fly_press",
+  "name": "Cable bench fly press",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench positioned between two cable machines, with the cables set at a low position. Grasp the handles with your arms bent and hands close to your chest sides.\n2. Press the handles upward in an arc motion over your chest, extending your arms upward.\n3. Lower the handles back down to the starting position, stopping when your hands are close to your chest sides.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Exhale as you press the handles up and inhale as you lower them back down.\n2. Ensure your back remains flat against the bench and avoid arching your spine.\n3. Focus on the contraction of your chest muscles as you press the handles up.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

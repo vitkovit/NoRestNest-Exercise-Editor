@@ -1,0 +1,4 @@
+[
+ {"id": "resistance_band_seated_bent_knee_abduction", "issue": "Gluteus minimus and tensor fasciae latae are the other key abductors; minimus has no allowed latin so it is folded into glutes/Gluteus Medius, and TFL is mapped to the Abductor bucket as the closest available value."},
+ {"id": "resistance_band_pull_apart", "issue": "Middle/lower trapezius is also a prime mover; the mid back bucket lacks a 'Middle Traps' term, so Upper Traps + Rhomboids are used as the closest trap/scapular-retractor representation."}
+]

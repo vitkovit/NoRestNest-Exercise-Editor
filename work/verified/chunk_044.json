@@ -1,0 +1,235 @@
+[
+ {
+  "id": "bodyweight_front_slam",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart and reach both arms straight overhead.\n2. Swing your arms down hard in front of your body as if slamming a ball to the floor.\n3. Bend your knees into a quarter squat as your hands drop past your hips.\n4. Drive back up and lift your arms overhead to the start.\n5. Repeat.",
+  "tips": "1. Brace your core and crunch as you slam the arms down.\n2. Keep your back flat, do not round the spine.\n3. Move explosively but control the return.\n4. Exhale on the downward slam.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_front_raise",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand in a squat with feet shoulder-width apart and arms hanging between your thighs.\n2. Straighten your legs to stand up tall.\n3. Raise both arms straight overhead as you rise.\n4. Lower back into the squat and bring your arms down between your thighs.\n5. Repeat.",
+  "tips": "1. Keep a neutral spine throughout the movement.\n2. Track your knees over your toes during the squat.\n3. Control the descent back into the squat.\n4. Exhale as you stand and raise the arms.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_front_raises",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart and arms close to your knees.\n2. Lower into a squat until your thighs are parallel to the floor.\n3. Raise both arms straight overhead as you squat.\n4. Stand back up and bring your arms back to your knees.\n5. Repeat.",
+  "tips": "1. Keep a neutral spine and do not round your back.\n2. Track your knees over your toes during the squat.\n3. Move the arms at a controlled pace.\n4. Exhale as you stand back up.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_full_squat_with_overhead_press",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand in a squat with feet shoulder-width apart and hands in front of your knees.\n2. Straighten your legs to stand up tall.\n3. Press both hands straight overhead as you rise.\n4. Lower back into the squat and bring your hands in front of your knees.\n5. Repeat.",
+  "tips": "1. Keep a neutral spine throughout the movement.\n2. Track your knees over your toes during the squat.\n3. Use leg drive to power the press overhead.\n4. Exhale as you stand and press.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "bodyweight_knee_thrust",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand in a partial lunge with your left foot forward and right foot back, hands in front of your hips.\n2. Drive your right knee forward and up to hip level.\n3. Bring your hands down to meet your knee.\n4. Lower your right leg back to the partial lunge.\n5. Switch legs.\n6. Repeat.",
+  "tips": "1. Keep your supporting leg slightly bent for stability.\n2. Drive the knee up powerfully while staying balanced.\n3. Brace your core to control the torso.\n4. Breathe steadily through the movement.",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "cable_close_grip_front_lat_pulldown",
+  "change": "No change. Verified: Lats (Latissimus Dorsi) primary; Rhomboids/Lower Traps, Rotator Cuff, Biceps, Wrist Flexors secondary all confirmed by sources. Close grip emphasizes lower lats and increases biceps/forearm involvement."
+ },
+ {
+  "id": "cable_front_raises_straight_bar",
+  "change": "No change. Verified: Anterior Deltoids primary; Lateral Deltoids, upper chest (Clavicular Head), abs as stabilizers secondary all confirmed."
+ },
+ {
+  "id": "cable_lateral_raises",
+  "change": "No change. Verified: Lateral Deltoids primary; Anterior Deltoids, Rotator Cuff (supraspinatus), Upper Traps secondary all confirmed as stabilizers."
+ },
+ {
+  "id": "cable_leaning_lateral_raise",
+  "change": "No change. Verified: Lateral Deltoids primary; secondary delts, Rotator Cuff, Upper Traps confirmed. Leaning extends range of motion on side delt. Unilateral but braced against machine, so core/oblique demand minimal; not added."
+ },
+ {
+  "id": "cable_low_fly",
+  "change": "Moved Sternal Head from primary to secondary. The cable low fly (low-to-high) specifically emphasizes the clavicular (upper) chest head, so primary is Clavicular Head only with Sternal Head as a secondary contributor. Removed Biceps Brachii from secondary (elbows fixed in a fly, not a meaningful contributor); kept Anterior Deltoids secondary, which sources confirm is highly active in low-to-high flyes."
+ }
+]

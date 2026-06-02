@@ -1,0 +1,81 @@
+[
+ {
+  "id": "band_bicycle_crunch",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back on a mat and loop a resistance band around both feet.\n2. Place your hands behind your head and extend your legs, lifting your shoulders off the floor.\n3. Bring your right knee toward your chest and twist your torso to move your left elbow toward it.\n4. Switch sides, bringing your left knee in and your right elbow toward it in a pedaling motion.\n5. Keep alternating sides in a controlled rhythm. Repeat.",
+  "tips": "1. Drive the movement from your abs, not by pulling on your neck.\n2. Twist the torso fully so the obliques engage on each rep.\n3. Exhale as you crunch and twist, inhale as you switch sides.\n4. Move slowly and keep your lower back pressed toward the mat.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "Quads", "latins": ["Rectus Femoris"]}
+  ]
+ },
+ {
+  "id": "band_close_grip_biceps_curl",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Stand tall with feet shoulder-width apart and the resistance band under both feet.\n2. Hold the band ends with a narrow grip, palms facing forward and arms straight.\n3. Curl your hands up toward your shoulders, keeping your hands close together.\n4. Pause briefly at the top and squeeze your biceps.\n5. Lower under control until your arms are fully extended. Repeat.",
+  "tips": "1. Keep your elbows pinned to your sides through the whole curl.\n2. Exhale as you curl up, inhale as you lower.\n3. Control the lowering phase to keep tension on the biceps.\n4. Stand on enough band to give resistance through the full range.",
+  "primary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Extensors"]}
+  ]
+ },
+ {
+  "id": "band_cross_abduction",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart and the resistance band under both feet, crossed in front of you.\n2. Hold each handle in the opposite hand with arms hanging at your hips.\n3. Keep your right leg straight and lift it out to the side against the band.\n4. Pause at the top with tension on the band.\n5. Lower the leg under control back to the start, then switch to the left leg. Repeat.",
+  "tips": "1. Keep your upper body upright and avoid leaning to the side.\n2. Point your toes forward to target the gluteus medius.\n3. Move slowly and avoid swinging the leg with momentum.\n4. Keep the standing leg slightly bent for balance.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Medius"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "band_deadlift",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart and the resistance band under both feet.\n2. Hold a handle in each hand with arms straight down and palms facing your hips.\n3. Hinge at the hips and bend your knees, keeping your back flat, until your torso is near parallel to the floor.\n4. Press through your heels and drive your hips forward to stand up tall.\n5. Squeeze your glutes at the top, then lower under control. Repeat.",
+  "tips": "1. Keep your back flat and chest up throughout the lift.\n2. Drive through the hips, not the lower back.\n3. Exhale as you stand, inhale as you lower.\n4. Use a band tension that lets you keep good form.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ]
+ },
+ {
+  "id": "band_hip_adduction",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "bands",
+  "trackingMode": "",
+  "instructions": "1. Anchor a resistance band at ankle height to a fixed point on one side.\n2. Loop the band around the ankle closest to the anchor and step out to create tension.\n3. Stand tall with feet apart and the working leg out to the side.\n4. Pull the working leg across your body toward the midline against the band.\n5. Pause briefly, then return the leg under control to the start. Switch sides. Repeat.",
+  "tips": "1. Keep your pelvis level and torso upright through the movement.\n2. Move from the hip, not by twisting the trunk.\n3. Control the return so the band does not snap the leg back.\n4. Hold a stable support if you need help with balance.",
+  "primary": [
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ }
+]

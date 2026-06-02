@@ -1,0 +1,100 @@
+[
+ {
+  "id": "barbell_jm_bench_press",
+  "name": "Barbell JM bench press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on a flat bench with your feet flat on the floor, holding a barbell with your hands shoulder-width apart. Your arms should be fully extended above your chest.\n2. Lower the barbell by bending your elbows and bringing it down towards your chest. \n3. When the barbell is just above your chest, move it toward your head and stop when the barbell is just overhead and move it back to above the chest. \n4. Push it back up to the starting position by extending your elbows, focusing on using your triceps. Repeat for the desired number of repetitions, then carefully rack the barbell back onto the bench press rack.",
+   "tips": "1. Focus on the triceps by keeping your elbows slightly tucked in and not flaring out too much.\n2. Lower the barbell slowly and with control to maximize muscle engagement and prevent injury.\n3. Maintain a strong grip on the barbell to ensure control and proper alignment.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "barbell_kneeling_squat",
+  "name": "Barbell kneeling squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Start by kneeling on a mat with your knees hip-width apart. Hold a barbell across your upper back, gripping it with your hands slightly wider than shoulder-width apart.\n2. Sit back onto your heels, lowering your glutes towards your calves.\n3. Push your hips forward to return to the starting position, extending your hips fully and squeezing your glutes at the top.\n4. Repeat for the desired number of repetitions, maintaining control throughout the movement.",
+   "tips": "1. Move through a full range of motion to maximize muscle engagement and benefit.\n2. Control your breathing, exhaling as you push your hips forward and inhaling as you sit back.\n3. Use a mat or padding under your knees for added comfort during the exercise.",
+   "primary": [
+    "Glutes",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_lap_curl",
+  "name": "Barbell lap curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a bench with your feet flat on the floor, holding a barbell with palms facing up, shoulder-width apart. Rest the bar on your thighs, just above your knees.\n2. Begin the curl by bending your elbows and lifting the barbell towards your chest, keeping your upper arms stationary against your sides.\n3. Squeeze your biceps at the top of the movement, ensuring the barbell reaches close to your chest.\n4. Lower the barbell back to your thighs with control. Just before touching your thighs, repeat the curl.",
+   "tips": "1. Keep your elbows fixed on your thighs to isolate your biceps effectively.\n2. Avoid using momentum by performing the movement slowly and with control.\n3. Use a weight that allows for proper form to prevent strain or injury.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "barbell_lateral_lunges",
+  "name": "Barbell lateral lunges",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back. Grip the bar with your hands slightly wider than shoulder-width apart.\n2. Step out to the right with your right foot, lowering your body into a lunge position by bending your right knee and pushing your hips back.\n3. Push through your right heel to return to the starting position. Repeat the movement on the left side, continuing to alternate legs for the desired number of repetitions.",
+   "tips": "1. Focus on a controlled descent to maximize muscle engagement and prevent injury.\n2. Keep your chest up and back straight throughout the movement to maintain proper posture.\n3. Ensure your knee does not extend beyond your toes to avoid placing undue stress on the joint.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Adductors"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_long_landmine_row",
+  "name": "Barbell Long Landmine Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Set up a barbell in a landmine attachment or securely place one end of the barbell in a corner. Stand to the side of the barbell with your feet shoulder-width apart, barbell extending behind. Bend at the hips and knees, keeping your back straight, and grip the barbell with your hand.\n2. Start with your arm fully extended, allowing the barbell to hang straight down.\n3. Pull the barbell towards your side by bending your elbow and squeezing your back at the peak of the movement.\n4. Slowly lower the barbell back to the starting position, fully extending your arm. Repeat the movement for the desired repetitions.",
+   "tips": "1. Maintain a neutral spine throughout the exercise to avoid straining your lower back.\n2. Engage your core to help stabilize your body and prevent unnecessary movement.\n3. Use a controlled motion to lift and lower the barbell, preventing any jerking movements.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Biceps",
+    "Lower Back"
+   ]
+  }
+ }
+]

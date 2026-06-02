@@ -1,0 +1,181 @@
+[
+ {
+  "id": "hanging_oblique_crunches",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Hang from a pull-up bar with hands shoulder-width apart, palms facing forward.\n2. Let your body hang straight with feet off the floor.\n3. Brace your core, bend your knees, and lift them toward your right elbow while twisting your torso.\n4. Raise your knees as high as comfortable.\n5. Lower under control, then lift toward the left elbow. Alternate sides.\n6. Repeat.",
+  "tips": "1. Do not swing; use controlled movement.\n2. Exhale as you lift and twist, inhale as you lower.\n3. Keep a firm grip on the bar.\n4. Drive the twist from your obliques, not momentum.",
+  "name": "Hanging oblique crunches",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "LowerRectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "heel_touches",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat, hip-width apart.\n2. Place your arms at your sides, palms down.\n3. Lift your shoulders slightly off the floor and brace your core.\n4. Reach your right hand toward your right heel by bending to the side.\n5. Return to center, then reach your left hand toward your left heel. Alternate sides.\n6. Repeat.",
+  "tips": "1. Move slowly and with control.\n2. Exhale as you reach, inhale as you return to center.\n3. Keep your lower back pressed into the floor.\n4. Keep your shoulders lifted the whole set.",
+  "name": "Heel touches",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "high_cable_kneeling_crunch",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a rope to a high pulley on a cable machine.\n2. Kneel facing the machine and hold the rope with both hands near your head.\n3. Keep your hips fixed and brace your core.\n4. Crunch your torso down by curling your ribs toward your pelvis, bringing elbows toward your thighs.\n5. Return under control while keeping tension on the cable.\n6. Repeat.",
+  "tips": "1. Keep your hips still; flex only the spine.\n2. Do not use momentum.\n3. Exhale as you crunch, inhale as you return.\n4. Keep constant tension on the cable.",
+  "name": "High cable kneeling crunch",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "high_knee_twist",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet hip-width apart and arms raised to shoulder height in front, palms down.\n2. Lift your right knee toward your left elbow while twisting your torso to the right.\n3. Return to the start.\n4. Lift your left knee toward your right elbow while twisting your torso to the left.\n5. Alternate sides in a steady rhythm.\n6. Repeat.",
+  "tips": "1. Twist and lift at the same time to engage the obliques.\n2. Move smoothly to protect the back and hips.\n3. Exhale on the twist, inhale as you return.\n4. Keep your chest tall and core braced.",
+  "name": "High knee twist",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "high_knees",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet hip-width apart and arms at your sides.\n2. Lift your right knee toward your chest while swinging your left arm forward.\n3. Quickly switch, lifting your left knee while swinging your right arm forward.\n4. Stay on the balls of your feet and keep a running rhythm.\n5. Continue alternating knees while bracing your core.\n6. Repeat.",
+  "tips": "1. Drive your knees high while staying balanced.\n2. Stay light on the balls of your feet.\n3. Pump your arms to keep rhythm.\n4. Keep your torso upright, not leaning back.",
+  "name": "High knees",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

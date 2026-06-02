@@ -1,0 +1,94 @@
+[
+ {
+  "id": "stationary_exercise_bike",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "timed",
+  "instructions": "1. Adjust the seat so your knee has a slight bend at the bottom of the pedal stroke.\n2. Sit upright with a straight back and grip the handlebars lightly.\n3. Place the balls of your feet on the pedals.\n4. Pedal in a smooth circular motion, pushing down and pulling up.\n5. Set the resistance to match your target intensity and keep pedaling.\n6. Repeat.",
+  "tips": "1. Keep your back straight and shoulders relaxed.\n2. Start at low resistance and raise it as your endurance improves.\n3. Breathe steadily and deeply throughout.\n4. Drive through the whole pedal stroke, not just the downward push.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]}
+  ]
+ },
+ {
+  "id": "step_up_on_chair_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing a sturdy chair with feet shoulder-width apart.\n2. Place your left foot fully on the chair seat.\n3. Push through your left heel to lift your body up until both feet are on the chair.\n4. Step down with your right foot, then your left foot.\n5. Switch the leading leg each set.\n6. Repeat.",
+  "tips": "1. Exhale as you step up, inhale as you step down.\n2. Drive through your heel to load the glutes and quads.\n3. Make sure the chair is stable before starting.\n4. Keep your torso upright and avoid pushing off the trailing foot.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]}
+  ]
+ },
+ {
+  "id": "straight_bar_cable_pull_down",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a straight bar to the high pulley and grip it slightly wider than shoulder-width, palms down.\n2. Step back, bend your knees slightly and hinge your torso forward a little.\n3. Keep your arms nearly straight with a soft elbow bend.\n4. Pull the bar down to your thighs in a wide arc, squeezing your lats.\n5. Slowly return the bar overhead under control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull down, inhale on the return.\n2. Keep your arms straight so the lats do the work, not the biceps.\n3. Keep your shoulders down and avoid shrugging.\n4. Move only at the shoulders, keeping the torso still.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "mid back", "latins": ["Lower Traps", "Rhomboids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "straight_bar_cable_row_close_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit at the cable row station with feet on the footrests and knees slightly bent.\n2. Grip the straight bar with a close grip, palms down.\n3. Sit tall with a straight back and braced core.\n4. Pull the bar to your abdomen, keeping elbows close and squeezing your shoulder blades.\n5. Slowly extend your arms back to the start under control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull, inhale as you extend.\n2. Lead with the elbows to drive lat engagement.\n3. Keep your shoulders down and avoid shrugging.\n4. Keep your torso still and avoid swinging for momentum.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "straight_bar_cable_row_normal_grip",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit at the cable row station with feet on the footrests and knees slightly bent.\n2. Grip the straight bar just wider than shoulder-width, palms down.\n3. Sit tall with a straight back and braced core.\n4. Pull the bar to your abdomen, squeezing your shoulder blades together.\n5. Slowly extend your arms back to the start under control.\n6. Repeat.",
+  "tips": "1. Exhale as you pull, inhale as you extend.\n2. Drive your elbows back and squeeze the shoulder blades.\n3. Keep your shoulders down and avoid shrugging.\n4. Keep your torso still and avoid swinging for momentum.",
+  "primary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ }
+]

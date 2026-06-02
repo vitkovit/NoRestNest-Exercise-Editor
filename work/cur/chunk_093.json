@@ -1,0 +1,198 @@
+[
+ {
+  "id": "decline_push_up",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your feet on a bench and your hands on the floor shoulder-width apart.\n2. Form a straight line from head to heels and brace your core.\n3. Bend your elbows to about 45 degrees and lower your chest toward the floor.\n4. Push through your hands and straighten your arms back to the start.\n5. Repeat.",
+  "tips": "1. Keep your hips in line with your body and do not let them sag.\n2. Lower under control to load the chest.\n3. Exhale as you press up, inhale as you lower.\n4. Use a stable bench so your feet do not slip.",
+  "name": "Decline push up",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "decline_push_up_against_wall",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your hands on the floor shoulder-width apart and walk your feet up a wall.\n2. Form a straight line from head to feet with your feet pressed into the wall.\n3. Brace your core to keep your body rigid.\n4. Bend your elbows to about 45 degrees and lower your chest toward the floor.\n5. Push through your hands and straighten your arms back to the start.\n6. Repeat.",
+  "tips": "1. Keep your hands under your shoulders as you lower.\n2. Lower under control to stay stable in the steep position.\n3. Exhale as you press up, inhale as you lower.\n4. Press your feet firmly into the wall to stay secure.",
+  "name": "Decline push up against wall",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "decline_shoulder_tap",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Place your feet on a bench and your hands on the floor shoulder-width apart.\n2. Form a straight line from head to heels and brace your core.\n3. Lift your right hand and tap your left shoulder while keeping your hips level.\n4. Return your right hand to the floor.\n5. Lift your left hand and tap your right shoulder, then return it.\n6. Repeat.",
+  "tips": "1. Keep your hips square and resist twisting as you tap.\n2. Set your hands a little wider for a stable base.\n3. Move slowly so the core does the work, not momentum.\n4. Use a stable bench so your feet do not slip.",
+  "name": "Decline shoulder tap",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "decline_sit_up",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie back on a decline bench with your feet secured under the pads.\n2. Place your hands behind your head with your elbows out to the sides.\n3. Brace your core and lift your upper body toward your knees.\n4. Raise until your torso is near upright, keeping your back straight.\n5. Lower under control to the start.\n6. Repeat.",
+  "tips": "1. Lift with your abs, not by pulling on your neck.\n2. Keep your core braced to protect your lower back.\n3. Exhale as you sit up, inhale as you lower.\n4. Keep your feet anchored under the pads for stability.",
+  "name": "Decline sit up",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "decline_sit_ups_dumbbells",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie back on a decline bench with your feet secured and knees slightly bent.\n2. Hold a dumbbell in each hand against your chest.\n3. Brace your core and lift your upper body off the bench.\n4. Continue until you reach a seated position and feel your abs contract.\n5. Lower under control back to the start.\n6. Repeat.",
+  "tips": "1. Lift with your abs, not momentum.\n2. Hold the dumbbells firmly against your chest throughout.\n3. Exhale as you sit up, inhale as you lower.\n4. Keep your feet anchored to stay stable.",
+  "name": "Decline sit ups dumbbells",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

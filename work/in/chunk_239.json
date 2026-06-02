@@ -1,0 +1,87 @@
+[
+ {
+  "id": "barbell_landmine_chest_press",
+  "name": "Barbell landmine chest press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_landmine_side_bend",
+  "name": "Barbell Landmine Side Bend",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_larsen_bench_press",
+  "name": "Barbell Larsen Bench Press",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_low_bar_squat",
+  "name": "Barbell low bar squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back, positioned lower on your traps and rear deltoids. Grip the bar with your hands slightly wider than shoulder-width apart, ensuring a secure hold.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body until your thighs are parallel to the floor.\n3. Push through your heels to return to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Distribute your weight evenly across your feet to maintain balance and stability.\n2. Ensure a tight grip on the barbell to prevent it from shifting during the exercise.\n3. Keep your gaze forward to help maintain proper alignment and focus throughout the movement.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_muscle_clean",
+  "name": "Barbell muscle clean",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a squatted position with your feet hip-width apart, holding a barbell with an overhand grip (palms facing your body), hands slightly wider than shoulder-width apart. The barbell should be resting on the floor.\n2. Explosively extend your hips and knees while pulling the barbell up towards your chest, keeping it close to your body. As the barbell passes your knees, shrug your shoulders and continue to pull the barbell upward.\n3. Quickly rotate your elbows under the bar and catch it in a front rack position with your elbows pointing forward. Stand up straight to complete the lift.\n4. Lower the barbell back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep the barbell close to your body to ensure an efficient and powerful lift.\n2. Focus on an explosive hip extension to generate the necessary force for the clean.\n3. Engage your shoulders and traps during the shrug to assist in lifting the barbell.\n4. Use your legs and hips rather than relying solely on your arms to lift the barbell.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings",
+    "Upper Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Forearms",
+    "Biceps"
+   ]
+  }
+ }
+]

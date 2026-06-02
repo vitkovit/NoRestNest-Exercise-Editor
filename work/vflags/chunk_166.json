@@ -1,0 +1,22 @@
+[
+ {
+  "id": "good_mornings_dumbbells",
+  "change": "Added Adductors to secondary (sources cite adductor involvement steadying the hip hinge). Primary hamstrings/glutes/erector spinae and abs secondary confirmed correct."
+ },
+ {
+  "id": "good_mornings_kettlebell",
+  "change": "Added Adductors to secondary, same as dumbbell variant. Rest confirmed correct."
+ },
+ {
+  "id": "hack_squat_machine_squat",
+  "change": "No change. Quads primary; glutes/hamstrings/adductors/calves secondary all confirmed by EMG and exercise sources."
+ },
+ {
+  "id": "half_burpees",
+  "change": "No change. Quads/glutes/abs primary and shoulders(anterior delts)/hamstrings/calves secondary confirmed."
+ },
+ {
+  "id": "hammer_curl_resistance_band_simultaneous",
+  "change": "Moved forearms from primary to secondary (biceps brachii is the sole prime mover; brachioradialis/forearm assists). Changed latin Wrist Extensors -> Wrist Flexors since neutral-grip hold engages wrist flexors, not extensors. Note: brachioradialis/brachialis (the hammer-curl emphasis) have no dedicated allowed bucket, so represented via forearms->Wrist Flexors."
+ }
+]

@@ -1,0 +1,187 @@
+[
+ {
+  "id": "bodyweight_hip_thrust",
+  "category": "Bodyweight",
+  "equipment": "bench",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the floor with your upper back against a bench, knees bent and feet flat about shoulder-width apart.\n2. Cross your arms over your chest and brace your core.\n3. Press through your heels to drive your hips up until your torso and thighs form a straight line.\n4. Squeeze your glutes hard at the top, keeping your chin tucked and ribs down.\n5. Lower your hips under control back toward the floor.\n6. Repeat.",
+  "tips": "1. Drive through your heels, not your toes, to target the glutes.\n2. Exhale as you lift and inhale as you lower.\n3. Hold the top to maximize glute contraction.\n4. Keep your shins close to vertical at the top to avoid shifting load to the quads.",
+  "name": "Bodyweight Hip Thrust",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "bow_pose",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down on a mat with your arms alongside your body.\n2. Bend your knees and bring your heels toward your buttocks, then reach back and grip your ankles.\n3. Inhale and lift your chest and thighs off the floor by pulling your ankles up and back.\n4. Open your chest, draw your shoulders back, and gaze forward, balancing on your abdomen.\n5. Hold the position while breathing steadily, then release on an exhale.\n6. Repeat.",
+  "tips": "1. Kick your feet back into your hands to lift higher rather than just pulling with your arms.\n2. Keep your knees roughly hip-width to protect the lower back.\n3. Breathe steadily; do not hold your breath during the hold.\n4. Engage your glutes lightly to support the backbend.",
+  "name": "Bow Pose",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "cable_30_degree_shrug",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Set a cable pulley to the low position and attach a straight bar.\n2. Stand back about 60 cm and lean slightly back so the cable pulls at roughly a 30 degree angle.\n3. Grip the bar with both hands and let your shoulders relax down.\n4. Shrug your shoulders up and slightly back, squeezing your traps.\n5. Pause at the top, then lower under control.\n6. Repeat.",
+  "tips": "1. Move only at the shoulders; keep your arms straight throughout.\n2. The angled pull biases the upper traps, so squeeze hard at the top.\n3. Avoid rolling the shoulders; lift straight up and back.\n4. Exhale as you shrug up, inhale as you lower.",
+  "name": "Cable 30 Degree Shrug",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "cable_calve_raise",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand facing a low cable pulley with a straight bar, feet hip-width apart.\n2. Hold the bar in front of your hips and keep your knees nearly straight.\n3. Push through the balls of your feet to raise your heels as high as possible.\n4. Pause and squeeze at the top of the movement.\n5. Lower your heels slowly back to the start, feeling a stretch.\n6. Repeat.",
+  "tips": "1. Move only at the ankles to isolate the calves.\n2. Keep the knees nearly straight to emphasize the gastrocnemius.\n3. Hold the top contraction for a second.\n4. Use a full range of motion, allowing the heels to drop low.",
+  "name": "Cable Calve Raise",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Shin",
+    "latins": [
+     "Tibialis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "cable_core_palloff_press",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "timed",
+  "instructions": "1. Set a cable pulley to chest height and attach a single handle.\n2. Stand side-on to the machine and grip the handle with both hands at your chest.\n3. Step away to create tension and set your feet shoulder-width apart.\n4. Brace your core and press the handle straight out in front of your chest, resisting the pull to rotate.\n5. Hold for a moment, then bring the handle back to your chest under control.\n6. Repeat, then switch sides.",
+  "tips": "1. Keep your hips and shoulders square; do not let your torso twist toward the cable.\n2. Brace your abs hard throughout the press.\n3. Press slowly and with control rather than fast.\n4. Breathe steadily; do not hold your breath.",
+  "name": "Cable Core Palloff Press",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

@@ -1,0 +1,100 @@
+[
+ {
+  "id": "cossack_squat",
+  "name": "Cossack squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet wider than shoulder-width apart and your toes pointing slightly outward.\n2. Shift your weight to your right leg, bending your right knee while keeping your left leg straight. Lower your hips towards the floor, ensuring your right knee tracks over your right toes.\n3. Push through your right heel to return to the starting position, then repeat the movement on the left side by shifting your weight to your left leg and bending your left knee. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Focus on maintaining an upright chest and straight back to ensure proper form and prevent injury.\n2. Perform the movement with control, especially when shifting your weight and lowering your hips, to maximize muscle activation.\n3. Ensure your knee tracks over your toes during the squat to avoid unnecessary strain on your joints.\n4. Breathe steadily throughout the exercise, exhaling as you descend and inhaling as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Adductors",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "counterbalanced_skater_squat",
+  "name": "Counterbalanced skater squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand tall on your right foot, curl your left leg to 90 degrees, and extend your arms forward.\n2. Lower your hips while bending your right knee, lean forward, and maintain balance by moving your left thigh backward.\n3. Hold this position for a while, return to the initial position, and repeat.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and balance.\n2. Focus on maintaining an upright chest and straight back to ensure proper form and prevent injury.\n3. Breathe steadily throughout the exercise, exhaling as you lower into the squat and inhaling as you return to the starting position.\n4. Ensure your knee tracks over your toes during the squat to avoid unnecessary strain on your joints.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Adductors",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "crab_pose",
+  "name": "Crab pose",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by sitting on the floor with your legs bent, feet flat on the floor, and hands placed behind you with your fingers pointing towards your body.\n2. Engage your core and press through your palms and feet to lift your hips off the floor, creating a tabletop position with your body.\n3. Hold this position, ensuring your hips are lifted high and your torso is parallel to the floor, while keeping your head in line with your spine.\n4. After holding the position for the desired duration, slowly lower your hips back to the floor and return to the starting position.",
+   "tips": "1. Focus on pressing through your palms and feet to lift your hips as high as possible, creating a straight line from your shoulders to your knees.\n2. Use a mat or soft surface to support your hands and feet to prevent discomfort during the exercise.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Breathe deeply and steadily throughout the exercise, inhaling as you lift your hips and exhaling as you hold the position.",
+   "primary": [
+    "Glutes",
+    "Hamstrings",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Core Muscles"
+   ]
+  }
+ },
+ {
+  "id": "crab_twist_toe_touch",
+  "name": "Crab twist toe touch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by sitting on the floor with your legs bent, feet flat on the floor, and hands placed behind you with your fingers pointing towards your body.\n2. Engage your glutes and press through your palms and feet to lift your hips off the floor, creating a tabletop position with your body.\n3. Simultaneously lift your right hand and left foot off the floor and twist your torso to reach your right hand towards your left foot, attempting to touch your left toe.\n4. Return your hand  and leg to the floor and repeat the movement on the opposite side by lifting your left hand and reaching towards your right foot. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Perform the twist with control to maximize muscle activation and prevent injury.\n2. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n3. Breathe steadily throughout the exercise, exhaling as you twist and reach towards your toe and inhaling as you return to the starting position.\n4. Use a mat or soft surface to support your hands and feet to prevent discomfort during the exercise.",
+   "primary": [
+    "Glutes",
+    "Hamstrings",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps",
+    "Core Muscles"
+   ]
+  }
+ },
+ {
+  "id": "crescent_moon_pose_quad_stretch",
+  "name": "Crescent Moon Pose Quad Stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ }
+]

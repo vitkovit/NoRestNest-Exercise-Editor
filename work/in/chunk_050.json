@@ -1,0 +1,98 @@
+[
+ {
+  "id": "boxing_right_uppercut",
+  "name": "Boxing right uppercut",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in a boxing stance with your feet shoulder-width apart, left foot forward, and hands up in a guard position near your chin.\n2. Bend your knees slightly and rotate your hips and shoulders, bringing your right fist upward in a rising arc to throw an uppercut.\n3. Quickly retract your right arm back to the guard position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your non-punching hand up to protect your face and maintain a balanced stance.\n2. Engage your core to generate power and maintain stability.\n3. Focus on driving the punch from your legs and hips to add power to the uppercut.",
+   "primary": [
+    "Shoulders",
+    "Biceps",
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "brazilian_crunches",
+  "name": "Brazilian crunches",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position on your toes and hands, arms straight in line with shoulders, with your body in a straight line from head to heels.\n2. Bend your right knee and bring it towards your left elbow while lightly rotating your hips. Return your leg to starting position.\n3. Repeat the movement on the opposite side, bending your left knee and bringing it towards your right elbow while lightly rotating your hips. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Keep your movements controlled to ensure each repetition is deliberate and effective.\n2. Maintain a steady breathing pattern, exhaling as you bring your knee towards your elbow and inhaling as you return to the plank.\n3. Focus on maintaining proper plank form, keeping your body in a straight line from head to heels.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "bridge_hip_abduction",
+  "name": "Bridge hip abduction",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on your back with your knees bent, feet flat on the floor at shoulder width, and arms extended by your sides.\n2. Lift your hips off the floor to form a straight line from your shoulders to your knees, engaging your glutes and core.\n3. While keeping your hips elevated, move your knees outwards in a controlled manner and back.\n4. Repeat the movement  for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged to maintain stability and support your lower back.\n2. Ensure your hips remain elevated and level throughout the exercise to maximize glute activation.\n3. Perform the leg abductions slowly and with control to avoid any jerky movements and enhance muscle engagement.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Abductors",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "bridge_mountain_climber_cross_body",
+  "name": "Bridge - Mountain Climber (Cross Body)",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1.Begin in a plank position on your toes and hands, with your body in a straight line from head to heels.\n2. Bend your right knee and bring it towards your left elbow while lightly rotating your hips, stop when your knee passes the elbow.\n3. Return to the starting plank position, then repeat the movement on the opposite side.\n4. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Ensure you keep your movements smooth and controlled to maintain form and avoid injury.\n2. Maintain a steady breathing pattern, exhaling as you bring your knee towards your elbow and inhaling as you return to the plank position.\n3. Keep your shoulders stable and your core engaged throughout the exercise to enhance effectiveness.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "bridge_pose_setu_bandhasana",
+  "name": "Bridge pose setu bandhasana",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie down on your back with your knees bent, feet together on the floor, and arms resting at your sides.\n2. Raise your hips and straighten your thighs with your back while your knees are closed.\n3. Maintain this position, raise your arms and then land them overhead with your palms facing upward.\n4. Return to the initial position and repeat.",
+   "tips": "1. Keep your feet hip-width apart and ensure your knees stay aligned with your ankles to maintain proper form.\n2. Engage your core and glutes to support your lower back and maintain stability.\n3. Breathe deeply and evenly throughout the pose, relaxing your shoulders and neck.",
+   "primary": [
+    "Glutes",
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Quadriceps"
+   ]
+  }
+ }
+]

@@ -1,0 +1,238 @@
+[
+ {
+  "id": "narrow_stance_heels_elevated_dumbbell_goblet_squats",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet about hip-width apart and place your heels on a low wedge or plates 3 to 5 cm high.\n2. Hold one dumbbell vertically against your chest with both hands cupping the top head.\n3. Brace your core and keep your torso upright as you bend your knees and lower into a deep squat.\n4. Let your knees travel forward over your toes and descend until your thighs pass parallel.\n5. Drive through the balls of your feet to extend your knees and return to standing.\n6. Repeat.",
+  "tips": "1. Keep your chest tall and the dumbbell close to your sternum throughout.\n2. Let the knees track forward over the toes to load the quads.\n3. Control the descent rather than dropping into the bottom.\n4. Brace your abs to support the upright torso.",
+  "name": "Narrow Stance Heels Elevated Dumbbell Goblet Squats",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "nordic_hamstring_curl_with_partner",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on a soft mat with your torso upright and a partner pinning your ankles to the floor.\n2. Brace your core and squeeze your glutes to keep your hips and torso in a straight line.\n3. Lower your chest toward the floor slowly, resisting with your hamstrings as your knees extend.\n4. Catch yourself with your hands when you can no longer control the descent.\n5. Push off lightly and pull with your hamstrings to return to the upright position.\n6. Repeat.",
+  "tips": "1. Lower as slowly as possible to maximise eccentric hamstring load.\n2. Keep your hips extended so the line from knees to shoulders stays straight.\n3. Use your hands only to catch the bottom, not to do the work.\n4. Stop the set once you can no longer control the descent.",
+  "name": "Nordic Hamstring Curl With Partner",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "unilateral_box_jump_bilateral_deceleration",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand on one leg about 30 cm in front of a sturdy box.\n2. Dip into a quarter squat on the working leg and swing your arms back.\n3. Drive explosively through that leg and jump up onto the box.\n4. Land softly on both feet with knees bent to absorb the impact.\n5. Step down carefully and reset on the same leg.\n6. Repeat.",
+  "tips": "1. Land on both feet with soft, bent knees to decelerate safely.\n2. Use a strong arm swing to assist the single-leg drive.\n3. Choose a box height you can clear with control.\n4. Step down rather than jumping down to protect the joints.",
+  "name": "Unilateral Box Jump - Bilateral Deceleration",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "unilateral_box_jump",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand on one leg about 30 cm in front of a sturdy box.\n2. Dip into a quarter squat on the working leg and swing your arms back.\n3. Drive explosively through that leg and jump up onto the box.\n4. Land softly on the same foot with the knee bent to absorb the impact.\n5. Step down carefully and reset on the same leg.\n6. Repeat.",
+  "tips": "1. Land softly with a bent knee to absorb force.\n2. Use a strong arm swing to assist the single-leg drive.\n3. Choose a box height you can clear with control.\n4. Step down rather than jumping down to protect the joints.",
+  "name": "Unilateral Box Jump",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "unilateral_front_plank",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Set up in a forearm plank with elbows under shoulders and body in a straight line.\n2. Brace your core and squeeze your glutes to lock the position.\n3. Lift one arm off the floor and extend it forward without rotating your hips.\n4. Hold the position while resisting any twist of the torso.\n5. Return the arm and switch sides for an equal hold.\n6. Repeat.",
+  "tips": "1. Keep hips and shoulders square to resist rotation.\n2. Brace your abs and squeeze your glutes the whole time.\n3. Widen your feet for more stability if the hold is too hard.\n4. Breathe steadily rather than holding your breath.",
+  "name": "Unilateral Front Plank",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "elevated_push_up",
+  "name": "Elevated Push Up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Place your hands on elevated surfaces just wider than shoulder-width apart. Position your feet together on the floor, forming a straight line from your head to your heels.\n2. Engage your core and lower your chest towards the elevated surfaces by bending your elbows, keeping them at a 45-degree angle from your body.\n3. Lower your body until your chest nearly touches the floor between the elevated surfaces, maintaining a straight back and tight core throughout the movement.\n4. Push through your hands to return to the starting position, fully extending your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Perform the movement with control, lowering yourself slowly to maximize muscle activation and prevent injury.\n2. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.\n3. Avoid flaring your elbows out to the sides; keep them at a 45-degree angle to engage your chest and triceps more effectively.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "elevated_standing_calf_raise",
+  "name": "Elevated Standing Calf Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand on the edge of a step with your heels hanging off, placing your forefeet securely on the edge. Hold onto a stable surface for balance if necessary.\n2. Lower your heels below the level of the platform to feel a stretch in your calf muscles.\n3. Press through your forefeet to raise your heels as high as possible, fully contracting your calf muscles.\n4. Slowly lower your heels back down to the starting position, maintaining control throughout the movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on pressing through the forefeet and avoid using momentum to lift your heels.\n2. Maintain a slight bend in your knees to reduce strain and keep the movement fluid.\n3. Ensure the platform or step is stable and secure to prevent slipping or tipping during the exercise.",
+   "primary": [
+    "Calves"
+   ],
+   "secondary": [
+    "Foot Muscles"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_back_extension_with_hands_behind_head",
+  "name": "Exercise Ball Back Extension With Hands Behind Head",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Position yourself face down on an exercise ball with your hips resting on the ball and your feet anchored against a wall or stable surface for balance.\n2. Place your hands behind your head, elbows pointing out to the sides.\n3. Engage your core and lower your upper body towards the floor, rounding your back slightly.\n4. Lift your upper body back up until your body forms a straight line from your head to your hips. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on lifting with your back muscles rather than pulling with your hands to avoid neck strain.\n2. Breathe steadily, inhaling as you lower your body and exhaling as you lift it.\n3. Ensure your feet are firmly anchored to prevent slipping and maintain balance.\n4. Avoid overextending your back at the top of the movement to prevent strain.",
+   "primary": [
+    "Lower Back"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_back_stretch",
+  "name": "Exercise ball back stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on an exercise ball with your feet flat on the floor, hip-width apart, and your hands resting on your thighs.\n2. Slowly walk your feet forward and roll your body down the ball, allowing your back to drape over the ball until your lower back is supported.\n3. Extend your arms at your sides, allowing them to hang naturally to the floor, and relax into the stretch, letting your spine gently curve over the ball.\n4. Hold the stretch for 15-30 seconds, breathing deeply and allowing your back muscles to relax.",
+   "tips": "1. Ensure your feet are firmly planted on the floor to maintain stability and balance.\n2. Use a properly inflated exercise ball to ensure it supports your weight and provides a comfortable stretch.\n3. Focus on relaxing your back and letting your spine naturally curve over the ball.\n4. Breathe deeply and steadily, inhaling through your nose and exhaling through your mouth to enhance relaxation.",
+   "primary": [
+    "Lower Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "exercise_ball_body_saw",
+  "name": "Exercise Ball Body Saw",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your forearms resting on an exercise ball and your body forming a straight line from your head to your heels.\n2. Engage your core and slowly roll the ball a few inches away from your body.\n3. Reverse the motion by rolling the ball closer to your forearms.\n4. Continue the rolling motion for the desired number of repetitions, maintaining a straight body line throughout.",
+   "tips": "1. Breathe steadily throughout the exercise, exhaling as you move forward and inhaling as you move back.\n2. Avoid allowing your lower back to arch; keep your spine in a neutral position.\n3. Use a properly inflated exercise ball to ensure stability and control during the movement.",
+   "primary": [
+    "Core muscles"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

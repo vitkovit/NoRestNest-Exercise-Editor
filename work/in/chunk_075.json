@@ -1,0 +1,98 @@
+[
+ {
+  "id": "chest_fly_low_to_high_resistance_band",
+  "name": "Chest fly low to high Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach the resistance band to a high anchor point behind you. Stand facing away from the anchor point, holding a handle in each hand with your palms facing forward. \n2. Position one leg forward and the other back, with both knees slightly bent. Keep your back straight and your arms extended out to the sides at head height.\n3. Bring the handles down and together in a wide arc, meeting in front of your lower abdomen while keeping a slight bend in your elbows.\n4. Slowly raise your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise the handles and inhale as you lower them back down.\n2. Use a lighter resistance band if needed to ensure proper form and gradually increase the resistance as you get stronger.\n3. Focus on squeezing your upper chest muscles at the top of the movement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "chest_fly_side_step",
+  "name": "Chest fly side step",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart, arms bent at 90 degrees, and your elbows open wide at shoulder height.\n2. Step your right foot out to the side, bending your right knee slightly as you bring your elbows together in front of you until they are close together and back.\n3. Return to the starting position by stepping your left foot out to the side while repeating the fly motion with your arms.\n4. Repeat the movement alternating sides for the desired number of repetitions.",
+   "tips": "1. Perform the movement slowly and with control to maximize muscle activation and prevent injury.\n2. Ensure your arms remain bent at the elbows throughout the chest fly motion.\n3. Focus on squeezing your chest muscles as you bring your elbows together in front of you.",
+   "primary": [
+    "Chest",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "chest_lift_with_rotation",
+  "name": "Chest lift with rotation",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on your back with your knees bent and feet flat on the floor. Place your hands behind your head with your elbows wide.\n2. Engage your core and lift your upper body into a crunch position, holding the contraction at the top.\n3. While holding the crunch, rotate your torso to the right. Return to the center.\n4. Lower your upper body back to the floor, then repeat the movement, this time rotating to the left. Continue alternating sides for the desired number of repetitions.",
+   "tips": "1. Avoid pulling on your neck with your hands; use your abdominal muscles to lift and rotate your torso.\n2. Keep your elbows wide to ensure you are using your core muscles rather than your arms.\n3. Make sure your lower back remains pressed against the floor throughout the exercise.",
+   "primary": [
+    "Rectus Abdominis",
+    "Obliques"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "chest_out_hands_behind_hold",
+  "name": "Chest out hands behind (hold)",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart, keeping your back straight and shoulders relaxed.\n2. Interlace your fingers behind your back, extending your arms straight.\n3. Lift your arms slightly while pushing your chest out and squeezing your shoulder blades together.\n4. Hold this position for the desired duration, maintaining a steady and controlled breath throughout the stretch.",
+   "tips": "1. Focus on squeezing your shoulder blades together to deepen the stretch in your chest and shoulders.\n2. Keep your neck relaxed and in a neutral position to avoid tension.\n3. Use a mirror to check your form and ensure you are maintaining proper alignment.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "chest_press_front_resistance_band",
+  "name": "Chest press front Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach the resistance band to a sturdy anchor point behind you at chest height. Stand facing away from the anchor point, holding a handle in each hand with your palms facing down.\n2. Position one leg forward and the other back, with both knees slightly bent. Start with your elbows bent at 90 degrees, your hands at chest level, and your arms parallel to the floor.\n3. Push the handles forward until your arms are fully extended, keeping a slight bend in your elbows.\n4. Slowly return to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you push the handles forward and inhale as you return them to the starting position.\n2. Maintain a neutral wrist position to prevent strain.\n3. Focus on engaging your chest muscles throughout the movement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

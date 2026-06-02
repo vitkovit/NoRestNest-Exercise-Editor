@@ -1,0 +1,224 @@
+[
+ {
+  "id": "barbell_step_up_on_bench",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand facing a stable bench with a barbell across your upper back, hands slightly wider than shoulder-width.\n2. Place your right foot flat on the bench.\n3. Push through your right heel to lift your body up and stand tall on the bench.\n4. Step down with your left foot, then your right foot, back to the floor.\n5. Switch the leading leg and repeat.\n6. Repeat.",
+  "tips": "1. Push through the heel of the leading foot to drive the lift.\n2. Keep your torso upright and avoid pushing off the trailing foot.\n3. Exhale as you step up, inhale as you step down.\n4. Make sure the bench is stable before loading the bar.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_stiff_leg_deadlift",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip against your thighs.\n2. Keep your knees almost straight with only a slight bend.\n3. Hinge at the hips and push your glutes back to lower the bar down the front of your legs.\n4. Lower until you feel a stretch in your hamstrings, keeping your back flat.\n5. Drive your hips forward to stand and lift the bar back up.\n6. Repeat.",
+  "tips": "1. Keep your back flat and avoid rounding your spine.\n2. Hinge at the hips, not the lower back.\n3. Keep the bar close to your legs throughout.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_straight_leg_deadlift",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip against your thighs.\n2. Keep your legs straight but not locked.\n3. Hinge at the hips and push your glutes back to lower the bar down the front of your legs.\n4. Lower until you feel a stretch in your hamstrings, keeping your back flat.\n5. Drive your hips forward to stand and lift the bar back up.\n6. Repeat.",
+  "tips": "1. Keep your back flat and avoid rounding your spine.\n2. Hinge at the hips, not the lower back.\n3. Keep the bar close to your legs throughout.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_sumo_deadlift",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet wider than shoulder-width, toes pointed slightly out, bar over your midfoot.\n2. Hinge down and grip the bar with both hands inside your legs, using an overhand grip.\n3. Set your back flat, chest up, and hips down.\n4. Drive through your heels, extending your hips and knees together to lift the bar.\n5. Stand tall, then lower the bar to the floor with control.\n6. Repeat.",
+  "tips": "1. Keep your chest up and back flat throughout.\n2. Drive your knees out over your toes as you lift.\n3. Push the floor away through your heels.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Vastus Medialis",
+     "Vastus Lateralis",
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_sumo_romanian_deadlift",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet wider than shoulder-width, toes pointed slightly out, holding a barbell with an overhand grip against your thighs.\n2. Keep your knees softly bent and your back flat.\n3. Hinge at the hips and push your glutes back to lower the bar down your legs.\n4. Lower until you feel a stretch in your hamstrings and inner thighs.\n5. Drive your hips forward to stand and lift the bar back up.\n6. Repeat.",
+  "tips": "1. Keep your back flat and hinge from the hips.\n2. Push your knees out in line with your toes.\n3. Keep the bar close to your legs throughout.\n4. Exhale as you lift, inhale as you lower.",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ }
+]

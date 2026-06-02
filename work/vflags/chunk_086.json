@@ -1,0 +1,22 @@
+[
+ {
+  "id": "cossack_squat",
+  "change": "No change. Verified Quads + glutes (max & medius) + Adductors as primary movers; Hamstrings + Calves as secondary. Sources confirm adductors are a primary target alongside quads/glutes. Did not inflate with obliques despite some core stabilization."
+ },
+ {
+  "id": "counterbalanced_skater_squat",
+  "change": "No change. Single-leg squat: Quads + glutes primary; Hamstrings, Calves, and abs (single-leg trunk stabilization) secondary. Confirmed by sources."
+ },
+ {
+  "id": "crab_pose",
+  "change": "Reclassified. Sources consistently list glutes, hamstrings, and triceps as the primary muscles of the reverse-tabletop hold. Moved Hamstrings from secondary to primary; moved shoulders from primary to secondary. Changed shoulder head from 'Anterior Deltoids' to 'Posterior Deltoid' since the rear delts/posterior shoulder do the supporting work in the hands-behind position (chest/front delt is stretched, not loaded). Kept abs secondary."
+ },
+ {
+  "id": "crab_twist_toe_touch",
+  "change": "No change. Abs + obliques primary (rotation/anti-rotation); glutes, shoulders (anterior delt supporting the crab base), Triceps secondary. Confirmed."
+ },
+ {
+  "id": "crescent_moon_pose_quad_stretch",
+  "change": "No change. This is a quad/hip-flexor stretch; Quads (Rectus Femoris crosses the hip) is the best mappable target, with front-leg glute secondary. Note: the primary intent stretches hip flexors/psoas, which have no allowed bucket value, so they are omitted per format rules."
+ }
+]

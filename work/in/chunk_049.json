@@ -1,0 +1,105 @@
+[
+ {
+  "id": "boxing_jab",
+  "name": "Boxing jab",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in a boxing stance with your feet shoulder-width apart, left foot forward, and hands up in a guard position near your chin.\n2. Extend your left arm forward in a quick, snapping motion to throw a jab.\n3. Quickly retract your left arm back to the guard position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your non-punching hand up to protect your face and maintain a balanced stance.\n2. Engage your core to generate power and maintain stability.\n3. Rotate your hips and shoulders slightly to add power to the jab.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "boxing_left_hook",
+  "name": "Boxing left hook",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in a boxing stance with your feet shoulder-width apart, left foot forward, and hands up in a guard position near your chin.\n2. Rotate your hips and shoulders, bringing your left arm in a horizontal arc to throw a hook.\n3. Quickly retract your left arm back to the guard position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your non-punching hand up to protect your face and maintain a balanced stance.\n2. Engage your core to generate power and maintain stability.\n3. Focus on rotating your hips and shoulders to add power to the hook.",
+   "primary": [
+    "Shoulders",
+    "Triceps",
+    "Biceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "boxing_left_uppercut",
+  "name": "Boxing left uppercut",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in a boxing stance with your feet shoulder-width apart, left foot forward, and hands up in a guard position near your chin.\n2. Bend your knees slightly and rotate your hips and shoulders, bringing your left fist upward in a rising arc to throw an uppercut.\n3. Quickly retract your left arm back to the guard position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your non-punching hand up to protect your face and maintain a balanced stance.\n2. Engage your core to generate power and maintain stability.\n3. Focus on driving the punch from your legs and hips to add power to the uppercut.",
+   "primary": [
+    "Shoulders",
+    "Biceps",
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "boxing_right_cross",
+  "name": "Boxing right cross",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in a boxing stance with your feet shoulder-width apart, left foot forward, and hands up in a guard position near your chin.\n2. Rotate your hips and shoulders, extending your right arm forward in a straight line to throw a cross.\n3. Quickly retract your right arm back to the guard position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your non-punching hand up to protect your face and maintain a balanced stance.\n2. Engage your core to generate power and maintain stability.\n3. Rotate your back foot and hips to add power to the cross.",
+   "primary": [
+    "Shoulders",
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "boxing_right_hook",
+  "name": "Boxing right hook",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in a boxing stance with your feet shoulder-width apart, left foot forward, and hands up in a guard position near your chin.\n2. Rotate your hips and shoulders, bringing your right arm in a horizontal arc to throw a hook.\n3. Quickly retract your right arm back to the guard position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your non-punching hand up to protect your face and maintain a balanced stance.\n2. Engage your core to generate power and maintain stability.\n3. Focus on rotating your hips and shoulders to add power to the hook.",
+   "primary": [
+    "Shoulders",
+    "Triceps",
+    "Biceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Upper Back"
+   ]
+  }
+ }
+]

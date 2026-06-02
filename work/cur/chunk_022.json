@@ -1,0 +1,234 @@
+[
+ {
+  "id": "barbell_rack_pull",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set a barbell on a rack at just below knee height. Stand with feet hip-width apart, shins close to the bar.\n2. Grip the bar with an overhand grip, hands just outside your knees.\n3. Brace your core and pull your chest up to set a flat back.\n4. Drive through your heels and extend your hips and knees to stand tall.\n5. Lock out with shoulders back and hips fully extended, keeping the bar against your legs.\n6. Lower the bar back to the rack by hinging at the hips and bending the knees. Repeat.",
+  "tips": "1. Keep the bar in contact with your legs the whole lift.\n2. Set a flat back before you pull and keep it neutral.\n3. Squeeze your glutes hard at the top to finish the hip extension.\n4. Exhale as you stand, inhale as you lower.",
+  "name": "Barbell rack pull",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_rear_delt_raise",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell behind your glutes with an overhand grip, hands just wider than shoulder-width.\n2. Keep your back straight and core braced.\n3. Lift the bar up and away from your body by raising your elbows out to the sides.\n4. Squeeze your rear shoulders at the top.\n5. Lower the bar back to the start with control. Repeat.",
+  "tips": "1. Lead with your elbows, not your hands.\n2. Keep the movement slow and avoid swinging the bar.\n3. Use a light weight so the rear delts do the work.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Barbell rear delt raise",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_rear_lunge_on_box",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand on a sturdy box with feet hip-width apart, holding a barbell across your upper back.\n2. Grip the bar with hands just wider than shoulder-width and brace your core.\n3. Step one foot back off the box and lower into a lunge until the back knee nears the floor.\n4. Keep the front knee over the ankle and torso upright.\n5. Drive through the front heel to step back up onto the box.\n6. Alternate legs. Repeat.",
+  "tips": "1. Keep the front knee tracking over the toes.\n2. Lower under control to use the added range from the box.\n3. Drive through the front heel to load the glutes.\n4. Keep your torso tall and core tight for balance.",
+  "name": "Barbell rear lunge on box",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_rear_lunges",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, holding a barbell across your upper back.\n2. Grip the bar with hands just wider than shoulder-width and brace your core.\n3. Step one foot back and lower into a lunge until the back knee nears the floor.\n4. Keep the front knee over the ankle and torso upright.\n5. Drive through the front heel to return to standing.\n6. Alternate legs. Repeat.",
+  "tips": "1. Keep the front knee tracking over the toes.\n2. Lower under control through the full range.\n3. Drive through the front heel to engage the glutes.\n4. Keep your core braced to stay balanced.",
+  "name": "Barbell rear lunges",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_reverse_biceps_curl",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip, hands about shoulder-width.\n2. Let the bar hang at arm's length in front of your thighs.\n3. Keep your elbows pinned to your sides and curl the bar up toward your shoulders.\n4. Squeeze your forearms at the top.\n5. Lower the bar back to the start with control. Repeat.",
+  "tips": "1. Keep your wrists firm and straight throughout.\n2. Avoid swinging or using your shoulders to lift.\n3. Use a lighter weight than a standard curl, the grip is harder.\n4. Lower slowly to load the forearms.",
+  "name": "Barbell reverse biceps curl",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "universal"
+ }
+]

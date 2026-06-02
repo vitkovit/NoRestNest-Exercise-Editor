@@ -1,0 +1,98 @@
+[
+ {
+  "id": "standing_ab_wheel_rollout",
+  "name": "Standing Ab Wheel Rollout",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding an ab wheel with both hands. Engage your core and maintain an upright posture.\n2. Bend at your hips and knees to lower the ab wheel to the floor in front of your feet. Keep your arms extended and your back straight.\n3. Slowly roll the ab wheel forward, extending your body into a plank position. Ensure your core remains tight and your back stays straight throughout the movement.\n4. Roll the ab wheel back towards your feet, bending at your hips and knees to return to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Perform the movement slowly and with control to maximize muscle activation and reduce injury risk.\n2. Breathe steadily throughout the exercise, exhaling as you roll out and inhaling as you return.\n3. Keep your back straight and avoid sagging or arching your lower back.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Back",
+    "Hip Flexors",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "stepmill_machine_steps",
+  "name": "Stepmill machine Steps",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_abdominal_fallout",
+  "name": "Suspension Trainer with Grips Abdominal Fallout",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Stand in front of the hanging handles with your feet shoulder-width apart and grasp the handles with your palms facing down.\n2. Engage your core and lean forward, allowing your arms to extend overhead while maintaining a straight body line from head to heels.\n3. Lower your body until your arms are fully extended above your head, feeling the tension in your core.\n4. Pull your body back to the starting position by pulling your arms back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you lean forward and inhale as you return to the starting position.\n2. Adjust the length of the suspension trainer straps to increase or decrease the difficulty of the exercise.\n3. Keep your arms straight and avoid bending your elbows during the movement.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Chest",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_bent_knee_inverted_row",
+  "name": "Suspension Trainer with Grips Bent Knee Inverted Row",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Sit on the floor with your knees bent and feet flat on the floor, holding the handles with a neutral grip (palms facing each other).\n2. Lean back, extend your arms, and lift your hips off the floor, keeping your body in a straight line from head to knees parallel to the floor.\n3. Pull your chest towards the handles by bending your elbows and squeezing your shoulder blades together.\n4. Slowly lower your body back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you pull your chest towards the handles and inhale as you return to the starting position.\n2. Focus on using your back muscles to pull yourself up, avoiding excessive use of your arms.\n3. Keep your shoulders relaxed and avoid shrugging them towards your ears.",
+   "primary": [
+    "Upper Back",
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Forearms",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_chest_fly",
+  "name": "Suspension Trainer with Grips Chest Fly",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about waist height. Stand facing away from the anchor point with your feet shoulder-width apart, holding the handles with your palms facing each other.\n2. Engage your core and lean forward, extending your arms straight to the sides to form a T-shape. Your body should be in a straight line from head to heels.\n3. Slowly bring your hands together in front of your chest by squeezing your chest muscles, keeping a slight bend in your elbows.\n4. Return to the starting position by allowing your arms to extend back to the sides with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you bring your hands together and inhale as you return to the starting position.\n2. Focus on using your chest muscles to bring your hands together, avoiding excessive use of your arms.\n3. Keep your core tight to maintain a straight body line and avoid sagging your hips.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back",
+    "Core"
+   ]
+  }
+ }
+]

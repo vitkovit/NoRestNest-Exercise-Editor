@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbell_seated_reverse_grip_concentration_curl", "issue": "Brachialis and brachioradialis are the primary movers per EMG; vocabulary has no brachialis bucket so it is folded into biceps (Biceps Brachii) and brachioradialis into forearms (Wrist Extensors)."},
+ {"id": "dumbbell_side_bend", "issue": "Quadratus lumborum is the true prime mover for lateral trunk flexion but has no allowed bucket/latin; mapped to Lower Back (Erector Spinae) as closest secondary. Single-side movement, but both obliques engage."}
+]

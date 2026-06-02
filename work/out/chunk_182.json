@@ -1,0 +1,82 @@
+[
+ {
+  "id": "lying_prone_abdominal_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with legs extended and hands flat under your shoulders.\n2. Press your hands into the floor to lift your chest upward and extend your spine.\n3. Keep your hips and legs relaxed on the floor.\n4. Raise until you feel a stretch across your abdomen and lower back.\n5. Hold 15-30 seconds, then lower your chest back down.\n6. Repeat.",
+  "tips": "1. Roll your shoulders back and down to open the chest.\n2. Breathe slowly and steadily through the hold.\n3. Keep your hips pressed into the floor.\n4. Use a mat for comfort.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "chest", "latins": ["Clavicular Head", "Sternal Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "lying_pull_over_with_resistance_band_cable",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the band to a low point behind your head.\n2. Lie on your back, knees bent and feet flat, holding a handle in each hand.\n3. Extend your arms straight above your head, palms facing forward.\n4. Keeping arms straight, pull the handles in an arc over your head until they reach your thighs.\n5. Slowly return the handles overhead with control.\n6. Repeat.",
+  "tips": "1. Keep a slight, fixed bend in the elbows throughout.\n2. Drive the movement from your lats, not your arms.\n3. Exhale as you pull over, inhale as you return.\n4. Keep your ribs down and core braced to protect the lower back.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ]
+ },
+ {
+  "id": "lying_quadriceps_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with legs extended and arms by your sides.\n2. Bend your right knee and reach back with your right hand to grasp the ankle.\n3. Gently pull the foot toward your glutes, feeling the stretch in the front of the thigh.\n4. Keep your hips pressed into the floor.\n5. Hold 15-30 seconds, then release and switch legs.\n6. Repeat.",
+  "tips": "1. Keep your hips down to avoid arching the lower back.\n2. Move slowly, no sudden pulling.\n3. Use a strap around the ankle if you cannot reach the foot.\n4. Breathe steadily through the hold.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "Shin", "latins": ["Tibialis"]}
+  ]
+ },
+ {
+  "id": "lying_side_quadriceps_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your side with legs extended and your head resting on your lower arm.\n2. Bend your top knee and reach back with your top hand to grasp the ankle.\n3. Gently pull the foot toward your glutes, feeling the stretch in the front of the thigh.\n4. Keep your hips stacked and body in a straight line.\n5. Hold 15-30 seconds, then release and switch sides.\n6. Repeat.",
+  "tips": "1. Keep hips stacked to maintain alignment.\n2. Use a strap around the ankle if you cannot reach the foot.\n3. Breathe steadily through the hold.\n4. Bend the lower hip slightly to protect the lower back.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ],
+  "secondary": [
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ]
+ },
+ {
+  "id": "machine_chest_press_decline",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the decline chest press machine with your feet flat on the floor.\n2. Grasp the handles at chest level with palms facing down.\n3. Press the handles forward and down by extending your arms.\n4. Squeeze your chest at the end of the press.\n5. Slowly return the handles to chest level with control.\n6. Repeat.",
+  "tips": "1. Keep your back against the pad throughout.\n2. Drive through the chest, not just the arms.\n3. Exhale as you press, inhale as you return.\n4. Control the return rather than letting the weight drop.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ }
+]

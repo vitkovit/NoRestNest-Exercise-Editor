@@ -1,0 +1,5 @@
+[
+ {"id": "scapula_push_up", "issue": "Prime mover is the serratus anterior, which has no allowed bucket/latin value; omitted. Used mid back (Rhomboids/Lower Traps) as primary since they are the scapular movers represented in the vocabulary."},
+ {"id": "russian_twist_weighted_ball", "issue": "Input equipment was 'bodyweight' but exercise uses a weighted/medicine ball; corrected to 'other' (no 'medicine ball' or generic 'ball' option in dropdown; closest is 'other')."},
+ {"id": "reverse_shoulder_stretch", "issue": "Passive stretch, not a strength movement; muscles listed are those being stretched/loaded (anterior deltoid, chest, biceps). 'group' values approximate stretch emphasis."}
+]

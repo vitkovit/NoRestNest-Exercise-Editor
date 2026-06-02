@@ -1,0 +1,96 @@
+[
+ {
+  "id": "lying_prone_abdominal_stretch",
+  "name": "lying (prone) abdominal stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin by lying face down on the floor with your legs extended straight behind you and your hands placed under your shoulders, palms flat on the floor.\n2. Slowly press your hands into the floor to lift your chest upward, extending your spine. Keep your hips and legs relaxed on the floor.\n3. Continue to lift your chest until you feel a comfortable stretch in your abdomen and lower back. Hold this position for 15-30 seconds, keeping your elbows slightly bent.\n4. Slowly lower your chest back down to the floor and return to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid locking your elbows; keep them slightly bent to prevent strain on your joints.\n2. Breathe deeply and steadily, inhaling as you lift your chest and exhaling as you hold the stretch.\n3. Perform the stretch on a comfortable surface, such as a yoga mat, to prevent discomfort or injury.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "lying_pull_over_with_resistance_band_cable",
+  "name": "Lying pull over with Resistance band cable",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach the middle of the resistance band to a low anchor point behind you. Lie on your back on the floor, knees bent and feet flat on the floor, holding a handle in each hand with your arms extended straight above your head, palms facing forward.\n2. Keeping your arms straight, pull the handles over your head and towards the floor until your arms are in line with your body.\n3. Slowly return the handles to the starting position with control, keeping your arms straight. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the handles over your head and inhale as you return them to the starting position.\n2. Maintain a slight bend in your elbows to reduce strain on your joints.\n3. Focus on engaging your lats and chest muscles throughout the movement.",
+   "primary": [
+    "Middle Back",
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "lying_quadriceps_stretch",
+  "name": "Lying quadriceps stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie face down on the floor with your legs extended straight and your arms resting by your sides.\n2. Bend your right knee and reach back with your right hand to grasp your right ankle or foot.\n3. Gently pull your right foot towards your glutes, feeling the stretch in your right quadriceps. Keep your hips pressed into the floor.\n4. Hold the stretch for 15-30 seconds, then slowly release your right foot and return to the starting position. Repeat the stretch on your left leg. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Keep your hips pressed into the floor to maximize the stretch in your quadriceps and avoid straining your lower back.\n2. Move slowly and with control to avoid any sudden movements that could cause strain.\n3. If you cannot reach your foot comfortably, use a towel or strap around your ankle to assist with the stretch.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "lying_side_quadriceps_stretch",
+  "name": "Lying side quadriceps stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your side with your legs extended straight and your head resting on your lower hand. Extend your top arm and reach back to grasp your top ankle or foot.\n2. Bend your top knee and gently pull your foot towards your glutes with your hand, feeling the stretch in your quadriceps. Keep your hips stacked and your body in a straight line.\n3. Hold the stretch for 15-30 seconds, breathing deeply and steadily.\n4. Slowly release your foot and return to the starting position. Repeat the stretch on the other side. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Keep your hips stacked and your body in a straight line to maintain proper alignment and maximize the stretch.\n2. If you cannot reach your foot comfortably, use a towel or strap around your ankle to assist with the stretch.\n3. Focus on deep, steady breathing, inhaling as you prepare for the stretch and exhaling as you hold the stretch.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "machine_chest_press_decline",
+  "name": "Machine chest press decline",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the decline chest press machine with your feet flat on the floor. Grasp the handles with both hands at chest level, palms facing down.\n2. Press the handles forward by extending your arms, keeping your elbows slightly bent at the end of the movement.\n3. Squeeze your chest muscles at the bottom of the movement and slowly return the handles to the starting position with control, bringing them back to chest level.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Focus on engaging your chest muscles throughout the movement.\n3. Exhale as you press the handles forward and downward, and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ }
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "id": "barbell_lunges",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand tall with a barbell resting across your upper back, hands gripping the bar just outside your shoulders.\n2. Brace your core and step forward with one leg.\n3. Lower your body until your front thigh is parallel to the floor and your back knee nearly touches the ground.\n4. Push through your front heel to return to the standing start position.\n5. Alternate legs.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and your chest tall throughout the movement.\n2. Drive through the front heel to engage the glutes and quads.\n3. Take a long enough step so the front knee stays over the ankle.\n4. Brace your core to keep the barbell stable.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "barbell_lunges_on_the_spot",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand tall with a barbell resting across your upper back, hands gripping the bar just outside your shoulders.\n2. Step one leg forward into a split stance.\n3. Lower straight down until your front thigh is parallel to the floor and your back knee nearly touches the ground.\n4. Push through your front heel to rise back up, keeping your feet in place.\n5. Finish all reps on one side, then switch legs.\n6. Repeat.",
+  "tips": "1. Keep both feet planted in the same spot for each rep.\n2. Keep your torso upright and core braced.\n3. Drive through the front heel to load the glutes and quads.\n4. Push more through the back leg to return to the top.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial", "Soleus"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "barbell_lying_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie face down on a high flat bench with your chest supported and feet on the floor.\n2. Hold a barbell below you with an overhand grip, hands shoulder-width apart, arms fully extended.\n3. Pull the barbell toward your lower chest by driving your elbows back and squeezing your shoulder blades together.\n4. Pause briefly at the top.\n5. Lower the barbell under control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Keep your chest pressed into the bench to remove momentum.\n2. Squeeze your shoulder blades together at the top.\n3. Lead with your elbows, not your hands, to target the back.\n4. Exhale as you pull, inhale as you lower.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps", "Upper Traps"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "barbell_lying_triceps_extension",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with your feet flat on the floor.\n2. Hold a barbell with an overhand grip, hands shoulder-width apart, arms extended above your chest.\n3. Bend your elbows to lower the barbell behind your head, keeping your upper arms still.\n4. Stop when you feel a stretch in the triceps.\n5. Extend your elbows to press the barbell back to the start.\n6. Repeat.",
+  "tips": "1. Keep your upper arms fixed and only move your forearms.\n2. Lower the bar behind your head to stretch the long head.\n3. Control the descent to protect your elbows.\n4. Keep a firm grip throughout the set.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "barbell_lying_triceps_skull_crushers",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with your feet flat on the floor.\n2. Hold a barbell with an overhand grip, hands shoulder-width apart, arms extended above your chest.\n3. Bend your elbows to lower the barbell toward your forehead, keeping your upper arms still.\n4. Stop just above your forehead.\n5. Extend your elbows to press the barbell back to the start.\n6. Repeat.",
+  "tips": "1. Keep your upper arms stationary and only move your forearms.\n2. Lower the bar slowly under control to protect your forehead and elbows.\n3. Keep your wrists straight and grip firm.\n4. Exhale as you press up.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

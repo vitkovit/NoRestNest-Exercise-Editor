@@ -1,0 +1,102 @@
+[
+ {
+  "id": "leg_extended_stretch_on_bench",
+  "name": "Leg extended stretch on bench",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by sitting on the edge of a bench with both legs bent and your feet flat on the floor. Keep your back straight and your core engaged.\n2. Extend your right leg forward until it is parallel to the floor, keeping your leg straight.\n3. Hold the stretch for 15-30 seconds, feeling the stretch in your hamstring and lower back.\n4. Slowly bring your right leg back to the starting position with both feet flat on the floor. Repeat the stretch with your left leg extended. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Ensure your extended leg is straight and parallel to the floor to get the most effective stretch.\n2. Perform the stretch on a stable, non-slip surface to prevent discomfort or injury.\n3. If you find it difficult to hold your leg up, you can use your hands to support your thigh.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "leg_lift_circles",
+  "name": "Leg lift circles",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs extended and your arms at your sides, palms facing down.\n2. Lift both legs off the floor, about a foot above the floor, keeping your legs straight and your core engaged.\n3. Begin to draw small circles in the air with both legs moving together in a controlled and steady motion. Perform the circles in one direction for a set number of repetitions.\n4. Switch directions and draw circles with both legs in the opposite direction for the same number of repetitions. Lower your legs back to the starting position.",
+   "tips": "1. Keep your legs as straight as possible to maximize the stretch and engagement in your hip flexors and quadriceps.\n2. Perform the exercise on a comfortable, non-slip surface to prevent discomfort or injury.\n3. If you find it difficult to keep your legs straight, you can start with smaller circles and gradually increase the size as you build strength and flexibility.",
+   "primary": [
+    "Core",
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Inner Thigh",
+    "Outer Thigh"
+   ]
+  }
+ },
+ {
+  "id": "leg_press_machine_close_stance",
+  "name": "Leg press machine close stance",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the leg press machine and position your feet close together in the center of the foot platform, keeping your feet flat and parallel. Adjust the seat so that your knees are bent at about a 90-degree angle.\n2. Hold the handles on the sides of the seat for stability. Keep your back pressed against the backrest and your core engaged.\n3. Press through your heels to extend your legs, pushing the platform away from you until your legs are fully extended but not locked at the knees.\n4. Slowly return to the starting position by bending your knees with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Ensure both feet remain flat on the platform for better stability and muscle balance.\n3. Exhale as you press the platform away and inhale as you return to the starting position.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "leg_press_wide_high_stance",
+  "name": "Leg press wide high stance",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the leg press machine and position your feet just wider than shoulder-width, high in the center of the foot platform, keeping your feet flat and parallel. Adjust the seat so that your knees are bent at about a 90-degree angle.\n2. Hold the handles on the sides of the seat for stability. Keep your back pressed against the backrest and your core engaged.\n3. Press through your heels to extend your legs, pushing the platform away from you until your legs are fully extended but not locked at the knees.\n4. Slowly return to the starting position by bending your knees with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Ensure both feet remain flat on the platform for better stability and muscle balance.\n3. Exhale as you press the platform away and inhale as you return to the starting position.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "leg_press_wide_high_stance_behind_view",
+  "name": "Leg press wide high stance behind view",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the leg press machine and position your feet just wider than shoulder-width, high in the center of the foot platform, keeping your feet flat and parallel. Adjust the seat so that your knees are bent at about a 90-degree angle.\n2. Hold the handles on the sides of the seat for stability. Keep your back pressed against the backrest and your core engaged.\n3. Press through your heels to extend your legs, pushing the platform away from you until your legs are fully extended but not locked at the knees.\n4. Slowly return to the starting position by bending your knees with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Ensure both feet remain flat on the platform for better stability and muscle balance.\n3. Exhale as you press the platform away and inhale as you return to the starting position.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

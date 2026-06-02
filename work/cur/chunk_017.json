@@ -1,0 +1,203 @@
+[
+ {
+  "id": "barbell_jm_bench_press",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on a flat bench with feet flat on the floor, holding a barbell with hands shoulder-width apart and arms extended above your chest.\n2. Lower the bar by bending your elbows, keeping them tucked toward your sides.\n3. Bring the bar down and slightly back toward your upper chest and neck until your forearms near your biceps.\n4. Drive the bar back up by extending your elbows, focusing on the triceps.\n5. Repeat.",
+  "tips": "1. Keep your elbows tucked, not flared, to load the triceps.\n2. Lower the bar slowly and under control.\n3. Use a weight light enough to keep the elbow path stable.",
+  "name": "Barbell JM bench press",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_kneeling_squat",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Kneel on a mat with knees hip-width apart, holding a barbell across your upper back with hands slightly wider than shoulder-width.\n2. Sit back onto your heels, lowering your glutes toward your calves.\n3. Keep your torso upright and core braced.\n4. Drive your hips forward to return upright, squeezing your glutes at the top.\n5. Repeat.",
+  "tips": "1. Squeeze your glutes hard at the top of each rep.\n2. Keep your torso tall and avoid arching your lower back.\n3. Exhale as you drive up, inhale as you sit back.\n4. Pad your knees for comfort.",
+  "name": "Barbell kneeling squat",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_lap_curl",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with feet flat on the floor, holding a barbell with palms up, shoulder-width apart, resting on your thighs near your knees.\n2. Curl the bar up by bending your elbows, keeping your upper arms against your sides.\n3. Squeeze your biceps at the top.\n4. Lower the bar back toward your thighs under control.\n5. Repeat.",
+  "tips": "1. Keep your upper arms still to isolate the biceps.\n2. Avoid swinging or using momentum.\n3. Control the lowering phase fully.",
+  "name": "Barbell lap curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_lateral_lunges",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell across your upper back with hands slightly wider than shoulder-width.\n2. Step out wide to the right, bending your right knee and pushing your hips back while keeping the left leg straight.\n3. Keep your chest up and your right foot flat.\n4. Push through your right heel to return to standing.\n5. Repeat on the left side, alternating legs.\n6. Repeat.",
+  "tips": "1. Push your hips back and sit into the bent leg.\n2. Keep your chest up and back flat throughout.\n3. Track your knee over your foot, not past your toes.\n4. Control the descent before driving back up.",
+  "name": "Barbell lateral lunges",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "barbell_long_landmine_row",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Place one end of a barbell in a landmine attachment or wedged into a corner, with the loaded end behind you.\n2. Stand to the side, feet shoulder-width apart, then bend at the hips and knees with a flat back and grip the bar with one hand.\n3. Start with your arm fully extended and the bar hanging down.\n4. Pull the bar toward your side by driving your elbow back and squeezing your shoulder blade.\n5. Lower the bar under control to full extension.\n6. Repeat.",
+  "tips": "1. Keep a flat, neutral spine throughout.\n2. Brace your core to resist twisting toward the working side.\n3. Pull with your back, not just your arm.\n4. Move the bar smoothly without jerking.",
+  "name": "Barbell Long Landmine Row",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

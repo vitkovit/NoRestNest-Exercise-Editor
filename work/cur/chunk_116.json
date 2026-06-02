@@ -1,0 +1,157 @@
+[
+ {
+  "id": "dumbbell_incline_alternate_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit back on an incline bench set near 45 degrees, holding a dumbbell in each hand with arms hanging down and palms facing each other.\n2. Curl the right dumbbell up toward the shoulder, rotating the wrist so the palm faces up.\n3. Squeeze the biceps at the top.\n4. Lower the right dumbbell with control back to the start.\n5. Repeat on the left arm, alternating sides.\n6. Repeat.",
+  "tips": "1. Keep the upper arms back against the bench to stretch the biceps.\n2. Move slowly and avoid swinging the weight.\n3. Exhale on the way up, inhale on the way down.\n4. Keep the wrist firm through the rotation.",
+  "name": "Dumbbell Incline Alternate Curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_alternate_hammer_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit back on an incline bench set near 45 degrees, holding a dumbbell in each hand with arms hanging down and palms facing each other.\n2. Curl the right dumbbell up toward the shoulder, keeping the palm facing in.\n3. Squeeze at the top.\n4. Lower the right dumbbell with control, keeping the neutral grip.\n5. Repeat on the left arm, alternating sides.\n6. Repeat.",
+  "tips": "1. Keep the upper arms back against the bench for a full stretch.\n2. Hold the neutral grip throughout to load the brachialis and forearm.\n3. Move slowly and avoid swinging.\n4. Exhale on the way up, inhale on the way down.",
+  "name": "Dumbbell Incline Alternate Hammer Curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_alternate_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie back on an incline bench set near 45 degrees, holding a dumbbell in each hand at chest level with palms facing forward.\n2. Press the right dumbbell up until the arm is fully extended.\n3. Lower the right dumbbell with control to chest level.\n4. Press the left dumbbell up while keeping the right in position.\n5. Continue alternating arms.\n6. Repeat.",
+  "tips": "1. Keep the wrists straight and stacked over the elbows.\n2. Brace the core to resist twisting as you press one side.\n3. Keep the non-working dumbbell steady at the chest.\n4. Use a weight you can control through the full range.",
+  "name": "Dumbbell Incline Alternate Press",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_bench_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie back on an incline bench set near 45 degrees, holding a dumbbell in each hand at chest level with palms facing forward.\n2. Press both dumbbells up until the arms are fully extended.\n3. Bring the dumbbells together near the top without clashing them.\n4. Lower both dumbbells with control to chest level.\n5. Repeat.",
+  "tips": "1. Keep the wrists straight and stacked over the elbows.\n2. Keep the shoulder blades pulled back and down against the bench.\n3. Lower until you feel a stretch in the upper chest.\n4. Use a weight you can control through the full range.",
+  "name": "Dumbbell Incline Bench Press",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_incline_biceps_simultaneous_curl",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit back on an incline bench set near 45 degrees, holding a dumbbell in each hand with arms hanging down and palms facing forward.\n2. Curl both dumbbells up toward the shoulders by bending the elbows.\n3. Squeeze the biceps at the top.\n4. Lower both dumbbells with control until the arms are fully extended.\n5. Repeat.",
+  "tips": "1. Keep the upper arms back against the bench to stretch the biceps.\n2. Move slowly and avoid swinging the weights.\n3. Keep the wrists straight and aligned with the forearms.\n4. Exhale on the way up, inhale on the way down.",
+  "name": "Dumbbell Incline Biceps Simultaneous Curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

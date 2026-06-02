@@ -1,0 +1,4 @@
+[
+ {"id": "push_up_plus", "issue": "Primary working muscle is serratus anterior (scapular protraction), which has no allowed bucket/latin value; omitted. Chest and anterior deltoid retained as the pressing component."},
+ {"id": "raised_leg_crunch", "issue": "Legs held vertical recruit hip flexors (iliopsoas/rectus femoris) for stabilization; no clean allowed value for hip flexor stabilization in a crunch, so omitted to avoid inflating Quads."}
+]

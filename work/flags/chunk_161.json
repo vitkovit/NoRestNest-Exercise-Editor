@@ -1,0 +1,5 @@
+[
+ {"id": "hammer_curl_resistance_band_simultaneous", "issue": "Brachialis is a primary mover in hammer curls but has no allowed latin value in the biceps bucket (only 'Biceps Brachii'), so it was omitted. Brachioradialis mapped to forearms->Wrist Extensors per its allowed list."},
+ {"id": "hack_squat_machine_squat", "issue": "Equipment was 'other' in source; hack squat machine mapped to 'machine'. Adductor involvement is foot-position dependent; included as secondary based on EMG sources."},
+ {"id": "good_mornings_kettlebell", "issue": "Source equipment was 'other'; corrected to 'kettlebell' per the exercise name."}
+]

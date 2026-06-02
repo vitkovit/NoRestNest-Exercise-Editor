@@ -1,0 +1,4 @@
+[
+ {"id": "dumbbell_overhead_extension_standing", "issue": "Anconeus is a meaningful triceps assistor at the elbow but has no allowed bucket/latin value; omitted."},
+ {"id": "dumbbell_overhead_sit_up", "issue": "Hip flexors (iliopsoas) assist the sit-up but iliopsoas has no allowed latin; mapped to Quads/Rectus Femoris as the closest hip-flexor proxy in the vocabulary."}
+]

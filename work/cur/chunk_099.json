@@ -1,0 +1,204 @@
+[
+ {
+  "id": "dumbbell_armpit_row",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with arms extended and palms facing your body.\n2. Pull the dumbbells up toward your armpits by bending your elbows.\n3. Drive your elbows high and out to the sides as you lift.\n4. Lower the dumbbells under control to the starting position.\n5. Repeat.",
+  "tips": "1. Lead with your elbows, not your hands.\n2. Keep your back straight and chest up.\n3. Exhale as you lift, inhale as you lower.\n4. Use a controlled tempo and avoid swinging.",
+  "name": "Dumbbell armpit row",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_around_pullover",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on a bench with feet on the floor, holding a dumbbell in each hand with arms extended at your sides.\n2. Raise the dumbbells in an arc over your torso and back behind your head, keeping arms long.\n3. Bring the dumbbells back over your chest in an arc to the start.\n4. Keep the motion smooth and controlled throughout.\n5. Repeat.",
+  "tips": "1. Move from the shoulders, not momentum.\n2. Keep a slight bend in the elbows.\n3. Keep wrists straight and aligned with your forearms.\n4. Inhale as you lower behind your head, exhale as you return.",
+  "name": "Dumbbell Around Pullover",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_around_the_world",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand at your sides.\n2. Lift the dumbbells in a wide arc out to your sides, keeping arms long.\n3. Continue the arc until the dumbbells meet above your head.\n4. Lower them back down the same wide arc to the start.\n5. Repeat.",
+  "tips": "1. Keep a slight bend in the elbows.\n2. Brace your core and avoid arching your lower back.\n3. Use a light weight to keep the motion controlled.\n4. Keep wrists straight throughout.",
+  "name": "Dumbbell around the world",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_bar_grip_sumo_squat",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet wider than shoulder-width, toes turned slightly out, holding one dumbbell vertically with both hands in front of your hips.\n2. Push your hips back and bend your knees to lower until your thighs are parallel to the floor.\n3. Keep your chest up and the dumbbell close to your body.\n4. Drive through your heels to stand and squeeze your glutes at the top.\n5. Repeat.",
+  "tips": "1. Track your knees in line with your toes.\n2. Keep your weight on your heels and midfoot.\n3. Inhale as you lower, exhale as you stand.\n4. Keep your torso upright throughout.",
+  "name": "Dumbbell Bar Grip Sumo Squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_bench_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on a bench with a dumbbell in each hand, arms extended above your chest.\n2. Keep feet flat on the floor and maintain a natural arch in your lower back.\n3. Lower the dumbbells to chest level by bending your elbows at about 45 degrees to your torso.\n4. Press the dumbbells back up until your arms are extended.\n5. Repeat.",
+  "tips": "1. Keep wrists straight and stacked over your elbows.\n2. Keep elbows at about 45 degrees to protect your shoulders.\n3. Inhale as you lower, exhale as you press.\n4. Keep your shoulder blades pulled back and down on the bench.",
+  "name": "Dumbbell Bench Press",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

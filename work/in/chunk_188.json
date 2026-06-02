@@ -1,0 +1,99 @@
+[
+ {
+  "id": "plank_reach_through",
+  "name": "Plank reach through",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a side plank position on your right side with your right elbow supporting your body, your left arm raised vertically towards the ceiling, and your body forming a straight line from head to heels.\n2. Lower your left arm, reaching it under and across your torso while slightly lowering your hips.\n3. Return your left arm to the starting position, lifting your hips back to the straight line.\n4. Repeat for the desired number of repetitions, then switch to the left side and repeat the movement with your right arm.",
+   "tips": "1. Engage your core throughout the exercise to maintain stability and support your lower back.\n2. Ensure your supporting arm or elbow is directly under your shoulder to maintain proper alignment and reduce strain.\n3. Keep your hips stable and aligned with your body, avoiding excessive rotation.\n4. Focus on steady breathing, exhaling as you reach under your torso and inhaling as you return to the starting position.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "plank_reverse_fly_with_bottle",
+  "name": "Plank reverse fly with bottle",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Start in a high plank position with your hands placed directly under your shoulders and your body forming a straight line from head to heels. Hold a water bottle in your right hand, and keep your feet slightly wider than hip-width apart for stability.\n2. Lift the water bottle out to the side while keeping your arm straight, raising it until it is parallel to the floor.\n3. Slowly lower the bottle back to the starting position with control.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged to maintain a stable plank position and prevent your hips from sagging or rotating.\n2. Perform the movement slowly and with control to maximize muscle engagement and avoid using momentum.\n3. Keep your arm straight and avoid locking your elbow to protect your joint.",
+   "primary": [
+    "Shoulders",
+    "Core Muscles"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "plank_shoulder_taps",
+  "name": "Plank shoulder taps",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands directly under your shoulders and your body forming a straight line from head to heels.\n2. Lift your right hand off the floor and tap your left shoulder, keeping your hips stable and minimizing rotation.\n3. Return your right hand to the starting position.\n4. Repeat the movement with your left hand, lifting it off the floor and tapping your right shoulder. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Keep your hips level throughout the movement to maintain proper form and avoid rotating your torso.\n2. Perform the exercise on a stable, non-slip surface to prevent slipping and ensure safety.\n3. Keep your shoulders directly over your wrists to maintain alignment and reduce strain on your shoulders.",
+   "primary": [
+    "Core"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "plate_front_raise",
+  "name": "Plate front raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a weight plate with both hands. Keep your arms extended straight down in front of your hips.\n2. Raise the plate in front of you with straight arms until they are parallel to the floor, keeping a slight bend in your elbows.\n3. Pause briefly at the top of the movement, then slowly lower the plate back to the starting position with control.\n4. Repeat the movement for the desired number of repetitions, maintaining good form throughout.",
+   "tips": "1. Avoid using momentum to lift the plate; focus on a slow and controlled movement.\n2. Keep a slight bend in your elbows to protect your joints.\n3. Breathe steadily, exhaling as you lift the plate and inhaling as you lower it.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "plyo_side_lunge_stretch",
+  "name": "Plyo side lunge stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet wider than shoulder-width apart and both arms extended straight out to your sides.\n2. Bend your right knee and lower into a side lunge while simultaneously rotating your torso to the right and bringing your left hand to touch your right leg. Keeping your left leg straight.\n3. Push off your right foot to return to the starting wide stance position, straightening your right leg and rotating your torso back to the center.\n4. Repeat the movement on the left side, bending your left knee into a side lunge and rotating your torso to bring your right hand to touch your left leg. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Ensure your bent knee stays aligned with your toes to avoid strain on your knee joint.\n2. Move with control to maximize muscle engagement and prevent injury.\n3. Focus on steady breathing, exhaling as you lower into the lunge and inhaling as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Adductors"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

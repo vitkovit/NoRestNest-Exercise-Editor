@@ -1,0 +1,98 @@
+[
+ {
+  "id": "barbell_squat_back_pov",
+  "name": "Barbell squat back POV",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "barbell_squat_to_grass",
+  "name": "Barbell squat to grass",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart. Your feet should be pointed slightly outward.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body as far down as possible, aiming to get your hips below your knees.\n3. Push through your heels to return to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees align with your toes to prevent strain on your knee joints.\n2. Descend slowly and with control to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you lower into the squat and inhaling as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_squat_with_2_sec_hold",
+  "name": "Barbell squat with 2 sec hold",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell across your upper back with an overhand grip, hands slightly wider than shoulder-width apart. Your feet should be pointed slightly outward.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body as far down as possible, aiming to get your hips below your knees and pause for 2 seconds.\n3. Push through your heels to return to the starting position, extending your hips and knees fully. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your knees align with your toes to prevent strain on your knee joints.\n2. Descend slowly and with control to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you lower into the squat and inhaling as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_back_wrist_curl",
+  "name": "Barbell standing back wrist curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell behind your back with an overhand grip (palms facing backward), hands slightly wider than shoulder-width apart. Your arms should be fully extended, and the barbell should rest against your glutes.\n2. Flex your wrists to curl the barbell upward, bringing the barbell toward your forearms.\n3. Hold the contraction at the top for a moment, squeezing your forearm muscles.\n4. Slowly lower the barbell back to the starting position by extending your wrists. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using your arms or shoulders to lift the barbell; focus on your wrist movement.\n2. Breathe steadily, exhaling as you curl the barbell up and inhaling as you lower it back down.\n3. Use a weight that allows for proper form and control throughout the exercise to prevent strain or injury.",
+   "primary": [
+    "Forearms"
+   ],
+   "secondary": [
+    "Grip Muscles"
+   ]
+  }
+ },
+ {
+  "id": "barbell_standing_close_grip_curl",
+  "name": "Barbell standing close grip curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with an underhand grip (palms facing up), hands placed slightly closer  than shoulder-width apart. Your arms should be fully extended, and the barbell should rest against your thighs.\n2. Curl the barbell upward by bending your elbows, bringing the barbell toward your shoulders. Keep your elbows close to your torso throughout the movement.\n3. Hold the contraction at the top for a moment, squeezing your biceps.\n4. Slowly lower the barbell back to the starting position by extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows stationary and close to your torso throughout the movement to isolate your biceps.\n2. Focus on smooth, controlled movements to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you curl the barbell up and inhaling as you lower it back down.\n4. Avoid using momentum or swinging your body to lift the barbell.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

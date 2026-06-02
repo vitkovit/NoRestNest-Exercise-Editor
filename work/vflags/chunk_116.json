@@ -1,0 +1,6 @@
+[
+ {
+  "id": "dumbbell_incline_alternate_hammer_curl",
+  "change": "Fixed muscle format violation: input listed forearms->Wrist Extensors as a PRIMARY mover, which is wrong for a hammer curl. Neutral-grip hammer curls are driven by the biceps brachii/brachialis (biceps bucket) with the brachioradialis/forearm on the flexor (inner) side as a strong assistor. Set primary = biceps only; moved forearms to secondary using Wrist Flexors (inner forearm) instead of Wrist Extensors. Note: brachialis and brachioradialis have no exact allowed advance term; mapped to nearest available (biceps + Wrist Flexors)."
+ }
+]

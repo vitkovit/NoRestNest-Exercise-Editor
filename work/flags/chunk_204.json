@@ -1,0 +1,4 @@
+[
+ {"id": "single_arm_overhead_extension_resistance_band", "issue": "Triceps long head emphasized by overhead position but no head-specific bucket exists; only single Triceps Brachii available. Anterior Deltoids listed as stabilizer secondary."},
+ {"id": "single_dumbbell_biceps_curls", "issue": "Brachialis is a meaningful mover for curls but has no allowed latin value, so omitted. Held two-handed under the plates (bilateral), so no anti-rotation oblique demand added."}
+]

@@ -1,0 +1,87 @@
+[
+ {
+  "id": "upright_row_cable_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand on the middle of a resistance band with feet shoulder-width apart, holding a handle in each hand with an overhand grip, palms facing back.\n2. Let your arms hang straight down so the band is taut.\n3. Pull the handles straight up toward your chin, leading with your elbows and keeping the band close to your body.\n4. Raise until your elbows are slightly above shoulder height and pointing out to the sides.\n5. Lower the handles back down with control.\n6. Repeat.",
+  "tips": "1. Lead with the elbows, keeping them higher than the wrists.\n2. Exhale as you lift, inhale as you lower.\n3. Keep the torso upright and avoid swinging.\n4. The band tension peaks at the top, so control the lockout.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "upright_row_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip, palms facing your thighs.\n2. Let the dumbbells rest against the front of your thighs.\n3. Pull the dumbbells straight up toward your chin, leading with your elbows and keeping the weights close to your body.\n4. Raise until your elbows reach shoulder height and your upper arms are parallel to the floor.\n5. Lower the dumbbells back down with control.\n6. Repeat.",
+  "tips": "1. Lead with the elbows, keeping them higher than the wrists.\n2. Exhale as you lift, inhale as you lower.\n3. Keep the dumbbells close to the body throughout.\n4. Avoid using momentum to swing the weight up.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "upright_row_ez_bar",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding an EZ bar with an overhand grip, hands about shoulder-width apart.\n2. Let the bar rest against your thighs with arms fully extended.\n3. Pull the bar straight up along the front of your body, leading with your elbows.\n4. Raise until the bar reaches chest height, keeping the elbows higher than the wrists.\n5. Lower the bar back down with control until arms are fully extended.\n6. Repeat.",
+  "tips": "1. Lead with the elbows to drive the shoulders and traps.\n2. Exhale as you lift, inhale as you lower.\n3. Keep the bar close to the body throughout.\n4. Avoid swinging or using momentum.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "upward_rotation_bent_arms",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet shoulder-width apart, arms bent 90 degrees with upper arms raised out to the sides, parallel to the floor.\n2. Start with your forearms pointing down toward the floor.\n3. Rotate your forearms upward until your hands point toward the ceiling, keeping the upper arms fixed.\n4. Slowly rotate the forearms back down to the starting position.\n5. Repeat.",
+  "tips": "1. Keep the upper arms still and parallel to the floor throughout.\n2. Move slowly and controlled to engage the rotator cuff.\n3. Squeeze the rear shoulders at the top of the rotation.\n4. Keep the neck relaxed and the wrists neutral.",
+  "primary": [
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ]
+ },
+ {
+  "id": "45_degree_side_bend",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie sideways on a 45 degree hyperextension bench with one hip against the pad and feet anchored under the footrests.\n2. Cross your arms over your chest or place your hands behind your head.\n3. Lower your torso sideways toward the floor by bending at the waist.\n4. Raise your torso back up by contracting the obliques on the upper side until your body is straight.\n5. Repeat, then switch sides.",
+  "tips": "1. Move in a slow, controlled lateral arc without twisting.\n2. Drive the movement from the obliques, not the arms.\n3. Keep the neck neutral and in line with the spine.\n4. Avoid bouncing at the bottom of the bend.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ }
+]

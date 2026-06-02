@@ -1,0 +1,90 @@
+[
+ {
+  "id": "cobra_full_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a plank with hands under your shoulders and body in a straight line.\n2. Bend your elbows and lower your chest toward the floor, keeping elbows close to your sides.\n3. Let your hips settle to the floor and press through your palms to lift your chest, arching your upper back into the cobra position.\n4. Bend your arms to lower your chest back down, then press back up to the plank.\n5. Repeat.",
+  "tips": "1. Drive through your palms and squeeze your chest and triceps to press up.\n2. Move with control through each transition between plank, push-up, and cobra.\n3. Keep your shoulders down, away from your ears.\n4. Exhale as you press up, inhale as you lower.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ]
+ },
+ {
+  "id": "cobra_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie face down with legs straight and hands flat on the floor at shoulder level, elbows close to your sides.\n2. Press through your palms to lift your chest off the floor and straighten your arms into the cobra position.\n3. Keep your hips on the floor and hold briefly at the top.\n4. Bend your elbows to lower your chest back to the floor.\n5. Repeat.",
+  "tips": "1. Lift the chest by extending your upper back, not by yanking with your arms.\n2. Keep your hips pinned to the floor throughout.\n3. Keep your shoulders down, away from your ears.\n4. Exhale as you press up, inhale as you lower.",
+  "primary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "cobra_side_ab_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with legs straight and hands flat on the floor at shoulder level.\n2. Press through your palms to lift your chest into the cobra position, keeping your hips on the floor.\n3. Slowly rotate your torso to the right and look over your right shoulder, then return to center.\n4. Slowly rotate your torso to the left and look over your left shoulder, then return to center.\n5. Repeat.",
+  "tips": "1. Rotate slowly and only as far as feels comfortable.\n2. Keep your hips pinned to the floor.\n3. Keep your shoulders down, away from your ears.\n4. Breathe steadily, exhaling into each rotation.",
+  "primary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "cobra_yoga_pose_hold",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with legs straight and hands flat on the floor at shoulder level.\n2. Press through your palms to lift your chest off the floor and straighten your arms into the cobra position.\n3. Keep your hips on the floor and chest lifted.\n4. Hold the position while breathing steadily.\n5. Repeat.",
+  "tips": "1. Lift through your upper back rather than shrugging your shoulders.\n2. Keep your hips pinned to the floor.\n3. Keep your shoulders down, away from your ears.\n4. Breathe deeply and steadily during the hold.",
+  "primary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ],
+  "secondary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "cocoons",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie flat on your back with legs straight and arms extended overhead on the floor.\n2. Lift your legs while bringing your arms forward toward your knees, curling your body into a tight cocoon.\n3. Squeeze your abs at the top.\n4. Lower your legs and arms back to the start with control.\n5. Repeat.",
+  "tips": "1. Use your abs to curl up, not momentum.\n2. Keep the movement slow and controlled.\n3. Lie on a mat to protect your back.\n4. Exhale as you curl in, inhale as you extend.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ]
+ }
+]

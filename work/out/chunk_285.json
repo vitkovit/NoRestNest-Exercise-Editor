@@ -1,0 +1,90 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_chin_up",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension handles to an overhead position and grasp them with an underhand grip about shoulder-width apart.\n2. Hang with arms fully extended and feet off the floor or lightly assisting on the ground.\n3. Pull your body up by driving your elbows down and squeezing your shoulder blades together.\n4. Continue until your chin clears the handles.\n5. Lower under control until your arms are fully extended.\n6. Repeat.",
+  "tips": "1. Depress your shoulder blades before pulling to engage the lats.\n2. Exhale as you pull up, inhale as you lower.\n3. Keep your core braced to stop your body from swinging.\n4. Move smoothly without jerking off the bottom.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_face_pull",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension handles to about chest height and face the anchor.\n2. Grasp the handles and walk your feet forward so you lean back with arms extended.\n3. Keep your body straight from head to heels and brace your core.\n4. Pull the handles toward your face, flaring your elbows out to the sides and squeezing your shoulder blades together.\n5. Extend your arms back to the start under control.\n6. Repeat.",
+  "tips": "1. Lead with your elbows high and wide to target the rear delts.\n2. Squeeze your shoulder blades together at the top.\n3. Exhale as you pull, inhale as you return.\n4. Step closer or farther from the anchor to adjust difficulty.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "mid back", "latins": ["Rhomboids"]}
+  ],
+  "secondary": [
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "mid back", "latins": ["Upper Traps", "Lower Traps"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_front_raise",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension handles to about chest height and face the anchor.\n2. Grasp the handles with palms facing down and walk your feet forward so you lean back with arms extended.\n3. Keep your body straight from head to heels and brace your core.\n4. Keeping your arms straight, raise the handles overhead until your body forms a straight line.\n5. Lower the handles back to the start under control.\n6. Repeat.",
+  "tips": "1. Keep constant tension on the straps throughout.\n2. Brace your core and avoid letting your hips sag.\n3. Move your feet farther forward to increase difficulty.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]},
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_hanging_leg_hip_raise",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension handles to an overhead position and grasp them with palms facing forward.\n2. Hang with your arms fully extended and feet off the floor.\n3. Brace your core and lift your knees toward your chest.\n4. Continue by curling your hips up to raise your knees higher.\n5. Lower your legs and hips back to the start under control.\n6. Repeat.",
+  "tips": "1. Curl your pelvis up rather than only lifting the legs to target the abs.\n2. Move slowly to prevent swinging.\n3. Exhale as you lift, inhale as you lower.\n4. Keep a firm grip and steady shoulders throughout.",
+  "primary": [
+   {"group": "abs", "latins": ["LowerRectus Abdominis", "Upper Rectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "forearms", "latins": ["Wrist Flexors", "Wrist Extensors"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "suspension_trainer_with_grips_hanging_straight_leg_hip_raise",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Set the suspension handles to an overhead position and grasp them with palms facing forward.\n2. Hang with your arms fully extended and feet off the floor.\n3. Brace your core and raise your straight legs toward the ceiling.\n4. Continue lifting your hips until your body forms a V-shape, keeping your legs straight.\n5. Lower your legs back to the start under control.\n6. Repeat.",
+  "tips": "1. Keep your legs straight and curl your hips up to load the abs.\n2. Move slowly to prevent swinging.\n3. Exhale as you lift, inhale as you lower.\n4. Keep a firm grip and steady shoulders throughout.",
+  "primary": [
+   {"group": "abs", "latins": ["LowerRectus Abdominis", "Upper Rectus Abdominis"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "forearms", "latins": ["Wrist Flexors", "Wrist Extensors"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ }
+]

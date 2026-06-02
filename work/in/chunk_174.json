@@ -1,0 +1,101 @@
+[
+ {
+  "id": "landmine_row",
+  "name": "Landmine row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart and knees slightly bent. Position yourself so that the end of a barbell, anchored in a landmine attachment or a secure corner, is between your feet.\n2. Bend at the hips and knees to lean forward and grab the barbell with both hands using a v handle.\n3. Pull the barbell towards your chest by squeezing your shoulder blades together and bending your elbows.\n4. Lower the barbell back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you pull the barbell towards you and inhale as you lower it back.\n2. Ensure your feet are firmly planted and your stance is stable.\n3. Focus on squeezing your shoulder blades together to engage your middle back muscles.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders",
+    "Core Muscles"
+   ]
+  }
+ },
+ {
+  "id": "lat_pull_down_close_grip",
+  "name": "Lat pull down close grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the lat pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the bar with both hands just closer than shoulder-width apart, and your arms fully extended above you.\n2. Pull the bar down towards your upper chest by bending your elbows and squeezing your shoulder blades together, keeping your back straight.\n3. Hold the contraction for a second, then slowly return the bar to the starting position with control, fully extending your arms.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid leaning backward excessively.\n2. Focus on engaging your back muscles throughout the movement.\n3. Exhale as you pull the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "lat_pull_down_normal_grip",
+  "name": "Lat pull down normal grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the lat pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the bar with both hands, just wider than shoulder-width apart, and your arms fully extended above you.\n2. Pull the bar down towards your upper chest by bending your elbows and squeezing your shoulder blades together, keeping your back straight.\n3. Hold the contraction for a second, then slowly return the bar to the starting position with control, fully extending your arms.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid leaning backward excessively.\n2. Focus on engaging your back muscles throughout the movement.\n3. Exhale as you pull the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "lat_pull_down_wide_grip",
+  "name": "Lat pull down wide grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the lat pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the bar with both hands, wider than shoulder-width apart, and your arms fully extended above you.\n2. Pull the bar down towards your upper chest by bending your elbows and squeezing your shoulder blades together, keeping your back straight.\n3. Hold the contraction for a second, then slowly return the bar to the starting position with control, fully extending your arms.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid leaning backward excessively.\n2. Focus on engaging your back muscles throughout the movement.\n3. Exhale as you pull the bar down and inhale as you return to the starting position.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "lateral_raise_bodyweight",
+  "name": "Lateral raise bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet shoulder-width apart and your arms at your sides.\n2. Raise your arms out to the sides until they are parallel to the floor, keeping your elbows slightly bent and your palms facing down.\n3. Hold the position for a second, then slowly lower your arms back to your sides with control.\n4. Repeat the movement for the desired number of repetitions, maintaining a steady and controlled pace.",
+   "tips": "1. Avoid lifting your shoulders; focus on using your deltoids to raise your arms.\n2. Move slowly and with control to maximize muscle engagement and prevent injury.\n3. Breathe steadily, exhaling as you raise your arms and inhaling as you lower them.\n4. Ensure your elbows remain slightly bent to reduce strain on your joints.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ }
+]

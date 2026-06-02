@@ -1,0 +1,129 @@
+[
+ {
+  "id": "cable_standing_crunch",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a rope to a high pulley and kneel or stand facing away, holding the rope beside your head.\n2. Keep your hips fixed and brace your core.\n3. Crunch down by flexing your spine, pulling your elbows toward your thighs.\n4. Squeeze your abs at the bottom of the movement.\n5. Slowly return to the upright start under control.\n6. Repeat.",
+  "tips": "1. Move only at the spine, keeping your hips still.\n2. Pull with your abs, not your arms.\n3. Exhale as you crunch down, inhale as you rise.\n4. Use a controlled tempo to keep tension on the abs.",
+  "name": "Cable Standing Crunch",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "cable_twisting_biceps_curl",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a single handle to a low pulley and stand facing the machine.\n2. Hold the handle with a neutral grip and keep your elbow tucked at your side.\n3. Curl the handle up while rotating your wrist to a palms-up position.\n4. Squeeze your biceps at the top.\n5. Lower under control while rotating back to neutral.\n6. Repeat.",
+  "tips": "1. Keep your upper arm still and elbow pinned to your side.\n2. Twist the wrist fully to maximize biceps engagement.\n3. Control the lowering phase for constant tension.\n4. Exhale as you curl, inhale as you lower.",
+  "name": "Cable Twisting Biceps Curl",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "cable_wrist_extension",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a straight bar to a low pulley.\n2. Sit and rest your forearms on your thighs with palms facing down.\n3. Let your wrists hang over your knees holding the bar.\n4. Extend your wrists upward, lifting the backs of your hands toward you.\n5. Lower the bar slowly to a full stretch.\n6. Repeat.",
+  "tips": "1. Move only at the wrists, keeping your forearms fixed.\n2. Use a full range of motion for complete extensor engagement.\n3. Control the lowering phase rather than letting the weight drop.\n4. Exhale as you lift, inhale as you lower.",
+  "name": "Cable Wrist Extension",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": [],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "calf_raise_leg_press_machine",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the leg press machine and place the balls of your feet on the lower edge of the footplate, shoulder-width apart.\n2. Extend your legs, keeping a slight bend in your knees.\n3. Push through your forefeet to press the footplate away, squeezing your calves at full extension.\n4. Slowly lower your heels to a deep stretch.\n5. Repeat.",
+  "tips": "1. Keep a slight bend in your knees to protect the joints.\n2. Use a full range of motion for deep calf activation.\n3. Pause briefly at the top to maximize the contraction.\n4. Exhale as you press, inhale as you lower.",
+  "name": "Calf raise leg press machine",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ },
+ {
+  "id": "calf_raise_on_hack_squat_machine",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Stand on the hack squat machine with your shoulders under the pads and feet hip-width apart on the platform.\n2. Place the balls of your feet on the edge with heels hanging off, toes forward.\n3. Extend your legs to release the safety handles, keeping a slight knee bend.\n4. Push through your forefeet to raise your heels as high as possible, squeezing your calves.\n5. Slowly lower your heels to a deep stretch.\n6. Repeat.",
+  "tips": "1. Keep a slight bend in your knees throughout to protect the joints.\n2. Use a full range of motion, lowering the heels for a deep stretch.\n3. Pause at the top to maximize the contraction.\n4. Exhale as you raise your heels, inhale as you lower.",
+  "name": "Calf raise on hack squat machine",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "sheet": "malefemale"
+ }
+]

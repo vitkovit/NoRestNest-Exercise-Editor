@@ -1,0 +1,98 @@
+[
+ {
+  "id": "barbell_front_chest_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Rack a barbell across the front of your shoulders, elbows high and pointing forward.\n2. Grip the bar just outside shoulder-width and stand with your feet shoulder-width apart, toes slightly out.\n3. Push your hips back and bend your knees, keeping your torso upright, until your thighs reach parallel or slightly below.\n4. Drive through your heels to extend your hips and knees back to standing.\n5. Repeat.",
+  "tips": "1. Keep your elbows high to stop the bar rolling off your shoulders.\n2. Brace your core hard to hold an upright torso under load.\n3. Drive your knees out in line with your toes.\n4. Inhale on the way down, exhale as you stand.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "barbell_full_clean",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Bend at your hips and knees to grip the barbell with an overhand grip, hands just outside shoulder-width.\n2. Drive through your heels, extending your hips and knees to lift the bar past your knees.\n3. Explosively extend your hips and knees and shrug your shoulders to pull the bar upward.\n4. Drop under the bar, rotating your elbows forward to catch it across your front shoulders in a squat.\n5. Drive through your heels to stand, then lower the bar to the floor with control.\n6. Repeat.",
+  "tips": "1. Keep the bar close to your body throughout the pull.\n2. Drive power from your legs and hips, not your arms.\n3. Catch with elbows high to lock the bar on your shoulders.\n4. Brace your core to protect your lower back.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Lateralis", "Vastus Medialis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps", "Rhomboids"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "barbell_full_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Rack a barbell across your upper back and grip it slightly wider than shoulder-width.\n2. Stand with your feet shoulder-width apart, toes slightly out.\n3. Push your hips back and bend your knees, lowering until your thighs drop just below parallel.\n4. Drive through your heels to extend your hips and knees back to standing.\n5. Repeat.",
+  "tips": "1. Keep your chest up and spine neutral throughout.\n2. Drive your knees out in line with your toes.\n3. Brace your core before each descent.\n4. Inhale on the way down, exhale as you stand.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ]
+ },
+ {
+  "id": "barbell_full_squat_side_pov",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Rack a barbell across your upper back and grip it slightly wider than shoulder-width.\n2. Stand with your feet shoulder-width apart, toes slightly out.\n3. Push your hips back and bend your knees, lowering until your thighs drop just below parallel.\n4. Drive through your heels to extend your hips and knees back to standing.\n5. Repeat.",
+  "tips": "1. Keep your chest up and spine neutral throughout.\n2. Drive your knees out in line with your toes.\n3. Brace your core before each descent.\n4. Inhale on the way down, exhale as you stand.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ]
+ },
+ {
+  "id": "barbell_full_zercher_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set a barbell in a rack at about waist height and hook your arms under it, holding the bar in the crooks of your elbows against your chest.\n2. Stand up to lift the bar off the rack, then step back with your feet shoulder-width apart, toes slightly out.\n3. Keep a neutral spine as you push your hips back and bend your knees, lowering until your thighs reach parallel or slightly below.\n4. Drive through your heels to extend your hips and knees back to standing.\n5. Repeat.",
+  "tips": "1. Keep your torso upright and core braced to resist forward collapse.\n2. Hold the bar tight in your elbow crooks throughout.\n3. Drive your knees out in line with your toes.\n4. Move under control and distribute weight evenly across your feet.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ }
+]

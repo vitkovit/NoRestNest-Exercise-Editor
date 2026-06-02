@@ -1,0 +1,87 @@
+[
+ {
+  "id": "barbell_overhead_squat",
+  "name": "Barbell overhead squat",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell overhead with both hands, using a grip slightly wider than shoulder-width. Keep your arms fully extended and your core engaged.\n2. Begin the squat by pushing your hips back and bending your knees, lowering your body until your thighs are parallel to the floor.\n3. Push through your heels to return to the starting position, extending your hips and knees fully while keeping the barbell overhead. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your arms fully extended and your shoulders engaged to maintain control of the barbell.\n2. Focus on a controlled descent to maximize muscle engagement and prevent injury.\n3. Ensure your knees do not extend beyond your toes to avoid placing undue stress on the knee joints.",
+   "primary": [
+    "Quadriceps",
+    "Glutes",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "barbell_press_under",
+  "name": "Barbell Press Under",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_reverse_deadlift",
+  "name": "Barbell Reverse Deadlift",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "barbell_side_step_up",
+  "name": "Barbell Side Step Up",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand beside a sturdy elevated surface such as a box or bench, and position a barbell securely across your upper back and shoulders. Place the foot closest to the box on top of it, ensuring your entire foot is flat and stable.\n2. Engage your core muscles, press firmly through the heel of your elevated foot, and drive your body upward until your working leg is fully extended and both feet are on top of the box.\n3. Pause briefly at the top while maintaining an upright posture with your shoulders pulled back and your spine neutral.\n4. Lower your trailing foot back to the floor with control to return to the starting position. Complete the desired number of repetitions before switching sides.",
+   "tips": "1. Drive through the heel of the elevated foot to maximize glute and hamstring engagement.\n2. Perform the exercise with slow and controlled movement to avoid using momentum.\n3. Choose a step height that allows you to perform the exercise with proper form and full range of motion.",
+   "primary": [
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings"
+   ]
+  }
+ },
+ {
+  "id": "barbell_silverback_shrug",
+  "name": "Barbell Silverback Shrug",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a barbell with both hands using an overhand grip (palms down). Your hands should be shoulder-width apart. Bend your knees slightly and hinge forward at the hips, keeping your back straight and your torso at 45 degrees to the ground.\n2. Start with your arms fully extended, letting the barbell hang directly below your shoulders.\n3. Shrug your shoulders upward to your ears. Focus on squeezing your shoulder blades together at the top of the movement.\n4. Slowly lower your shoulders back to the starting position. Repeat the movement for the desired repetitions.",
+   "tips": "1. Maintain a neutral spine and avoid rounding your back during the exercise to prevent injury.\n2. Engage your core to stabilize your torso and maintain balance throughout the movement.\n3. Breathe steadily, exhaling as you shrug your shoulders upward and inhaling as you lower them back down.",
+   "primary": [
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ }
+]

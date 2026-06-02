@@ -1,0 +1,97 @@
+[
+ {
+  "id": "barbell_supinated_pendlay_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Load a barbell and rest it on the floor. Stand with feet shoulder-width apart, bar over mid-foot.\n2. Hinge at the hips until your torso is parallel to the floor. Grip the bar with a supinated (palms-up) grip slightly wider than shoulders.\n3. Keep your back flat and core braced. Explosively pull the bar to your lower ribcage.\n4. Squeeze your shoulder blades together at the top.\n5. Lower the bar all the way back to the floor and let it settle between reps.\n6. Repeat.",
+  "tips": "1. Keep your torso parallel to the floor for the whole set.\n2. Let the bar dead-stop on the floor each rep to reset.\n3. Drive elbows down and back to load the lower lats.\n4. Brace your core to protect your lower back.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ]
+ },
+ {
+  "id": "barbell_thruster",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, barbell racked across the front of your shoulders, elbows high.\n2. Bend your knees and hips to squat until your thighs pass parallel.\n3. Drive through your heels to stand up explosively.\n4. Use that upward momentum to press the barbell overhead until arms are fully extended.\n5. Lower the bar back to your shoulders and descend straight into the next squat.\n6. Repeat.",
+  "tips": "1. Keep your torso upright and elbows high in the front rack.\n2. Link the squat and press into one fluid motion.\n3. Exhale as you press overhead.\n4. Brace your core hard at the bottom of the squat.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "barbell_underhand_bent_over_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with a supinated (palms-up) grip about shoulder-width.\n2. Bend your knees slightly and hinge at the hips until your torso is just above parallel to the floor. Keep your back flat.\n3. Let the bar hang with arms extended.\n4. Pull the bar to your lower abdomen, driving your elbows down and back.\n5. Squeeze your shoulder blades together, then lower the bar under control.\n6. Repeat.",
+  "tips": "1. Keep your back flat and core braced throughout.\n2. Tuck elbows close to your sides to bias the lower lats.\n3. Pull toward your waist, not your chest.\n4. Avoid jerking the bar with your hips.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ]
+ },
+ {
+  "id": "barbell_upright_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip about shoulder-width. Let the bar rest against your thighs.\n2. Pull the bar straight up along the front of your body by lifting your elbows.\n3. Keep your elbows higher than your wrists as you lift.\n4. Raise the bar to upper-chest height.\n5. Lower the bar under control back to your thighs.\n6. Repeat.",
+  "tips": "1. Lead the movement with your elbows.\n2. Keep the bar close to your body the whole way up.\n3. Do not shrug excessively; keep tension on the side delts.\n4. Avoid using momentum to swing the weight up.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids", "Anterior Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "barbell_wide_bench_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Lie flat on a bench with feet firmly on the floor.\n2. Grip the barbell with an overhand grip wider than shoulder-width and unrack it over your chest, arms extended.\n3. Lower the bar to your chest, keeping elbows at about 45 degrees to your body.\n4. When the bar lightly touches your chest, press it back up to full extension.\n5. Repeat.",
+  "tips": "1. Keep your shoulder blades retracted and chest up.\n2. Exhale as you press the bar up.\n3. Keep your feet planted for a stable base.\n4. Control the bar down; do not bounce it off your chest.",
+  "primary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ }
+]

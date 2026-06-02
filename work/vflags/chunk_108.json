@@ -1,0 +1,22 @@
+[
+ {
+  "id": "dumbbell_farmer_walks",
+  "change": "Moved shoulders (Lateral Deltoids) from primary to secondary. In a loaded carry the deltoids stabilize the held load rather than act as prime movers; the prime movers are grip/forearms and the upper traps that hold the shoulder girdle. Kept core, obliques, erector spinae, glutes as secondary stabilizers/propulsion. Trimmed Quads from secondary to stay within format and avoid inflation (legs mainly propel, less dominant than glutes here)."
+ },
+ {
+  "id": "dumbbell_floor_fly",
+  "change": "No change. Flat-position fly: Sternal + Clavicular Head primary (sternal dominant), anterior deltoid and biceps (elbow-flexor stabilizer) secondary. Confirmed by sources."
+ },
+ {
+  "id": "dumbbell_fly_flat_bench",
+  "change": "No change. Flat bench fly matches confirmed muscle profile: chest (both heads) primary, anterior deltoid + biceps secondary."
+ },
+ {
+  "id": "dumbbell_fly_flat_bench_slow",
+  "change": "No change. Same as flat bench fly; slow tempo does not change muscles worked."
+ },
+ {
+  "id": "dumbbell_fly_incline_bench",
+  "change": "Added Sternal Head as secondary chest involvement. Incline fly emphasizes the clavicular (upper) head plus anterior deltoid as primary, but the sternal head still assists; previous data omitted it entirely."
+ }
+]

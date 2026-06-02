@@ -1,0 +1,119 @@
+[
+ {
+  "id": "gym_elliptical_machine_fast_speed",
+  "name": "Gym Elliptical Machine Fast Speed",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Step on the elliptical machine and place your feet securely on the pedals. Grip the handles with both hands for stability.\n2. Begin moving your legs in a smooth, elliptical motion, coordinating with the handles as they move back and forth. Start at a moderate pace to get comfortable with the movement.\n3. Gradually increase your speed to a fast pace, maintaining a smooth and controlled motion with both your legs and arms.\n4. Continue pedaling and moving the handles at a fast pace for the desired duration.",
+   "tips": "1. Breathe steadily and deeply to maintain oxygen flow during the exercise.\n2. Focus on using both your legs and arms to distribute the effort evenly and prevent early fatigue.\n3. Adjust the resistance level if needed to provide a challenging but manageable workout.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Calves",
+    "Shoulders",
+    "Upper Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "gym_elliptical_machine_normal_speed",
+  "name": "Gym Elliptical Machine Normal Speed",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Step on the elliptical machine and place your feet securely on the pedals. Grip the handles with both hands for stability.\n2. Begin moving your legs in a smooth, elliptical motion, coordinating with the handles as they move back and forth. Start at a moderate pace to get comfortable with the movement.\n3. Maintain a consistent, moderate speed, ensuring smooth and controlled movements with both your legs and arms.\n4. Continue pedaling and moving the handles at a steady pace for the desired duration.",
+   "tips": "1. Breathe steadily and deeply to maintain oxygen flow during the exercise.\n2. Focus on using both your legs and arms to distribute the effort evenly and prevent early fatigue.\n3. Adjust the resistance level if needed to provide a challenging but manageable workout.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Calves",
+    "Shoulders",
+    "Upper Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "gym_elliptical_machine_sprint_speed",
+  "name": "Gym Elliptical Machine Sprint Speed",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Step on the elliptical machine and place your feet securely on the pedals. Grip the handles with both hands for stability.\n2. Begin moving your legs in a smooth, elliptical motion, coordinating with the handles as they move back and forth. Start at a moderate pace to get comfortable with the movement.\n3. Gradually increase your speed to a sprint pace, maintaining a fast, explosive rhythm with smooth, controlled movements.\n4. Continue pedaling and moving the handles at a sprint pace for the desired duration.",
+   "tips": "1. Breathe steadily and deeply to maintain oxygen flow during the exercise.\n2. Focus on using both your legs and arms to distribute the effort evenly and prevent early fatigue.\n3. Adjust the resistance level if needed to provide a challenging but manageable workout.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes"
+   ],
+   "secondary": [
+    "Calves",
+    "Shoulders",
+    "Upper Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "gym_rowing_machine_fast_speed",
+  "name": "Gym Rowing Machine Fast Speed",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the rowing machine with your feet securely strapped into the footrests, knees bent, and hands grasping the handle with an overhand grip.\n2. Push through your legs to extend your knees and drive your body backward, keeping your arms straight until your legs are almost fully extended.\n3. Just before your legs are fully extended, pull the handle towards your lower chest by bending your elbows and squeezing your shoulder blades together.\n4. Reverse the motion by extending your arms forward first, then bending your knees to return to the starting position. Repeat the motion at a fast pace for the desired duration.",
+   "tips": "1. Keep your back straight and avoid rounding your spine throughout the exercise.\n2. Use a moderate resistance level to ensure proper form and gradually increase the resistance as you get stronger.\n3. Exhale as you pull, and inhale as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes",
+    "Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Shoulders",
+    "Arms",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "gym_rowing_machine_normal_speed",
+  "name": "Gym Rowing Machine Normal Speed",
+  "sheet": "malefemale",
+  "current": {
+   "category": "Resistance",
+   "equipment": "machine",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the rowing machine with your feet securely strapped into the footrests, knees bent, and hands grasping the handle with an overhand grip.\n2. Push through your legs to extend your knees and drive your body backward, keeping your arms straight until your legs are almost fully extended.\n3. Just before your legs are fully extended, pull the handle towards your lower chest by bending your elbows and squeezing your shoulder blades together.\n4. Reverse the motion by extending your arms forward first, then bending your knees to return to starting position. Repeat for the desired number of repetitions or time.",
+   "tips": "1. Keep your back straight and avoid rounding your spine throughout the exercise.\n2. Use a moderate resistance level to ensure proper form and gradually increase the resistance as you get stronger.\n3. Exhale as you pull, and inhale as you return to the starting position.",
+   "primary": [
+    "Quadriceps",
+    "Hamstrings",
+    "Glutes",
+    "Back"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Shoulders",
+    "Arms",
+    "Core"
+   ]
+  }
+ }
+]

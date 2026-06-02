@@ -1,0 +1,102 @@
+[
+ {
+  "id": "cat_stretch",
+  "name": "Cat stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin on your hands and knees in a tabletop position, with your wrists aligned under your shoulders and your knees aligned under your hips.\n2. Inhale deeply, then slowly arch your back upwards towards the ceiling, tucking your chin towards your chest and drawing your navel in towards your spine.\n3. Hold the arched position for a few seconds, feeling the stretch along your spine and back muscles.\n4. Exhale and slowly return to the starting tabletop position. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Focus on your breath, inhaling deeply as you arch your back and exhaling as you return to the starting position.\n2. Ensure your wrists and knees remain aligned throughout the exercise to maintain proper form and avoid strain.\n3. Relax your neck and avoid straining it as you tuck your chin towards your chest.\n4. Perform this stretch as part of a cool-down routine or whenever you need to relieve tension in your back.",
+   "primary": [
+    "Erector Spinae",
+    "Rectus Abdominis"
+   ],
+   "secondary": [
+    "Trapezius",
+    "Latissimus Dorsi"
+   ]
+  }
+ },
+ {
+  "id": "ceiling_look_stretch",
+  "name": "Ceiling look stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Begin in a tabletop position on all fours, with your wrists aligned under your shoulders and your knees aligned under your hips.\n2. Slowly lift your torso upwards, arching your back gently and leaning backward.\n3. Allow your hands to slide down to your legs, supporting your upper body as you look up towards the ceiling.\n4. Hold this position for the desired duration and slowly return to the starting tabletop position. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Breathe deeply and evenly, inhaling as you lift your torso and exhaling as you return to the starting position.\n2. Avoid forcing the stretch; only lean back as far as is comfortable without causing pain.\n3. Use a mat or cushion under your knees for added comfort and support.\n4. Perform this stretch to enhance flexibility in your spine and relieve tension in your chest and neck.",
+   "primary": [
+    "Erector Spinae",
+    "Rectus Abdominis"
+   ],
+   "secondary": [
+    "Pectoralis Major",
+    "Sternocleidomastoid"
+   ]
+  }
+ },
+ {
+  "id": "celebratory_hip_thrust",
+  "name": "Celebratory hip thrust",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by standing with your feet shoulder-width apart and your arms extended straight up in the air.\n2. Simultaneously bend your elbows and thrust your arms downwards to your hips while thrusting your hips forward.\n3. Return to the initial position with your arms extended overhead and your hips back in the starting position.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Perform the movement with a controlled pace, focusing on the coordinated motion of your arms and hips.\n2. Use the downward thrust of your arms to help generate momentum for the hip thrust.\n3. Keep your feet firmly planted on the floor to maintain stability.",
+   "primary": [
+    "Glutes",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "chair_back_lunge_left_resistance_band",
+  "name": "Chair back lunge left Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach one end of a resistance band to a sturdy chair or similar support and the other end to your left ankle. Stand facing the chair with your right foot firmly planted on the floor.\n2. Step back with your left foot, keeping your right foot in place, and lower your body into a lunge position by bending both knees, ensuring your right knee is directly above your right ankle and your left knee is hovering just above the floor.\n3. Push through your right heel to return to the starting position.\n4. Repeat for the desired number of repetitions, then switch legs.",
+   "tips": "1. Use a lighter resistance band if needed to ensure proper form and gradually increase the resistance as you get stronger.\n2. Focus on keeping your front knee aligned over your ankle to avoid putting excess strain on your knee joint.\n3. Maintain balance by keeping your hands steady and holding the chair.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "chair_back_lunge_right_resistance_band",
+  "name": "chair back lunge right Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach one end of a resistance band to a sturdy chair or similar support and the other end to your right ankle. Stand facing the chair with your left foot firmly planted on the floor.\n2. Step back with your right foot, keeping your left foot in place, and lower your body into a lunge position by bending both knees, ensuring your left knee is directly above your left ankle and your right knee is hovering just above the floor.\n3. Push through your left heel to return to the starting position.\n4. Repeat for the desired number of repetitions, then switch legs.",
+   "tips": "1. Use a lighter resistance band if needed to ensure proper form and gradually increase the resistance as you get stronger.\n2. Focus on keeping your front knee aligned over your ankle to avoid putting excess strain on your knee joint.\n3. Maintain balance by keeping your hands steady and holding the chair.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

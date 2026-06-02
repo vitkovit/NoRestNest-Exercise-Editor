@@ -1,0 +1,4 @@
+[
+ {"id": "leg_raises_straight_legs", "issue": "Hip flexors (psoas/iliacus) are major movers per EMG but have no allowed bucket; approximated via Quads (Rectus Femoris) as secondary."},
+ {"id": "low_resistance_band_lying_bicep_curl", "issue": "Lying position removes shoulder stabilization (original listed shoulders as secondary); dropped shoulders accordingly."}
+]

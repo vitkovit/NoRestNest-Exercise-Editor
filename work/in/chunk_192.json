@@ -1,0 +1,101 @@
+[
+ {
+  "id": "pull_up_wide_grip_front_view",
+  "name": "Pull up wide grip front view",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand beneath a pull-up bar and grasp it with an overhand grip (palms facing away from you), hands wider than shoulder-width apart.\n2. Engage your back muscles to pull yourself up towards the bar by bending your elbows.\n3. Continue pulling until your chin is above the bar, focusing on contracting your back muscles.\n4. Lower yourself back to the starting position in a controlled manner, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Use a full range of motion, fully extending your arms at the bottom and pulling up until your chin is above the bar.\n2. Focus on engaging your back muscles, particularly the latissimus dorsi, to perform the pull-up effectively.\n3. Breathe steadily, exhaling as you pull up and inhaling as you lower yourself down.\n4. Avoid using momentum to swing your body; maintain a controlled movement throughout the exercise.\n5. Perform the exercise on a stable, secure pull-up bar to ensure safety.",
+   "primary": [
+    "Middle Back",
+    "Biceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "push_up_and_rotation",
+  "name": "Push up and rotation",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands placed shoulder-width apart and your feet together. Your body should form a straight line from head to heels.\n2. Lower your body towards the floor by bending your elbows, keeping them close to your body. Perform a push-up.\n3. As you push back up, shift your weight onto your left hand and rotate your torso to the right, raising your right arm towards the ceiling. Your body should form a T-shape.\n4. Return your right hand to the floor and lower your body into another push-up. Repeat the movement, this time rotating to the left and raising your left arm towards the ceiling. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Breathe steadily, exhaling as you push up and rotate, and inhaling as you lower your body.\n2. Ensure your body forms a straight line during the push-up and rotation, avoiding any sagging or arching of the back.\n3. Keep your feet hip-width apart to provide a stable base for the rotation.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Core",
+    "Upper Back",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "push_up_plus",
+  "name": "Push up plus",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands placed slightly wider than shoulder-width apart and your feet hip-width apart. Your body should form a straight line from head to heels.\n2. Push through your hands to protract your shoulder blades, rounding your upper back slightly.\n3. Lower your body towards the floor by bending your elbows, keeping them close to your body to perform a push-up.\n4. Return to the plank position. Repeat the sequence for the desired number of repetitions.",
+   "tips": "1. Maintain a straight body line during the push-up, avoiding any sagging or arching of the back.\n2. Keep your elbows close to your body during the push-up to effectively target your chest and triceps.\n3. Perform the exercise on a stable, non-slip surface to prevent slipping and ensure safety.",
+   "primary": [
+    "Chest",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Core",
+    "Upper Back",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "push_ups_bodyweight",
+  "name": "Push ups bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands placed slightly wider than shoulder-width apart and your feet together. Your body should form a straight line from head to heels.\n2. Lower your body towards the floor by bending your elbows, keeping them at a 45-degree angle to your body.\n3. Lower your chest until it is just above the floor, maintaining a straight body line and keeping your neck neutral.\n4. Push through your hands to raise your body back to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain a straight body line and avoid sagging your hips.\n2. Lower yourself with control, ensuring your chest almost touches the floor while maintaining proper form.\n3. Keep your elbows at a 45-degree angle to your body to maximize chest and triceps engagement and reduce shoulder strain.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "raised_leg_crunch",
+  "name": "Raised leg crunch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs straight, vertical to the floor. Place your hands behind your head with your elbows pointing outwards.\n2. Engage your core and lift your shoulders off the floor, bringing your chest towards your knees. \n3. Hold the top position for a moment, squeezing your abdominal muscles.\n4. Lower your shoulders back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid pulling on your neck with your hands; instead, use your abdominal muscles to lift your shoulders.\n2. Breathe steadily, exhaling as you lift your shoulders and inhaling as you lower them.\n3. Keep your lower back pressed against the floor to prevent strain and maintain proper form.\n4. Perform the exercise on a comfortable, non-slip surface to ensure safety and reduce discomfort.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Obliques"
+   ]
+  }
+ }
+]

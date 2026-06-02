@@ -1,0 +1,96 @@
+[
+ {
+  "id": "kettlebell_long_lever_lateral_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a kettlebell in each hand at your sides with arms straight.\n2. Keep your arms fully extended and brace your core.\n3. Raise both kettlebells out to the sides until your arms reach shoulder height.\n4. Pause briefly at the top.\n5. Lower the kettlebells under control back to your sides.\n6. Repeat.",
+  "tips": "1. Keep arms straight to maximise the long lever and load the side delts.\n2. Use lighter weight, as the long lever greatly increases difficulty.\n3. Raise smoothly without swinging or using momentum.\n4. Stop at shoulder height to keep tension on the lateral delts.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Lateral Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Posterior Deltoid"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "kettlebell_seesaw_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a kettlebell in each hand at shoulder height with elbows bent and palms facing inward.\n2. Press the right kettlebell overhead while slightly leaning your torso to the left.\n3. As the right arm lowers, press the left kettlebell overhead while leaning slightly to the right.\n4. Keep both kettlebells moving in a continuous seesaw pattern.\n5. Repeat.",
+  "tips": "1. Press each kettlebell straight up without forward or backward drift.\n2. Brace your core to resist side-to-side lean and stay stable.\n3. Keep wrists straight and aligned with your forearms.\n4. Exhale as you press and inhale as you lower.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "kettlebell_single_arm_clean_and_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and the kettlebell on the floor between your feet. Hinge at the hips and grab it with your right hand.\n2. Drive through your hips and legs to pull the kettlebell up, rotating your wrist to catch it in the front rack with elbow tucked close.\n3. Press the kettlebell overhead until your arm is fully extended.\n4. Lower it back to the rack, then return it to the floor.\n5. Switch hands and repeat.",
+  "tips": "1. Generate the clean with an explosive hip drive, not your arm.\n2. Keep the kettlebell close to your body as it travels up.\n3. Brace your core to resist twisting during the single-arm load.\n4. Keep your wrist straight in the rack and overhead.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Lateralis", "Vastus Medialis"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "forearms", "latins": ["Wrist Flexors"]}
+  ]
+ },
+ {
+  "id": "kettlebell_single_leg_glute_bridge_pullover",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with knees bent and feet flat, holding a kettlebell with both hands and arms extended toward the floor overhead.\n2. Lift your right leg, keeping the knee bent at about 90 degrees.\n3. Press through your left heel to raise your hips into a straight line from shoulders to knee, while pulling the kettlebell up and over to above your chest.\n4. Lower your hips and return the kettlebell overhead together.\n5. Switch legs and repeat.",
+  "tips": "1. Squeeze your glutes hard at the top of the bridge.\n2. Keep a slight bend in your elbows and control the pullover arc.\n3. Move the hips and kettlebell smoothly, not jerkily.\n4. Inhale as you lower, exhale as you lift.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ]
+ },
+ {
+  "id": "kettlebell_situp_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with legs straight on the floor, holding a kettlebell with both hands at your chest.\n2. Brace your core and lift your upper body until your torso is vertical.\n3. Press the kettlebell overhead until your arms are fully extended.\n4. Lower the kettlebell back to your chest.\n5. Lower your upper body back to the floor under control.\n6. Repeat.",
+  "tips": "1. Lift and lower your torso with control, no jerking.\n2. Keep your core engaged throughout for stability.\n3. Choose a moderate weight to keep good form.\n4. Press the kettlebell straight up over your shoulders.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Quads", "latins": ["Rectus Femoris"]}
+  ]
+ }
+]

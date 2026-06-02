@@ -1,0 +1,162 @@
+[
+ {
+  "id": "arm_double_crossover",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with your feet shoulder-width apart and your arms extended out to the sides at shoulder height.\n2. Swing both arms forward and cross them in front of your chest.\n3. Open the arms wide, then cross them again, alternating which arm passes on top.\n4. Return your arms out to the sides to the starting position.\n5. Repeat.",
+  "tips": "1. Keep the movement smooth and controlled.\n2. Alternate which arm crosses on top each rep for balanced work.\n3. Keep your shoulders down and away from your ears.\n4. Brace your core to keep your torso still.",
+  "name": "Arm double crossover",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "arm_pulses",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand tall with feet shoulder-width apart.\n2. Bend your elbows to 90 degrees with your forearms in front of you.\n3. Brace your upper arms and pulse them forward and back in small movements.\n4. Keep the pulses short and steady.\n5. Repeat.",
+  "tips": "1. Keep the pulses small and controlled.\n2. Brace your core to keep your torso stable.\n3. Keep your shoulders relaxed and your neck loose.\n4. Breathe steadily throughout.",
+  "name": "Arm pulses",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "arm_pulses_cross",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand tall with feet shoulder-width apart.\n2. Bring your forearms in front of you, palms facing the floor, elbows bent to about 90 degrees.\n3. Pulse your hands toward each other so one passes over the other.\n4. Return to the start, alternating which hand crosses on top.\n5. Repeat.",
+  "tips": "1. Keep the crossing movement small and controlled.\n2. Alternate the top hand each rep for balanced work.\n3. Brace your core to keep your torso still.\n4. Keep your shoulders down and relaxed.",
+  "name": "Arm pulses cross",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "arm_pulses_palms_downwards",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart and arms extended out to the sides at shoulder height.\n2. Turn your palms to face the floor.\n3. Pulse your arms up and down in small, quick movements.\n4. Keep your arms at shoulder height throughout.\n5. Repeat.",
+  "tips": "1. Keep the pulses small to stay at shoulder height.\n2. Brace your core for stability.\n3. Keep your shoulders down, away from your ears.\n4. Hold a steady pace and breathe evenly.",
+  "name": "Arm pulses palms downwards",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids",
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "arm_pulses_palms_upwards",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart and arms extended out to the sides at shoulder height.\n2. Turn your palms to face the ceiling.\n3. Pulse your arms up and down in small, quick movements.\n4. Keep your arms at shoulder height throughout.\n5. Repeat.",
+  "tips": "1. Keep the pulses small to stay at shoulder height.\n2. Brace your core for stability.\n3. Keep your shoulders down, away from your ears.\n4. Hold a steady pace and breathe evenly.",
+  "name": "Arm pulses palms upwards",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids",
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "diagonal_chop_cable",
+  "change": "Changed trackingMode from 'repsOnly' to '' (weighted reps). A standing cable chop is performed against a selectable cable load, so it should track reps and weight, not be a bodyweight rep-only move. Muscles confirmed correct (obliques + abs primary; shoulders, lats, erector spinae secondary). Category Resistance and equipment cable confirmed."
+ },
+ {
+  "id": "deep_push_up",
+  "change": "No change. Web search confirms chest (both heads, sternal dominant), triceps, anterior delts as primary and abs/core as secondary stabilizer. Bodyweight/repsOnly correct. Biceps could be a minor stabilizer but omitted to avoid inflation."
+ },
+ {
+  "id": "diagonal_chop_left",
+  "change": "No change. Bodyweight standing chop: obliques primary; abs, anterior delts, erector spinae secondary. Confirmed by search."
+ },
+ {
+  "id": "diagonal_chop_right",
+  "change": "No change. Same as diagonal_chop_left, mirrored side. Muscles and format confirmed."
+ },
+ {
+  "id": "diagonal_lunge",
+  "change": "No change. Diagonal lunge with twist: glutes + quads primary; hamstrings, adductors (frontal-plane diagonal step), and obliques (twist) secondary. Confirmed by search. Bodyweight/repsOnly correct."
+ }
+]

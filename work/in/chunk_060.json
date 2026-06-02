@@ -1,0 +1,99 @@
+[
+ {
+  "id": "cable_one_arm_lat_pulldown",
+  "name": "Cable one arm lat pulldown",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the lat pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the handle attached to the high pulley with your right hand, arm fully extended above you, palm facing forward.\n2. Pull the handle down towards your right shoulder, bringing your elbow down while slightly leaning back.\n3. Slowly extend your arm back to the starting position with control.\n4. Repeat for the desired number of repetitions, then switch to your left hand.",
+   "tips": "1. Exhale as you pull the handle down and inhale as you extend it back.\n2. Focus on squeezing your shoulder blade towards your spine as you pull down.\n3. Maintain a neutral wrist position to prevent strain.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "cable_overhead_curl",
+  "name": "Cable overhead curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in the center of a cable machine with the pulleys set at the highest position. Grasp the handles with both hands, palms facing upward. Extend your arms out to the sides at shoulder height, almost parallel to the floor.\n2. Stand with your feet shoulder-width apart, keeping your back straight and elbows slightly bent.\n3. Curl the handles towards your head by bending your elbows, keeping your upper arms stationary.\n4. Slowly extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you curl the handles towards your head and inhale as you extend them back.\n2. Keep your elbows stationary and at shoulder height throughout the exercise.\n3. Focus on squeezing your biceps at the top of the movement.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cable_overhead_extension_rope",
+  "name": "Cable overhead extension rope",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Attach a rope handle to the high pulley on a cable machine. Stand with your feet shoulder-width apart, back to the machine, and grasp the rope handle with both hands, palms facing each other.\n2. Step forward to create tension in the cable. Extend your arms straight in level with your torso, keeping your elbows close to your head.\n3. Lower the rope behind your head by bending your elbows, keeping your upper arms stationary.\n4. Extend your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back straight and avoid using momentum.\n2. Focus on squeezing your triceps at the top of the movement.\n3. Exhale as you extend your arms and inhale as you lower the rope.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cable_palm_rotational_row",
+  "name": "Cable palm rotational row",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, facing the cable machine. Attach a single handle to a middle pulley and hold it with your right hand, palm facing downwards.\n2. Bend slightly at the hips and knees, keeping your back straight, and extend your right arm forward.\n3. Pull the handle towards your body, rotating your palm to face upwards as you bring your elbow back, keeping it close to your torso.\n4. Slowly extend your arm back to the starting position, rotating your palm back to face inwards. Repeat for the desired number of repetitions, then switch to your left hand.",
+   "tips": "1. Focus on squeezing your back muscles at the top of the movement.\n2. Use a lighter weight to ensure proper form and gradually increase the resistance as you get stronger.\n3. Exhale as you pull the handle towards your body and inhale as you extend it back.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Biceps",
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cable_preacher_curl",
+  "name": "Cable preacher curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the preacher bench with your feet flat on the floor. Attach a straight bar to the low pulley of a cable machine and grasp the bar with both hands, shoulder-width apart, palms facing upwards.\n2. Position your upper arms on the preacher bench pad and extend your arms fully, holding the bar.\n3. Curl the bar towards your shoulders by bending your elbows, squeezing your biceps at the top of the movement.\n4. Lower the bar back to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you curl the bar up and inhale as you lower it back down.\n2. Maintain a neutral wrist position to prevent strain.\n3. Focus on squeezing your biceps at the top of the movement.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

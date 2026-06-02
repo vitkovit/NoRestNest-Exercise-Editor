@@ -1,0 +1,5 @@
+[
+ {"id": "battle_rope_alternating_arm_waves", "issue": "No allowed muscle bucket for grip/palmaris longus emphasis beyond forearms; equipment 'battle rope' has no dropdown value, used closest 'other'."},
+ {"id": "battle_rope_double_arm_slams", "issue": "Equipment 'battle rope' has no dropdown value; used closest 'other'. Quads/glutes engaged lightly via hip drive but omitted to avoid inflation."},
+ {"id": "bear_crawls", "issue": "Serratus anterior is a key stabilizer per EMG but has no allowed value; omitted. Used 'Upper Traps' (mid back) for scapular stabilization."}
+]

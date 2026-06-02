@@ -1,0 +1,198 @@
+[
+ {
+  "id": "dumbbell_bench_seated_press",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a flat bench with back support, feet flat on the floor.\n2. Hold a dumbbell in each hand at shoulder height, palms facing forward.\n3. Press the dumbbells straight up until your arms are fully extended.\n4. Lower the dumbbells back to shoulder height under control.\n5. Repeat.",
+  "tips": "1. Keep your core tight and your back against the pad.\n2. Keep wrists straight and stacked over your elbows.\n3. Exhale as you press up, inhale as you lower.\n4. Keep elbows slightly in front of your body, not flared straight out.",
+  "name": "Dumbbell Bench Seated Press",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_bench_squat",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with your back to a bench, feet shoulder-width apart.\n2. Hold a dumbbell in each hand at your sides.\n3. Bend your knees and hips to lower down, keeping your chest up and back straight.\n4. Lower until your buttocks lightly touch the bench.\n5. Push through your heels to stand back up and extend your hips and knees.\n6. Repeat.",
+  "tips": "1. Drive through your heels to engage glutes and quads.\n2. Inhale as you lower, exhale as you stand up.\n3. Keep your knees tracking over your toes.\n4. Touch the bench lightly without fully sitting and relaxing.",
+  "name": "Dumbbell Bench Squat",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_bent_arm_lateral_raise",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a dumbbell in each hand.\n2. Bend your elbows to about 90 degrees, palms facing your body.\n3. Keep your core tight and back straight.\n4. Raise your upper arms out to the sides until they are parallel to the floor.\n5. Lower your arms back down under control.\n6. Repeat.",
+  "tips": "1. Move slowly and avoid swinging or using momentum.\n2. Keep your elbows bent at a steady angle throughout.\n3. Lead the movement with your elbows, not your hands.\n4. Stop at shoulder height to protect the shoulder joint.",
+  "name": "Dumbbell bent arm lateral raise",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_bent_arm_pullover",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie across a bench with only your upper back supported and hips slightly lowered.\n2. Hold one dumbbell with both hands above your chest, elbows slightly bent.\n3. Keep your feet flat on the floor and core tight.\n4. Lower the dumbbell in an arc over your head until you feel a stretch in your lats and chest.\n5. Pull the dumbbell back over your chest under control.\n6. Repeat.",
+  "tips": "1. Keep a steady slight bend in your elbows throughout.\n2. Keep your upper back in contact with the bench.\n3. Move slowly and control the stretch at the bottom.\n4. Exhale as you pull the dumbbell back up.",
+  "name": "Dumbbell Bent Arm Pullover",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "dumbbell_bent_over_face_pull",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a dumbbell in each hand, palms facing back.\n2. Hinge at your hips and knees until your torso is near parallel to the floor, back straight.\n3. Let the dumbbells hang below your shoulders, elbows slightly bent.\n4. Pull the dumbbells up toward your face, driving your elbows high and wide.\n5. Lower the dumbbells back down under control.\n6. Repeat.",
+  "tips": "1. Move slowly and avoid using momentum.\n2. Lead with your elbows up and out, not straight back.\n3. Use a lighter weight to keep form clean.\n4. Exhale as you pull up, inhale as you lower.",
+  "name": "Dumbbell Bent Over Face Pull",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

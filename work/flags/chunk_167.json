@@ -1,0 +1,5 @@
+[
+ {"id": "iso_lateral_shoulder_press_both_arms", "issue": "Equipment was 'other'; corrected to 'machine' (iso-lateral plate/selectorized shoulder press machine). Serratus anterior is a meaningful stabilizer but has no allowed value, so omitted."},
+ {"id": "jump_squats_bodyweight", "issue": "Equipment was 'other'; corrected to 'bodyweight'. Calves kept as primary (EMG shows large activation in the jump drive); hip flexors/iliopsoas have no clean allowed bucket so represented via Quads Rectus Femoris where relevant."},
+ {"id": "iron_cross_stretch", "issue": "This is a passive stretch (lying spinal twist with straight leg crossing body); listed muscles are those being stretched, not contracting. trackingMode kept 'timed'."}
+]

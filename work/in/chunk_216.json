@@ -1,0 +1,106 @@
+[
+ {
+  "id": "superman_pulls_resistance_band",
+  "name": "Superman pulls Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Lie face down on the floor with your arms extended straight out in front of you and your legs extended straight behind you.\n2. Simultaneously lift your arms and chest off the floor as high as you comfortably can, engaging your lower back and glutes.\n3. While holding the lifted position, bend your elbows and pull your arms back towards your shoulders, squeezing your shoulder blades together.\n4. Extend your arms back out in front of you and slowly lower your chest back to the starting position. Repeat for the desired repetitions.",
+   "tips": "1. Breathe steadily: exhale as you lift and pull the resistance band, and inhale as you extend your arms and lower your body.\n2. Gradually increase the duration of the hold and the number of repetitions as your strength improves.\n3. Keep your neck in a neutral position to avoid straining it.",
+   "primary": [
+    "Lower Back",
+    "Middle Back",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "supine_push_up",
+  "name": "Supine push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your knees bent and feet flat on the floor. Position your elbows to your sides with your forearms perpendicular to the floor and hands kept closed.\n2. Engage your core and press your elbows into the floor, lifting your upper back and shoulders off the floor.\n3. Hold the lifted position for a second, feeling the contraction in your upper back.\n4. Slowly lower your upper back and shoulders back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you lift your upper back and shoulders, and inhale as you lower them back down.\n2. Focus on using your shoulders and upper back muscles to lift your upper body off the floor.\n3. Use a mat to provide cushioning and support for your back.",
+   "primary": [
+    "Upper Back",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Lower Back",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_decline_push_up",
+  "name": "Suspension Trainer with Grips Decline Push-up",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to about knee height. Place your feet in the handles, ensuring they are secure, and assume a plank position with your hands placed slightly wider than shoulder-width apart on the floor.\n2. Engage your core, keeping your body in a straight line from head to heels.\n3. Bend your elbows and lower your chest towards the floor, keeping your elbows at a 45-degree angle to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you push up and inhale as you lower down.\n2. Focus on using your chest and triceps muscles to push yourself up, avoiding excessive use of your shoulders.\n3. Ensure your feet are securely placed in the suspension trainer handles to prevent slipping.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders",
+    "Core"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_hanging_knees_to_elbows",
+  "name": "Suspension Trainer with Grips Hanging Knees to Elbows",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handles to an overhead position. Grasp the handles with an overhand grip (palms facing forward) and hang with your arms fully extended and feet off the floor.\n2. Engage your core and pull your knees up towards your elbows, focusing on contracting your abdominal muscles.\n3. Bring your knees as close to your elbows as possible while maintaining control and stability.\n4. Slowly lower your legs back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your abdominal muscles to lift your knees.\n2. Breathe steadily: exhale as you lift your knees and inhale as you lower them.\n3. Start with a smaller range of motion and gradually increase as your strength improves.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Shoulders",
+    "Upper Back",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "suspension_trainer_with_grips_side_squat",
+  "name": "Suspension Trainer with Grips Side Squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Uncategorized",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Adjust the suspension trainer handle close to the floor. Stand to the side of the suspension trainer, placing your right foot in the handle and keeping your left foot firmly on the floor. Keep both hands to your sides.\n2. Bend your left knee and push your hips back to lower into a squat while reaching with both hands to touch the floor with your fingertips.  Keep your right leg straight through the squat and allow it to extend to the side.\n3. Push through your left heel to return to the starting position, keeping your right leg extended.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Breathe steadily: exhale as you push back to the starting position and inhale as you lower into the squat.\n2. Ensure your knees track over your toes to maintain proper alignment.\n3. Keep your chest up and shoulders back to maintain proper posture.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Adductors",
+    "Calves"
+   ]
+  }
+ }
+]

@@ -1,0 +1,97 @@
+[
+ {
+  "id": "decline_push_up",
+  "name": "Decline push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your feet on a bench and position your hands on the floor shoulder-width apart.\n2. Engage your core and ensure your body forms a straight line from your head to your heels.\n3. Lower your chest towards the floor by bending your elbows, keeping them at a 45-degree angle to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain a straight body line and avoid sagging your hips.\n2. Use a stable chair or bench to prevent any movement or slipping during the exercise.\n3. Perform the movement with control to maximize muscle activation and prevent injury.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "decline_push_up_against_wall",
+  "name": "Decline push up against wall",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your feet against a wall and positioning your hands on the floor shoulder-width apart. Your body should be in a decline position with your feet elevated on the wall.\n2. Engage your core and ensure your body forms a straight line from your head to your feet.\n3. Lower your chest towards the floor by bending your elbows, keeping them at a 45-degree angle to your body.\n4. Push through your hands to return to the starting position, straightening your arms. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Ensure your hands are positioned directly under your shoulders when you lower yourself.\n2. Perform the movement with control to maximize muscle activation and prevent injury.\n3. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower down.\n4. Use a stable wall to ensure your feet remain securely in place throughout the exercise.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "decline_shoulder_tap",
+  "name": "Decline shoulder tap",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by placing your feet on a bench and positioning your hands on the floor shoulder-width apart. Your body should be in a decline position with your feet elevated.\n2. Engage your core and ensure your body forms a straight line from your head to your heels.\n3. Lift your right hand off the floor and tap your left shoulder, lightly rotate your hips according to the tap side.\n4. Return your right hand to the floor and repeat the movement with your left hand, tapping your right shoulder. Continue alternating for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain a straight body line and avoid sagging your hips.\n2. Avoid letting your shoulders sag; keep them stable and aligned with your hands.\n3. Use a stable bench to prevent any movement or slipping during the exercise.",
+   "primary": [
+    "Shoulders",
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Core Muscles"
+   ]
+  }
+ },
+ {
+  "id": "decline_sit_up",
+  "name": "Decline sit up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by lying on a decline bench with your feet secured under the footpads. Position yourself so that your hips are at the edge of the bench.\n2. Place your hands behind your head with your elbows pointing out to the sides.\n3. Engage your core and lift your upper body towards your knees until your torso forms a 90 degree angle with your thighs, keeping your back as straight as possible.\n4. Lower your upper body back to the starting position with control. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Keep your core engaged throughout the exercise to maintain stability and support your lower back.\n2. Avoid pulling on your neck with your hands; focus on using your abdominal muscles to lift your shoulders.\n3. Breathe steadily throughout the exercise, exhaling as you lift your shoulders and inhaling as you lower them.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "decline_sit_ups_dumbbells",
+  "name": "Decline sit ups dumbbells",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Secure your feet at the end of a decline bench and lie back with your knees slightly bent. Hold a dumbbell in each hand close to your chest.\n2. Engage your core and lift your upper body off the bench by contracting your abdominal muscles.\n3. Continue to lift your upper body until you are in a seated position, ensuring that the contraction is felt in your abs.\n4. Slowly lower your upper body back to the starting position with control, keeping your core engaged. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your abdominal muscles to lift your body, rather than relying on momentum.\n2. Breathe out as you sit up and breathe in as you return to the starting position.\n3. Keep your feet securely anchored to the bench to stabilize your body throughout the exercise.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Biceps",
+    "Hip Flexors"
+   ]
+  }
+ }
+]

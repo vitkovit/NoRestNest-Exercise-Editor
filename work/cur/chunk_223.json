@@ -1,0 +1,175 @@
+[
+ {
+  "id": "triceps_dip_machine",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the machine and adjust the seat so your upper arms are parallel to the floor at the handles.\n2. Grip the handles with elbows bent and tucked close to your sides.\n3. Keep your torso upright to keep tension on the triceps.\n4. Press the handles down by straightening your elbows fully.\n5. Return slowly to the start under control.\n6. Repeat.",
+  "tips": "1. Keep elbows tucked to your sides throughout.\n2. Stay upright; leaning forward shifts work to the chest.\n3. Press through full extension and squeeze the triceps.\n4. Control the negative; do not let the weight drop.",
+  "name": "Triceps dip machine",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "triceps_light_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Raise your right arm to shoulder height and bring it across your chest.\n3. Use your left hand to hold the right arm just below the elbow.\n4. Draw the arm across your chest until you feel a gentle stretch in the triceps and rear shoulder.\n5. Hold, then switch arms.\n6. Repeat.",
+  "tips": "1. Keep your torso facing forward; do not twist.\n2. Breathe slowly and relax into the stretch.\n3. Pull gently; the stretch should not hurt.\n4. Keep your shoulders down, away from your ears.",
+  "name": "Triceps light stretch",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "upper_back_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet shoulder-width apart.\n2. Interlace your fingers and extend your arms straight ahead at shoulder height, palms facing away.\n3. Round your upper back and push your hands forward, separating your shoulder blades.\n4. Drop your chin toward your chest to deepen the stretch.\n5. Hold, feeling the stretch between the shoulder blades.\n6. Repeat.",
+  "tips": "1. Breathe slowly and relax into the stretch.\n2. Keep your shoulders down, not shrugged toward your ears.\n3. Push the hands away to spread the shoulder blades.\n4. Keep the stretch gentle and pain-free.",
+  "name": "Upper back stretch",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "upright_row_barbell",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip about shoulder-width.\n2. Let the bar hang against your thighs with arms straight.\n3. Pull the bar up the front of your body by lifting your elbows.\n4. Raise until the bar reaches chest height, keeping elbows above the wrists.\n5. Lower the bar slowly back to the start.\n6. Repeat.",
+  "tips": "1. Lead the movement with your elbows.\n2. Keep the bar close to your body throughout.\n3. Exhale lifting, inhale lowering.\n4. Do not swing or use momentum.",
+  "name": "Upright row barbell",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "upright_row_cable_resistance_band",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand on the middle of a resistance band with feet shoulder-width apart, holding a handle in each hand with an overhand grip, palms facing back.\n2. Let your arms hang straight down so the band is taut.\n3. Pull the handles straight up toward your chin, leading with your elbows and keeping the band close to your body.\n4. Raise until your elbows are slightly above shoulder height and pointing out to the sides.\n5. Lower the handles back down with control.\n6. Repeat.",
+  "tips": "1. Lead with the elbows, keeping them higher than the wrists.\n2. Exhale as you lift, inhale as you lower.\n3. Keep the torso upright and avoid swinging.\n4. The band tension peaks at the top, so control the lockout.",
+  "name": "Upright row cable Resistance band",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

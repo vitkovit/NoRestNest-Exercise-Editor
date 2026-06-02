@@ -1,0 +1,179 @@
+[
+ {
+  "id": "chest_dip_on_dip_station",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Grip the parallel bars with palms facing inward and arms fully extended.\n2. Lift your body off the floor and cross your ankles behind you.\n3. Lean your torso forward about 30 to 45 degrees.\n4. Bend your elbows and lower until your upper arms are parallel to the floor.\n5. Push through your palms to extend your arms and return to the top.\n6. Repeat.",
+  "tips": "1. Keep leaning forward to load the chest instead of the triceps.\n2. Let your elbows flare out to about 45 degrees.\n3. Keep your shoulders down and away from your ears.\n4. Exhale as you push up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chest_dip_weighted",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Attach the added weight with a dip belt and grip the bars with palms facing inward.\n2. Press up to full arm extension and cross your ankles behind you.\n3. Lean your torso forward about 30 to 45 degrees.\n4. Bend your elbows, letting them flare out, and lower until your upper arms are parallel to the floor.\n5. Push through your palms to extend your arms and return to the top.\n6. Repeat.",
+  "tips": "1. Keep the forward lean to maximize chest activation.\n2. Use a load you can control through the full range.\n3. Exhale as you push up, inhale as you lower.\n4. Keep your shoulders pulled down throughout.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chest_dip_weighted_slow",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Attach the added weight with a dip belt and grip the bars with palms facing inward.\n2. Press up to full arm extension and cross your ankles behind you.\n3. Lean your torso forward about 30 to 45 degrees.\n4. Slowly bend your elbows and lower until your upper arms are parallel to the floor.\n5. Slowly push through your palms to extend your arms and return to the top.\n6. Repeat.",
+  "tips": "1. Keep both the lowering and lifting phases slow and controlled.\n2. Maintain the forward lean to keep tension on the chest.\n3. Use a load you can control through the full range.\n4. Exhale as you push up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chest_dip_with_pause_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "pull_up_bar",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Grip the parallel bars with palms facing inward and arms fully extended.\n2. Lift your body off the floor and cross your ankles behind you.\n3. Lean your torso forward about 30 to 45 degrees.\n4. Bend your elbows and lower until your upper arms are parallel to the floor.\n5. Pause at the bottom for two seconds, then push up to full extension.\n6. Repeat.",
+  "tips": "1. Hold the bottom pause without bouncing.\n2. Keep leaning forward to load the chest.\n3. Keep your shoulders down and away from your ears.\n4. Exhale as you push up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chest_fly_high_to_low_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor the band above head height behind you.\n2. Stand facing away from the anchor, one foot forward for balance.\n3. Hold a handle in each hand with arms out to the sides at shoulder height and a slight elbow bend.\n4. Pull the handles down and together in an arc, meeting at lower chest level.\n5. Slowly return to the start with control.\n6. Repeat.",
+  "tips": "1. Keep a fixed slight bend in your elbows throughout.\n2. Squeeze the lower chest as the handles meet.\n3. Exhale as you pull down, inhale as you return.\n4. Use a band tension that lets you keep strict form.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ }
+]

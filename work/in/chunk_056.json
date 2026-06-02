@@ -1,0 +1,97 @@
+[
+ {
+  "id": "cable_close_grip_front_lat_pulldown",
+  "name": "Cable close grip front lat pulldown",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit at the lat pulldown machine with your feet flat on the floor and knees secured under the pads. Grasp the bar attached to the machine with your arms fully extended above you, hands closer than shoulder-width and palms facing forward.\n2. Pull the bar down towards your upper chest, bringing your elbows down and back while slightly leaning back.\n3. Slowly return the handle to the starting position with your arms fully extended overhead.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Perform the movement slowly and with control.\n2. Exhale as you pull the handle down and inhale as you return to the starting position.\n3. Ensure your chest stays up and your shoulders down to avoid rounding your back.",
+   "primary": [
+    "Middle Back"
+   ],
+   "secondary": [
+    "Upper Back",
+    "Shoulders",
+    "Biceps",
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_front_raises_straight_bar",
+  "name": "Cable front raises straight bar",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Attach a straight bar to a low pulley on a cable machine. Stand facing away from the machine, with your feet shoulder-width apart and the bar held with an overhand grip, palms facing down.\n2. Stand upright with your back straight and core engaged. Let the bar hang down in front of your thighs with your arms fully extended and the cable passing between your legs.\n3. Raise the bar in front of you to shoulder height, keeping your arms straight but with a slight bend in the elbows.\n4. Slowly lower the bar back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise the bar and inhale as you lower it back down.\n2. Avoid using momentum; focus on the contraction of your shoulder muscles.\n3. Ensure your shoulders stay down and relaxed, not shrugged up towards your ears.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Chest",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_lateral_raises",
+  "name": "Cable lateral raises",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand in the middle of a cable machine with the handles attached to the low pulleys on either side, with your feet shoulder-width apart. Hold the left handle with your right hand and the right handle with your left hand, with the cables crossing in front of you. Stand \n2. Stand upright with your back straight. Let the handles hang down in front of your thighs with your arms fully extended.\n3. Raise the handles out to your sides until your arms are parallel to the floor, keeping a slight bend in your elbows.\n4. Slowly lower the handles back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Choose a weight that allows you to complete the exercise with proper form.\n2. Exhale as you raise the handles and inhale as you lower them back down.\n3. Avoid using momentum; focus on the contraction of your shoulder muscles.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_leaning_lateral_raise",
+  "name": "Cable leaning lateral raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Attach a single handle to a low pulley on a cable machine. Stand next to the machine on your left side, holding the handle with your right hand. Lean away from the machine, using your left hand to hold onto the machine for support.\n2. Position your feet together, with your outside foot slightly in front for better stability. Let the handle hang down at your side with your arm fully extended.\n3. Raise the handle out to the side until your arm is parallel to the floor, keeping a slight bend in your elbow.\n4. Slowly lower the handle back to the starting position with control. Repeat for the desired number of repetitions, then switch sides.",
+   "tips": "1. Exhale as you raise the handle and inhale as you lower it back down.\n2. Avoid using momentum; focus on the contraction of your shoulder muscles.\n3. Lean away from the machine to increase the range of motion and target the shoulder muscles more effectively.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "cable_low_fly",
+  "name": "Cable low fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Stand in the center of a cable machine with the pulleys set at a low position. Grasp the handles with your palms facing forward and arms extended down out to your sides. Position your feet shoulder-width apart and slightly staggered for stability.\n2. Stand upright with your back straight. Bring the handles together in front of your body in a wide arc, keeping a slight bend in your elbows and palms should face upwards.\n3. Slowly return the handles to the starting position with control, maintaining the slight bend in your elbows.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on the contraction of your chest muscles as you bring the handles together.\n2. Perform the movement slowly and with control to maximize muscle activation and reduce the risk of injury.\n3. Exhale as you bring the handles together and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ }
+]

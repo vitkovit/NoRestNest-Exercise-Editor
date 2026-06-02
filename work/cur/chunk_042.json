@@ -1,0 +1,237 @@
+[
+ {
+  "id": "bird_dog",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start on your hands and knees with wrists under shoulders and knees under hips.\n2. Brace your core and keep your spine neutral.\n3. Extend your right arm forward and your left leg back until both are parallel to the floor.\n4. Hold briefly, keeping your hips and shoulders square.\n5. Return to the start and switch to the left arm and right leg.\n6. Repeat.",
+  "tips": "1. Brace your core to stop your lower back from sagging.\n2. Move slowly and keep your hips level, do not rotate.\n3. Look down at the floor to keep your neck neutral.\n4. Exhale as you extend the limbs.",
+  "name": "Bird dog",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "bird_dog_version_2",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start on your hands and knees with wrists under shoulders and knees under hips.\n2. Brace your core and keep your spine neutral.\n3. Extend your right arm forward and your left leg back, raising both slightly above torso level.\n4. Hold briefly, keeping your hips and shoulders square.\n5. Return to the start and switch to the left arm and right leg.\n6. Repeat.",
+  "tips": "1. Brace your core to stop your lower back from sagging.\n2. Do not lift the leg so high that your lower back arches.\n3. Move slowly and keep your hips level, do not rotate.\n4. Look down at the floor to keep your neck neutral.",
+  "name": "Bird dog (version 2)",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "boat_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor with your legs straight in front of you.\n2. Lean back slightly and lift your legs off the floor, balancing on your sit bones.\n3. Straighten your legs so your body forms a V shape.\n4. Reach your arms forward at shoulder height, palms facing each other.\n5. Keep your chest lifted and your back straight, and hold.\n6. Repeat.",
+  "tips": "1. Lift your chest and keep your back straight, do not let it round.\n2. Brace your core to stay balanced.\n3. Bend the knees slightly if you cannot keep the back straight.\n4. Breathe steadily throughout the hold.",
+  "name": "Boat stretch",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "body_saw_plank",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Start in a forearm plank with elbows under your shoulders and your body in a straight line from head to heels.\n2. Brace your core and squeeze your glutes.\n3. Push through your forearms to rock your body back, moving your shoulders behind your elbows.\n4. Pull with your forearms to rock your body forward, moving your shoulders ahead of your elbows.\n5. Keep the motion slow and controlled.\n6. Repeat.",
+  "tips": "1. Keep your body in a straight line, do not let your hips drop.\n2. Move slowly to keep the core under constant tension.\n3. Exhale as you rock forward, inhale as you rock back.\n4. Use sliders or a towel under your feet for a smooth glide.",
+  "name": "Body saw plank",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "body_slide",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet slightly wider than shoulder-width and your knees slightly bent.\n2. Raise your arms straight out at shoulder height.\n3. Keep your upper body still and shift your hips to the left.\n4. Shift your hips back to the right under control.\n5. Continue moving your hips side to side.\n6. Repeat.",
+  "tips": "1. Brace your core to keep your upper body from swaying.\n2. Keep the movement smooth and controlled.\n3. Keep your knees slightly bent for a fuller range of motion.\n4. Keep your feet flat and pointing forward.",
+  "name": "Body slide",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

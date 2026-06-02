@@ -1,0 +1,95 @@
+[
+ {
+  "id": "machine_chest_press_incline",
+  "name": "Machine chest press incline",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the incline chest press machine with your feet flat on the floor. Grasp the handles with both hands, elbows facing the floor, palms facing forward.\n2. Press the handles upward by extending your arms, keeping your elbows slightly bent at the end of the movement.\n3. Squeeze your chest muscles at the top of the movement and slowly return the handles to the starting position with control, bringing them back to chest level.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise.\n2. Focus on engaging your chest muscles throughout the movement.\n3. Exhale as you press the handles forward and downward, and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "machine_fly",
+  "name": "Machine fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on the chest fly machine with your feet flat on the floor and your back pressed firmly against the backrest. Grasp the handles, arms parallel to the floor, with both hands at chest level and palms facing forward.\n2. Keep a slight bend in your elbows and your arms extended out to your sides.\n3. Bring the handles together in front of your chest by squeezing your chest muscles, keeping your elbows slightly bent.\n4. Slowly return the handles to the starting position with control, bringing them back to your sides. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your back pressed against the backrest throughout the exercise to maintain proper form.\n2. Focus on engaging your chest muscles throughout the movement.\n3. Exhale as you bring the handles together and inhale as you return them to the starting position.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "machine_lateral_raise",
+  "name": "Machine lateral raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Sit on the lateral raise machine with your feet flat on the floor and your back pressed firmly against the backrest. Adjust the seat height so that the pads rest against the outside of your upper arms.\n2. Grasp the handles with both hands, keeping your elbows bent.\n3. Raise your arms out to the sides until they are parallel to the floor and slowly lower your arms back to the starting position with control. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise your arms and inhale as you lower them back down.\n2. Use a moderate weight to ensure proper form and gradually increase the resistance as you get stronger.\n3. Focus on engaging your shoulder muscles throughout the movement.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "middle_back_rotation_stretch",
+  "name": "Middle back rotation stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand upright with your feet shoulder-width apart and your hands placed on your hips.\n2. Slowly rotate your torso to the right, keeping your hips facing forward. Twist as far as is comfortable, feeling the stretch in your middle back.\n3. Return to the center and repeat the rotation to the right once more.\n4. Rotate your torso to the left side twice in the same manner, alternating sides for the desired number of repetitions.",
+   "tips": "1. Keep your hips facing forward to ensure the stretch targets your middle back effectively.\n2. Perform the stretch on a stable, non-slip surface to prevent slipping or discomfort.\n3. Avoid forcing the twist; go as far as your flexibility allows without causing pain.",
+   "primary": [
+    "Middle Back",
+    "Obliques"
+   ],
+   "secondary": [
+    "Lower Back"
+   ]
+  }
+ },
+ {
+  "id": "middle_crunches",
+  "name": "Middle crunches",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie on your back with your legs extended straight on the floor and your arms straight by your sides, palms facing the floor.\n2. Curl your abdomen, raising your upper back off the floor, while simultaneously lifting your legs straight up towards the ceiling and raise your arms towards your feet.\n3. Just before your hands and feet touch, lower your upper back, legs and arms back to the starting position with control. \n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you lift your upper back, legs and arms up, and inhale as you lower them back down.\n2. Keep your legs as straight as possible for maximum abdominal activation.\n3. Focus on engaging your abdominal muscles throughout the movement.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Hip Flexors",
+    "Lower Back"
+   ]
+  }
+ }
+]

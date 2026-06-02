@@ -1,0 +1,95 @@
+[
+ {
+  "id": "preacher_curl_dumbbells_simultaneous",
+  "name": "Preacher curl dumbbells simultaneous",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your feet flat on the floor, holding a dumbbell in each hand with an underhand grip (palms facing up), and your arms extended over the preacher bench pad.\n2. Engage your core and curl both dumbbells towards your shoulders by bending your elbows, keeping your upper arms pressed against the pad.\n3. Squeeze your biceps at the top of the movement, ensuring the dumbbells reach shoulder height.\n4. Slowly lower the dumbbells back to the starting position, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary against the pad to isolate the biceps.\n2. Keep your wrists straight and avoid letting them bend backward.\n3. Exhale as you curl the dumbbells up and inhale as you lower them.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "preacher_curl_ez_bar",
+  "name": "Preacher curl ez bar",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your feet flat on the floor, holding an EZ bar with an underhand grip (palms facing up), shoulder-width wide, and your arms resting on the preacher pad.\n2. Curl the EZ bar towards your shoulders by bending your elbows, keeping your upper arms pressed against the pad.\n3. Squeeze your biceps at the top of the movement, ensuring the bar reaches shoulder height.\n4. Slowly lower the bar back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary against the pad to isolate the biceps.\n2. Use a weight that allows you to maintain proper form throughout the exercise.\n3. Exhale as you curl the barbell up and inhale as you lower it.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "preacher_curl_ez_bar_close_grip",
+  "name": "Preacher curl ez bar close grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your feet flat on the floor, holding an EZ bar with an underhand grip (palms facing up), just closer than shoulder-width wide, and your arms resting on the preacher pad.\n2. Curl the EZ bar towards your shoulders by bending your elbows, keeping your upper arms pressed against the pad.\n3. Squeeze your biceps at the top of the movement, ensuring the bar reaches shoulder height.\n4. Slowly lower the bar back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary against the pad to isolate the biceps.\n2. Use a weight that allows you to maintain proper form throughout the exercise.\n3. Exhale as you curl the barbell up and inhale as you lower it.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "preacher_curl_ez_bar_wide_grip",
+  "name": "Preacher curl ez bar wide grip",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench with your feet flat on the floor, holding an EZ bar with an underhand grip (palms facing up), just wider than shoulder-width wide, and your arms resting on the preacher pad.\n2. Curl the EZ bar towards your shoulders by bending your elbows, keeping your upper arms pressed against the pad.\n3. Squeeze your biceps at the top of the movement, ensuring the bar reaches shoulder height.\n4. Slowly lower the bar back to the starting position with control, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your upper arms stationary against the pad to isolate the biceps.\n2. Use a weight that allows you to maintain proper form throughout the exercise.\n3. Exhale as you curl the barbell up and inhale as you lower it.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "pretzel_stretch",
+  "name": "Pretzel stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Sit on the floor with your legs extended straight in front of you.\n2. Bend your right knee, placing your right foot flat on the floor inside your left thigh. \n3. Rotate your torso to the right and place your left elbow on the outside of your right knee, using your right hand on the floor behind you for support.\n4. Hold the stretch for 15-30 seconds, then slowly release and return to the starting position. Repeat on the other side by switching the positions of your legs and rotating your torso to the left.",
+   "tips": "1. Use your supporting hand on the floor behind you to maintain balance and assist with the rotation.\n2. Move into the stretch slowly and with control to prevent overstretching and injury.\n3. Breathe deeply and steadily, using your breath to help deepen the stretch and relax your muscles.",
+   "primary": [
+    "Middle Back",
+    "Lower Back",
+    "Core"
+   ],
+   "secondary": [
+    "Glutes",
+    "Hip Flexors"
+   ]
+  }
+ }
+]

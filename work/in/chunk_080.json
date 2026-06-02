@@ -1,0 +1,103 @@
+[
+ {
+  "id": "clock_push_ups",
+  "name": "Clock push ups",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a standard push-up position with your hands placed slightly wider than shoulder-width apart and your body forming a straight line from head to heels.\n2. Perform a push-up by lowering your body towards the floor by bending your elbows, then push back up to the starting position.\n3. Move your right hand and left hand a few inches to the left (clockwise) and perform another push-up.\n4. Return both hands to the starting position and perform another push-up. Repeat this sequence, alternating between the starting position and the clockwise position for the desired number of repetitions or duration.",
+   "tips": "1. Focus on maintaining proper form during each push-up, ensuring your elbows are at a 45-degree angle to your body.\n2. Perform the movement with control, especially when moving your hands, to avoid unnecessary strain on your wrists and shoulders.\n3. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower yourself.",
+   "primary": [
+    "Chest",
+    "Triceps"
+   ],
+   "secondary": [
+    "Core Muscles",
+    "Shoulders",
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "close_grip_barbell_bench_press",
+  "name": "Close grip barbell bench press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie flat on your back on a bench with your feet firmly planted on the floor. Position yourself so that your eyes are directly under the barbell. Grip the barbell with a close grip, placing your hands slightly closer than shoulder-width apart, with palms facing away from you.\n2. Lower the barbell slowly to your mid-chest by bending your elbows, keeping them close to your body throughout the movement.\n3. Push the barbell back up to the starting position by fully extending your arms without locking your elbows. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your wrists remain straight and aligned with your forearms to avoid unnecessary strain.\n2. Lower the barbell in a controlled manner to maximize muscle engagement and prevent injury.\n3. Keep your elbows close to your body to emphasize triceps activation and reduce shoulder strain.",
+   "primary": [
+    "Triceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "close_grip_push_up",
+  "name": "Close grip push up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin in a plank position with your hands placed under your shoulders, with straight arms. Your body should form a straight line from head to heels.\n2. Lower your body towards the floor by bending your elbows, keeping them close to your sides.\n3. Push through your palms to lift your body back up to the starting position, fully extending your arms.\n4. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your triceps and chest muscles to lift your body, keeping your elbows close to your sides.\n2. Perform the movement with control, especially during the lowering phase, to maximize muscle activation and prevent injury.\n3. Breathe steadily throughout the exercise, exhaling as you push up and inhaling as you lower yourself.",
+   "primary": [
+    "Triceps",
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "close_reverse_grip_chin_up",
+  "name": "Close-reverse Grip Chin-Up",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "pull_up_bar",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping a pull-up bar with a close underhand grip (palms facing you) and your hands placed closer than shoulder-width apart. 2. Hang with your arms fully extended and your legs slightly bent or crossed behind you.\n3. Engage your back and start pulling your body upward by bending your elbows and contracting your biceps, continuing until your chin is above the bar.\n4. Lower yourself back to the starting position with a controlled movement, fully extending your arms. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on using your biceps and upper back muscles to lift your body, avoiding excessive momentum.\n2. Breathe steadily throughout the exercise, exhaling as you pull up and inhaling as you lower yourself.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.\n4. Use a full range of motion by fully extending your arms at the bottom and bringing your chin above the bar at the top.",
+   "primary": [
+    "Biceps",
+    "Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "cluster",
+  "name": "Cluster",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "barbell",
+   "tracking_mode": "",
+   "instructions": "1. Begin in a squatted position with your feet shoulder-width apart and a barbell on the floor in front of you. Grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.\n2. Lift the barbell to a front rack position by performing a clean movement, explosively extending your hips and knees, shrugging your shoulders, and then catching the barbell at your shoulders with your elbows pointing forward. As you catch the barbell, simultaneously lower into a squat by bending your knees and hips until your thighs are lower than your knees.\n3. From the bottom of the squat, stand up straight by extending your knees.\n4. Lower the barbell back to the floor. Repeat the sequence for the desired number of repetitions.",
+   "tips": "1. Use a controlled and explosive movement during the clean phase to effectively lift the barbell.\n2. Ensure a controlled descent of the barbell to the floor to prevent injury and maintain form.\n3. Maintain a slight bend in your knees when catching the barbell in the front rack position.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves",
+    "Upper Back",
+    "Shoulders"
+   ]
+  }
+ }
+]

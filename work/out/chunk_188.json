@@ -1,0 +1,93 @@
+[
+ {
+  "id": "plank_reach_through",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your right side and prop up on your right elbow, elbow under your shoulder.\n2. Raise your hips so your body forms a straight line from head to heels.\n3. Reach your left arm straight up toward the ceiling.\n4. Rotate your torso and reach your left arm under and across your body.\n5. Rotate back and return the left arm to vertical.\n6. Finish the set, switch sides, and Repeat.",
+  "tips": "1. Stack your shoulder directly over your supporting elbow.\n2. Keep your hips lifted and avoid letting them drop.\n3. Drive the rotation from your obliques, not momentum.\n4. Exhale as you reach under, inhale as you return.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "glutes", "latins": ["Gluteus Medius"]}
+  ]
+ },
+ {
+  "id": "plank_reverse_fly_with_bottle",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with your hands under your shoulders and feet wider than hip-width.\n2. Hold a water bottle in your right hand, arm straight under your shoulder.\n3. Brace your core and keep your hips level.\n4. Raise the bottle out to the side until your arm is parallel to the floor.\n5. Lower the bottle back down with control.\n6. Finish the set, switch hands, and Repeat.",
+  "tips": "1. Keep your hips square to the floor and resist rotation.\n2. Move slowly and control the bottle on the way down.\n3. Lead with your rear delt, not your traps.\n4. Widen your feet for a more stable base.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "plank_shoulder_taps",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a high plank with your hands under your shoulders and body in a straight line.\n2. Set your feet about shoulder-width apart for stability.\n3. Brace your core and keep your hips level.\n4. Lift your right hand and tap your left shoulder.\n5. Return the hand to the floor and tap with the other hand.\n6. Alternate sides and Repeat.",
+  "tips": "1. Keep your hips from rocking side to side.\n2. Widen your stance to make balancing easier.\n3. Keep your shoulders stacked over your wrists.\n4. Move slowly to maximize anti-rotation control.",
+  "primary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "glutes", "latins": ["Gluteus Medius"]}
+  ]
+ },
+ {
+  "id": "plate_front_raise",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Stand with your feet shoulder-width apart, holding a weight plate with both hands.\n2. Let your arms hang straight down in front of your hips.\n3. Brace your core and keep a slight bend in your elbows.\n4. Raise the plate in front of you until your arms are parallel to the floor.\n5. Pause briefly, then lower the plate back down with control.\n6. Repeat.",
+  "tips": "1. Lift slowly and avoid swinging the plate up with momentum.\n2. Keep your torso upright and core braced.\n3. Stop at shoulder height to keep tension on the front delts.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Clavicular Head"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "plyo_side_lunge_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet wider than shoulder-width and arms out to your sides.\n2. Bend your right knee and lower into a side lunge, keeping your left leg straight.\n3. Rotate your torso to the right and reach your left hand to touch your right leg.\n4. Push off your right foot to return to the wide stance and rotate back to center.\n5. Repeat on the left side, alternating each rep.\n6. Repeat.",
+  "tips": "1. Track your bent knee over your toes.\n2. Keep your trailing leg straight to stretch the inner thigh.\n3. Push through the heel of your bent leg to drive back up.\n4. Exhale as you lower, inhale as you return.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus", "Gluteus Medius"]},
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "Calves", "latins": ["Gastrocnemius Lateral", "Gastrocnemius Medial"]}
+  ]
+ }
+]

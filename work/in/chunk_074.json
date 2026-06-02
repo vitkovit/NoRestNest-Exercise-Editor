@@ -1,0 +1,97 @@
+[
+ {
+  "id": "chest_dip_on_dip_station",
+  "name": "Chest dip (on dip station)",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping the parallel bars of the dip pull-up cage with your palms facing inward and your arms fully extended.\n2. Lift your body off the floor and lean slightly forward, crossing your ankles behind you for balance.\n3. Lower your body by bending your elbows until your upper arms are parallel to the floor, keeping your chest leaning forward to engage your chest muscles.\n4. Push through your palms to extend your elbows and lift your body back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on leaning forward slightly to emphasize the chest muscles rather than the triceps.\n2. Avoid locking your elbows at the top of the movement to keep tension on your muscles.\n3. Ensure your shoulders remain down and away from your ears to avoid unnecessary strain.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "chest_dip_weighted",
+  "name": "Chest dip weighted",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Grip the dip bars firmly with your palms facing inward and your arms fully extended. Position your body slightly forward, with your legs bent and crossed at the ankles, holding weights.\n2. Lower your body by bending your elbows, allowing them to flare out slightly to the sides. Lower yourself until your upper arms are parallel to the floor.\n3. Push through your palms to extend your elbows and lift your body back to the starting position. Maintain the forward lean throughout the movement to keep the focus on your chest muscles.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Ensure your body remains slightly forward to maximize chest activation and minimize strain on your shoulders.\n2. Use a weight that allows you to perform the exercise with proper form and control.\n3. Breathe steadily, exhaling as you push up and inhaling as you lower yourself.\n4. Avoid locking your elbows at the top of the movement; maintain a slight bend to keep tension on your muscles.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "chest_dip_weighted_slow",
+  "name": "Chest dip weighted slow",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "other",
+   "tracking_mode": "",
+   "instructions": "1. Grip the dip bars firmly with your palms facing inward and your arms fully extended. Position your body slightly forward, with your legs bent and crossed at the ankles, holding weights.\n2. Slowly lower your body by bending your elbows, allowing them to flare out slightly to the sides. Lower yourself in a controlled manner until your upper arms are parallel to the floor.\n3. Push through your palms to slowly extend your elbows and lift your body back to the starting position. Maintain the forward lean throughout the movement to keep the focus on your chest muscles.\n4. Repeat the movement for the desired number of repetitions, maintaining a slow and controlled pace throughout the exercise.",
+   "tips": "1. Ensure your body remains slightly forward to maximize chest activation and minimize strain on your shoulders.\n2. Use a weight that allows you to perform the exercise with proper form and control.\n3. Perform both the lowering and lifting phases slowly to increase muscle engagement and control.\n4. Avoid locking your elbows at the top of the movement; maintain a slight bend to keep tension on your muscles.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "chest_dip_with_pause_bodyweight",
+  "name": "Chest dip with pause bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Begin by grasping the parallel bars with your palms facing inward and your arms fully extended to lift your body off the floor and lean slightly forward, crossing your ankles behind you for balance.\n2. Lower your body by bending your elbows until your upper arms are parallel to the floor, keeping your chest leaning forward to engage your chest muscles.\n3. Push through your palms to extend your elbows and lift your body back to the starting position. Pause in the upper position for a few seconds, allowing for a couple seconds of rest. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on leaning forward slightly to emphasize the chest muscles rather than the triceps.\n2. Avoid locking your elbows at the top of the movement to maintain tension on your muscles.\n3. Ensure your shoulders remain down and away from your ears to prevent unnecessary strain.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps",
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "chest_fly_high_to_low_resistance_band",
+  "name": "Chest fly high to low Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Attach the resistance band to a low anchor point behind you. Stand facing away from the anchor point, holding a handle in each hand with your palms facing up.\n2.Position one leg forward and the other back, with both knees slightly bent, keeping your back straight and your arms extended down and slightly behind you.\n3. Raise the handles up and together in a wide arc, bringing them to meet at head level while keeping a slight bend in your elbows.\n4. Slowly lower your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise the handles and inhale as you lower them back down.\n2. Use a lighter resistance band if needed to ensure proper form and gradually increase the resistance as you get stronger.\n3. Focus on squeezing your upper chest muscles at the top of the movement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ }
+]

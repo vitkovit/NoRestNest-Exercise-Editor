@@ -1,0 +1,4 @@
+[
+ {"id": "ez_barbell_anti_gravity_press", "issue": "Prone incline forward press; sources describe it as a rear-delt/upper-back press, not a standard overhead press. Mapped primary to Posterior Deltoid + mid back (traps/rhomboids). Equipment was 'other' in source; set to barbell (EZ bar). No bucket exists for a dedicated 'anti-gravity/rear-delt press' so deltoid head chosen by movement."},
+ {"id": "feet_together_barbell_squats", "issue": "Narrow/feet-together stance increases quad (vastus lateralis) emphasis and recruits adductors while reducing glute activation; added Adductors as secondary. Gluteus Maximus kept primary per free-squat rule though activation is lower than wide stance."}
+]

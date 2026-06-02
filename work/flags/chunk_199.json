@@ -1,0 +1,4 @@
+[
+ {"id": "seated_shoulder_flexor_depressor_retractor_stretch", "issue": "Static stretch, not a strengthening exercise; muscles listed are those being stretched (chest, anterior deltoid, biceps). Pectoralis minor and coracobrachialis are also stretched but have no allowed latin value, so omitted."},
+ {"id": "seated_normal_grip_row_machine", "issue": "Input equipment was 'other'; reassigned to 'machine' since it is a seated machine row. Overhand grip emphasizes mid back/rhomboids and rear delts more than supinated grip."}
+]

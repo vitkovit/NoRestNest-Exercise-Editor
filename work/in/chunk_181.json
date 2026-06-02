@@ -1,0 +1,94 @@
+[
+ {
+  "id": "lying_glute_stretch",
+  "name": "Lying glute stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your back with your knees bent and feet flat on the floor.\n2. Cross your right ankle over your left knee, forming a figure-four position.\n3. Grasp the back of your left thigh with both hands and gently pull your left leg towards your chest. Hold the stretch for 15-30 seconds, feeling the stretch in your right glute and hip.\n4. Slowly release your left leg and return to the starting position. Repeat the stretch with your left ankle crossed over your right knee. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Keep your head and shoulders relaxed on the floor to avoid tension in your neck and upper back.\n2. Avoid pulling too hard; go as far as your flexibility allows without causing pain.\n3. Use a towel or strap if needed to assist in pulling your leg towards your chest.",
+   "primary": [
+    "Glutes"
+   ],
+   "secondary": [
+    "Hip Flexors"
+   ]
+  }
+ },
+ {
+  "id": "lying_hip_flexor_stretch",
+  "name": "Lying hip flexor stretch",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "other",
+   "tracking_mode": "timed",
+   "instructions": "1. Lie on your back with your legs straight on the floor.\n2. Lift your right knee towards your chest, holding it with both hands to keep it close while extending your left leg straight off floor, keeping it in line with your right foot.\n3. Hold the stretch for 15-30 seconds, then slowly release your right knee and return to the starting position. Repeat the stretch with your left knee lifted towards your chest and your right leg extended. Alternate sides for the desired number of repetitions.",
+   "tips": "1. Keep your lower back pressed into the floor to avoid strain and to deepen the stretch.\n2. Start with a smaller range of motion if you feel any discomfort, gradually increasing as flexibility improves.\n3. Focus on deep, steady breathing, inhaling as you prepare for the stretch and exhaling as you hold the stretch.",
+   "primary": [
+    "Hip Flexors"
+   ],
+   "secondary": [
+    "Quadriceps"
+   ]
+  }
+ },
+ {
+  "id": "lying_lateral_raises_bodyweight",
+  "name": "Lying lateral raises bodyweight",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie face down on the floor with your legs extended straight and your arms extended out to your sides, palms facing down.\n2. Lift both arms straight upwards, keeping them in line with your shoulders. Maintain a slight bend in your elbows.\n3. Hold the top position for a second, feeling the contraction in your shoulder and upper back muscles.\n4. Slowly lower your arms back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain a slight bend in your elbows to reduce strain on your joints.\n2. Perform the exercise on a comfortable, non-slip surface to prevent discomfort or injury.\n3. Move slowly and with control to maximize muscle engagement and prevent injury.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "lying_leg_curl_machine",
+  "name": "Lying leg curl machine",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie face down on the lying leg curl machine, positioning your legs under the padded lever, just above your ankles. Adjust the machine so that your knees are just off the edge of the bench.\n2. Grasp the handles on the sides of the machine for stability and keep your back flat against the bench.\n3. Curl your legs up towards your glutes by bending your knees, squeezing your hamstrings at the top of the movement.\n4. Slowly lower the padded lever back to the starting position with control, fully extending your legs. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your hips pressed against the bench throughout the exercise to isolate the hamstring muscles.\n2. Avoid using momentum; let your muscles do the work.\n3. Exhale as you curl your legs up and inhale as you lower them back down.",
+   "primary": [
+    "Hamstrings"
+   ],
+   "secondary": [
+    "Glutes"
+   ]
+  }
+ },
+ {
+  "id": "lying_leg_raise",
+  "name": "Lying leg raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Lie flat on your back with your legs extended and your arms at your sides, palms facing down firm on the floor.\n2. Engage your core muscles and press your lower back into the floor.\n3. Keeping your legs straight, lift them up towards the ceiling until they are perpendicular to the floor.\n4. Slowly lower your legs back to the starting position with control, stopping just before they touch the floor. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you lift your legs up and inhale as you lower them back down.\n2. Keep your legs as straight as possible for maximum effectiveness.\n3. Focus on engaging your abdominal muscles throughout the movement.",
+   "primary": [
+    "Abdominals"
+   ],
+   "secondary": [
+    "Abdominals",
+    "Hip Flexors",
+    "Lower Back"
+   ]
+  }
+ }
+]

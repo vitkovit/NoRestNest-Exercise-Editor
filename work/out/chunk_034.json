@@ -1,0 +1,86 @@
+[
+ {
+  "id": "bent_leg_side_kick_kneeling",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start on your hands and knees in a tabletop position, wrists under your shoulders and knees under your hips.\n2. Keep your right leg bent at 90 degrees.\n3. Raise your right knee out to the side until your thigh is level with your hip.\n4. Lower your knee back to the floor under control.\n5. Finish the set, then switch to the left leg.\n6. Repeat.",
+  "tips": "1. Keep your wrists under your shoulders for a stable base.\n2. Brace your core and keep your hips level, do not rotate your torso.\n3. Lift with the outer hip and glute, not by leaning to the opposite side.\n4. Move slowly and avoid swinging the leg up.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Medius"]},
+   {"group": "Abductor", "latins": ["Abductor"]}
+  ],
+  "secondary": [
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "bent_over_barbell_row",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a barbell with an overhand grip just outside your knees.\n2. Bend your knees slightly and hinge forward at the hips until your torso is almost parallel to the floor. Keep your back flat.\n3. Let the bar hang with your arms straight.\n4. Pull the bar to your lower chest by driving your elbows back and squeezing your shoulder blades together.\n5. Lower the bar under control until your arms are straight.\n6. Repeat.",
+  "tips": "1. Keep your back flat and your core braced throughout.\n2. Drive your elbows back and squeeze your shoulder blades at the top.\n3. Do not use momentum or jerk the bar with your lower back.\n4. Exhale as you pull, inhale as you lower.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ },
+ {
+  "id": "bent_over_rear_delt_fly_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Hold a dumbbell in each hand with a neutral grip, feet shoulder-width apart.\n2. Bend your knees slightly and hinge forward at the hips until your torso is almost parallel to the floor. Keep your back flat.\n3. Let the dumbbells hang below your shoulders with a slight bend in your elbows.\n4. Raise the dumbbells out to the sides until your arms are level with your shoulders, squeezing your shoulder blades together.\n5. Lower the dumbbells under control to the start.\n6. Repeat.",
+  "tips": "1. Keep your back flat and your core braced to protect your lower back.\n2. Lead with your elbows and lift with your rear shoulders, not your traps or arms.\n3. Keep a slight bend in your elbows the whole time.\n4. Use a controlled motion and avoid swinging the weights up.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]}
+  ]
+ },
+ {
+  "id": "bent_over_rear_deltoid_fly_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand on the resistance band with feet shoulder-width apart and hold one end in each hand.\n2. Bend your knees slightly and hinge forward at the hips until your torso is almost parallel to the floor. Keep your back flat.\n3. Let your arms hang down with a slight bend in your elbows.\n4. Raise your arms out to the sides into a T shape, leading with your elbows and squeezing your shoulder blades together.\n5. Lower your arms under control to the start.\n6. Repeat.",
+  "tips": "1. Keep your back flat and your core braced to protect your lower back.\n2. Lead with your elbows and lift with your rear shoulders.\n3. Adjust your stance on the band to set the tension.\n4. Control the return, do not let the band snap your arms down.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]}
+  ]
+ },
+ {
+  "id": "bent_over_row_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand on the resistance band with feet shoulder-width apart and hold one handle in each hand.\n2. Bend your knees slightly and hinge forward at the hips until your torso is almost parallel to the floor. Keep your back flat.\n3. Let your arms hang down with the band under tension.\n4. Pull the handles toward your hips by driving your elbows back and squeezing your shoulder blades together.\n5. Lower your arms under control to the start.\n6. Repeat.",
+  "tips": "1. Keep your elbows close to your body to load the back muscles.\n2. Squeeze your shoulder blades together at the top.\n3. Keep your back flat and core braced throughout.\n4. Exhale as you pull, inhale as you return.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "mid back", "latins": ["Rhomboids", "Upper Traps", "Lower Traps"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ]
+ }
+]

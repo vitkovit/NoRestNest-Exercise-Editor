@@ -1,0 +1,7 @@
+[
+ {"id": "lying_glute_stretch", "issue": "Piriformis and deep hip external rotators are the main targets but have no allowed latin value; mapped to glutes (Gluteus Maximus/Medius). Iliopsoas/TFL secondary mapped to Abductor bucket."},
+ {"id": "lying_hip_flexor_stretch", "issue": "Primary target iliopsoas (psoas/iliacus) has no dedicated bucket; per project translation rule mapped Hip Flexors/Iliopsoas to Abductor bucket. Sartorius and TFL also stretched but no allowed value."},
+ {"id": "lying_lateral_raises_bodyweight", "issue": "Input current data listed Shoulders/Upper Back generically; described movement is prone rear-delt raise so corrected to Posterior Deltoid primary."},
+ {"id": "lying_leg_curl_machine", "issue": "Input equipment was 'bodyweight' and trackingMode 'repsOnly' but this is a weighted machine; corrected to machine/Resistance and weighted reps."},
+ {"id": "lying_leg_raise", "issue": "Input category was Resistance/bodyweight; corrected to Bodyweight. Hip flexors (iliopsoas) are a major mover but mapped to Abductor bucket per translation rule."}
+]

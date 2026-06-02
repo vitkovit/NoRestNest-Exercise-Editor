@@ -1,0 +1,168 @@
+[
+ {
+  "id": "lying_hip_flexor_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your back with both legs straight on the floor.\n2. Pull your right knee toward your chest and hold it with both hands.\n3. Keep your left leg pressed straight along the floor.\n4. Feel the stretch across the front of your left hip and thigh.\n5. Hold, then switch sides. Repeat.",
+  "tips": "1. Keep the straight leg flat on the floor to deepen the stretch.\n2. Press your lower back gently into the floor.\n3. Start with a small range and increase as flexibility improves.\n4. Exhale slowly as you settle into the stretch.",
+  "name": "Lying hip flexor stretch",
+  "primary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "lying_lateral_raises_bodyweight",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie face down on the floor with your legs extended straight.\n2. Extend your arms out to the sides at shoulder height, palms facing down.\n3. Keep a slight bend in your elbows.\n4. Lift both arms off the floor as high as you can, squeezing your rear shoulders and upper back.\n5. Hold briefly, then lower with control. Repeat.",
+  "tips": "1. Lead with the backs of the hands to target the rear delts.\n2. Keep your neck long and chin tucked.\n3. Move slowly to avoid using momentum.\n4. Squeeze the shoulder blades together at the top.",
+  "name": "Lying lateral raises bodyweight",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "lying_leg_curl_machine",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Lie face down on the machine with the padded lever just above your ankles.\n2. Align your knees just past the edge of the bench.\n3. Grasp the handles and keep your hips pressed into the pad.\n4. Curl your legs up toward your glutes by bending your knees.\n5. Squeeze the hamstrings at the top, then lower with control. Repeat.",
+  "tips": "1. Keep your hips down to isolate the hamstrings.\n2. Control the lowering phase, do not let the weight drop.\n3. Exhale as you curl up and inhale as you lower.\n4. Point your toes to shift more load onto the hamstrings.",
+  "name": "Lying leg curl machine",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "lying_leg_raise",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie flat on your back with legs extended and arms at your sides, palms down.\n2. Brace your core and press your lower back into the floor.\n3. Keeping your legs straight, lift them until they point toward the ceiling.\n4. Lower your legs slowly, stopping just before they touch the floor.\n5. Keep your lower back flat throughout. Repeat.",
+  "tips": "1. Exhale as you lift and inhale as you lower.\n2. Keep your lower back pressed down to protect the spine.\n3. Bend your knees slightly if your hip flexors take over.\n4. Move slowly and control the descent.",
+  "name": "Lying leg raise",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "LowerRectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "lying_prone_abdominal_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with legs extended and hands flat under your shoulders.\n2. Press your hands into the floor to lift your chest upward and extend your spine.\n3. Keep your hips and legs relaxed on the floor.\n4. Raise until you feel a stretch across your abdomen and lower back.\n5. Hold briefly, then lower your chest back down.\n6. Repeat.",
+  "tips": "1. Roll your shoulders back and down to open the chest.\n2. Breathe slowly and steadily through the hold.\n3. Keep your hips pressed into the floor.\n4. Use a mat for comfort.",
+  "name": "Lying (prone) abdominal stretch",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head",
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

@@ -1,0 +1,94 @@
+[
+ {
+  "id": "double_knee_drive",
+  "name": "Double knee drive",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart, both arms bent and raised by your sides.\n2. Lift your right knee towards your chest while rotating your torso to the right, bringing your left elbow to touch your right knee twice.\n3. Lower your right leg back to the starting position and return your torso to face forward.\n4. Repeat the movement on the opposite side by lifting your left knee towards your chest, rotating your torso to the left, and bringing your right elbow to touch your left knee twice. Continue alternating sides.",
+   "tips": "1. Keep your upper body upright and avoid leaning too far forward or backward to maintain balance and proper form.\n2. Engage your core muscles to stabilize your body and enhance the rotational movement.\n3. Focus on a steady, rhythmic breathing pattern, exhaling as you bring your knee and elbow together.",
+   "primary": [
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Glutes",
+    "Obliques"
+   ]
+  }
+ },
+ {
+  "id": "double_punch_front_leg_lift",
+  "name": "Double punch front leg lift",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Stand with your feet shoulder-width apart and your hands in fists near your sides with cloesd fists.\n2. Simultaneously punch forward with both arms while lifting your right leg slightly bent at the knee to about waist height.\n3. Return your arms and right leg to the starting position.\n4. Immediately repeat the movement, this time lifting your left leg while simultaneously punching forward with both arms. Continue alternating leg lifts with each set of punches.",
+   "tips": "1. Ensure your punches are strong and controlled, extending fully without locking your elbows.\n2. Maintain a slight bend in the lifted leg to reduce strain and enhance control during the movement.\n3. Focus on a steady, rhythmic breathing pattern, exhaling as you punch and lift your leg, and inhaling as you return to the starting position.",
+   "primary": [
+    "Shoulders",
+    "Hip Flexors",
+    "Quadriceps"
+   ],
+   "secondary": [
+    "Chest",
+    "Arms"
+   ]
+  }
+ },
+ {
+  "id": "downward_dog_sprint",
+  "name": "Downward dog sprint",
+  "sheet": "universal",
+  "current": {
+   "category": "Bodyweight",
+   "equipment": "bodyweight",
+   "tracking_mode": "repsOnly",
+   "instructions": "1. Get down on your fours and raise your hips while keeping your arms and legs straight to form an inverted V-shape.\n2. Raise and lower your feet alternately as if you are sprinting.\n3. Continue for a suitable duration.",
+   "tips": "",
+   "primary": [],
+   "secondary": []
+  }
+ },
+ {
+  "id": "drag_curl_dumbbell",
+  "name": "Drag curl dumbbell",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an underhand grip (palms facing up). Let your arms hang straight down by your sides.\n2. Begin by dragging the dumbbells upward along your torso by bending your elbows and pulling them back, as if you are zipping up your jacket.\n3. Continue lifting the dumbbells until they reach chest height, focusing on squeezing your biceps at the top of the movement.\n4. Slowly lower the dumbbells back to the starting position, maintaining control throughout the descent. Repeat for the desired number of repetitions.",
+   "tips": "1. Focus on the mind-muscle connection, feeling the contraction in your biceps throughout the movement.\n2. Use a weight that allows you to perform the exercise with proper form without straining.\n3. Avoid using momentum; perform the exercise in a slow and controlled manner.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ },
+ {
+  "id": "drag_curl_resistance_band",
+  "name": "Drag curl Resistance band",
+  "sheet": "universal",
+  "current": {
+   "category": "Resistance",
+   "equipment": "resistance_band",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart and place a resistance band under your feet. Hold the handles of the band with both hands, palms facing forward.\n2. Keep your elbows close to your body and your back straight. Start with your arms fully extended down at your sides.\n3. Curl the handles up by dragging your elbows along your torso, keeping them close to your torso, until your hands reach chest level.\n4. Slowly lower the handles back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Exhale as you curl the handles up and inhale as you lower them back down.\n2. Use a lighter resistance band if needed to ensure proper form and gradually increase the resistance as you get stronger.\n3. Focus on engaging your biceps throughout the movement.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms",
+    "Shoulders"
+   ]
+  }
+ }
+]

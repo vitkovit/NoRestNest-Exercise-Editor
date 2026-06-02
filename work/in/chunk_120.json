@@ -1,0 +1,94 @@
+[
+ {
+  "id": "dumbbell_narrow_stance_squats",
+  "name": "Dumbbell narrow stance squats",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet close together, about hip-width apart, holding a dumbbell in each hand at your sides with your palms facing your body.\n2. Begin the squat by pushing your hips back and bending your knees to lower your body, keeping the dumbbells at your sides.\n3. Lower yourself until your thighs are parallel to the floor or as low as you can comfortably go while maintaining proper form.\n4. Push through your heels to stand back up, straightening your legs and returning to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your weight is evenly distributed through your feet, especially your heels, to activate your glutes and quadriceps.\n2. Breathe in as you lower into the squat and breathe out as you push back up.\n3. Keep your knees in line with your toes to avoid excessive strain on your knees.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_one_arm_floor_fly",
+  "name": "Dumbbell One Arm Floor Fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back on the floor with your legs straight. Hold a dumbbell in one hand with your arm slightly bent on the floor, palm facing up. Keep your free hand on the floor for support.\n2. Slowly raise your arm over your chest in a wide arc motion, keeping a slight bend in your elbow. \n3. Lower the dumbbell back to the starting position until your arm nearly touches the floor.\n4. Repeat for the desired repetitions, then switch to the other arm.",
+   "tips": "1. Keep a slight bend in your elbow to reduce strain on your joint.\n2. Avoid letting your back arch off the floor; keep it flat and supported.\n3. Focus on using your chest muscles to lift the dumbbell, minimizing shoulder involvement.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_one_arm_floor_press",
+  "name": "Dumbbell One Arm Floor Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on your back on the floor with your legs straight on the floor. Hold a dumbbell in one hand with your arm extended straight up towards the ceiling, palm facing forward. Keep your free hand on the floor for support.\n2. Lower the dumbbell by bending your elbow until your upper arm touches the floor, bringing your elbow at a 45-degree angle to your body.\n3. Press the dumbbell back up to the starting position by extending your elbow, squeezing your chest at the top of the movement.\n4. Repeat for the desired number of repetitions, then switch to the other arm.",
+   "tips": "1. Avoid letting your back arch off the floor; keep it flat and supported.\n2. Focus on using your chest and triceps to lift the dumbbell.\n3. Keep your wrist straight and aligned with your forearm during the exercise.",
+   "primary": [
+    "Chest"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_one_arm_front_raise",
+  "name": "Dumbbell One Arm Front Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in one hand with your arm extended down by your side, palm facing your thigh.\n2. Keeping your arm straight, lift the dumbbell directly in front of you to shoulder height, ensuring your palm is facing downwards.\n3. Pause briefly at the top of the movement, then slowly lower the dumbbell back to the starting position.\n4. Repeat for the desired number of repetitions, then switch to the other arm.",
+   "tips": "1. Keep your back straight and avoid swinging the dumbbell to use momentum.\n2. Engage your core to maintain stability and control throughout the exercise.\n3. Move the dumbbell in a slow and controlled manner to maximize muscle engagement.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Back"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_one_arm_hammer_preacher_curl",
+  "name": "Dumbbell One Arm Hammer Preacher Curl",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on a preacher bench and place your right elbow on the arm pad, holding a dumbbell in a neutral grip (palm facing inward).\n2. Keeping your elbow pressed against the pad, curl the dumbbell towards your shoulder by bending your elbow.\n3. Squeeze your bicep at the top of the movement, ensuring the dumbbell reaches shoulder height.\n4. Slowly lower the dumbbell back to the starting position, fully extending your arm. Repeat for the desired number of repetitions, then switch to the other arm.",
+   "tips": "1. Keep your upper arm pressed firmly against the preacher pad to isolate the biceps.\n2. Perform the movement in a slow and controlled manner to maximize muscle engagement.\n3. Avoid swinging the dumbbell or using momentum to lift the weight.",
+   "primary": [
+    "Biceps"
+   ],
+   "secondary": [
+    "Forearms"
+   ]
+  }
+ }
+]

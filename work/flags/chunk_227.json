@@ -1,0 +1,5 @@
+[
+ {"id": "ankle_circles", "issue": "Tibialis anterior and peroneals (Fibularis) are prime movers but the controlled vocabulary lacks a separate small-foot-muscle bucket; mapped front shin to Tibialis and peroneals to Fibularis under the Shin bucket. Mobility drill, minimal load."},
+ {"id": "arms_lateral_raise_and_rotation_up", "issue": "Input had empty data and no clear equipment; name implies a lateral raise with external rotation (thumbs up). Assumed dumbbells and lateral/anterior deltoid focus with rotator cuff. Could also be a bodyweight/band variant - ambiguous."},
+ {"id": "assault_airbike_fast_speed", "issue": "Serratus anterior and biceps are also worked on the pull stroke but biceps was omitted to stay within 5 secondary groups; serratus has no allowed bucket. Categorized as machine/Resistance though input was 'other'/Uncategorized."}
+]

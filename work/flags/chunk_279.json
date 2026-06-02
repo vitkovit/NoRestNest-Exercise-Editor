@@ -1,0 +1,4 @@
+[
+ {"id": "resistance_band_standing_balance_hip_abduction", "issue": "Primary mover is gluteus medius/minimus + TFL; encoded as glutes->Gluteus Medius (primary) and Abductor (secondary, for TFL). Gluteus minimus has no allowed value, omitted."},
+ {"id": "resistance_band_standing_hip_abduction", "issue": "Gluteus minimus has no allowed value (omitted). TFL encoded as Abductor secondary."}
+]

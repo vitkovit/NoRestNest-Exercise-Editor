@@ -1,0 +1,100 @@
+[
+ {
+  "id": "dumbbell_bent_over_reverse_row",
+  "name": "Dumbbell Bent-Over Reverse Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an overhand grip (palms facing towards you). Bend at your hips and knees to lower your torso until it is nearly parallel to the floor, keeping your back straight.\n2. Let the dumbbells hang directly below your shoulders, arms fully extended.\n3. Pull the dumbbells towards your torso, leading with your elbows and keeping them close to your body. Squeeze your shoulder blades together at the top of the movement.\n4. Lower the dumbbells back to the starting position with a controlled motion. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; perform the movement slowly and with control to maximize muscle engagement.\n2. Breathe out as you pull the dumbbells towards your torso and breathe in as you lower them back down.\n3. Ensure your elbows remain close to your body throughout the exercise to protect your joints.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bent_over_row",
+  "name": "Dumbbell Bent-Over Row",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with a neutral grip (palms facing each other). Bend at your hips and knees to lower your torso until it is nearly parallel to the floor, keeping your back straight.\n2. Let the dumbbells hang directly below your shoulders, arms fully extended.\n3. Pull the dumbbells towards your torso, leading with your elbows and keeping them close to your body. Squeeze your shoulder blades together at the top of the movement.\n4. Lower the dumbbells back to the starting position with a controlled motion. Repeat for the desired number of repetitions.",
+   "tips": "1. Avoid using momentum; perform the movement slowly and with control to maximize muscle engagement.\n2. Breathe out as you pull the dumbbells towards your torso and breathe in as you lower them back down.\n3. Ensure your elbows remain close to your body throughout the exercise to protect your joints.",
+   "primary": [
+    "Middle Back",
+    "Upper Back"
+   ],
+   "secondary": [
+    "Shoulders",
+    "Biceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bicep_curl_to_shoulder_press",
+  "name": "Dumbbell bicep curl to shoulder press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand with an underhand grip (palms facing forward). Keep your elbows close to your torso.\n2. Perform bicep curls by bending your elbows to lift the dumbbells towards your shoulders, keeping your upper arms stationary.\n3. As you reach the top of the curl, rotate your wrists so that your palms face forward and press the dumbbells overhead by extending your arms fully.\n4. Lower the dumbbells back to shoulder height, then rotate your wrists back to the starting position and lower the dumbbells back to the starting position. Repeat for the desired number of repetitions.",
+   "tips": "1. Keep your elbows close to your body during the bicep curl and ensure they don’t flare out during the shoulder press.\n2. Exhale as you press the dumbbells overhead and inhale as you lower them.\n3. Start with a lighter weight to master the technique before progressing to heavier weights.",
+   "primary": [
+    "Biceps",
+    "Shoulders"
+   ],
+   "secondary": [
+    "Triceps"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_biceps_curl_with_overhead_extension_on_stability_ball",
+  "name": "Dumbbell Biceps Curl with Overhead Extension on Stability Ball",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Kneel on a stability ball with your forefeet on the floor for support. Hold a dumbbell in each hand with one arm extended overhead and the other arm hanging by your side.\n2. Simultaneously perform a bicep curl with the arm hanging by your side, bending your elbow to lift the dumbbell towards your shoulder and an overhead triceps extension with the other arm, bending your elbow to lower the dumbbell behind your head.\n3. Slowly return both arms to the starting position, ensuring control and stability throughout the movement. Repeat for the desired number of repetitions.",
+   "tips": "1. Maintain balance on the stability ball by engaging your core muscles throughout the exercise.\n2. Perform the movements slowly and with control to maximize muscle activation and reduce the risk of injury.\n3. Keep your elbows close to your body during the bicep curl and ensure your overhead arm remains stable during the triceps extension.",
+   "primary": [
+    "Biceps",
+    "Triceps"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_bulgarian_box_split_squat",
+  "name": "Dumbbell bulgarian box split squat",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Stand a few feet, back first in front of a box, holding a dumbbell in each hand with your arms hanging by your sides. Place the top of one foot on the box behind you.\n2. Lower your body by bending your front knee until your front thigh is parallel to the floor and your back knee is hovering just above the floor.\n3. Push through your front heel to return to the starting position, keeping your back straight and core engaged.\n4. Repeat for the desired number of repetitions, then switch legs and repeat the movement on the other side.",
+   "tips": "1. Start with a lighter weight to master the technique before progressing to heavier weights.\n2. Keep your torso upright and avoid leaning forward or arching your back during the movement.\n3. Engage your core throughout the exercise to stabilize your body and support your lower back.",
+   "primary": [
+    "Quadriceps",
+    "Glutes"
+   ],
+   "secondary": [
+    "Hamstrings",
+    "Calves"
+   ]
+  }
+ }
+]

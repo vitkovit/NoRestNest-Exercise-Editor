@@ -1,0 +1,89 @@
+[
+ {
+  "id": "cable_twist",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand sideways to the cable machine with feet shoulder-width apart.\n2. Set the pulley to shoulder height and grasp the handle with both hands, arms extended in front.\n3. Twist your torso away from the machine, pulling the handle across your body with straight arms.\n4. Slowly return to the start with control.\n5. Finish all reps, switch sides. Repeat.",
+  "tips": "1. Move slowly and with control to keep tension on the obliques.\n2. Exhale as you twist away and inhale as you return.\n3. Keep your hips facing forward so the rotation comes from your torso.\n4. Keep your core braced to protect your lower back.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "cable_twist_up_down",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand sideways to the cable machine with feet shoulder-width apart.\n2. Set the pulley to a high position and grasp the handle with both hands, arms extended diagonally toward it.\n3. Twist your torso down and across, pulling the handle toward your opposite hip with straight arms.\n4. Slowly return to the start with control.\n5. Finish all reps, switch sides. Repeat.",
+  "tips": "1. Move slowly and with control to keep tension on the obliques.\n2. Exhale as you chop down and inhale as you return.\n3. Pivot through the torso and keep the arms straight so the core does the work.\n4. Keep your core braced to protect your lower back.",
+  "primary": [
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ },
+ {
+  "id": "cable_twisting_overhead_press",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand sideways to the cable machine, feet slightly wider than shoulder-width, knees bent and hips back.\n2. Grasp the handle at hip height with the hand nearest the machine, holding it at your shoulder.\n3. Twist your torso away while pressing the handle up and across your body.\n4. Straighten your legs to stand tall as you finish the press.\n5. Slowly return to the semi-squat with the handle back at your shoulder.\n6. Finish all reps, switch sides. Repeat.",
+  "tips": "1. Start light and add resistance as your form holds.\n2. Drive through the legs and hips to power the press.\n3. Exhale as you twist and press, inhale as you lower.\n4. Keep your core braced throughout the movement.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]}
+  ]
+ },
+ {
+  "id": "cable_twisting_pull",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand facing the cable machine, left foot forward and right foot back, knees bent.\n2. Set the pulley low and grasp the handle with your right hand, palm down. Lean forward so your upper body is near parallel to the floor.\n3. Extend your arm toward the pulley, keeping your back straight and core braced.\n4. Pull the handle to your torso, rotating your wrist until your palm faces up.\n5. Slowly extend your arm back to the start with control.\n6. Finish all reps, switch sides. Repeat.",
+  "tips": "1. Exhale as you pull and inhale as you extend.\n2. Keep your feet planted for a stable base.\n3. Keep your core tight to protect your lower back.\n4. Lead with the elbow and squeeze the back at the top.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]}
+  ]
+ },
+ {
+  "id": "cable_underhand_pulldown_wide_grips",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Sit at the lat pulldown machine with feet flat and knees under the pads.\n2. Grasp the wide bar with an underhand grip, hands wider than shoulder-width, palms facing back.\n3. Pull the bar down to your upper chest by driving your elbows down and back.\n4. Squeeze your shoulder blades together at the bottom.\n5. Slowly extend your arms back to the start with control. Repeat.",
+  "tips": "1. Keep your chest up and avoid leaning back excessively.\n2. Drive with the elbows rather than yanking with the arms.\n3. Exhale as you pull down and inhale as you return.\n4. Control the bar on the way up for a full stretch.",
+  "primary": [
+   {"group": "Lats", "latins": ["Latissimus Dorsi"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids", "Lower Traps"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]},
+   {"group": "Lats", "latins": ["Rotator Cuff"]},
+   {"group": "shoulders", "latins": ["Posterior Deltoid"]}
+  ]
+ }
+]

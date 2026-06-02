@@ -1,0 +1,94 @@
+[
+ {
+  "id": "dumbbell_incline_breeding",
+  "name": "Dumbbell Incline Breeding",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on an incline bench set at a 45-degree angle, holding a dumbbell in each hand with your arms extended, elbows slightly bent, above your chest and palms facing forward.\n2. Slowly lower the dumbbells to your sides in a wide arc, maintaining the slight bend in your elbows.\n3. Bring the dumbbells back up in a controlled manner, following the same wide arc, until they meet above your chest.\n4. Repeat the movement for the desired number of repetitions, ensuring a controlled and steady motion throughout.",
+   "tips": "1. Avoid locking your elbows; maintain a slight bend to protect your joints.\n2. Ensure your wrists remain straight and aligned with your forearms.\n3. Focus on a slow and controlled motion to maximize muscle engagement.",
+   "primary": [
+    "Shoulders",
+    "Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_fly",
+  "name": "Dumbbell Incline Fly",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on an incline bench set at a 45-degree angle, holding a dumbbell in each hand with your arms extended straight out to your sides at chest level, palms facing up.\n2. Engage your core and bring the dumbbells up in a controlled manner, following a wide arc, until they meet above your chest, maintaining a slight bend in your elbows.\n3. Slowly lower the dumbbells back out to your sides in a wide arc until your arms are level with your chest.\n4. Repeat the movement for the desired number of repetitions.",
+   "tips": "1. Exhale as you raise the dumbbells and inhale as you lower them.\n2. Avoid locking your elbows; maintain a slight bend to protect your joints.\n3. Ensure your wrists remain straight and aligned with your forearms.",
+   "primary": [
+    "Upper Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_fly_on_exercise_ball",
+  "name": "Dumbbell Incline Fly on Exercise Ball",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Sit on an exercise ball and walk your feet forward until your middle back is supported on the ball, feet slightly wider than shoulder-width, hinge your hips to form a 90 degree angle with your torso. \n2. Hold a dumbbell in each hand with your arms extended straight out to your sides at chest level, palms facing up. Bring the dumbbells up in a controlled manner, following a wide arc, until they meet above your chest.\n3. Slowly lower the dumbbells back out to your sides in a wide arc until your arms are level with your chest.\n4. Repeat the movement for the desired number of repetitions, ensuring a controlled and steady motion throughout.",
+   "tips": "1. Keep your back supported on the ball and your hips lowered to maintain a stable position.\n2. Engage your core to stabilize your body and maintain proper form.\n3. Exhale as you raise the dumbbells and inhale as you lower them.",
+   "primary": [
+    "Upper Chest"
+   ],
+   "secondary": [
+    "Shoulders"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_front_raise",
+  "name": "Dumbbell Incline Front Raise",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on an incline bench set at a 45-degree angle with a dumbbell in each hand, arms straight, and palms facing down just over your thighs. \n2. Raise both dumbbells in front of you, keeping your arms straight, until they reach opposite your chest.\n3. Hold the position for a second, then slowly lower the dumbbells back to the starting position with control.\n4. Repeat the movement for the desired number of repetitions, maintaining a steady and controlled motion.",
+   "tips": "1. Avoid using momentum; focus on using your shoulder muscles to lift the weights.\n2. Engage your core to stabilize your body and prevent arching of the back.\n3. Exhale as you lift the dumbbells and inhale as you lower them.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Chest"
+   ]
+  }
+ },
+ {
+  "id": "dumbbell_incline_hammer_shoulder_press",
+  "name": "Dumbbell Incline Hammer Shoulder Press",
+  "sheet": "universal",
+  "current": {
+   "category": "Free Weights",
+   "equipment": "dumbbell",
+   "tracking_mode": "",
+   "instructions": "1. Lie on an incline bench set at a 45-degree angle with your feet flat on the floor. Hold a dumbbell in each hand at shoulder height with your palms facing each other (hammer grip) and elbows bent and set perpendicular to your torso.\n2. Press the dumbbells forward in a controlled motion until your arms are fully extended opposite your chest, maintaining the hammer grip.\n3. Return the dumbbells back to the starting position with control. Repeat for the desired number of repetitions.",
+   "tips": "1. Ensure your wrists remain straight and aligned with your forearms.\n2. Choose a weight that allows for proper form and control.\n3. Focus on using your shoulder muscles to lift the weights, minimizing involvement from your chest.",
+   "primary": [
+    "Shoulders"
+   ],
+   "secondary": [
+    "Upper Chest",
+    "Triceps"
+   ]
+  }
+ }
+]

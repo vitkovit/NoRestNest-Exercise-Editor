@@ -1,0 +1,86 @@
+[
+ {
+  "id": "diagonal_opens",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart, elbows bent and pointing outwards, hands near your chest.\n2. Slide your right hand across your left forearm, moving both arms in opposite diagonal directions.\n3. Keep your elbows bent and your shoulder blades active throughout.\n4. Return your hands to the center.\n5. Repeat the slide with your left hand across your right forearm.\n6. Repeat.",
+  "tips": "1. Keep the motion smooth and controlled.\n2. Squeeze your shoulder blades as you open the arms.\n3. Brace your core to keep your torso still.\n4. Breathe steadily through each repetition.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "chest", "latins": ["Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Rhomboids"]}
+  ]
+ },
+ {
+  "id": "diagonal_punch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart, knees slightly bent, hands in a guard near your face.\n2. Rotate your torso to the right and extend your right arm in a diagonal punch across your body.\n3. Return your right hand to the guard as you rotate back to center.\n4. Rotate your torso to the left and punch diagonally across your body with your left arm.\n5. Return to center.\n6. Repeat.",
+  "tips": "1. Rotate your hips and shoulders fully to drive each punch.\n2. Keep your free hand up to protect your face.\n3. Exhale sharply as you punch.\n4. Start slow to set technique before adding speed.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "oblique", "latins": ["External Obliques", "Internal Obliques"]},
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "diamond_push_up_on_knees",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on a mat and place your hands close together under your chest, thumbs and index fingers forming a diamond.\n2. Lean forward over your hands with a straight back and braced core.\n3. Bend your elbows to lower your chest toward your hands, keeping elbows close to your body.\n4. Press through your hands to push back up to the start.\n5. Repeat.",
+  "tips": "1. Keep your elbows tracking back, not flared out.\n2. Hold a straight line from head to knees.\n3. Inhale as you lower and exhale as you press up.\n4. Keep your core tight to stop your hips sagging.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]}
+  ],
+  "secondary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "dip_leg_raise_on_couch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the edge of a couch and grip the edge next to your hips.\n2. Press into your hands to lift your hips off the couch with arms straight and knees bent.\n3. Bend your elbows to lower your body while lifting one bent knee toward your chest.\n4. Press through your hands to raise your body and lower the leg back down.\n5. Repeat, alternating legs.",
+  "tips": "1. Keep your grip secure for balance and control.\n2. Move slowly in both directions.\n3. Coordinate the arms and legs so you lift the knee as you lower.\n4. Brace your core to keep the torso stable.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]},
+   {"group": "abs", "latins": ["LowerRectus Abdominis", "Upper Rectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "dip_on_floor_with_chair",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit on the floor with your back to a chair and place your hands on the seat edge, fingers pointing toward your body.\n2. Bend your knees with your heels on the floor.\n3. Press into the chair to lift your hips off the floor with arms straight.\n4. Bend your elbows to lower your body until they reach about 90 degrees.\n5. Press through your hands to lift back up.\n6. Repeat.",
+  "tips": "1. Set your hands firmly on the chair for a strong base.\n2. Keep the movement slow and controlled.\n3. Stop at about 90 degrees to protect the shoulders.\n4. Exhale as you press up.",
+  "primary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "chest", "latins": ["Sternal Head", "Clavicular Head"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ]
+ }
+]

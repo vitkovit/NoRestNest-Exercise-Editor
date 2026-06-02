@@ -1,0 +1,91 @@
+[
+ {
+  "id": "kettlebell_thruster",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a kettlebell in each hand at shoulder level, palms facing inward.\n2. Bend your hips and knees to lower into a squat until your thighs are parallel to the floor.\n3. Drive through your heels to stand up.\n4. As you rise, press both kettlebells overhead until your arms are fully extended.\n5. Lower the kettlebells back to shoulder level.\n6. Repeat.",
+  "tips": "1. Use the leg drive from the squat to help start the press.\n2. Exhale as you press overhead, inhale as you lower into the squat.\n3. Keep your wrists straight and aligned with your forearms.\n4. Keep your torso upright and core braced throughout.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "shoulders", "latins": ["Anterior Deltoids"]}
+  ],
+  "secondary": [
+   {"group": "Triceps", "latins": ["Triceps Brachii"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]}
+  ]
+ },
+ {
+  "id": "kettlebells_sumo_deadlift_with_high_pull",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Place two kettlebells on the floor between your feet, stance wider than shoulder-width, toes turned slightly out.\n2. Hinge at the hips and bend your knees to grasp one kettlebell in each hand, back straight and chest up.\n3. Drive through your heels and extend your hips and knees to lift the kettlebells.\n4. As you reach standing, pull the kettlebells up toward your chin, leading with your elbows pointed out.\n5. Lower the kettlebells back to the floor under control.\n6. Repeat.",
+  "tips": "1. Keep your back flat and chest up throughout the lift.\n2. Let the leg drive power the pull, not just your arms.\n3. Exhale as you lift and pull, inhale as you lower.\n4. Keep the kettlebells close to your body.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]},
+   {"group": "Quads", "latins": ["Rectus Femoris", "Vastus Medialis", "Vastus Lateralis"]},
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "shoulders", "latins": ["Lateral Deltoids", "Posterior Deltoid"]}
+  ],
+  "secondary": [
+   {"group": "Adductors", "latins": ["Adductors"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]},
+   {"group": "biceps", "latins": ["Biceps Brachii"]}
+  ]
+ },
+ {
+  "id": "kipping_handstand_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kick up into a handstand against a wall with hands shoulder-width apart on the floor.\n2. Lower your body by bending your elbows until your head lightly touches the floor.\n3. Tuck your knees toward your chest to load the kip.\n4. Drive your legs up explosively and press through your hands to extend your arms.\n5. Finish in a full handstand with arms locked out.\n6. Repeat.",
+  "tips": "1. Time the leg drive with the press so the hip extension assists the push.\n2. Keep your core tight to hold a stable body line.\n3. Look slightly forward to help balance against the wall.\n4. Place a pad under your head if needed for safety.",
+  "primary": [
+   {"group": "shoulders", "latins": ["Anterior Deltoids", "Lateral Deltoids"]},
+   {"group": "Triceps", "latins": ["Triceps Brachii"]}
+  ],
+  "secondary": [
+   {"group": "mid back", "latins": ["Upper Traps"]},
+   {"group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"]},
+   {"group": "glutes", "latins": ["Gluteus Maximus"]}
+  ]
+ },
+ {
+  "id": "knee_to_chest_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your back with both legs extended.\n2. Bend your right knee and draw it toward your chest.\n3. Wrap both hands around your shin and gently pull the knee closer.\n4. Hold the stretch for 15 to 30 seconds, keeping your left leg relaxed.\n5. Release and switch to the left leg.\n6. Repeat.",
+  "tips": "1. Pull gently and steadily, never with a jerk.\n2. Keep your head and shoulders relaxed on the floor.\n3. Breathe slowly and deeply throughout the hold.\n4. Stop if you feel sharp pain in the knee or back.",
+  "primary": [
+   {"group": "glutes", "latins": ["Gluteus Maximus"]},
+   {"group": "Lower Back", "latins": ["Erector Spinae"]}
+  ],
+  "secondary": [
+   {"group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"]}
+  ]
+ },
+ {
+  "id": "kneeling_hip_flexor_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel with your right knee on the floor and your left foot in front, left knee bent to about 90 degrees.\n2. Place your hands on your hips or your left thigh and keep your back straight.\n3. Gently push your hips forward until you feel a stretch at the front of your right hip.\n4. Hold the stretch for 15 to 30 seconds.\n5. Return to the start and switch legs.\n6. Repeat.",
+  "tips": "1. Keep your front knee stacked over your ankle.\n2. Tuck your pelvis slightly under to deepen the stretch.\n3. Stay tall through your torso, shoulders relaxed.\n4. Move slowly and avoid bouncing.",
+  "primary": [
+   {"group": "Quads", "latins": ["Rectus Femoris"]}
+  ],
+  "secondary": [
+   {"group": "Adductors", "latins": ["Adductors"]}
+  ]
+ }
+]

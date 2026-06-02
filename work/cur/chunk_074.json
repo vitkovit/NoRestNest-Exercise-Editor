@@ -1,0 +1,196 @@
+[
+ {
+  "id": "cat_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start on your hands and knees in a tabletop position, wrists under shoulders and knees under hips.\n2. Exhale and round your back upward toward the ceiling.\n3. Tuck your chin toward your chest and draw your navel toward your spine.\n4. Hold and feel the stretch along your spine.\n5. Inhale and return to the flat tabletop position.\n6. Repeat.",
+  "tips": "1. Move slowly and control the rounding of the spine.\n2. Exhale as you arch up and inhale as you return.\n3. Keep wrists under shoulders and knees under hips.\n4. Keep the neck relaxed as you tuck the chin.",
+  "name": "Cat stretch",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "ceiling_look_stretch",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start on your hands and knees in a tabletop position, wrists under shoulders and knees under hips.\n2. Inhale and gently arch your back, dropping your belly toward the floor.\n3. Lift your chest and look up toward the ceiling.\n4. Hold and feel the stretch through the front of the torso and neck.\n5. Exhale and return to the flat tabletop position.\n6. Repeat.",
+  "tips": "1. Arch only as far as is comfortable.\n2. Inhale as you lift and exhale as you return.\n3. Place a mat under the knees for comfort.\n4. Lift the chest rather than cranking the neck back.",
+  "name": "Ceiling look stretch",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "neck",
+    "latins": [
+     "neck"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "celebratory_hip_thrust",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart and arms reaching straight overhead.\n2. Bend your elbows and pull your arms down toward your hips.\n3. At the same time, thrust your hips forward by squeezing your glutes.\n4. Reverse the motion and return arms overhead with hips back to the start.\n5. Repeat.",
+  "tips": "1. Drive the movement by squeezing the glutes, not the lower back.\n2. Keep the core braced throughout.\n3. Keep your feet planted for stability.\n4. Move with a controlled, coordinated rhythm.",
+  "name": "Celebratory hip thrust",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "LowerRectus Abdominis"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "chair_back_lunge_left_resistance_band",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor one end of a resistance band to a sturdy chair and the other to your left ankle.\n2. Stand facing the chair with your right foot planted.\n3. Step your left foot back and lower into a lunge, bending both knees.\n4. Keep your right knee stacked over your right ankle and your left knee just above the floor.\n5. Push through your right heel to return to standing.\n6. Repeat, then switch legs.",
+  "tips": "1. Use a lighter band until your form is solid.\n2. Keep the front knee tracking over the ankle.\n3. Brace your core to resist the band pulling you off line.\n4. Hold the chair for balance if needed.",
+  "name": "Chair back lunge left Resistance band",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ },
+ {
+  "id": "chair_back_lunge_right_resistance_band",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor one end of a resistance band to a sturdy chair and the other to your right ankle.\n2. Stand facing the chair with your left foot planted.\n3. Step your right foot back and lower into a lunge, bending both knees.\n4. Keep your left knee stacked over your left ankle and your right knee just above the floor.\n5. Push through your left heel to return to standing.\n6. Repeat, then switch legs.",
+  "tips": "1. Use a lighter band until your form is solid.\n2. Keep the front knee tracking over the ankle.\n3. Brace your core to resist the band pulling you off line.\n4. Hold the chair for balance if needed.",
+  "name": "Chair back lunge right Resistance band",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "sheet": "universal"
+ }
+]

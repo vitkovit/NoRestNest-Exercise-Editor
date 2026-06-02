@@ -1,0 +1,4 @@
+[
+ {"id": "pull_apart_cable_resistance_band", "issue": "Name says 'cable Resistance band'; equipment field is resistance_band so treated as band. Mid back uses 3 latins (Rhomboids, Upper Traps, Lower Traps) per EMG showing middle/upper/lower trap activation."},
+ {"id": "pull_up_wide_grip", "issue": "EMG shows lat activation similar to normal grip but slightly lower biceps recruitment on wide grip; demoted biceps to secondary while keeping lats primary."}
+]
