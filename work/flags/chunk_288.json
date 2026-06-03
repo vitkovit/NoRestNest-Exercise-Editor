@@ -1,4 +1,0 @@
-[
- {"id": "suspension_trainer_with_grips_reverse_push_up", "issue": "Name says 'reverse push-up' but the underhand-grip, lean-back, pull-chest-to-handles description is a body row (pull pattern). Corrected to back/biceps, not chest/triceps. Verify the intended movement."},
- {"id": "suspension_trainer_with_grips_reverse_ab_rollout", "issue": "Name says 'rollout' but instructions describe a knee-tuck/pike (knees to chest, hips lifted). Treated as a knee-tuck core move. Hip flexors (iliopsoas) are a true prime mover here but have no allowed latin under abs; used Quads->Rectus Femoris as the closest mapped hip-flexor representation."}
-]

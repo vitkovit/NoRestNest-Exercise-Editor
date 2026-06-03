@@ -1,4 +1,0 @@
-[
- {"id": "dumbbell_one_arm_zottman_preacher_curl", "issue": "Brachialis and brachioradialis are significant movers (especially eccentric pronated phase) but have no allowed latin value; brachialis approximated under biceps (Biceps Brachii) and brachioradialis omitted, captured loosely via forearms Wrist Extensors. Original 'preacher' setup with incline bench retained from description."},
- {"id": "dumbbell_overhead_extension_seated", "issue": "Shoulder is only a stabilizer here; long head of triceps assists shoulder extension so Posterior Deltoid is the closest allowed secondary, but activation is minor."}
-]

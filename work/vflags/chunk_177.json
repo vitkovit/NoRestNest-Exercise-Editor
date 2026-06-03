@@ -1,6 +1,0 @@
-[
- {
-  "id": "kneeling_hip_flexor_stretch",
-  "change": "Added primary Abductor->Abductor to represent the iliopsoas/hip flexors, which are the prime target of this stretch but were missing entirely. Demoted Quads->Rectus Femoris to secondary (it is a secondary hip flexor that gets stretched). Kept Adductors as secondary per sources. Note: iliopsoas has no dedicated bucket; per project rules hip-flexion maps to Abductor->Abductor."
- }
-]

@@ -1,4 +1,0 @@
-[
- {"id": "dynamic_leg_swing", "issue": "Hip flexors (iliopsoas/rectus femoris) are the main forward-swing movers but have no dedicated bucket; mapped to Abductor (TFL/Iliopsoas) per vocabulary. Front-back vs lateral variant unspecified; corrected as front-back swing."},
- {"id": "elbow_extension", "issue": "Input had empty name detail, no instructions, tips, or muscles, and was Uncategorized. Treated as a generic triceps elbow-extension isolation movement; equipment/category assumed bodyweight since none specified. Ambiguous."}
-]

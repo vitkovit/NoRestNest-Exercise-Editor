@@ -1,6 +1,0 @@
-[
- {"id": "seated_cross_leg_glute_stretch", "issue": "Piriformis is a key target of this stretch but has no allowed latin value; approximated under glutes (Gluteus Medius). It is a stretch, not a strength move, so primary/secondary are the muscles being stretched."},
- {"id": "seated_dumbbell_one_arm_shoulder_press", "issue": "Iliopsoas/serratus anterior assist as stabilizers but have no allowed value; omitted. Unilateral seated press added obliques (anti-lateral-flexion) as secondary."},
- {"id": "seated_floor_crunches", "issue": "Hip flexors (iliopsoas) assist with straight legs but iliopsoas has no allowed value; approximated with Quads (Rectus Femoris)."},
- {"id": "seated_flutter_kicks", "issue": "Primary hip flexor is iliopsoas (no allowed value); approximated with Quads (Rectus Femoris). Input category was lowercase 'bodyweight'; normalized to 'Bodyweight'."}
-]

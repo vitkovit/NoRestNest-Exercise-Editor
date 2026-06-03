@@ -1,7 +1,0 @@
-[
- {"id": "landmine_row", "issue": "Original equipment listed as 'barbell'; movement uses a barbell with a landmine anchor and V-handle attachment. Kept 'barbell' as closest dropdown value."},
- {"id": "lat_pull_down_close_grip", "issue": "Original equipment was 'other'; lat pulldown is a cable/machine station. Set to 'machine' (closest; 'cable' also valid)."},
- {"id": "lat_pull_down_normal_grip", "issue": "Original equipment was 'other'; set to 'machine' (cable pulldown station)."},
- {"id": "lat_pull_down_wide_grip", "issue": "Original equipment was 'other'; set to 'machine' (cable pulldown station)."},
- {"id": "lateral_raise_bodyweight", "issue": "Bodyweight lateral raise has minimal resistance per sources; muscles are correct but activation is low without load. Supraspinatus (rotator cuff) is involved but omitted as no chest/shoulder-bucket latin fits a pure raise emphasis."}
-]

@@ -1,4 +1,0 @@
-[
- {"id": "dumbbell_one_arm_reverse_preacher_curl", "issue": "Prime mover is brachioradialis/brachialis (overhand grip on preacher pad). No allowed latin for brachialis or brachioradialis specifically; brachioradialis is a wrist extensor so mapped primary to forearms->Wrist Extensors, with biceps as secondary. Bucket fit is approximate."},
- {"id": "dumbbell_one_arm_reverse_wrist_curl", "issue": "Brachioradialis is a meaningful secondary but has no dedicated allowed latin; it falls under forearms->Wrist Extensors which is already the primary, so omitted as secondary. Wrist Flexors used as the listed secondary."}
-]

@@ -1,4 +1,0 @@
-[
- {"id": "ski_ergometer_cross_country_ski_flyes", "issue": "Ski ergometer is not a listed equipment value; mapped to 'machine' (resistance apparatus) since original 'other' is non-specific. Confirm preferred mapping."},
- {"id": "ski_ergometer_cross_country_ski_jump_squat_pull", "issue": "Equipment 'ski ergometer' mapped to 'machine'. Plyometric jump implies repsOnly/explosive but movement is loaded against machine resistance, so left as weighted reps; confirm tracking mode."}
-]

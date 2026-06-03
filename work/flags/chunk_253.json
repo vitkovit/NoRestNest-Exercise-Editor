@@ -1,4 +1,0 @@
-[
- {"id": "gym_elliptical_machine_fast_speed", "issue": "Cardio machine; muscle work is low-intensity and full-body. Set trackingMode to 'timed' (duration-based cardio). Original category 'Uncategorized' changed to 'Resistance' (machine). Speed variants (fast/normal/sprint) share identical muscles, differ only in intensity."},
- {"id": "gym_rowing_machine_fast_speed", "issue": "Cardio machine; set trackingMode to 'timed'. Legs and lats are co-primary; original category 'Uncategorized' changed to 'Resistance' (machine). Fast/normal variants share identical muscles."}
-]

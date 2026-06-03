@@ -1,4 +1,0 @@
-[
- {"id": "elevated_standing_calf_raise", "issue": "Original secondary 'Foot Muscles' (intrinsic foot stabilizers) has no allowed bucket/latin value; omitted."},
- {"id": "exercise_ball_back_stretch", "issue": "This is a passive stretch, not a strength exercise. Listed muscles are the ones being stretched/lengthened (erector spinae, abs, lats) rather than contracted; trackingMode set to timed."}
-]

@@ -1,6 +1,0 @@
-[
- {
-  "id": "hold_the_world_med_ball",
-  "change": "Added secondary mid back entry {group:'mid back', latins:['Upper Traps']}. Research confirms upper trapezius actively stabilizes scapulae during overhead holds via upward rotation; this was missing from the original data. All other muscles (shoulders, abs primary; triceps, forearms, lower back secondary) verified correct."
- }
-]

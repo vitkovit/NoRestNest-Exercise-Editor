@@ -1,5 +1,0 @@
-[
- {"id": "dumbbell_straight_leg_russian_twist", "issue": "Straight-leg variant keeps legs elevated, so hip flexors (iliopsoas) are heavily recruited; mapped to Abductor bucket (closest allowed value, contains Iliopsoas in latin lookup). No dedicated hip flexor bucket exists."},
- {"id": "dumbbell_suitcase_carry", "issue": "Quadratus lumborum is the key stabilizer per EMG but has no allowed bucket/latin; omitted. Anti-lateral-flexion carry, so obliques set as primary."},
- {"id": "dumbbell_supported_sissy_squat", "issue": "Equipment is a sissy squat platform/machine, not a dumbbell apparatus; kept equipment=dumbbell since a dumbbell is loaded. Could arguably be machine/other."}
-]

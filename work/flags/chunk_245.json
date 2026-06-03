@@ -1,3 +1,0 @@
-[
- {"id": "cable_pull_in_kneeling", "issue": "Name is ambiguous and had no current data. Interpreted as a kneeling cable lat pull-in (constant-tension lat movement). If it is actually a kneeling cable crunch (abs), the muscle mapping should instead be abs primary with obliques/Erector Spinae secondary."}
-]

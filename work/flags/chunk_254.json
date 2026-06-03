@@ -1,5 +1,0 @@
-[
- {"id": "half_lotus", "issue": "Static seated hip-opener; primary action is hip external rotation via hip rotators/iliopsoas which have no allowed latin term. Mapped to Adductors + glutes (the muscles being stretched/holding) as the closest allowable; hip flexors/rotators omitted."},
- {"id": "half_monkey_pose", "issue": "Passive hamstring stretch (not a strength move); muscles listed are those being lengthened/holding. trackingMode set to timed as a held pose."},
- {"id": "half_neck_rolls", "issue": "Mobility/stretch drill; neck is the only fitting bucket. Could arguably be timed rather than repsOnly."}
-]

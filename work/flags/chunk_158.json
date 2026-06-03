@@ -1,5 +1,0 @@
-[
- {"id": "fixed_bar_stretch", "issue": "Stretch, not a strengthening move; muscles listed are those being stretched (lats, posterior delts, mid back). Grip forearm/biceps engagement omitted as it is only static holding."},
- {"id": "flat_bench_cable_fly", "issue": "Pulleys set at lowest position with palms up makes this a low-to-high fly biased toward the clavicular (upper) head; treated as flat fly (both heads) since the user lies on a flat bench. Equipment changed from 'other' to 'cable'."},
- {"id": "floor_cable_resistance_band_press", "issue": "Name mixes 'cable' and 'resistance band'; instructions describe a band under the back, so equipment set to 'resistance_band'. Floor limits ROM, reducing chest stretch and shifting some load to triceps."}
-]

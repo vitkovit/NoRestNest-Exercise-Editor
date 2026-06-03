@@ -1,6 +1,0 @@
-[
- {"id": "single_kettlebell_sled_push", "issue": "No dedicated sled equipment value in dropdown; used 'kettlebell' since that is the load (could also be 'other'). Category set to Free Weights for same reason."},
- {"id": "sled_battle_rope_pull", "issue": "No sled/rope equipment value in dropdown; used 'other'. Category ambiguous (sled is free-weight loaded); set to Free Weights."},
- {"id": "sled_drag_and_row", "issue": "No sled equipment value in dropdown; used 'other'. Category set to Free Weights (sled is plate/weight loaded)."},
- {"id": "monkey_pose", "issue": "Static splits/stretch hold; hip flexors (psoas/iliopsoas) are stretched/engaged on the rear leg but have no allowed latin term, so omitted. Primary/secondary classification of a passive stretch is approximate."}
-]

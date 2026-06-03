@@ -1,5 +1,0 @@
-[
- {"id": "supine_push_up", "issue": "Ambiguous exercise name; not a true push-up. Instructions describe a supine scapular-retraction/thoracic-extension lift, so corrected to mid back/posterior delt rather than chest/triceps."},
- {"id": "suspension_trainer_with_grips_decline_push_up", "issue": "Serratus anterior is highly active in suspension push-ups (EMG) but has no allowed bucket, so omitted."},
- {"id": "suspension_trainer_with_grips_hanging_knees_to_elbows", "issue": "Hip flexors (iliopsoas) are major secondary movers; mapped to Abductor bucket per vocabulary rule since no dedicated hip-flexor value exists."}
-]

@@ -1,4 +1,0 @@
-[
- {"id": "ski_ergometer_cross_country_ski_reverse_lunge_pull", "issue": "Ski ergometer has no dedicated equipment dropdown value; kept 'other' as in source. Resistance is fixed air resistance with no per-rep weight, so used trackingMode 'repsOnly'."},
- {"id": "ski_ergometer_cross_country_ski_squat_pull_half_circles", "issue": "Ski ergometer machine; no specific equipment dropdown value, kept 'other'. Category set to Resistance (machine), though it is partly a bodyweight/cardio compound move."}
-]

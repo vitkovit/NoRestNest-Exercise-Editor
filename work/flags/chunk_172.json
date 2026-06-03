@@ -1,6 +1,0 @@
-[
- {"id": "kettlebell_thruster", "issue": "Equipment was 'other'; corrected to 'kettlebell' per exercise name."},
- {"id": "kettlebells_sumo_deadlift_with_high_pull", "issue": "Equipment was 'other'; corrected to 'kettlebell'. High-pull engages upper traps (mapped to mid back) and lateral/posterior delts; sources agree it is a leg-assisted upright row."},
- {"id": "kipping_handstand_push_up", "issue": "No data in source row; built from research. Equipment is a wall (no wall option), mapped to 'bodyweight'. Kipping hip drive means glutes/legs assist (included glutes as secondary)."},
- {"id": "kneeling_hip_flexor_stretch", "issue": "Primary muscle stretched is the iliopsoas (psoas/iliacus); no allowed bucket/latin exists for it. Mapped to Quads (Rectus Femoris) as closest hip-flexor with an allowed value; iliopsoas omitted."}
-]

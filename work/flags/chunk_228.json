@@ -1,5 +1,0 @@
-[
- {"id": "assault_airbike_normal_speed", "issue": "Cardio fan-bike: no exact equipment value (original 'other'); used 'machine'. Category mapped to 'Resistance' as a machine; it is primarily conditioning, not strength. Hip flexors are worked but have no allowed bucket/latin, so omitted."},
- {"id": "assault_airbike_sprint_speed", "issue": "Same as normal-speed variant: cardio fan-bike, no exact 'other' equipment, mapped to machine/Resistance/timed. Hip flexors worked but no allowed value, omitted."},
- {"id": "assisted_bulgarian_split_squat", "issue": "Original equipment 'barbell' but instructions describe holding a fixed support for balance (bodyweight/assisted). Recategorized to Bodyweight/bench. If actually a barbell-loaded variant, equipment should be barbell/Free Weights."}
-]

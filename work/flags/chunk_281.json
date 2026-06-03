@@ -1,5 +1,0 @@
-[
- {"id": "seated_machine_hip_adductor", "issue": "Source instructions/current data conflated abductor and adductor; name and id say adductor (knees close together) so encoded as Adductors. Current equipment was 'bodyweight' but this is a weighted machine; set to machine/Resistance."},
- {"id": "ski_ergometer_cross_country_ski_basic_pull", "issue": "Ski ergometer has no exact equipment dropdown value; used 'other'. Tracking is ambiguous (cardio duration or reps); used repsOnly since reps are counted, not a held position."},
- {"id": "ski_ergometer_cross_country_ski_face_biceps_curl_pull", "issue": "Ski ergometer has no exact equipment dropdown value; used 'other'. Tracking ambiguous; used repsOnly."}
-]

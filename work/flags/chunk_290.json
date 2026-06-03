@@ -1,6 +1,0 @@
-[
- {"id": "tennis_forehand_ground_stroke", "issue": "Skill/sport movement, not a strength exercise; muscle list is an approximation of the kinetic chain (hip-trunk rotation, shoulder, forearm). Category/equipment have no good fit; used Bodyweight/other. trackingMode set to repsOnly (could be timed)."},
- {"id": "treadmill_jogging", "issue": "Cardio activity; equipment dropdown has no 'treadmill', used closest 'machine'. Category Bodyweight is closest fit for a cardio machine movement."},
- {"id": "treadmill_running", "issue": "Cardio activity; equipment dropdown has no 'treadmill', used closest 'machine'. Category Bodyweight is closest fit."},
- {"id": "treadmill_walk", "issue": "Cardio activity; equipment dropdown has no 'treadmill', used closest 'machine'. Category Bodyweight is closest fit."}
-]

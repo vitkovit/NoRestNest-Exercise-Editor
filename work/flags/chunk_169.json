@@ -1,4 +1,0 @@
-[
- {"id": "kettlebell_single_leg_glute_bridge_pullover", "issue": "Pullover engages serratus anterior and teres major, which have no allowed value in the vocabulary; omitted. Mapped pullover to Lats (Latissimus Dorsi) primary plus chest (Sternal Head) secondary."},
- {"id": "kettlebell_situp_press", "issue": "Traditional straight-leg situp recruits hip flexors (iliopsoas); no exact bucket, mapped to Quads (Rectus Femoris) as closest allowed value per translation rules."}
-]

@@ -1,4 +1,0 @@
-[
- {"id": "smith_machine_shoulder_press", "issue": "Serratus anterior assists overhead press but has no allowed bucket value; omitted. Upper Traps used as scapular-stabilizer secondary (mid back bucket has no dedicated upright-rotation term)."},
- {"id": "spider_curl_barbell", "issue": "Brachialis is a primary elbow flexor in spider curls but has no allowed latins value (biceps bucket only allows 'Biceps Brachii'); contribution folded into biceps. Brachioradialis (forearms) also engaged but minor."}
-]

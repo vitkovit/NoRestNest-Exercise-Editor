@@ -1,5 +1,0 @@
-[
- {"id": "seated_side_stretch", "issue": "Quadratus lumborum and intercostals are meaningfully stretched but have no allowed bucket/latin value; omitted. Anterior Deltoids listed as secondary only reflects the overhead-reach hold (a stretch, not a contraction)."},
- {"id": "seated_v_up", "issue": "Hip flexors (iliopsoas) are a major mover but have no allowed bucket; represented only via Quads->Rectus Femoris, which omits the deep psoas/iliacus contribution."},
- {"id": "shadow_boxing", "issue": "Full-body movement; muscle emphasis varies by punch type. Forearms/wrist and biceps are also engaged but kept off to respect the 5-group cap and prioritize prime movers. trackingMode set to timed (duration-based) rather than repsOnly since shadow boxing is performed for time."}
-]

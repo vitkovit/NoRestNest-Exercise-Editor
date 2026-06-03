@@ -1,5 +1,0 @@
-[
- {"id": "dumbbell_upright_shoulder_external_rotatio", "issue": "Rotator cuff (infraspinatus/teres minor) is the true prime mover but the vocabulary has no rotator-cuff bucket; mapped to Lats->Rotator Cuff as the only allowed slot. This ID is a truncated near-duplicate of dumbbell_upright_shoulder_external_rotation; same exercise/data."},
- {"id": "dumbbell_upright_shoulder_external_rotation", "issue": "Rotator cuff is prime mover but no dedicated bucket exists; mapped to Lats->Rotator Cuff. Duplicate of dumbbell_upright_shoulder_external_rotatio."},
- {"id": "dumbbell_v_up", "issue": "Hip flexors (iliopsoas) are a meaningful secondary mover but have no allowed bucket/latin; omitted. Used Quads->Rectus Femoris as the closest hip-flexion-related allowed group."}
-]

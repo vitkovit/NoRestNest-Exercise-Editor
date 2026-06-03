@@ -1,4 +1,0 @@
-[
- {"id": "dumbbell_reverse_grip_biceps_curl", "issue": "Brachialis is a meaningful prime mover in reverse-grip curls but has no allowed latin value in the forearms or biceps buckets; omitted. Brachioradialis mapped to forearms->Wrist Extensors."},
- {"id": "dumbbell_reverse_spider_curl", "issue": "Brachialis is a meaningful mover but has no allowed latin value; omitted. Brachioradialis mapped to forearms->Wrist Extensors per reverse grip emphasis."}
-]

@@ -1,5 +1,0 @@
-[
- {"id": "leg_extended_stretch_on_bench", "issue": "Static hamstring stretch, not a strength exercise; set trackingMode to timed (hold). Muscles are lengthened rather than concentrically worked; listed as stretch targets."},
- {"id": "leg_lift_circles", "issue": "Hip flexors (iliopsoas) are a key worked muscle but have no allowed bucket/latin; mapped hip-flexion contribution to Quads (Rectus Femoris) and noted abductor/adductor sweep from the circular motion."},
- {"id": "leg_press_wide_high_stance_behind_view", "issue": "Identical movement to leg_press_wide_high_stance (only camera angle differs); corrections kept identical."}
-]

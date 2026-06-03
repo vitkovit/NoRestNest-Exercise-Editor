@@ -1,4 +1,0 @@
-[
- {"id": "scissors_kick", "issue": "Hip flexors (iliopsoas) are a meaningful secondary mover but have no allowed bucket/latin value in the vocabulary, so they were omitted. Quads/adductors lightly engaged per some sources but considered minor and omitted to avoid inflation."},
- {"id": "seated_calf_machine", "issue": "Original data listed Anterior Tibialis as secondary, but tibialis anterior is the antagonist (dorsiflexor), not a worked muscle, so it was removed. Fibularis (peroneals) included as stabilizer secondary."}
-]

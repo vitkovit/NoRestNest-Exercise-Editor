@@ -1,7 +1,0 @@
-[
- {"id": "foam_roller_calves", "issue": "Foam rolling is self-myofascial release (recovery), not a strengthening exercise; muscles listed are the rolled target tissue, not contracting movers. No equipment value for 'foam roller' exists, used 'other'."},
- {"id": "foam_roller_lateral_quads", "issue": "Recovery/SMR move, not strengthening. Primary target is vastus lateralis (under the IT band); only Quads bucket available so listed Vastus Lateralis. Equipment 'foam roller' not in dropdown, used 'other'."},
- {"id": "foam_roller_quads", "issue": "Recovery/SMR move, not strengthening. Equipment 'foam roller' not in dropdown, used 'other'."},
- {"id": "ring_dips", "issue": "Equipment is gymnastic rings; no 'rings' dropdown value, used 'other'."},
- {"id": "landmine_overhead_press", "issue": "Equipment is a landmine-anchored barbell; no 'landmine' value, used 'barbell'. Serratus anterior is a worked stabilizer but has no allowed bucket/latin, omitted."}
-]

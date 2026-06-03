@@ -1,4 +1,0 @@
-[
- {"id": "alternating_leg_downward_dog", "issue": "Name implies leg lift, but provided instructions describe knee-to-chest tuck. Corrected to match the knee-to-chest instructions, which shift emphasis to hip flexors/abs and shoulders. If intent is a straight-leg lift (three-legged dog), glutes/hamstrings would be primary instead."},
- {"id": "ankle_plantar_flexion", "issue": "Tibialis posterior is a meaningful plantar-flexion synergist but has no allowed latin value (Shin->Tibialis denotes tibialis anterior, an antagonist here); omitted."}
-]

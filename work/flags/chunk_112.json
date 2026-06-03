@@ -1,4 +1,0 @@
-[
- {"id": "dumbbell_incline_breeding", "issue": "Name 'Breeding' appears to be a typo/garbled; instructions and current data describe an incline dumbbell fly. Corrected as incline dumbbell fly."},
- {"id": "dumbbell_incline_fly_on_exercise_ball", "issue": "Named 'Incline' but described body position (upper back on ball, hips raised, torso roughly horizontal) is a flat-press position, not inclined. Treated as flat fly (both chest heads). Added abs as secondary for ball stabilization."}
-]

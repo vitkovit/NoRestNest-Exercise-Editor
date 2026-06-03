@@ -1,5 +1,0 @@
-[
- {"id": "side_lying_floor_stretch", "issue": "Passive stretch, not a strength move; QL is a primary muscle stretched but has no allowed bucket/latin, so omitted. trackingMode kept timed."},
- {"id": "side_plank", "issue": "QL is a major stabilizer per EMG but has no allowed value (omitted). Shoulder support is via deltoid/serratus; mapped to Lateral Deltoids as closest allowed."},
- {"id": "side_plank_oblique_crunch", "issue": "QL major stabilizer, no allowed value (omitted). Dynamic hip dip; obliques primary, gluteus medius and shoulder secondary."}
-]

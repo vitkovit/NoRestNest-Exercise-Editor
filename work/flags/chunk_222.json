@@ -1,6 +1,0 @@
-[
- {"id": "abs_snails", "issue": "Niche named exercise; sources describe it as a bodyweight anti-extension core walkout/reach. Muscle mapping inferred from rollout/walkout analogs since no EMG data exists for this specific name."},
- {"id": "air_swing_running", "issue": "Warm-up/cardio arm-swing drill, not a strength exercise. Mapped to deltoids as prime movers; primarily mobility/cardio. trackingMode set to timed."},
- {"id": "air_swing_side_to_side_swing", "issue": "Warm-up/mobility arm-swing drill. Low-load; deltoids and obliques engaged lightly. trackingMode set to timed."},
- {"id": "air_swing_walking", "issue": "Warm-up/cardio arm-swing drill, not strength training. trackingMode set to timed."}
-]

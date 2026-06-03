@@ -1,6 +1,0 @@
-[
- {
-  "id": "side_to_side_punch",
-  "change": "Secondary chest corrected: removed 'Clavicular Head' from secondary chest entry. For a horizontal cross-body punch, only the Sternal Head of pectoralis major is meaningfully engaged (horizontal adduction); the clavicular head has minimal activation. Changed secondary chest from [Sternal Head, Clavicular Head] to [Sternal Head] only."
- }
-]

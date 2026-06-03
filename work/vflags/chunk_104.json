@@ -1,6 +1,0 @@
-[
- {
-  "id": "dumbbell_decline_alternate_bench_press",
-  "change": "Added secondary chest -> Clavicular Head. Per decline-press biomechanics, the sternal (lower) head is primary but the clavicular (upper) head still assists; CLAUDE.md decline rule lists Clavicular Head as secondary. Other muscles (Sternal primary, Triceps/Anterior Deltoids/obliques secondary) confirmed correct; obliques justified by alternating unilateral anti-rotation."
- }
-]

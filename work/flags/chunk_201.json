@@ -1,4 +1,0 @@
-[
- {"id": "shoulder_extension", "issue": "Name says 'shoulder extension' but the provided instructions describe raising the arms forward and overhead, which is shoulder FLEXION (Anterior Deltoids), not extension (Posterior Deltoid/Lats). Corrected to match the movement actually described in the instructions. If the intended movement is true extension (arms pulled backward), primary should be Posterior Deltoid + Lats instead."},
- {"id": "side_lunges_bodyweight", "issue": "Input equipment was 'other'; changed to 'bodyweight' since this is a bodyweight movement and 'bodyweight' is an allowed value. Obliques added as secondary for the lateral/anti-lateral-flexion stabilization demand."}
-]

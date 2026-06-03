@@ -1,6 +1,0 @@
-[
- {"id": "exercise_ball_hip_flexor_stretch", "issue": "Primary muscle stretched is the iliopsoas (psoas major + iliacus), which has no allowed latin in the 18-bucket schema. Mapped to Abductor bucket (closest, includes Iliopsoas/TFL per project lookup) plus Rectus Femoris (Quads), the hip-flexor portion of the quadriceps. Sartorius and TFL also stretched but have no allowed value."},
- {"id": "exercise_ball_lat_stretch", "issue": "Teres major is meaningfully stretched alongside latissimus dorsi but has no allowed latin (Lats bucket only allows Latissimus Dorsi and Rotator Cuff); omitted."},
- {"id": "exercise_ball_lower_back_dynamic_stretch", "issue": "This is a passive stretch (spine draped/arched over ball to lengthen the erector spinae), not a strengthening contraction. No muscle is a true prime mover; erector spinae listed as primary as the target tissue. trackingMode kept timed despite repsOnly-style dynamic description."},
- {"id": "exercise_ball_lower_back_prone_stretch", "issue": "Passive stretch lengthening the erector spinae; no concentric prime mover. Erector spinae listed as primary target. Nearly identical to the dynamic-stretch variant (difference is only the timed hold)."}
-]

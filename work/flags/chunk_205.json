@@ -1,4 +1,0 @@
-[
- {"id": "single_kettlebell_deadlift", "issue": "Input equipment was 'other'; corrected to 'kettlebell' per name. Grip/forearm and lat involvement is minor and load-dependent; included as secondary."},
- {"id": "single_leg_romanian_deadlift_dumbbell", "issue": "Instructions describe ipsilateral loading (dumbbell and stance on same right leg), which reduces anti-rotation/oblique demand vs contralateral loading; obliques kept as secondary at lower confidence."}
-]

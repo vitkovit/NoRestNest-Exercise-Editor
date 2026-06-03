@@ -1,4 +1,0 @@
-[
- {"id": "happy_baby", "issue": "Mobility/stretch pose, not a strengthening exercise; muscles listed are the ones being stretched. Hip flexors (iliopsoas) are a key target but have no allowed bucket/latin value (Abductor bucket is for abduction/tensor, not hip flexion), so omitted. trackingMode set to 'timed' as a held stretch."},
- {"id": "hand_stand_hold", "issue": "Input had empty data; built from research. Serratus anterior is a notable mover but has no allowed value, so omitted."}
-]

@@ -1,5 +1,0 @@
-[
- {"id": "suspension_trainer_with_grips_hanging_leg_hip_raise", "issue": "Hip flexors (iliopsoas) are strongly involved per EMG but have no allowed bucket/latin value, so they were omitted. The hip-raise emphasis means abs are the main target regardless."},
- {"id": "suspension_trainer_with_grips_hanging_straight_leg_hip_raise", "issue": "Hip flexors (iliopsoas) are strongly involved (straight-leg variant especially) but have no allowed bucket/latin value, so they were omitted."},
- {"id": "all", "issue": "All five use a suspension trainer (TRX-style); equipment kept as 'other' since no suspension/TRX option exists in the dropdown. Category set to Bodyweight (bodyweight-on-apparatus)."}
-]

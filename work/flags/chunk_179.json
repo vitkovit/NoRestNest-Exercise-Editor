@@ -1,4 +1,0 @@
-[
- {"id": "lunge_to_knee_drive_left_bodyweight", "issue": "Knee drive phase strongly recruits hip flexors (iliopsoas, rectus femoris hip flexion). No hip-flexor bucket exists in the 18-bucket vocabulary; iliopsoas omitted. Rectus Femoris captured under Quads."},
- {"id": "lunge_to_knee_drive_right_bodyweight", "issue": "Knee drive phase strongly recruits hip flexors (iliopsoas). No hip-flexor bucket exists; iliopsoas omitted. Rectus Femoris captured under Quads."}
-]

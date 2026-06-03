@@ -1,4 +1,0 @@
-[
- {"id": "one_arm_cow_face_pose_easy", "issue": "Arm-only stretch pose (no leg component in this 'easy' variant). Muscles listed are those being stretched (shoulders/triceps/lats); pose is isometric not contractile, so primary/secondary reflect target stretch regions."},
- {"id": "pigeon_pose", "issue": "Stretch/hold pose, not a contractile exercise. Piriformis (deep hip rotator) is the main target but has no allowed latin value, so omitted; mapped to glutes (Gluteus Maximus/Medius) and hip flexor (Rectus Femoris) which are the next-closest stretched muscles."}
-]

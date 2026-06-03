@@ -1,7 +1,0 @@
-[
- {"id": "hammer_strength_iso_lateral_leg_curl_alternate_legs", "issue": "Equipment given as 'other'; mapped to 'machine' (plate-loaded leg curl machine). Gastrocnemius included as secondary per leg-curl convention though EMG shows reduced calf activation."},
- {"id": "hammer_strength_mts_iso_lateral_biceps_curl_arm_alternating", "issue": "Brachialis and brachioradialis are worked but have no allowed latin in the biceps/forearms buckets beyond 'Biceps Brachii'/'Wrist Flexors'; brachialis omitted. Equipment 'other' mapped to 'machine'."},
- {"id": "hammer_strength_mts_iso_lateral_decline_press_alternate_arms", "issue": "Equipment 'other' mapped to 'machine'."},
- {"id": "hammer_strength_mts_iso_lateral_decline_press_both_arms", "issue": "Equipment 'other' mapped to 'machine'."},
- {"id": "hammer_strength_plate_loaded_combination_iso_lateral_chest_chest_press_alternating_arms", "issue": "Combination flat/horizontal chest press treated as both chest heads (Sternal dominant). Equipment 'other' mapped to 'machine'."}
-]

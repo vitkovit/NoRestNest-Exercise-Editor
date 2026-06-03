@@ -1,5 +1,0 @@
-[
- {"id": "resistance_band_lying_abduction", "issue": "Tensor fasciae latae (TFL) is a key abductor here; mapped to Abductor bucket. Gluteus minimus is also a prime mover but has no allowed latin term, so omitted."},
- {"id": "resistance_band_lying_hyperextension_abduction", "issue": "TFL/gluteus minimus contribute to the abduction component but have no exact allowed latin; abduction mapped to Abductor bucket only."},
- {"id": "resistance_band_lying_leg_raise", "issue": "Primary mover is the hip flexor (iliopsoas), which has no dedicated bucket; per CLAUDE.md hip flexion mapped to Abductor (tensor region) plus Rectus Femoris (Quads). This is an approximation, not an exact SVG match for iliopsoas."}
-]

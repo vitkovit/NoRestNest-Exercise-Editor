@@ -1,4 +1,0 @@
-[
- {"id":"jogging","issue":"Cardio/locomotion exercise with no single prime mover; muscle set is approximate. Changed tracking_mode from repsOnly to timed (duration-based activity); confirm preference. Hip flexors (iliopsoas) are engaged but have no allowed latin term and were omitted."},
- {"id":"jump_rope_alternating_foot","issue":"Hip flexors engaged in alternating run-in-place pattern but no allowed latin term; omitted."}
-]

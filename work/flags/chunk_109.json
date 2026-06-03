@@ -1,6 +1,0 @@
-[
- {"id": "dumbbell_hammer_curl", "issue": "Hammer curls heavily recruit brachialis and brachioradialis (EMG-confirmed). No allowed latin exists for brachialis (would map to biceps bucket) and brachioradialis maps to forearms Wrist Extensors; brachialis activation is folded into the biceps entry as the closest available value."},
- {"id": "dumbbell_hammer_curl_simultaneous_arms", "issue": "Same brachialis/brachioradialis limitation as the alternating hammer curl; no dedicated allowed latin for brachialis."},
- {"id": "dumbbell_hammer_preacher_curl_simultaneous_arms", "issue": "Brachialis/brachioradialis are the dominant movers in the neutral-grip preacher curl but have no dedicated allowed latin; folded into biceps and forearms (Wrist Extensors) as closest values."},
- {"id": "dumbbell_half_kneeling_military_press", "issue": "Bilateral version (dumbbell in each hand) so anti-rotation demand is lower than single-arm; oblique/core and glute stabilizer involvement still meaningful from the split-kneeling stance, listed as secondary."}
-]

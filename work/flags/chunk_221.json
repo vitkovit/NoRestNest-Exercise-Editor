@@ -1,5 +1,0 @@
-[
- {"id": "ab_wheel_take_it_or_leave_it", "issue": "Original listed 'Hip Flexors' as secondary; legs stay bent at 90 degrees (isometric hold, no knee extension), so hip flexors omitted. No dedicated hip-flexor/iliopsoas bucket exists in the 18-bucket vocabulary."},
- {"id": "ab_wheel_right_out", "issue": "Angled/one-sided ab wheel variant; obliques promoted to primary (anti-rotation). Limited source detail on this exact variant name; classification inferred from oblique-rollout research."},
- {"id": "abdominal_crunches_machine", "issue": "Original data had category Resistance but equipment 'bodyweight'; corrected equipment to 'machine' to match the loaded crunch machine. Set trackingMode to '' (weighted reps) since machine adds resistance."}
-]

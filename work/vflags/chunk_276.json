@@ -1,6 +1,0 @@
-[
- {
-  "id": "leg_press_machine_normal_stance",
-  "change": "Added Adductors (Adductors) as a secondary muscle. EMG research and biomechanics confirm that even in normal shoulder-width stance, the adductors are engaged as stabilizers during leg press. The original data omitted this group. All other fields and muscles verified correct."
- }
-]

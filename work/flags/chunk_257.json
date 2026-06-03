@@ -1,5 +1,0 @@
-[
- {"id": "hold_the_world_med_ball", "issue": "Ambiguous exercise name; interpreted as a static overhead medicine-ball hold (timed). Equipment kept as 'other' since no medicine-ball/ball value exists in the dropdown list."},
- {"id": "hold_the_world_med_ball_chest_press", "issue": "Equipment kept as 'other'; no medicine-ball value in dropdown. Serratus anterior engaged in press but has no allowed bucket/latin value, so omitted."},
- {"id": "headstand", "issue": "Serratus anterior is a key scapular stabilizer in headstand but has no allowed bucket/latin value, so omitted."}
-]

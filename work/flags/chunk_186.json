@@ -1,5 +1,0 @@
-[
- {"id": "overhead_triceps_stretch_side_angle", "issue": "Static stretch, not a strengthening move. Listed muscles are the ones being stretched (triceps long head primary; lats, anterior delts secondary). No concentric movers exist."},
- {"id": "palm_up_palm_down_rotation", "issue": "Low-load shoulder/forearm rotation drill. Main forearm pronator/supinator muscles (pronator teres, supinator) have no allowed latins; the closest captured value is rotator cuff under Lats. Forearms bucket omitted as grip is not loaded."},
- {"id": "pec_deck_fly_machine", "issue": "Changed equipment from 'other' to 'machine' to match dropdown. Pec deck removes free-weight stabilizers, so biceps dropped from secondary versus the original entry."}
-]

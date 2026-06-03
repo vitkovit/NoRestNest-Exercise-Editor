@@ -1,4 +1,0 @@
-[
- {"id": "criss_cross_elbow_to_knee", "issue": "Hip flexors (iliopsoas) are a primary mover for the knee lift but have no allowed latin value; mapped knee drive to Quads/Rectus Femoris as closest allowed proxy."},
- {"id": "criss_cross_leg_raises", "issue": "Hip flexors (iliopsoas) are a key mover but have no allowed value; represented via Quads/Rectus Femoris as closest proxy."}
-]

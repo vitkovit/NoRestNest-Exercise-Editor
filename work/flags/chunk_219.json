@@ -1,5 +1,0 @@
-[
- {"id": "upright_row_ez_bar", "issue": "Input equipment was 'other'; changed to 'barbell' since an EZ bar is a barbell variant. Muscle activation matches standard upright row (narrow EZ grip slightly increases biceps involvement)."},
- {"id": "upward_rotation_bent_arms", "issue": "Exercise is shoulder external rotation in a 90/90 (abducted) position, not a true upward scapular rotation. Primary mover is the rotator cuff (infraspinatus/teres minor), which falls under the 'Lats' bucket as 'Rotator Cuff' per vocabulary; posterior deltoid assists. No separate rotator-cuff bucket exists, so it is mapped to Lats."},
- {"id": "45_degree_side_bend", "issue": "Quadratus lumborum is a primary mover in this lateral flexion exercise but has no allowed bucket/latin value, so it was omitted. Sheet is 'malefemale' as given in input."}
-]

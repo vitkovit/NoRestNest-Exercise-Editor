@@ -1,4 +1,0 @@
-[
- {"id": "l_sit_hold", "issue": "Hip flexors (iliopsoas/rectus femoris) are the prime mover for holding legs at 90 degrees; mapped to Abductor bucket as the closest allowed hip-flexion value, which highlights the tensor region rather than the true iliopsoas."},
- {"id": "kipping_pull_up", "issue": "Hip flexors drive the kip leg swing; mapped to Abductor as closest allowed hip-flexion value (no iliopsoas option). Gluteus Maximus also shows notable EMG but omitted to stay within 5 primary groups; could be added as secondary."}
-]

@@ -1,4 +1,0 @@
-[
- {"id": "dumbbell_hammer_strict_curl", "issue": "Prime movers are brachialis and brachioradialis (EMG). No allowed latin for brachialis; brachioradialis mapped to forearms/Wrist Extensors. Biceps brachii is less active here than in supinated curls but included as primary group since it is the only allowed term for the upper-arm flexor."},
- {"id": "dumbbell_hang_power_clean", "issue": "Olympic-style full-body movement; traps are a key prime mover but only Upper Traps is an allowed latin under mid back. Rhomboids/Lower Traps also assist. Wrist Flexors used for grip-under-tension forearm demand."}
-]

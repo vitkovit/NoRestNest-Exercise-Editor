@@ -1,5 +1,0 @@
-[
- {"id": "situps", "issue": "Hip flexors (iliopsoas) are a prime mover in situps but have no allowed bucket/latin value; omitted per rules."},
- {"id": "ski_ergometer_cross_country_ski_alternating_arm_pull", "issue": "Equipment 'other' in source; mapped to 'machine' (ski ergometer). trackingMode set to timed as it is a cardio/duration exercise."},
- {"id": "smith_machine_calf_raise", "issue": "Soleus placed as a second 'Calves' entry in secondary so it sits in a different priority tier from the primary gastrocnemius; both share the same 'Calves' bucket."}
-]

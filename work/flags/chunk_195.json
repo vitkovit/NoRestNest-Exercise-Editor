@@ -1,4 +1,0 @@
-[
- {"id": "reverse_grip_resistance_band_simultaneous", "issue": "Reverse/pronated grip curl. Primary mover is brachioradialis (mapped to forearms->Wrist Extensors as closest allowed value; true Brachioradialis/Brachialis not in vocabulary). Biceps Brachii also a prime mover."},
- {"id": "reverse_lunge_left_resistance_band", "issue": "Band-loaded single-leg lunge; band over-foot resistance is light. Adductors and Gluteus Medius included as stabilizers per single-leg balance demand."}
-]

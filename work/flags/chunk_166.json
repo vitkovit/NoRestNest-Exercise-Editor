@@ -1,4 +1,0 @@
-[
- {"id": "intermediate_hip_flexor_and_quad_stretch", "issue": "Main stretched muscle besides quads is the iliopsoas (hip flexor). No hip-flexor bucket/latin exists in the 18-bucket schema (Abductor bucket only allows 'Abductor'), so iliopsoas was omitted. Glutes from original data dropped — not meaningfully worked in this stretch."},
- {"id": "incline_lateral_raises_dumbbell", "issue": "Named 'lateral raises' but performed chest-first/face-down on a 45-degree incline, which makes it a rear-delt raise (Posterior Deltoid primary), not lateral deltoid. Lateral deltoid assists slightly; classified rear delt per the prone position described in instructions."}
-]
