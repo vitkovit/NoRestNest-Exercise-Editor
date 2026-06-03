@@ -1,0 +1,22 @@
+[
+ {
+  "id": "kettlebell_silverback_shrug",
+  "change": "No changes. Primary (Upper Traps) and secondary (Rhomboids, Erector Spinae, Wrist Flexors) confirmed correct. The silverback shrug leans forward ~30 degrees with scapular retraction emphasis, confirming Rhomboids in secondary. Erector Spinae isometrically holds the hinge. Grip confirmed Wrist Flexors."
+ },
+ {
+  "id": "kettlebell_single_arm_chest_fly",
+  "change": "Added LowerRectus Abdominis to the abs secondary entry. Research confirms both heads of rectus abdominis contract isometrically during the single-arm fly for anti-rotation stability. Previously only Upper Rectus Abdominis was listed. All other entries confirmed correct: flat bench fly works both Sternal Head (dominant) and Clavicular Head, Anterior Deltoids secondary, obliques both heads for unilateral anti-rotation."
+ },
+ {
+  "id": "kettlebell_single_arm_curl",
+  "change": "No changes. Biceps Brachii primary confirmed. Wrist Flexors (brachioradialis/forearm flexors) secondary confirmed. Brachialis cannot be mapped to an allowed term so omitted correctly."
+ },
+ {
+  "id": "kettlebell_single_arm_lateral_raise",
+  "change": "Added oblique secondary entry (External Obliques, Internal Obliques). Research confirms unilateral lateral raises require significant anti-lateral-flexion core stabilization from the obliques. This is consistent with the CLAUDE.md rule: unilateral movements add oblique anti-rotation secondary. All other entries confirmed correct: Lateral Deltoids primary, Anterior Deltoids and Upper Traps secondary."
+ },
+ {
+  "id": "kettlebell_single_arm_rear_delt_fly",
+  "change": "Added Lower Back secondary entry (Erector Spinae). The exercise is performed in a bent-over/hinged position, requiring the erector spinae to isometrically hold the torso. All other entries confirmed correct: Posterior Deltoid primary, Rhomboids+Upper Traps for scapular retraction secondary, Rotator Cuff for shoulder joint stabilization secondary."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "standing_ab_wheel_rollout",
+  "change": "Added Triceps (Triceps Brachii) to secondary. Multiple sources (fitnessvolt, barbend, wellfitinsider) explicitly name triceps as a stabilizing secondary muscle during the rollout — the arms must lock and stabilize throughout the movement. The existing secondary muscles (Lats, Anterior Deltoids, Erector Spinae, Gluteus Maximus) are all confirmed correct and retained."
+ },
+ {
+  "id": "stepmill_machine_steps",
+  "change": "No changes. Primary glutes + quads and secondary hamstrings + calves are all confirmed by multiple sources. Calves (all 3 heads) are appropriate for stair climbing. Hip flexors (Abductor bucket) were considered but are marginal stabilizers on the stepmill, not a meaningful secondary, so omitted to avoid inflation."
+ },
+ {
+  "id": "suspension_trainer_with_grips_abdominal_fallout",
+  "change": "Added glutes (Gluteus Maximus) to secondary. Multiple sources (rb100.fitness, suspensionexercise.co.nz, fitfatherproject) list the glutes as a secondary stabilizer during the suspension fallout — they help maintain the rigid plank position and prevent hip sag throughout the movement. All other entries confirmed correct."
+ },
+ {
+  "id": "suspension_trainer_with_grips_bent_knee_inverted_row",
+  "change": "1) Added Lower Traps to mid back primary entry (now Rhomboids, Upper Traps, Lower Traps) — rows involve full trapezius including lower traps for scapular retraction/depression, confirmed by exrx.net and multiple inverted row sources. 2) Added Rotator Cuff (Lats bucket) to secondary — per CLAUDE.md rules, all pulling exercises include Rotator Cuff as secondary. 3) Updated abs secondary to include both Upper Rectus Abdominis and LowerRectus Abdominis (was only Upper Rectus Abdominis) — core bracing in horizontal rows engages the full rectus abdominis isometrically."
+ },
+ {
+  "id": "suspension_trainer_with_grips_chest_fly",
+  "change": "1) Added biceps (Biceps Brachii) to secondary — TRX chest fly research (trxtraining.com, fitbod.me, fitfatherproject) consistently lists biceps brachii as a secondary stabilizer (elbow flexion stabilization during fly motion). 2) Updated abs secondary to include both Upper Rectus Abdominis and LowerRectus Abdominis (was only Upper Rectus Abdominis) — full core bracing is engaged isometrically to prevent hip sag. Triceps retained as secondary — confirmed as isometric elbow stabilizer during fly movements. Chest primary (both heads at chest-height handles) confirmed correct."
+ }
+]

@@ -65,7 +65,7 @@ sec_group_4     = "Lats"      sec_4_latin_1 = "Rotator Cuff"
 | `biceps` | `Biceps Brachii` | inner+outer biceps |
 | `Triceps` | `Triceps Brachii` | all 3 triceps heads |
 | `forearms` | `Wrist Flexors`, `Wrist Extensors` | inner/outer forearm |
-| `abs` | `Upper Rectus Abdominis`, `LowerRectus Abdominis` | upper/lower abs |
+| `abs` | `Upper Rectus Abdominis`, `Lower Rectus Abdominis` | upper/lower abs |
 | `oblique` | `External Obliques`, `Internal Obliques` | external/internal oblique |
 | `Lower Back` | `Erector Spinae` | lower_back |
 | `glutes` | `Gluteus Maximus`, `Gluteus Medius` | glutes / side_glutes |
@@ -77,7 +77,6 @@ sec_group_4     = "Lats"      sec_4_latin_1 = "Rotator Cuff"
 | `Shin` | `Fibularis`, `Extensor`, `Tibialis` | outer_shin / shin_extensor / shin_muscle |
 
 **App quirks to mirror EXACTLY (or it won't highlight):**
-- Lower abs latin is `LowerRectus Abdominis` — **no space**.
 - Rear delt is singular `Posterior Deltoid`; front/side are plural `Anterior Deltoids` / `Lateral Deltoids`.
 - Writing one advance term highlights all SVG regions sharing it (e.g. `Sternal Head` lights
   mid + lower chest; `Triceps Brachii` lights all 3 heads; `Biceps Brachii` lights both heads).
@@ -93,7 +92,7 @@ The current data uses loose terms. Map them (then confirm with web search which 
 
 | Current term(s) | New encoding (group → latin) |
 |---|---|
-| Abdominals / Rectus Abdominis | `abs` → `Upper Rectus Abdominis`, `LowerRectus Abdominis` |
+| Abdominals / Rectus Abdominis | `abs` → `Upper Rectus Abdominis`, `Lower Rectus Abdominis` |
 | Obliques | `oblique` → `External Obliques`, `Internal Obliques` |
 | Quadriceps / Quadriceps Femoris | `Quads` → `Rectus Femoris`, `Vastus Medialis`, `Vastus Lateralis` |
 | Pectoralis Major / Chest | `chest` → `Clavicular Head` and/or `Sternal Head` (by angle, see below) |

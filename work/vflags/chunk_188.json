@@ -1,0 +1,22 @@
+[
+ {
+  "id": "machine_fly",
+  "change": "No change. Primary chest (Sternal Head + Clavicular Head) is correct for a standard flat machine fly — both heads are engaged with sternal dominance. Secondary Anterior Deltoids is confirmed by EMG research. Rotator cuff and biceps are minimal stabilizers on machines and omitting them is appropriate."
+ },
+ {
+  "id": "machine_lateral_raise",
+  "change": "No change. Primary Lateral Deltoids confirmed. Secondary Anterior Deltoids and Upper Traps confirmed by EMG and biomechanics literature. Supraspinatus (rotator cuff) initiates the first degrees of abduction but has no allowed latin term in the system; correctly omitted."
+ },
+ {
+  "id": "middle_back_rotation_stretch",
+  "change": "No change. Primary obliques (External + Internal) is correct for a standing trunk rotation. Secondary Erector Spinae is confirmed — the erector spinae eccentrically controls the rotation and provides spinal stability. Mid-back rotators (multifidi, rotatores) are involved but have no valid bucket/latin in the system."
+ },
+ {
+  "id": "middle_crunches",
+  "change": "No change. This is a V-up style crunch combining upper and lower body. Primary abs (Upper Rectus Abdominis + LowerRectus Abdominis) is correct. Secondary Rectus Femoris (Quads bucket) is confirmed — it acts as hip flexor to raise the legs simultaneously with the upper crunch. Hip flexor engagement is well-documented in V-up EMG studies."
+ },
+ {
+  "id": "military_press_bodyweight",
+  "change": "No change. This is a standing bodyweight overhead pressing movement (no load). Primary Anterior Deltoids confirmed. Secondary Triceps Brachii, Lateral Deltoids, and Upper Traps all confirmed by military press EMG research. Standing position engages core/erector spinae as stabilizers, but since this is bodyweight only (no external load), the stabilization demand is minimal and omitting abs/Lower Back as secondary is acceptable. Core cue is addressed in tips instead."
+ }
+]

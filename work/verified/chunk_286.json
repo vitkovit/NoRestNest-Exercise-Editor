@@ -1,0 +1,148 @@
+[
+ {
+  "id": "seated_leg_extension_alternate_legs",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the leg extension machine with your back against the backrest and both shins behind the padded lever, just above the ankles.\n2. Grip the side handles and keep your core engaged.\n3. Extend your right knee to raise the lever until the leg is nearly straight.\n4. Lower the right leg under control to the start.\n5. Repeat with the left leg, then alternate.\n6. Repeat.",
+  "tips": "1. Move smoothly and avoid swinging the weight up.\n2. Keep your hips and back pressed into the seat.\n3. Exhale as you extend, inhale as you lower.\n4. Pause briefly at the top to squeeze the quad.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "seated_leg_extension_both_legs",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the leg extension machine with your back against the backrest and both shins behind the padded lever, just above the ankles.\n2. Grip the side handles and keep your core engaged.\n3. Extend both knees to raise the lever until your legs are nearly straight.\n4. Lower the lever under control to the start.\n5. Repeat.",
+  "tips": "1. Move smoothly and avoid swinging the weight up.\n2. Keep your hips and back pressed into the seat.\n3. Exhale as you extend, inhale as you lower.\n4. Pause briefly at the top to squeeze the quads.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "seated_machine_hip_adductor",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the hip adductor machine with your back straight and feet on the footrests.\n2. Place your knees against the inner pads with your legs spread apart.\n3. Squeeze your knees together against the resistance until the pads nearly meet.\n4. Slowly return to the spread starting position under control.\n5. Repeat.",
+  "tips": "1. Move slowly and avoid letting the pads snap back.\n2. Keep your back against the seat and core braced.\n3. Squeeze the inner thighs at the closed position.\n4. Exhale as you close, inhale as you open.",
+  "primary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_basic_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing the ski ergometer with feet hip-width apart, holding a handle in each hand at head height.\n2. Brace your core and hinge slightly at the hips with a soft bend in the knees.\n3. Drive both handles down past your hips by pulling with your lats and extending your arms.\n4. Crunch your abs to add power at the bottom of the pull.\n5. Return your arms overhead under control and reset.\n6. Repeat.",
+  "tips": "1. Initiate each pull with your lats and core, not just the arms.\n2. Keep a steady hip hinge rather than squatting.\n3. Breathe rhythmically with each stroke.\n4. Keep the wrists firm to transfer power through the handles.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_face_biceps_curl_pull",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand facing the ski ergometer with feet hip-width apart, holding a handle in each hand with palms facing each other.\n2. Brace your core and keep an upright posture.\n3. Curl the handles up toward your face by bending your elbows, keeping the upper arms still.\n4. Squeeze your biceps as the handles reach face height.\n5. Extend your arms back to the start under control.\n6. Repeat.",
+  "tips": "1. Keep your upper arms pinned to your sides through the curl.\n2. Move at a steady pace to keep tension on the biceps.\n3. Do not shrug or use the shoulders to lift.\n4. Exhale as you curl, inhale as you lower.",
+  "primary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,183 @@
+[
+ {
+  "id": "cat_pose",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Start on all fours with wrists under shoulders and knees under hips.\n2. Exhale and round your spine toward the ceiling, tucking your chin to your chest.\n3. Draw your navel up toward your spine and engage your abdominals.\n4. Hold the rounded position, breathing steadily.\n5. Return to a neutral flat back.\n6. Repeat.",
+  "tips": "1. Move with your breath, exhaling as you round the spine.\n2. Press the floor away through your hands to spread the upper back.\n3. Keep weight even across both hands and knees.\n4. Round from the whole spine, not just the upper back.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chair_pose",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand with feet hip-width apart and arms at your sides.\n2. Bend your knees and sit your hips back as if lowering into a chair.\n3. Raise both arms overhead alongside your ears.\n4. Keep your chest lifted and weight in your heels.\n5. Hold the position, breathing steadily.\n6. Repeat.",
+  "tips": "1. Keep your knees tracking over your toes.\n2. Sit your hips back to load the quads and glutes.\n3. Engage your core to support an upright torso.\n4. Keep weight in your heels, not your toes.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "chest_press_machine",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the machine with your back flat against the pad and feet on the floor.\n2. Grasp the handles at chest height with palms facing forward.\n3. Press the handles forward until your arms are extended.\n4. Pause briefly at full extension.\n5. Bend your elbows to return the handles to chest level under control.\n6. Repeat.",
+  "tips": "1. Keep your shoulder blades pulled back and down against the pad.\n2. Drive through your chest rather than shrugging the shoulders.\n3. Exhale as you press, inhale as you return.\n4. Control the return rather than letting the weight pull your arms back.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "child_pose_arms_extended_left_right",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel on the floor and sit your hips back toward your heels.\n2. Fold your torso forward and rest it toward the floor.\n3. Walk both hands out to one side until you feel a stretch along the opposite side.\n4. Hold, breathing steadily, then walk the hands to the other side.\n5. Hold the second side for equal time.\n6. Repeat.",
+  "tips": "1. Keep your hips sitting back toward your heels.\n2. Reach through your fingertips to lengthen the side body.\n3. Relax your neck and let your head rest down.\n4. Breathe into the stretched side ribs.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "child_pose_arms_on_side",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel on the floor with your big toes together and knees apart.\n2. Sit your hips back toward your heels.\n3. Fold your torso forward and rest it between your thighs.\n4. Lay your arms alongside your body with palms facing up.\n5. Rest your forehead on the floor and hold, breathing steadily.\n6. Repeat.",
+  "tips": "1. Let your hips sink toward your heels to deepen the stretch.\n2. Relax your shoulders away from your ears.\n3. Breathe slowly into your lower back.\n4. Widen the knees if you need more room for your torso.",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "gym_elliptical_machine_fast_speed",
+  "change": "Secondary shoulders corrected: removed 'Posterior Deltoid' (not meaningfully engaged by elliptical handle push/pull arc), replaced with 'Lateral Deltoids' (anterior+lateral are the primary deltoid heads activated). Added 'biceps' (Biceps Brachii) and 'Triceps' (Triceps Brachii) as secondary — both are meaningfully activated by handle pulling and pushing respectively; confirmed by multiple sources. Removed abs from secondary to make room (core is a stabilizer but calves+shoulders+biceps+triceps are more exercise-defining); kept abs as it fits within the 5-slot limit after restructuring."
+ },
+ {
+  "id": "gym_elliptical_machine_normal_speed",
+  "change": "Same corrections as fast_speed variant: shoulders fixed to Anterior Deltoids + Lateral Deltoids (removed Posterior Deltoid); added Biceps Brachii and Triceps Brachii as secondary for handle engagement."
+ },
+ {
+  "id": "gym_elliptical_machine_sprint_speed",
+  "change": "Same corrections as fast_speed and normal_speed variants: shoulders fixed to Anterior Deltoids + Lateral Deltoids (removed Posterior Deltoid); added Biceps Brachii and Triceps Brachii as secondary for handle engagement."
+ },
+ {
+  "id": "gym_rowing_machine_fast_speed",
+  "change": "Added Rotator Cuff (under Lats bucket) as 5th secondary entry — per CLAUDE.md rules, all pulling exercises require Rotator Cuff as secondary. Confirmed by biomechanics sources: the rotator cuff stabilizes the shoulder joint throughout the rowing stroke drive and finish phases."
+ },
+ {
+  "id": "gym_rowing_machine_normal_speed",
+  "change": "Added Rotator Cuff (under Lats bucket) as 5th secondary entry — same reasoning as fast_speed variant. Rotator Cuff is mandatory secondary on all rowing/pulling movements."
+ }
+]

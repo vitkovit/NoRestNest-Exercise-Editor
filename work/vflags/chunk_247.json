@@ -1,0 +1,22 @@
+[
+ {
+  "id": "battle_rope_alternating_arm_waves",
+  "change": "Added Triceps (Triceps Brachii) as secondary. The downward drive phase of each alternating wave actively engages the triceps; ACE EMG research and multiple sources confirm triceps activation during battle rope wave exercises. The rest of the data (Anterior Deltoids primary; obliques, Lower Back, forearms, biceps secondary) was confirmed correct."
+ },
+ {
+  "id": "battle_rope_double_arm_slams",
+  "change": "Added glutes (Gluteus Maximus) as secondary. The ACE-sponsored EMG study specifically found that gluteus maximus worked significantly harder during double-arm slams than any other battle rope exercise tested. All other entries (Anterior Deltoids + abs primary; Lats, Triceps, forearms, Lower Back secondary) confirmed correct."
+ },
+ {
+  "id": "bear_crawls",
+  "change": "Added Hamstrings (Biceps Femoris, Semitendinosus) as secondary. Multiple sources including Lift Vault, Greatist, and biomechanics references confirm hamstrings are engaged as stabilizers during the leg-drive phase of the bear crawl. All other primary entries (shoulders/Anterior Deltoids, abs, Quads) and secondary entries (obliques, Triceps, glutes, mid back/Upper Traps) confirmed correct."
+ },
+ {
+  "id": "bodyweight_feet_elevated_figure_four_glute_bridge",
+  "change": "No changes. Primary (glutes: Gluteus Maximus, Gluteus Medius) and secondary (Hamstrings, obliques for unilateral anti-rotation, Lower Back) confirmed correct by web research. EMG evidence supports high gluteus maximus and medius activation; the figure-four position's hip external rotation especially targets Gluteus Medius."
+ },
+ {
+  "id": "bodyweight_feet_elevated_staggered_glute_bridge",
+  "change": "No changes. Primary (glutes: Gluteus Maximus, Gluteus Medius) and secondary (Hamstrings, obliques for staggered-stance anti-rotation, Lower Back) confirmed correct. B-stance/staggered research confirms ~70% load shift to working leg with meaningful hamstring and core stabilizer engagement."
+ }
+]

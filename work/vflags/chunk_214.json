@@ -1,0 +1,22 @@
+[
+ {
+  "id": "standing_cable_oblique_twist",
+  "change": "No change. Primary obliques (External + Internal Obliques) confirmed. Secondary abs (Upper Rectus Abdominis + LowerRectus Abdominis) and Lower Back (Erector Spinae) confirmed as core stabilizers by multiple sources including ExRx and Fitness Volt. Category Resistance / equipment cable / trackingMode '' all correct."
+ },
+ {
+  "id": "standing_calf_raise_resistance_band",
+  "change": "No change to data. Input had two separate Calves group entries (gastrocnemius in primary, soleus in secondary) which is already the correct split per bucket rules — primary = gastrocnemius (knee straight emphasizes it), secondary = soleus. This split across primary/secondary is valid (not two entries in the same primary array). Data confirmed correct. Category Resistance / equipment resistance_band confirmed. Note: serratus anterior and core stabilizers noted in sources have no allowed mapping and are omitted correctly."
+ },
+ {
+  "id": "standing_calf_raises_smith_machine",
+  "change": "No change. Same muscle profile as resistance band standing calf raise: gastrocnemius (Lateral + Medial) primary, Soleus secondary. Smith machine equipment classified as 'machine' which is the best fit from allowed list. Category Resistance confirmed. Sources confirm tibialis anterior stabilizes but it has a Shin bucket mapping (Tibialis); however, its role here is purely stabilizer/lowering control and not a meaningful secondary muscle for calf raises — correctly omitted."
+ },
+ {
+  "id": "standing_dumbbell_alternate_shoulder_press",
+  "change": "No change. Anterior Deltoids primary confirmed by EMG research (highest activation in overhead press). Lateral Deltoids secondary confirmed. Triceps Brachii secondary confirmed. Obliques (External + Internal) secondary confirmed — alternating unilateral press creates anti-rotation demand on obliques and core. Standing adds Lower Back stabilizer demand but obliques already cover core anti-rotation; Lower Back omitted as less significant than obliques here. Category Free Weights / equipment dumbbell / trackingMode '' correct."
+ },
+ {
+  "id": "standing_front_raise_dumbbell",
+  "change": "No change. Anterior Deltoids primary confirmed (63.3% normalized EMG). Secondary: Lateral Deltoids confirmed (minor medial delt co-activation). Clavicular Head (chest) confirmed (20-30% EMG activation of pec major clavicular head). Upper Traps confirmed (scapular elevation/upward rotation stabilizer). Upper Rectus Abdominis as core stabilizer retained — only upper abs are meaningfully engaged as stabilizers in this exercise; lower abs less so, so single latin is acceptable. Serratus anterior is confirmed secondary but has no allowed bucket/latin mapping — omitted correctly. Category Free Weights / equipment dumbbell / trackingMode '' all correct."
+ }
+]

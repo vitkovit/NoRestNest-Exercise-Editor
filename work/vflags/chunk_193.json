@@ -1,0 +1,6 @@
+[
+ {
+  "id": "plate_front_raise",
+  "change": "Added secondary entry {group:'shoulders', latins:['Lateral Deltoids']}. EMG studies show lateral deltoid activates at ~48% during front raises, making it a meaningful stabilizer/secondary mover. The primary remains Anterior Deltoids only. All other fields unchanged."
+ }
+]

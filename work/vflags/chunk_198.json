@@ -1,0 +1,10 @@
+[
+ {
+  "id": "rear_deltoid_fly_cable_resistance_band",
+  "change": "Added Lower Traps to secondary mid back entry. Sources confirm that middle and lower trapezius both assist in scapular retraction during the rear delt fly (standing cable/band version). Upper Traps alone was incomplete; Rhomboids + Upper Traps + Lower Traps collectively represent the mid back scapular retractors engaged."
+ },
+ {
+  "id": "resistance_band_cable_row",
+  "change": "Added Lower Back (Erector Spinae) as a secondary muscle. The kneeling/bent-over position requires the erector spinae to stabilize the spine throughout the pull. Multiple sources confirm erector spinae as a meaningful stabilizer during resistance band rows. Also kept obliques (anti-rotation, unilateral kneeling position) but removed them as unclear primary stabilizer — retained as secondary (correct per unilateral stance rules)."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "lunge_to_knee_drive_right_bodyweight",
+  "change": "No changes. Primary (Quads all three vasti, Glutes Maximus+Medius) and secondary (Hamstrings, obliques, Calves) confirmed correct. Unilateral movement justifies obliques as anti-rotation stabilizers. Knee drive phase hip flexion covered by Rectus Femoris already in Quads primary."
+ },
+ {
+  "id": "lunges_alternate_leg_with_pause_bodyweight",
+  "change": "No changes. Primary (Quads, Glutes) and secondary (Hamstrings, Calves, obliques) confirmed by EMG research. Alternating unilateral movement justifies obliques. Pause increases time under tension but does not change which muscles are engaged."
+ },
+ {
+  "id": "lunges_same_leg_side_view_bodyweight",
+  "change": "No changes. Same muscle profile as other forward lunge variants confirmed. Unilateral nature justifies obliques as anti-rotation secondary. Lower Back (Erector Spinae) noted in some sources as stabilizer but omitted as the set already has 3 secondary entries and obliques cover the core stability cue adequately."
+ },
+ {
+  "id": "lunging_straight_leg_calf_stretch",
+  "change": "Removed Soleus from primary Calves entry. Biomechanical principle confirmed by multiple sources: the gastrocnemius crosses the knee joint and is only fully stretched with the knee straight; the soleus does not cross the knee and requires a bent-knee position to stretch. This exercise keeps the back leg straight, so only the gastrocnemius (Gastrocnemius Lateral, Gastrocnemius Medial) is meaningfully stretched. Hamstrings secondary retained as the hamstrings are gently lengthened in the straight-leg back position."
+ },
+ {
+  "id": "lying_abs_resistance_band",
+  "change": "No changes. Primary (abs: Upper Rectus Abdominis, LowerRectus Abdominis) and secondary (oblique: External Obliques, Internal Obliques) confirmed by EMG research on crunches. Hip flexors activate but cannot be encoded in the allowed muscle format (Abductor bucket maps to hip abduction, not hip flexion). Category Resistance, equipment resistance_band, trackingMode empty string all correct."
+ }
+]

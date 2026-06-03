@@ -1,0 +1,22 @@
+[
+ {
+  "id": "standing_oblique_crunch",
+  "change": "No change. Primary obliques (both heads) and secondary abs + Quads/Rectus Femoris are correct. Rectus Femoris is valid for the knee-raise hip flexion component. EMG and biomechanics sources confirm obliques as prime mover, abs and hip flexors as secondary."
+ },
+ {
+  "id": "standing_one_arm_chest_stretch",
+  "change": "No change. Chest (both heads) as primary and Anterior Deltoids as secondary is correct for the wall pec stretch. The anterior deltoid and pectorals are co-stretched during this movement. trackingMode=timed is appropriate for a static stretch."
+ },
+ {
+  "id": "standing_overhand_shoulder_stretch",
+  "change": "No change. Primary Anterior Deltoids is correct for the alternating overhead arm raise pattern. Secondary chest/Clavicular Head and mid back/Upper Traps are appropriate — upper traps assist in arm elevation and chest/clavicular head is lightly stretched as the arm moves overhead. trackingMode=repsOnly is correct for the alternating dynamic movement."
+ },
+ {
+  "id": "standing_quadriceps_stretch",
+  "change": "Changed secondary from Abductor->Abductor to glutes->Gluteus Medius. The Gluteus Medius is the primary hip stabilizer during single-leg balance (confirmed by multiple sources), making it more accurate than the generic Abductor/tensor for the stabilizing role in this stretch."
+ },
+ {
+  "id": "standing_quadriceps_stretch_side_angle",
+  "change": "Changed secondary from Abductor->Abductor to glutes->Gluteus Medius, same rationale as standing_quadriceps_stretch. The side-angle variant is biomechanically identical for muscle involvement; Gluteus Medius is the key hip stabilizer during the single-leg balance position."
+ }
+]

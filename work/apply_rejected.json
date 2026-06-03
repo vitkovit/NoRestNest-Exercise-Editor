@@ -1,9 +1,9 @@
 [
   {
-    "i": 881,
-    "id": "leg_lift_circles",
+    "i": 1521,
+    "id": "lawnmower_row",
     "errs": [
-      "primary[0] \"abs\": latin \"Lower Rectus Abdominis\" not a valid advance term (allowed: Upper Rectus Abdominis, LowerRectus Abdominis)"
+      "secondary has 6 groups (max 5)"
     ]
   }
 ]

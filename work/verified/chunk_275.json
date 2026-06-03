@@ -1,0 +1,249 @@
+[
+ {
+  "id": "landmine_glute_kick_back",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Anchor a barbell in a landmine and load the free end.\n2. Get on all fours facing the landmine and hook the bar end behind one knee or against the sole.\n3. Brace your core and keep a neutral spine.\n4. Drive the working leg back and up by squeezing the glute until the thigh is in line with your torso.\n5. Lower under control without arching the lower back.\n6. Repeat.",
+  "tips": "1. Squeeze the glute at the top rather than swinging the leg.\n2. Keep the hips square to the floor throughout.\n3. Brace the abs to protect the lower back.\n4. Move slowly to keep tension on the glute.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "landmine_goblet_curtsy_lunge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Anchor a barbell in a landmine and hold the loaded end at your chest in a goblet grip.\n2. Stand tall with feet hip-width apart.\n3. Step one foot back and across behind the other at about 45 degrees.\n4. Lower until the back knee nearly touches the floor and the front thigh is near parallel.\n5. Drive through the front heel to return to standing.\n6. Repeat.",
+  "tips": "1. Keep the front heel planted and weight on it.\n2. Keep the chest up and torso tall.\n3. Control the descent to protect the front knee.\n4. Brace the core for balance.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "landmine_goblet_lateral_lunge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Anchor a barbell in a landmine and hold the loaded end at your chest in a goblet grip.\n2. Stand with feet wider than shoulder-width.\n3. Shift your weight to one side and bend that knee while keeping the other leg straight.\n4. Push the hips back and lower until the bent thigh is near parallel.\n5. Drive through the working heel to return to center.\n6. Repeat.",
+  "tips": "1. Keep both feet flat and pointing forward.\n2. Push the hips back to load the glute.\n3. Keep the chest up and back flat.\n4. Feel the stretch in the straight leg's inner thigh.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "landmine_hack_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Anchor a barbell in a landmine and stand with your back to the anchor.\n2. Hold the loaded end behind your hips or at your sides.\n3. Set feet shoulder-width with toes slightly out.\n4. Bend the knees and sit down until the thighs are near parallel.\n5. Drive through the heels to stand back up.\n6. Repeat.",
+  "tips": "1. Keep the chest up and the torso fairly upright.\n2. Track the knees over the toes.\n3. Drive through the whole foot, not just the toes.\n4. Brace the core throughout the lift.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "landmine_half_kneeling_single_arm_overhead_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Anchor a barbell in a landmine and kneel facing it in a half-kneeling stance.\n2. Hold the loaded bar end at shoulder height with one hand.\n3. Brace the core and keep the torso upright.\n4. Press the bar up and forward until the arm is extended.\n5. Lower under control back to the shoulder.\n6. Repeat.",
+  "tips": "1. Keep the hips and torso square, resisting any twist.\n2. Squeeze the glute of the down knee for stability.\n3. Keep the core braced to prevent leaning back.\n4. Press in a smooth arc following the bar path.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ }
+]

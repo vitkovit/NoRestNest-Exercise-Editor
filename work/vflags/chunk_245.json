@@ -1,0 +1,22 @@
+[
+ {
+  "id": "barbell_overhead_squat",
+  "change": "No changes. Primary (Quads, Glutes, Shoulders) and secondary (Hamstrings, mid back, Lower Back, abs, Triceps) confirmed correct. EMG research (PMC7241624) shows overhead squat demands active deltoid stabilization overhead while quads/glutes drive the movement — listing shoulders as primary is defensible. Triceps lock out the bar overhead (valid secondary). Upper+Lower Traps support the loaded overhead position (valid secondary). Abs confirmed to show greater activation in overhead squat vs front squat. All bucket/latin pairs valid."
+ },
+ {
+  "id": "barbell_press_under",
+  "change": "No changes. Push jerk mechanics: explosive quad/glute leg drive (dip phase), then drop under bar with arms locking out overhead. Primary: shoulders (Anterior + Lateral Deltoids) and Triceps for the overhead lockout, Quads for leg drive — confirmed by multiple sources. Secondary: Glutes (hip drive assist), mid back (Upper+Lower Traps for overhead stability), abs (core bracing), Lower Back (erector stabilization). All bucket/latin pairs valid."
+ },
+ {
+  "id": "barbell_reverse_deadlift",
+  "change": "Corrected secondary abs: was [Upper Rectus Abdominis] only, changed to [Upper Rectus Abdominis, LowerRectus Abdominis] — full core bracing engages both upper and lower rectus abdominis during a deadlift pattern. All other primary/secondary muscles confirmed correct: Quads are heavily emphasized in behind-leg deadlift (hack squat style), with glutes, hamstrings, and lower back as co-prime movers. Secondary traps/rhomboids, lats, adductors, forearms (grip) all confirmed by sources."
+ },
+ {
+  "id": "barbell_side_step_up",
+  "change": "No changes. Side step-up muscles confirmed: Primary Quads + Glutes (Maximus for drive, Medius for lateral stability on the working side). Secondary Hamstrings (knee stabilization), Calves (ankle stabilization), obliques (both External + Internal for anti-rotation on this unilateral movement — correctly both included), Lower Back (Erector Spinae for torso stabilization under barbell load). All bucket/latin pairs valid."
+ },
+ {
+  "id": "barbell_silverback_shrug",
+  "change": "No changes. Silverback shrug = bent-over shrug at ~45 degrees with scapular retraction and elevation. Primary: mid back (Upper Traps, Lower Traps, Rhomboids) — confirmed by research showing bent-over shrug variations shift emphasis to middle/lower traps and rhomboids vs standard upright shrug which isolates upper traps. Secondary: Posterior Deltoid (horizontal pulling component activates rear delt), Lower Back (Erector Spinae for isometric hold of hinge position), forearms/Wrist Flexors (overhand grip). All bucket/latin pairs valid."
+ }
+]

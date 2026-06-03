@@ -1,0 +1,10 @@
+[
+ {
+  "id": "barbell_situp",
+  "change": "Added secondary Abductor→Abductor: hip flexors (iliopsoas/rectus femoris) are well-documented secondary movers in sit-ups, confirmed by multiple EMG studies showing significant iliopsoas activation, especially when feet are anchored. The previous data omitted this significant stabilizer/mover."
+ },
+ {
+  "id": "barbell_z_press",
+  "change": "Added secondary chest→Clavicular Head: multiple sources confirm the upper chest (clavicular pectoralis major) contributes meaningfully during the early pressing phase of the Z press, before the deltoids take over at higher arm elevation. Omitting it understated secondary involvement."
+ }
+]

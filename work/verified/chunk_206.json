@@ -1,0 +1,178 @@
+[
+ {
+  "id": "shoulder_circle",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with feet shoulder-width apart and arms relaxed at your sides.\n2. Roll the shoulders backward in small circles.\n3. Gradually widen the circles while keeping a steady pace.\n4. Continue the circular motion with control.\n5. Repeat.",
+  "tips": "1. Keep the motion smooth and controlled.\n2. Keep the neck relaxed throughout.\n3. Breathe steadily during each circle.\n4. Use the shoulder muscles, not momentum.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids",
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "shoulder_extension",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with feet shoulder-width apart and arms straight at your sides.\n2. Raise both arms straight forward and continue up overhead.\n3. Keep the arms straight and parallel.\n4. Pause briefly at the top.\n5. Lower the arms back to your sides with control.\n6. Repeat.",
+  "tips": "1. Keep the arms straight throughout the movement.\n2. Keep the shoulders down, away from the ears.\n3. Move with control, no momentum.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "side_lateral_raise_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand on the middle of a resistance band with feet shoulder-width apart.\n2. Hold one handle in each hand, arms down at your sides, palms facing in.\n3. Raise both arms out to the sides until they reach shoulder height.\n4. Keep a slight bend in the elbows and palms facing down.\n5. Lower the arms back to the start with control.\n6. Repeat.",
+  "tips": "1. Choose a band tension that challenges you without breaking form.\n2. Lead with the elbows and keep the wrists neutral.\n3. Keep the torso still, no swinging.\n4. Exhale as you raise, inhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "side_lunges_bodyweight",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with feet hip-width apart and hands clasped in front for balance.\n2. Take a wide step to the right and bend the right knee, keeping the left leg straight.\n3. Sit the hips back and keep the right foot flat.\n4. Push through the right heel to return to standing.\n5. Repeat on the left side.\n6. Repeat.",
+  "tips": "1. Keep the bent knee tracking over the foot.\n2. Keep the back flat and chest up.\n3. Push the hips back rather than letting the knee drift forward.\n4. Inhale as you lower, exhale as you push back up.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "side_lying_floor_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your left side with legs stacked and body in a straight line. Rest your head on your left arm.\n2. Extend your right arm overhead, reaching past your ear.\n3. Reach long through the fingertips and let your top ribs lengthen until you feel a stretch down the side of your back.\n4. Hold briefly, breathing steadily.\n5. Return to the start and switch sides.\n6. Repeat.",
+  "tips": "1. Keep the reaching arm long to lengthen the lat and side ribs.\n2. Tuck the pelvis slightly so the lower back does not arch.\n3. Ease into the stretch, never force the end range.\n4. Use a padded, non-slip surface.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ]
+ }
+]

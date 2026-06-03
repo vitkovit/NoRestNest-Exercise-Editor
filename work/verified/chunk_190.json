@@ -1,0 +1,152 @@
+[
+ {
+  "id": "over_head_weight_sit_up",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "plate",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with your knees bent and feet flat on the floor.\n2. Hold a weight plate with both hands, arms extended straight above your chest.\n3. Brace your core and sit up, lifting your upper body toward your knees while keeping the plate overhead and your arms straight.\n4. Continue until your torso is upright, keeping the plate above your head.\n5. Lower back to the floor with control. Repeat.",
+  "tips": "1. Exhale as you sit up, inhale as you lower.\n2. Keep your arms locked straight so the plate stays directly overhead.\n3. Start light to master the movement before adding load.\n4. Lower under control rather than dropping back.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "over_weight_ab_crunch",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Lie on your back with your legs straight and together. Hold a dumbbell with both hands, arms bent behind your head near the floor.\n2. Brace your core and lift your torso off the floor while bending your knees and drawing them toward your chest.\n3. Bring the dumbbell up and toward your knees as you crunch together.\n4. Lower your torso and legs back to the start with control. Repeat.",
+  "tips": "1. Exhale as you crunch up, inhale as you lower.\n2. Move slowly and avoid using momentum.\n3. Keep your lower back from arching as you extend.\n4. Start light to master the form before adding load.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "overhand_clap",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand upright with your feet shoulder-width apart and arms down at your sides.\n2. Raise both arms out to the sides and continue lifting them overhead.\n3. Bring your palms together overhead in a clapping motion.\n4. Lower your arms back to your sides with control. Repeat.",
+  "tips": "1. Keep your arms straight throughout the movement.\n2. Keep your shoulders down and away from your ears.\n3. Move smoothly and avoid swinging or using momentum.\n4. Inhale as you raise, exhale as you lower.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids",
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Lower Traps",
+     "Upper Traps"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "overhand_tricep_stretching_single_arm",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with your feet shoulder-width apart.\n2. Raise your right arm overhead and bend the elbow, reaching your right hand down toward your upper back.\n3. With your left hand, hold your right elbow and gently pull it toward the left to deepen the stretch. Hold.\n4. Release and switch sides, raising your left arm and using your right hand to assist. Repeat.",
+  "tips": "1. Keep your spine neutral and do not arch your back.\n2. Keep your core engaged for balance.\n3. Apply gentle pressure on the elbow and do not force the stretch.\n4. Breathe steadily and relax into the stretch.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "overhead_extension_resistance_band_both_arms",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart and the middle of the band under both feet.\n2. Hold the handles and extend both arms overhead, elbows close to your ears, palms facing each other.\n3. Bend your elbows to lower the handles behind your head until your forearms are about parallel to the floor.\n4. Straighten your elbows to press the handles back overhead.\n5. Repeat.",
+  "tips": "1. Keep your elbows tucked close to your ears and stop them flaring out.\n2. Keep your shoulders down to avoid neck tension.\n3. Exhale as you press up and inhale as you lower.\n4. Move the band slowly to keep tension on the triceps.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

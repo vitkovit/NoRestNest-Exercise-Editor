@@ -1,0 +1,22 @@
+[
+ {
+  "id": "med_ball_side_wall_slams",
+  "change": "No changes. Primary obliques (External + Internal) confirmed correct. Secondary abs, Anterior Deltoids (throwing motion), Latissimus Dorsi (shoulder extension in slam) all confirmed by multiple sources. Data is accurate."
+ },
+ {
+  "id": "med_ball_front_squat_raise",
+  "change": "Added Lateral Deltoids to primary shoulders entry (was only Anterior Deltoids). Overhead press activates both anterior and lateral deltoids — confirmed by EMG research on overhead press. Sources explicitly name both heads for this pressing movement."
+ },
+ {
+  "id": "med_ball_half_kneeling_wood_choppers",
+  "change": "Expanded glutes secondary from Gluteus Maximus only to include Gluteus Medius. In the half-kneeling position the Gluteus Medius is the primary hip stabilizer on the kneeling-side leg, which is confirmed by multiple sources on half-kneeling chop biomechanics."
+ },
+ {
+  "id": "med_ball_jumping_jacks",
+  "change": "Added Triceps Brachii as secondary. Sources confirm triceps are meaningfully activated during the overhead press phase of med ball jumping jacks. Existing primary (shoulders, calves) and secondary (Quads, Abductor, Adductors) confirmed correct."
+ },
+ {
+  "id": "tyre_flip",
+  "change": "Added chest (Sternal Head) as secondary. Multiple sources confirm pectoralis major is engaged during the push/flip phase of the tire flip as the tire is driven forward. The current data omitted this. All existing entries (Quads, Glutes, Hamstrings, Lower Back as primary; mid back, shoulders, biceps, Lats as secondary) confirmed correct."
+ }
+]

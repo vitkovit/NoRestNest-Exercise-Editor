@@ -1,0 +1,22 @@
+[
+ {
+  "id": "child_pose_elbows_on_block",
+  "change": "No changes. Primary (Lats->Latissimus Dorsi, Lower Back->Erector Spinae) and secondary (glutes->Gluteus Maximus, shoulders->Posterior Deltoid) confirmed correct for this passive stretch. Elbows-on-block variant emphasizes lat and lower-back lengthening with posterior deltoid/glute stretch. Equipment 'other' (block), category Bodyweight, trackingMode timed all verified correct."
+ },
+ {
+  "id": "clamshell",
+  "change": "No changes. Primary Gluteus Medius confirmed by EMG research (JOSPT 2013) as dominant muscle; secondary Gluteus Maximus confirmed. Piriformis and TFL also activate but have no allowed latin terms so correctly omitted. Core stabilizers minimal and not listed to avoid inflation. Bodyweight/repsOnly confirmed correct."
+ },
+ {
+  "id": "diamond_push_up",
+  "change": "Added secondary abs (Upper Rectus Abdominis, LowerRectus Abdominis). Diamond push-up is performed in a plank position requiring constant isometric core bracing; abs are a meaningful stabilizer. Primary (Triceps Brachii + both chest heads) and secondary Anterior Deltoids confirmed by EMG studies. Flat push-up angle activates both Sternal Head (dominant) and Clavicular Head."
+ },
+ {
+  "id": "dumbbell_feet_elevated_glute_bridge",
+  "change": "No changes. Primary Gluteus Maximus confirmed as the dominant hip extensor. Secondary Hamstrings (Biceps Femoris + Semitendinosus) confirmed — elevated feet increase hamstring involvement. Secondary abs confirmed for core bracing/stability. Erector Spinae not added as it is a minor stabilizer and abs already covers core role. Free Weights/dumbbell/weighted reps confirmed correct."
+ },
+ {
+  "id": "dumbbell_feet_elevated_single_leg_glute_bridge",
+  "change": "No changes. Primary glutes (Gluteus Maximus + Gluteus Medius) confirmed — unilateral hip extension requires Gluteus Medius for pelvic stabilization as a co-primary. Secondary Hamstrings confirmed. Secondary obliques (External + Internal) confirmed by EMG evidence of anti-rotation demand in single-leg bridge. Secondary abs confirmed for core stability. All values verified correct."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "one_arm_cow_face_pose_easy",
+  "change": "Restructured primary/secondary. Removed 'Lats' (Latissimus Dorsi + Rotator Cuff) from primary — in this arm-only yoga stretch the lats are not a prime-mover primary target; they are secondary (the bottom arm requires lats to be flexible and rotator cuff for joint stability). Moved 'shoulders' (Posterior Deltoid) from secondary to primary — the bottom arm strongly stretches the posterior deltoid (shoulder extension + internal rotation), making it a primary stretch target alongside the triceps. Removed 'chest' (Clavicular Head) secondary — sources describe pectoral flexibility as a prerequisite for the pose, not a primary stretch target; chest is not a well-documented stretch target for this arm-only variation."
+ },
+ {
+  "id": "pike_jacks_feet_kicking_in_and_out",
+  "change": "Moved 'Lateral Deltoids' from primary to secondary and merged into a separate secondary shoulders entry. In pike position the Anterior Deltoids are the primary weight-bearing shoulder muscles; Lateral Deltoids are stabilizers (secondary). The primary shoulders entry now contains only Anterior Deltoids. A new secondary shoulders entry with Lateral Deltoids was added."
+ },
+ {
+  "id": "pigeon_pose",
+  "change": "Removed 'Lower Back' (Erector Spinae) from secondary. Web sources consistently identify the primary stretch targets as glutes, hip flexors (Rectus Femoris), and adductors. Erector Spinae is not cited as a meaningful target in pigeon pose — it may be passively involved in the folded-forward variation but is not a reliable secondary stretch across the general pose."
+ },
+ {
+  "id": "pike_alternating_opposite_hip_taps",
+  "change": "Moved 'Lateral Deltoids' from primary to secondary and placed in a separate secondary shoulders entry alongside Anterior Deltoids (which remain primary). In pike position, Anterior Deltoids bear the load; Lateral Deltoids are stabilizers. Primary shoulders entry now contains only Anterior Deltoids."
+ },
+ {
+  "id": "pike_individual_alternating_arm_reaches",
+  "change": "Same correction as pike_alternating_opposite_hip_taps: moved 'Lateral Deltoids' from primary to secondary. In pike position (and especially when reaching one arm forward/overhead), Anterior Deltoids are the prime movers; Lateral Deltoids are secondary stabilizers."
+ }
+]

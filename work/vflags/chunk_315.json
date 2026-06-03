@@ -1,0 +1,22 @@
+[
+ {
+  "id": "plate_alternating_deadstop_row",
+  "change": "mid back primary: removed Upper Traps (not a prime mover in standard rowing; rows emphasize rhomboids and lower traps via scapular retraction/depression), replaced with Lower Traps. Added Lats->Rotator Cuff as secondary per pulling rules. Removed Lower Back->Erector Spinae from secondary (hinge-position isometric hold is valid but max 5 secondary slots exceeded with Rotator Cuff addition; obliques as unilateral anti-rotation secondary is more exercise-specific)."
+ },
+ {
+  "id": "plate_car_driver",
+  "change": "trackingMode changed from 'timed' to '' (weighted reps): plate car driver is performed for reps rotating the plate back and forth; you use plates of varying weight, so weight+reps tracking is appropriate. Added Posterior Deltoid to primary shoulders entry: the full steering-wheel rotation engages all three deltoid heads including the posterior head. Removed obliques from secondary (obliques stabilize but are not a meaningful secondary for this isolated standing shoulder rotation with both arms extended symmetrically — core/abs covers it). Rotator Cuff moved to its own Lats bucket entry as secondary (rotator cuff is a known stabilizer for this exercise per sources)."
+ },
+ {
+  "id": "plate_clean_and_press",
+  "change": "Removed chest->Clavicular Head from secondary (chest is not meaningfully engaged in a plate clean and press; the overhead press phase does not involve chest). Added mid back->Upper Traps as secondary (upper traps are prime movers in the shrug/pull phase of the clean). All other entries retained."
+ },
+ {
+  "id": "low_rotational_med_ball_chops_quarter_squat,_rotating_med_ball_left_and_ride_across_core",
+  "change": "trackingMode changed from 'repsOnly' to '' (weighted reps): medicine ball has a fixed but tracked weight, so standard weight+reps tracking is appropriate, not repsOnly (which is for bodyweight-only moves). Shoulders secondary changed from Anterior Deltoids + Lateral Deltoids to Anterior Deltoids only: the diagonal upward swing primarily involves anterior deltoid; lateral deltoids are not meaningfully recruited in this plane."
+ },
+ {
+  "id": "rebounder_in_&_out_from_ground",
+  "change": "Added Abductor->Abductor and Adductors->Adductors as secondary muscles: the in-and-out leg movement is mechanically identical to a jumping jack — abductors drive legs apart, adductors bring them back together. These are significant secondary muscles currently missing. abs added as secondary replacing the prior entry which already existed. No other changes."
+ }
+]

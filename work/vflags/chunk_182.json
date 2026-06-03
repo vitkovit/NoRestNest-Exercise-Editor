@@ -1,0 +1,22 @@
+[
+ {
+  "id": "legs_hand_reach_spine_stretch",
+  "change": "No changes. Hamstrings (Biceps Femoris, Semitendinosus) and Lower Back (Erector Spinae) as primary, glutes (Gluteus Maximus) and Calves (Gastrocnemius Medial, Gastrocnemius Lateral) as secondary are all confirmed correct for seated forward bend stretch. Timed tracking mode is appropriate."
+ },
+ {
+  "id": "long_arm_crunches",
+  "change": "Added shoulders (Anterior Deltoids) and Triceps (Triceps Brachii) as secondary muscles. Multiple sources confirm that the extended-arm position in long arm crunches meaningfully activates deltoids and triceps as isometric stabilizers for the lever arm — this is a key distinction from regular crunches. These muscles are absent from the original data."
+ },
+ {
+  "id": "low_cable_overhead_flyes",
+  "change": "No changes. Clavicular Head primary (confirmed: low-to-high cable fly targets upper/clavicular pec), Anterior Deltoids + Sternal Head secondary are correct. The two-chest-entry approach (Clavicular Head in primary, Sternal Head in secondary) is valid since they are in different sections."
+ },
+ {
+  "id": "low_resistance_band_lying_bicep_curl",
+  "change": "No changes. Biceps Brachii primary, Wrist Flexors secondary are correct for a supinated-grip lying bicep curl."
+ },
+ {
+  "id": "low_resistance_band_lying_bicep_curl_half_repetition",
+  "change": "Removed Wrist Extensors from secondary forearms entry. The palms-up (supinated) grip engages Wrist Flexors as a synergist; Wrist Extensors are not meaningfully active in a supinated curl regardless of ROM. Partial ROM (half rep) does not alter grip mechanics. Kept Wrist Flexors only, matching the full-rep variant."
+ }
+]

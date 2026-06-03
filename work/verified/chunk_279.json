@@ -1,0 +1,199 @@
+[
+ {
+  "id": "resistance_band_bent_leg_kickback_kneeling",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Loop a resistance band around both thighs just above the knees and kneel on all fours with hands under shoulders and knees under hips.\n2. Brace your core and keep your back flat, with one knee bent at 90 degrees and the foot flexed.\n3. Drive that foot toward the ceiling, keeping the knee bent and squeezing the glute at the top.\n4. Lower the leg under control to the start.\n5. Finish all reps on one side, then switch legs.\n6. Repeat.",
+  "tips": "1. Keep the back flat and avoid arching the lower back to push higher.\n2. Move slowly and squeeze the glute at the top rather than swinging the leg.\n3. Exhale as you lift, inhale as you lower.\n4. Keep hips square to the floor throughout.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "resistance_band_calf_press_sitting_on_chair",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Sit on a chair with back straight, knees bent at 90 degrees and feet flat on the floor.\n2. Loop a resistance band around the balls of both feet and hold the ends in your hands for tension.\n3. Press the balls of your feet down, pointing the toes against the band resistance.\n4. Squeeze the calves at the bottom, then flex the feet back up under control.\n5. Repeat.",
+  "tips": "1. Keep the back straight and avoid leaning forward.\n2. Hold the band ends steady to keep constant tension.\n3. Exhale as you press down, inhale as you return.\n4. Use a slow tempo through the full range.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Medial",
+     "Gastrocnemius Lateral"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "resistance_band_clam",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Loop a resistance band around both thighs just above the knees and lie on your side with legs bent 90 degrees and feet stacked.\n2. Rest your head on your bottom arm and place your top hand on the floor for support.\n3. Keeping the feet together, lift the top knee as high as possible without rolling the pelvis back.\n4. Squeeze the glute at the top, then lower the knee under control.\n5. Finish all reps, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep feet together and pelvis stacked to isolate the glutes.\n2. Move slowly and avoid rocking the hips backward.\n3. Exhale as you open the knee, inhale as you lower.\n4. Keep the head and neck aligned with the spine.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "resistance_band_cross_body_single_straight_arm_supinated_pulldown",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Anchor a resistance band to a high point in front of you and to one side.\n2. Stand with feet shoulder-width apart, holding the handle in the opposite hand with the palm facing up.\n3. Start with that arm straight and extended up toward the anchor across your body.\n4. Keeping the arm straight, pull the handle down and across toward the hip on the working side.\n5. Return slowly to the start, then finish reps and switch sides.\n6. Repeat.",
+  "tips": "1. Drive the movement from the lat, not the arm.\n2. Keep the elbow only slightly bent and fixed throughout.\n3. Keep hips square and resist twisting the torso.\n4. Exhale as you pull down, inhale as you return.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "resistance_band_floor_hyperextension",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Lie face down with a loop band around your ankles and another around your forearms, arms extended forward and legs straight.\n2. Brace your core and glutes.\n3. Lift your chest, arms and legs off the floor at the same time, spreading the legs apart against the band.\n4. Squeeze the lower back and glutes at the top, keeping arms and legs straight.\n5. Lower under control to the start.\n6. Repeat.",
+  "tips": "1. Keep the neck neutral by looking at the floor.\n2. Lift with the lower back and glutes rather than jerking.\n3. Exhale as you lift, inhale as you lower.\n4. Keep arms and legs straight throughout.",
+  "primary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ]
+ }
+]

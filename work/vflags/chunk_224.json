@@ -1,0 +1,22 @@
+[
+ {
+  "id": "upright_row_dumbbell",
+  "change": "Added 'Rhomboids' (mid back) to secondary muscles. EMG research and multiple sources confirm rhomboids as a secondary mover in upright rows due to scapular retraction during the pull. The original data was missing this. Abs removed from secondary (no meaningful ab involvement confirmed in upright row). All other data confirmed correct."
+ },
+ {
+  "id": "upright_row_ez_bar",
+  "change": "Added 'Rhomboids' (mid back) to secondary muscles, consistent with the dumbbell variant and confirmed by sources on EZ bar upright row. The original data was missing this secondary muscle. All other data confirmed correct."
+ },
+ {
+  "id": "upward_rotation_bent_arms",
+  "change": "No changes. Rotator Cuff as primary and Posterior Deltoid as secondary confirmed correct for a shoulder external rotation exercise with bent arms. Infraspinatus and teres minor are the actual movers but both map to 'Rotator Cuff' bucket — no finer encoding available."
+ },
+ {
+  "id": "45_degree_side_bend",
+  "change": "Removed 'abs' from secondary. Research confirms obliques as primary and erector spinae as synergist/stabilizer; abs are not meaningfully engaged as movers in lateral flexion on the 45-degree bench. Quadratus lumborum is also heavily worked but has no allowed encoding and is omitted. Lower Back (Erector Spinae) retained as secondary stabilizer."
+ },
+ {
+  "id": "45_degree_twisting_hyperextension",
+  "change": "Removed 'abs' from secondary. In a twisting back extension, the abs act as passive stabilizers rather than prime movers or meaningful assisters — their inclusion was inflation. Erector Spinae + Obliques as primary and Gluteus Maximus + Hamstrings as secondary are all confirmed by biomechanics sources."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "runner_stretch",
+  "change": "equipment changed from 'other' to 'bodyweight' — this is a pure bodyweight stretch requiring no equipment. Muscle data confirmed correct: Hamstrings (Biceps Femoris, Semitendinosus) primary; Calves (gastrocnemius) and glutes secondary. Hip flexors are also stretched but iliopsoas has no allowed mapping, so omitted per rules."
+ },
+ {
+  "id": "russian_twist",
+  "change": "No changes. Obliques primary, abs + lower back secondary confirmed by multiple sources including EMG research. Equipment bodyweight and category Bodyweight correct."
+ },
+ {
+  "id": "russian_twist_weighted_ball",
+  "change": "No changes. Obliques primary; abs, lower back, anterior deltoids secondary confirmed — deltoid shoulder stabilization is well-documented for weighted ball hold. Equipment 'other' is the appropriate choice (no medicine_ball option exists). Category Free Weights correct."
+ },
+ {
+  "id": "scapula_push_up",
+  "change": "No changes to muscle data. NOTE: The true primary mover of scapular push-ups is the Serratus Anterior (scapular protraction), which has no allowed bucket/latin mapping in the system. The current encoding (Rhomboids + Lower Traps as primary) represents the retraction phase muscles. This is the best possible encoding within system constraints. FLAG: Serratus Anterior cannot be represented — exercise primary mover is unmappable."
+ },
+ {
+  "id": "scissors_kick",
+  "change": "Secondary muscles expanded: added Quads (Rectus Femoris) as hip flexor activation is well-documented in EMG studies for this exercise, and added Adductors (Adductors) because the crossing/scissoring motion significantly recruits inner thigh adductors. Multiple sources confirm both muscle groups as meaningful secondary contributors. Obliques retained as secondary."
+ }
+]

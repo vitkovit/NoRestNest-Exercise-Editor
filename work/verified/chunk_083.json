@@ -13,7 +13,7 @@
   ],
   "secondary": [
    { "group": "shoulders", "latins": ["Anterior Deltoids"] },
-   { "group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"] },
+   { "group": "abs", "latins": ["Upper Rectus Abdominis", "Lower Rectus Abdominis"] },
    { "group": "oblique", "latins": ["External Obliques", "Internal Obliques"] }
   ]
  },
@@ -47,7 +47,7 @@
   ],
   "secondary": [
    { "group": "shoulders", "latins": ["Anterior Deltoids"] },
-   { "group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"] }
+   { "group": "abs", "latins": ["Upper Rectus Abdominis", "Lower Rectus Abdominis"] }
   ]
  },
  {

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "gym_rowing_machine_sprint_speed",
+  "change": "No changes. Primary (Quads, glutes/Gluteus Maximus, Lats/Latissimus Dorsi, mid back/Rhomboids+Upper Traps) and secondary (Hamstrings, Lower Back/Erector Spinae, shoulders/Posterior Deltoid, biceps/Biceps Brachii, Calves/Gastrocnemius Lateral+Medial) confirmed correct by multiple rowing EMG and biomechanics sources. trackingMode=timed correct for sprint duration."
+ },
+ {
+  "id": "half_lotus",
+  "change": "Removed Gluteus Maximus from primary glutes entry (kept only Gluteus Medius). Research confirms gluteus maximus does not meaningfully stretch in half lotus — it is the gluteus medius and deep rotators (piriformis, unmappable) that are the key targets. Gluteus Maximus inclusion was inflated. Secondary Lower Back/Erector Spinae retained as postural stabilizer."
+ },
+ {
+  "id": "half_monkey_pose",
+  "change": "No changes. Primary hamstrings (Biceps Femoris + Semitendinosus) confirmed as the main stretch target. Calves (Gastrocnemius), glutes (Gluteus Maximus from rear-leg hip extension), and Lower Back (Erector Spinae, for maintaining flat-back hinge) as secondaries are all confirmed correct."
+ },
+ {
+  "id": "half_neck_rolls",
+  "change": "No changes. Neck (neck) as primary and mid back/Upper Traps as secondary confirmed correct. The SCM, splenius capitis, and levator scapulae are engaged but not mappable to allowed values; Upper Traps involvement as secondary is confirmed by anatomy sources."
+ },
+ {
+  "id": "hammer_strength_iso_lateral_leg_curl_single_leg",
+  "change": "Removed oblique (External Obliques + Internal Obliques) from secondary. This is a prone machine leg curl with hips fully secured to the bench — the machine eliminates trunk rotation demand. Oblique engagement is negligible and not supported by EMG research for this movement. Retained Hamstrings primary and Calves + glutes secondary, all confirmed by leg curl EMG literature."
+ }
+]

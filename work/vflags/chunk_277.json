@@ -1,0 +1,22 @@
+[
+ {
+  "id": "multi_hip_abduction",
+  "change": "Removed oblique secondary (External Obliques + Internal Obliques): obliques are not meaningfully activated on a machine standing hip abduction — the machine limits stabilizer demand and there is no evidence of significant oblique recruitment for this movement. Added Gluteus Maximus to secondary under glutes bucket: the stance-leg glute maximus acts as a stabilizer during unilateral standing abduction, supported by EMG research on standing hip abduction patterns."
+ },
+ {
+  "id": "multi_hip_adduction",
+  "change": "Removed Gluteus Maximus secondary: research shows the glutes work only isometrically to seat the pelvis on adduction machines, which does not constitute meaningful assist/stabilization warranting inclusion. Gracilis and Pectineus (true synergists) have no allowed mapping in the system. Secondary left empty to avoid inflation."
+ },
+ {
+  "id": "multi_hip_glute_extension",
+  "change": "No changes. Primary Gluteus Maximus, secondary Hamstrings and Lower Back (Erector Spinae) are well-supported by EMG research on hip extension exercises."
+ },
+ {
+  "id": "push_pull_chair_over_head_pull",
+  "change": "Added Rotator Cuff as secondary (Lats bucket): per CLAUDE.md rules all pulling exercises must include Rotator Cuff secondary. Research confirms rotator cuff stabilizes the shoulder joint during overhead pulling movements. The original data omitted this required entry."
+ },
+ {
+  "id": "push_pull_front_handle_push",
+  "change": "No changes. Both chest heads (Sternal + Clavicular) appropriate for neutral horizontal press. Anterior Deltoids and Triceps Brachii as secondary are well-supported by research on seated chest press biomechanics."
+ }
+]

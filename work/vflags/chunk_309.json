@@ -1,0 +1,22 @@
+[
+ {
+  "id": "lateral_sled_drag",
+  "change": "No changes. Primary (glutes Gluteus Medius+Maximus, Abductor, Adductors) and secondary (Quads, oblique) confirmed correct by research. Lateral sled drag is a hip abductor/adductor dominant movement with glutes and quads as stabilizers. Obliques confirmed for anti-rotation/balance during lateral stepping."
+ },
+ {
+  "id": "low_sled_push",
+  "change": "Added oblique (External Obliques + Internal Obliques) to secondary. Research confirms obliques are heavily engaged isometrically alongside abs to brace the core and prevent spinal rotation during sled push. The original data included abs but omitted obliques, which multiple sources explicitly list as secondary muscles in sled push."
+ },
+ {
+  "id": "pec_deck_fly_machine_flies",
+  "change": "No changes. Primary chest (Sternal Head + Clavicular Head) confirmed for flat/neutral pec deck position. Secondary anterior deltoid confirmed by EMG research as the main secondary muscle. Biceps are minor stabilizers only; not adding to avoid inflation."
+ },
+ {
+  "id": "pull_sled_or_dog_sled_push",
+  "change": "Added oblique (External Obliques + Internal Obliques) to secondary. Research confirms core including obliques engages isometrically to stabilize during sled push, preventing spinal rotation and maintaining force transfer efficiency. Original data included abs but omitted obliques."
+ },
+ {
+  "id": "seated_row_machine_rows",
+  "change": "Added Lats->Rotator Cuff to secondary. Research (including EMG studies) confirms rotator cuff is a stabilizing muscle during all rowing movements to maintain shoulder joint integrity. Standard protocol for pulls/rows per project rules. Original secondary lacked this entry."
+ }
+]

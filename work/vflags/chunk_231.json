@@ -1,0 +1,22 @@
+[
+ {
+  "id": "alternating_leg_lifts",
+  "change": "Removed secondary Abductor entry. The alternating leg lift is a supine sagittal-plane exercise with no meaningful hip abduction component; Abductor was inflation. Kept abs (primary, isometric lumbar stabilization), Quads/Rectus Femoris (secondary, hip flexor synergist — rectus femoris crosses the hip), and obliques (secondary, anti-rotation stabilization during alternating movement). No format violations remain."
+ },
+ {
+  "id": "alternating_step_out",
+  "change": "No changes. Glutes (Gluteus Maximus + Medius), Quads (all three latins), and Abductor as primary; Adductors and Hamstrings as secondary — confirmed correct by EMG research on lateral step-out movements."
+ },
+ {
+  "id": "ankle_dorsal_flexion",
+  "change": "Fixed format violation: original data had TWO separate Shin bucket entries (primary: Tibialis; secondary: Extensor). Same bucket must be merged into ONE entry. Merged all dorsiflexion muscles into a single primary Shin entry with Tibialis (prime mover, tibialis anterior), Extensor (extensor digitorum longus, synergist), and Fibularis (fibularis tertius, synergist). Secondary cleared to empty — no other muscle group meaningfully assists dorsiflexion."
+ },
+ {
+  "id": "ankle_plantar_flexion",
+  "change": "No changes. Calves (Gastrocnemius Lateral, Gastrocnemius Medial, Soleus) as primary, Shin/Fibularis (peroneus muscles, ankle stabilizers during plantar flexion) as secondary — confirmed correct."
+ },
+ {
+  "id": "ankle_circles",
+  "change": "No changes. Shin (Tibialis, Fibularis) as primary mobility drivers for ankle circumduction, Calves as secondary — confirmed correct for this multi-direction ankle mobility drill."
+ }
+]

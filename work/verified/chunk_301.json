@@ -1,0 +1,171 @@
+[
+ {
+  "id": "foam_roller_calves",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Sit on the floor and place the foam roller under one calf.\n2. Cross the other leg over for added pressure and lift your hips off the floor.\n3. Slowly roll from just below the knee down to the ankle.\n4. Pause on tender spots for a few seconds until tension eases.\n5. Roll for about briefly, then switch legs.\n6. Repeat.",
+  "tips": "1. Move slowly and keep the rolling controlled.\n2. Rotate the leg slightly to reach the inner and outer calf.\n3. Breathe steadily and relax into tender areas.\n4. Keep pressure firm but tolerable, never sharp pain.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "foam_roller_lateral_quads",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your side with the foam roller under the outer thigh.\n2. Support your upper body on your forearm and cross the top leg in front for balance.\n3. Slowly roll from the hip down toward the knee.\n4. Pause on tender spots until tension eases.\n5. Roll for about briefly, then switch sides.\n6. Repeat.",
+  "tips": "1. Keep the motion slow and controlled.\n2. Stop short of the knee joint.\n3. Rotate the thigh slightly to cover the full outer quad.\n4. Use arm support to manage the pressure on tender spots.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "foam_roller_quads",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Lie face down with the foam roller under the front of both thighs.\n2. Support your upper body on your forearms.\n3. Slowly roll from the hips down toward the knees.\n4. Pause on tender spots until tension eases.\n5. Roll for about briefly.\n6. Repeat.",
+  "tips": "1. Move slowly and keep the core engaged.\n2. Stop short of the knee joint.\n3. Roll one leg at a time for deeper pressure.\n4. Breathe steadily and relax into tender areas.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "ring_dips",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Grip the rings and press up to a support position with arms straight.\n2. Keep the rings close to your body and shoulders down.\n3. Bend your elbows and lower until your shoulders are below your elbows.\n4. Lean the torso slightly forward to engage the chest.\n5. Press back up to full elbow extension.\n6. Repeat.",
+  "tips": "1. Keep the rings tight against your sides to stay stable.\n2. Turn the rings out at the top for shoulder control.\n3. Lower under control to manage the unstable rings.\n4. Keep the core braced to prevent swinging.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi",
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Extensors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "landmine_overhead_press",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set one end of a barbell in a landmine anchor and load the free end.\n2. Stand and hold the end of the bar at shoulder height with one hand.\n3. Brace your core and keep your feet about shoulder-width apart.\n4. Press the bar up and forward until the arm is extended.\n5. Lower under control back to the shoulder.\n6. Repeat, then switch arms.",
+  "tips": "1. Brace the core to resist twisting toward the loaded side.\n2. Press in line with the bar's arc, slightly forward.\n3. Keep the shoulder packed down, not shrugged.\n4. Keep the ribs down to protect the lower back.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ }
+]

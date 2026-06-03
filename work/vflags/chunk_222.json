@@ -1,0 +1,22 @@
+[
+ {
+  "id": "svend_press_flat_bench",
+  "change": "No change. Flat bench Svend press correctly uses both Sternal Head (dominant) and Clavicular Head as primary, Anterior Deltoids and Triceps Brachii as secondary. Verified by multiple sources confirming chest primary with anterior deltoid and triceps assistance."
+ },
+ {
+  "id": "svend_press_incline_bench",
+  "change": "No change. Incline Svend press correctly lists Clavicular Head as primary and Sternal Head + Anterior Deltoids + Triceps Brachii as secondary, consistent with incline angle rules. Verified."
+ },
+ {
+  "id": "trap_bar_deadlift",
+  "change": "Changed secondary: removed 'forearms -> Wrist Flexors' (minor grip stabilizer, not a meaningful secondary mover); added 'Lats -> Latissimus Dorsi' (lats brace the spine and assist during the pull, consistently listed as secondary in trap bar deadlift references); expanded mid back from 'Upper Traps' only to 'Upper Traps, Rhomboids, Lower Traps' (all three are active in scapular retraction and upper back bracing during the deadlift). EMG studies confirm high activation of quads and glutes as primary, hamstrings and erector spinae as secondary, with traps and lats as stabilizing secondary movers."
+ },
+ {
+  "id": "trap_bar_shrug",
+  "change": "Changed secondary: split original single secondary entry (forearms Wrist Flexors) into two entries, and added 'mid back -> Rhomboids' as a secondary (multiple sources confirm rhomboids and middle traps assist in scapular control during shrugs). Kept Wrist Flexors (grip stabilization under heavy load). Note: Upper Traps and Rhomboids are in the same 'mid back' bucket but kept as separate entries since they serve different roles (primary vs secondary). Actually corrected: merged them — Upper Traps is primary, Rhomboids is listed in a separate secondary 'mid back' entry (this is allowed per the rules since the same bucket can appear in both primary and secondary)."
+ },
+ {
+  "id": "tricep_cable_kickback_on_crossover_machine",
+  "change": "Changed secondary: removed 'abs -> Upper Rectus Abdominis + LowerRectus Abdominis' (core engagement is a minor postural stabilizer, not a meaningful secondary mover for this isolation exercise); removed 'forearms -> Wrist Flexors' (wrist is static during the kickback, not meaningfully loaded). Kept 'shoulders -> Posterior Deltoid' (assists in shoulder extension during the kickback, confirmed by multiple sources as a genuine secondary muscle). Result: cleaner, non-inflated secondary list."
+ }
+]

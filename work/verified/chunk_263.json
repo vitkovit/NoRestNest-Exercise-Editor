@@ -1,0 +1,246 @@
+[
+ {
+  "id": "iso_lateral_shoulder_press_alternate_arms",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the iso-lateral shoulder press machine with your back flat against the pad and feet on the floor.\n2. Grasp both handles at shoulder height with palms facing forward.\n3. Press one handle overhead until the arm is nearly extended, keeping the other arm still.\n4. Lower that handle under control back to shoulder height.\n5. Press the opposite handle and continue alternating arms.\n6. Repeat.",
+  "tips": "1. Keep your back and head in contact with the pad throughout.\n2. Brace your core to resist twisting toward the working side.\n3. Press in a smooth path without leaning the torso.\n4. Exhale while pressing up, inhale while lowering.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "iso_lateral_shoulder_press_single_arm",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the iso-lateral shoulder press machine with your back flat against the pad and feet on the floor.\n2. Grasp one handle at shoulder height with the palm facing forward.\n3. Press the handle overhead until the arm is nearly extended.\n4. Lower the handle under control back to shoulder height.\n5. Complete all reps on one side, then switch arms.\n6. Repeat.",
+  "tips": "1. Keep your back and head in contact with the pad throughout.\n2. Brace your core to resist twisting toward the working side.\n3. Press in a smooth path without leaning the torso.\n4. Exhale while pressing up, inhale while lowering.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jogging",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand tall with feet hip-width apart and arms relaxed at your sides.\n2. Lean slightly forward from the ankles and push off to begin moving.\n3. Take short, quick strides, landing lightly on the midfoot under your body.\n4. Bend your elbows about 90 degrees and swing your arms in rhythm with your stride.\n5. Keep a steady, controlled pace and breathe rhythmically.\n6. Repeat.",
+  "tips": "1. Land softly under your hips, not out in front, to reduce impact.\n2. Keep shoulders relaxed and gaze forward.\n3. Breathe in a steady rhythm to manage effort.\n4. Build duration and pace gradually over time.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jump_rope_alternating_foot",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand tall holding a rope handle in each hand, rope resting behind your heels.\n2. Swing the rope over your head using your wrists.\n3. As the rope nears the floor, hop off one foot, then the other, running in place.\n4. Keep hops low and land softly on the balls of your feet.\n5. Maintain a steady, continuous rhythm.\n6. Repeat.",
+  "tips": "1. Turn the rope with your wrists, keeping elbows close to your sides.\n2. Keep jumps low to reduce joint impact.\n3. Stay on the balls of your feet for quick rebounds.\n4. Keep your core braced and posture tall.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "jump_rope_basic_jump",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand tall with feet together, holding a rope handle in each hand and the rope behind your heels.\n2. Swing the rope over your head using your wrists.\n3. As the rope nears the floor, jump with both feet together, keeping the hop low.\n4. Land softly on the balls of your feet and immediately swing the rope again.\n5. Maintain a steady, continuous rhythm.\n6. Repeat.",
+  "tips": "1. Turn the rope with your wrists, keeping elbows close to your sides.\n2. Keep jumps low to reduce joint impact.\n3. Stay on the balls of your feet for quick rebounds.\n4. Keep your core braced and posture tall.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ]
+ }
+]

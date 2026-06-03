@@ -1,0 +1,22 @@
+[
+ {
+  "id": "kettlebell_glute_bridge",
+  "change": "Removed 'abs' (Upper Rectus Abdominis, LowerRectus Abdominis) from secondary. The core activation during a floor glute bridge is primarily transverse abdominis (not mappable) rather than rectus abdominis; including it was an inflation. Retained Hamstrings and Gluteus Medius as secondary."
+ },
+ {
+  "id": "kettlebell_goblet_curl",
+  "change": "No changes. Primary biceps (Biceps Brachii) and secondary forearms (Wrist Flexors) are correct. Holding the horns demands wrist flexor stabilization. Brachialis is engaged but has no allowed mapping, so omitted correctly."
+ },
+ {
+  "id": "kettlebell_gorilla_row",
+  "change": "Changed primary mid back latins from ['Rhomboids', 'Upper Traps'] to ['Rhomboids', 'Lower Traps']. The gorilla row is a bent-over rowing motion with scapular retraction, which activates the lower/middle trapezius (Lower Traps) rather than the upper traps. Upper traps are involved in shrugging/shoulder elevation, not the retraction pattern of a row. All other secondaries (biceps, forearms, obliques, Lower Back, Posterior Deltoid) confirmed correct by multiple sources."
+ },
+ {
+  "id": "kettlebell_hip_thrusts",
+  "change": "Removed 'abs' (Upper Rectus Abdominis, LowerRectus Abdominis) from secondary — core stabilization in hip thrusts is primarily transverse abdominis (unmappable), not rectus abdominis. Added 'Lower Back' (Erector Spinae) as secondary — EMG research (Bret Contreras, systematic reviews) confirms erector spinae activates as a stabilizer during hip thrusts."
+ },
+ {
+  "id": "kettlebell_hip_thrusts_with_bench",
+  "change": "Same corrections as kettlebell_hip_thrusts: removed 'abs' (rectus abdominis inflation), added 'Lower Back' (Erector Spinae) as secondary. The bench variant has greater range of motion and confirmed erector spinae stabilizer role per EMG studies."
+ }
+]

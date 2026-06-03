@@ -40,7 +40,7 @@ const NUM_PRIMARY = 5, NUM_SECONDARY = 5, LATINS_PER_GROUP = 4;
 
 // ---- Canonical allowed values (derived from server.js MUSCLE_MAPPING + the SVG regions) ----
 // group bucket -> the exact `advance` terms the editor highlights on. THESE are the only
-// allowed strings. Mirror app quirks exactly (e.g. "LowerRectus Abdominis" has no space).
+// allowed strings. Keep in sync with server.js MUSCLE_MAPPING advance terms.
 const BUCKET_ADVANCES = {
   'neck': ['neck'],
   'shoulders': ['Anterior Deltoids', 'Lateral Deltoids', 'Posterior Deltoid'],
@@ -50,7 +50,7 @@ const BUCKET_ADVANCES = {
   'biceps': ['Biceps Brachii'],
   'Triceps': ['Triceps Brachii'],
   'forearms': ['Wrist Flexors', 'Wrist Extensors'],
-  'abs': ['Upper Rectus Abdominis', 'LowerRectus Abdominis'],
+  'abs': ['Upper Rectus Abdominis', 'Lower Rectus Abdominis'],
   'oblique': ['External Obliques', 'Internal Obliques'],
   'Lower Back': ['Erector Spinae'],
   'glutes': ['Gluteus Maximus', 'Gluteus Medius'],

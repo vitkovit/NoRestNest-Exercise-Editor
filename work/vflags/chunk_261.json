@@ -1,0 +1,22 @@
+[
+ {
+  "id": "hammer_strength_plate_loaded_high_row_both_arms",
+  "change": "Added Lower Traps to mid back primary entry. The high row involves scapular retraction and depression which engages the lower trapezius alongside rhomboids and upper traps. Multiple sources confirm lower traps are active during this movement pattern."
+ },
+ {
+  "id": "hammer_strength_plate_loaded_combination_iso_lateral_chest_chest_press",
+  "change": "No change. Flat-angle iso-lateral press correctly uses both Sternal Head (dominant) and Clavicular Head as primary, with Anterior Deltoids and Triceps Brachii as secondary."
+ },
+ {
+  "id": "hammer_strength_plate_loaded_combination_iso_lateral_chest_chest_press_single_arm",
+  "change": "No change. Unilateral press correctly includes obliques (External + Internal) as secondary for anti-rotation stabilization, confirmed by NASM and PMC research."
+ },
+ {
+  "id": "hand_stand_hold",
+  "change": "Added oblique (External Obliques, Internal Obliques) and forearms (Wrist Flexors) as secondary muscles. Obliques engage significantly to maintain hollow body position and prevent rotation during the inverted hold. Wrist flexors are well-documented as active stabilizers controlling balance in handstands (gymnastic biomechanics literature)."
+ },
+ {
+  "id": "happy_baby",
+  "change": "No change. Adductors and Hamstrings as primary (both primary stretch targets confirmed by multiple yoga anatomy sources). Gluteus Maximus and Erector Spinae as secondary (stretched/passively engaged) are correct. Hip flexors (psoas/iliopsoas) cannot be mapped to any allowed bucket/latin pair and are omitted. Abductor group not listed as the dominant stretch is adductors/hamstrings rather than hip abductors."
+ }
+]

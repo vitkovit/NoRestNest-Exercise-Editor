@@ -1,0 +1,22 @@
+[
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_lunge_pull",
+  "change": "Replaced secondary 'abs' (5th slot) with 'mid back' (Rhomboids, Lower Traps) and moved abs to be dropped — ab secondary was kept but Lower Back was removed to make room for mid back. Final: removed 'Lower Back->Erector Spinae' secondary and replaced with 'mid back->Rhomboids,Lower Traps'. Rationale: pulling exercises on ski erg engage rhomboids and lower traps for scapular retraction; erector spinae is less directly recruited in a lunge-pull than in a deadlift or heavy bilateral squat. The 5-secondary cap was already reached so Lower Back was dropped in favour of mid back which is more directly activated by the pull portion."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_triceps_extension_pull",
+  "change": "Added 'Lats->Latissimus Dorsi' as secondary. Rationale: even in a triceps-isolation variant on the ski erg, the lat stabilises the shoulder and assists initial cable tension throughout the range; multiple ski erg sources list lats as a constant contributor. The abs and posterior deltoid secondaries were retained."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_squat_pull_half_circles",
+  "change": "Removed 'Calves->Gastrocnemius Lateral,Gastrocnemius Medial' secondary and replaced with 'mid back->Rhomboids,Lower Traps'. Rationale: the half-circle pull arc directly recruits rhomboids and lower traps for scapular retraction; calves are only minimally involved in a squat-and-pull on a ski erg (no significant calf demand noted in literature). Lower Back and abs secondaries were retained within the 5-slot cap."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_squat_wide_lat_pull",
+  "change": "Replaced 'Calves->Gastrocnemius Lateral,Gastrocnemius Medial' secondary with 'mid back->Rhomboids,Lower Traps'. Rationale: the wide arc pull strongly recruits rhomboids and lower traps (scapular retraction). Calves are not meaningfully loaded in a squat-and-pull on a ski erg; no EMG or biomechanics source supports calf as a secondary for this movement. Posterior Deltoid, Hamstrings, abs, and Lower Back secondaries retained."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_triceps_extension_pull",
+  "change": "Added 'Lats->Latissimus Dorsi' as secondary. Rationale: same as the reverse variant — lats stabilise the shoulder joint and assist cable tension during ski erg triceps extensions; consistently listed as a ski erg contributor across multiple sources."
+ }
+]

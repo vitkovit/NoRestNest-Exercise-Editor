@@ -1,0 +1,22 @@
+[
+ {
+  "id": "ski_ergometer_cross_country_ski_flyes",
+  "change": "No change. Chest fly on ski erg: both pec heads primary at neutral arm height is correct. Anterior Deltoids + Biceps Brachii + abs as stabilizers confirmed. Category Resistance/machine/weighted reps are all correct."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_jump_squat_pull",
+  "change": "Removed 'Anterior Deltoids' from primary muscles. EMG research on double-pole/ski erg pull confirms the pull phase is driven by latissimus dorsi, teres major, and triceps brachii — NOT the anterior deltoid (which is active in the push/recovery phase, not the pull). Added 'Triceps' (Triceps Brachii) to secondary — confirmed by cross-country ski erg EMG studies showing high triceps activity during the pull. Added 'Lower Back' (Erector Spinae) to secondary — the explosive hinge-and-squat requires erector spinae stabilization."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_kneeling_reverse_fly_pull",
+  "change": "Added 'Lower Traps' to the mid back primary group. EMG research shows lower trapezius is significantly activated during scapular retraction (51% MVIC), alongside rhomboids and upper traps. The original data only listed Rhomboids and Upper Traps but omitted Lower Traps, which is a meaningful prime mover in reverse fly scapular retraction."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_pullover_pull",
+  "change": "No change. Straight-arm pullover/pulldown on ski erg: Latissimus Dorsi primary confirmed. Triceps Brachii (long head crosses shoulder joint, engaged in straight-arm extension), Posterior Deltoid, Erector Spinae, and abs as secondaries all confirmed by straight-arm pulldown EMG research."
+ },
+ {
+  "id": "ski_ergometer_cross_country_ski_reverse_fly_pull",
+  "change": "Added 'Lower Traps' to the mid back primary group (same rationale as kneeling variant: lower trapezius is a significant prime mover in scapular retraction during reverse fly, confirmed by EMG studies). Standing variant already correctly included Lower Back (Erector Spinae) as secondary, which is appropriate versus the kneeling variant."
+ }
+]

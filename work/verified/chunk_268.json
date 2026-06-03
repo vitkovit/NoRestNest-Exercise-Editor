@@ -1,0 +1,205 @@
+[
+ {
+  "id": "kettlebell_reverse_lunge",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Hold a kettlebell in each hand at your sides, feet hip-width apart.\n2. Step one foot back about 60 cm and lower until both knees bend to roughly 90 degrees.\n3. Keep the front shin vertical and torso upright.\n4. Drive through the front heel to return to standing.\n5. Alternate legs each rep.\n6. Repeat.",
+  "tips": "1. Keep your weight on the front heel to load the glutes.\n2. Lower under control rather than dropping the back knee.\n3. Brace your core to stay balanced.\n4. Keep the kettlebells still at your sides.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Lateralis",
+     "Vastus Medialis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus",
+     "Gluteus Medius"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_row",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Place a kettlebell on the floor beside a bench.\n2. Rest one knee and hand on the bench, hinge so your back is flat and roughly parallel to the floor.\n3. Grip the kettlebell with the free hand, arm hanging straight down.\n4. Pull the kettlebell to your hip, driving the elbow back and squeezing the shoulder blade.\n5. Lower under control to full stretch.\n6. Repeat, then switch sides.",
+  "tips": "1. Keep your back flat and core braced throughout.\n2. Lead with the elbow, not the hand.\n3. Squeeze the shoulder blade at the top.\n4. Do not twist the torso to lift heavier.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_seated_calf_raise",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Sit on a bench with feet flat and the balls of your feet on a raised plate or block.\n2. Rest a kettlebell on top of your knees, holding it in place.\n3. Lower your heels below the toes to stretch the calves.\n4. Press through the balls of your feet to lift the heels as high as possible.\n5. Pause briefly at the top.\n6. Repeat.",
+  "tips": "1. Use a full range, dropping the heels low for a deep stretch.\n2. Pause and squeeze at the top of each rep.\n3. Keep the movement slow and controlled.\n4. Pad the knees if the kettlebell digs in.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "kettlebell_shoulder_extension",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand holding a kettlebell in one hand, arm hanging at your side.\n2. Keep the arm straight and torso upright.\n3. Move the arm backward behind your body, leading with the kettlebell.\n4. Pause at the end of the range.\n5. Return the arm slowly to your side.\n6. Repeat, then switch sides.",
+  "tips": "1. Keep the elbow straight and arm controlled.\n2. Avoid arching the lower back to swing the weight.\n3. Move only at the shoulder.\n4. Use a light load to keep form clean.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "kettlebell_shrug",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "kettlebell",
+  "trackingMode": "",
+  "instructions": "1. Stand upright holding a kettlebell in each hand at your sides.\n2. Keep your arms straight and core braced.\n3. Lift your shoulders straight up toward your ears.\n4. Pause and squeeze at the top.\n5. Lower the shoulders slowly to full stretch.\n6. Repeat.",
+  "tips": "1. Move only the shoulders, not the arms.\n2. Do not roll the shoulders; lift straight up.\n3. Pause at the top for a strong contraction.\n4. Keep the chin level and neck relaxed.",
+  "primary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ }
+]

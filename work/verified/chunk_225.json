@@ -1,0 +1,207 @@
+[
+ {
+  "id": "ab_wheel_all_the_way_out",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on a mat and hold the ab wheel with both hands on the floor in front of you.\n2. Keep your arms straight and your back flat.\n3. Roll the wheel forward until your body forms a straight line, keeping your core braced.\n4. Pull the wheel back to the start using your core.\n5. Repeat.",
+  "tips": "1. Keep the core braced to protect the lower back.\n2. Move slowly and avoid using momentum.\n3. Do not let the lower back sag at full extension.\n4. Exhale as you roll out, inhale as you return.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ab_wheel_halfway_out",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on a mat and hold the ab wheel with both hands on the floor in front of you.\n2. Keep your arms straight and your back flat.\n3. Roll the wheel forward halfway, keeping your core braced.\n4. Pull the wheel back to the start using your core.\n5. Repeat.",
+  "tips": "1. Keep the core braced to protect the lower back.\n2. Move slowly and avoid using momentum.\n3. Stop before the lower back sags.\n4. Exhale as you roll out, inhale as you return.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ab_wheel_left_out",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Kneel on a mat and hold the ab wheel with both hands on the floor in front of you.\n2. Keep your arms straight and your back flat.\n3. Roll the wheel forward and to the left, keeping your core braced.\n4. Pull the wheel back to the start using your core.\n5. Repeat.",
+  "tips": "1. Roll out only as far as you can control to spare the lower back.\n2. Keep the obliques tight to resist twisting.\n3. Move slowly and avoid momentum.\n4. Exhale as you roll out, inhale as you return.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ab_wheel_plank",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel on a mat and hold the ab wheel with both hands on the floor in front of you.\n2. Roll the wheel forward until your body forms a straight line from head to knees.\n3. Hold this position with the core braced and the body stable.\n4. Pull the wheel back to the start.\n5. Repeat.",
+  "tips": "1. Keep the spine neutral and do not let the lower back sag.\n2. Brace the whole core to hold the position.\n3. Keep the obliques tight to stop the torso twisting.\n4. Breathe steadily during the hold.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ab_wheel_pulses",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with your arms extended overhead, holding the ab wheel with both hands.\n2. Brace your core and lift your upper back slightly off the floor into a small crunch, keeping your arms straight and the wheel overhead.\n3. Pulse up and down in a short range, keeping constant tension on your abs.\n4. Keep your lower back flat and your neck relaxed.\n5. Repeat.",
+  "tips": "1. Keep the range small and controlled to keep tension on the abs.\n2. Brace your core to keep the lower back flat against the floor.\n3. Do not pull on your neck; lift with your abs.\n4. Exhale as you pulse up, inhale as you lower.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ]
+ }
+]

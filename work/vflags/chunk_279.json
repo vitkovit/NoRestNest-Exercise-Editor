@@ -1,0 +1,22 @@
+[
+ {
+  "id": "resistance_band_bent_leg_kickback_kneeling",
+  "change": "No changes. Primary (Gluteus Maximus) and secondary (Gluteus Medius, Hamstrings, Lower Back/Erector Spinae) confirmed by research. Bent-knee position reduces hamstring involvement but they still contribute to hip extension as a secondary mover; retaining them is supported. Erector Spinae stabilization in quadruped confirmed. Category, equipment, and trackingMode are correct."
+ },
+ {
+  "id": "resistance_band_calf_press_sitting_on_chair",
+  "change": "No changes. EMG research confirms seated/bent-knee position places gastrocnemius in active insufficiency, making Soleus the primary mover. Gastrocnemius (Medial + Lateral) as secondary is correct. Category, equipment, and trackingMode are correct."
+ },
+ {
+  "id": "resistance_band_clam",
+  "change": "Added secondary entry: Abductor->Abductor. Research (JOSPT, NASM) confirms that the clamshell/clam exercise engages the tensor fasciae latae (TFL) as a secondary muscle alongside the gluteus medius. TFL maps to the Abductor bucket with the 'Abductor' advance term. Gluteus Medius primary and Gluteus Maximus secondary remain unchanged."
+ },
+ {
+  "id": "resistance_band_cross_body_single_straight_arm_supinated_pulldown",
+  "change": "Added two secondary entries: (1) mid back->[Rhomboids, Lower Traps] — research confirms rhomboids and lower traps assist scapular control/retraction during the pulldown motion; (2) Lats->[Rotator Cuff] — rotator cuff stabilizes the shoulder joint on all pulling movements per classification rules. Existing secondaries (Posterior Deltoid, Triceps Brachii, obliques) retained and confirmed."
+ },
+ {
+  "id": "resistance_band_floor_hyperextension",
+  "change": "Replaced secondary 'shoulders->[Posterior Deltoid]' with 'mid back->[Upper Traps, Rhomboids]' AND added 'shoulders->[Posterior Deltoid]' back, keeping both. More precisely: added mid back entry (Upper Traps, Rhomboids) because lifting/retracting the scapula when raising arms in prone position recruits upper trapezius and rhomboids — confirmed by research (trapezius and rhomboids contribute to back extension and torso stability). Posterior Deltoid retained as it assists shoulder extension (raising arms from floor). Hamstrings and Gluteus Medius secondary unchanged and confirmed."
+ }
+]

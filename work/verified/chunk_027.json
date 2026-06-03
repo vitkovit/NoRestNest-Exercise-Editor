@@ -55,7 +55,7 @@
    { "group": "Hamstrings", "latins": ["Biceps Femoris", "Semitendinosus"] },
    { "group": "mid back", "latins": ["Upper Traps", "Rhomboids"] },
    { "group": "Triceps", "latins": ["Triceps Brachii"] },
-   { "group": "abs", "latins": ["Upper Rectus Abdominis", "LowerRectus Abdominis"] }
+   { "group": "abs", "latins": ["Upper Rectus Abdominis", "Lower Rectus Abdominis"] }
   ]
  },
  {

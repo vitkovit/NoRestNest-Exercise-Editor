@@ -1,0 +1,22 @@
+[
+ {
+  "id": "lunge_front_kick",
+  "change": "Added Calves (Gastrocnemius Lateral, Gastrocnemius Medial) as secondary. The push-off phase of the lunge engages gastrocnemius for plantar flexion and balance stabilization. Soleus omitted as it is more relevant to sustained standing; the dynamic push-off primarily involves gastrocnemius. Hip flexor activation during the kick phase (iliopsoas) has no allowed encoding and cannot be added; Rectus Femoris in Quads captures the knee-extension portion of the kick."
+ },
+ {
+  "id": "lunge_pulses_bodyweight",
+  "change": "Added Calves (Gastrocnemius Lateral, Gastrocnemius Medial) as secondary. Sources confirm calves assist with balance and the pulsing motion engages gastrocnemius isometrically in the rear leg and dynamically in the front leg. Soleus omitted as not dominant in this dynamic pulsing context."
+ },
+ {
+  "id": "lunge_reverse_with_resistance_band",
+  "change": "No change. Quads + Glutes as primary, Hamstrings + Calves (all three: Gastrocnemius Lateral, Gastrocnemius Medial, Soleus) as secondary confirmed by sources. The resistance band adds load but does not change muscle selection. trackingMode '' (weighted reps) correct for banded exercise. Calves with Soleus retained as the band-resisted stance requires more sustained calf engagement."
+ },
+ {
+  "id": "lunge_rotation_left_and_right_bodyweight",
+  "change": "No change. Obliques correctly classified as primary (they are the prime movers of the torso rotation, not merely stabilizers). Quads + Glutes primary, Hamstrings + Abs secondary all confirmed by sources and EMG data on lunge-twist exercises."
+ },
+ {
+  "id": "lunge_to_knee_drive_left_bodyweight",
+  "change": "No change. Quads + Glutes as primary confirmed. Hamstrings (secondary, knee stability) correct. Obliques as secondary correct per unilateral exercise anti-rotation rule. Calves (all three) as secondary appropriate for push-off stabilization."
+ }
+]

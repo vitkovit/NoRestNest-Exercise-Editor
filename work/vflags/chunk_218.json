@@ -1,0 +1,22 @@
+[
+ {
+  "id": "standing_toe_touch",
+  "change": "Promoted oblique to primary (External Obliques + Internal Obliques): the crossover alternating toe touch is driven by trunk rotation, making the obliques the primary rotational movers, not merely stabilizers. Abs (Upper + LowerRectus Abdominis) kept as co-primary (spinal flexion component). Quads->Rectus Femoris kept as co-primary (hip flexion to lift the leg). Removed oblique from secondary. Hamstrings and Anterior Deltoids kept as secondary."
+ },
+ {
+  "id": "standing_y_raise",
+  "change": "Removed Anterior Deltoids from shoulders primary. The Y raise is a diagonal overhead arm elevation emphasizing posterior/lateral deltoid and lower trapezius — anterior deltoid is not a prime mover here. Replaced with Posterior Deltoid + Lateral Deltoids (both engage during the diagonal Y-plane elevation, confirmed by EMG literature on Y-raise exercises). Lower Traps + Rhomboids in mid back kept as primary. Rotator Cuff secondary unchanged."
+ },
+ {
+  "id": "star_crunches",
+  "change": "Promoted oblique to primary (External Obliques + Internal Obliques): sources confirm that the simultaneous arm/leg reach in star crunches heavily engages the obliques as prime movers alongside the rectus abdominis — not merely secondary stabilizers. Quads->Rectus Femoris and Anterior Deltoids kept as secondary (hip flexion for leg lift, arm reach assist)."
+ },
+ {
+  "id": "star_jump",
+  "change": "No changes. Quads (all three), Gluteus Maximus + Medius, and full Calves primary confirmed by EMG research on jumping jack/star jump. Hamstrings, Lateral Deltoids, and Adductors as secondary confirmed. Data was correct."
+ },
+ {
+  "id": "stationary_exercise_bike",
+  "change": "No changes. Quads (all three) + Gluteus Maximus primary, Hamstrings + full Calves secondary confirmed by cycling biomechanics research. Machine category with timed tracking appropriate. Hip flexors and core are minor secondary activators on a seated machine and are unmappable to allowed values without inflation, so correctly omitted."
+ }
+]

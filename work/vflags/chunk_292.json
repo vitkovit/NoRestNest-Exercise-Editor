@@ -1,0 +1,22 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_leg_curl",
+  "change": "No changes. Primary (Hamstrings + glutes) and secondary (Calves, Lower Back, abs) are correct. Calves secondary matches the hamstring-curl rule. Core stabilizers confirmed by research."
+ },
+ {
+  "id": "suspension_trainer_with_grips_mountain_climber",
+  "change": "Added secondary: Lower Back -> Erector Spinae. Research (ExRx, Steel Supplements, Endmondo) confirms erector spinae isometrically stabilizes the spine during the plank hold throughout the movement. All other muscles unchanged."
+ },
+ {
+  "id": "suspension_trainer_with_grips_pike",
+  "change": "Added secondary: Lower Back -> Erector Spinae. Multiple sources (ExRx, ACE Fitness, Anterides) confirm erector spinae isometrically contracts to prevent lumbar rounding at the top of the pike and stabilize the spine in the plank start position. All other muscles unchanged."
+ },
+ {
+  "id": "suspension_trainer_with_grips_pull_through",
+  "change": "No changes. Primary (glutes + hamstrings) and secondary (Lower Back, abs, Posterior Deltoid) are correct for a suspension reverse plank / pull-through movement. Research confirms posterior chain primary with shoulder and core secondary."
+ },
+ {
+  "id": "suspension_trainer_with_grips_pull_up",
+  "change": "Added secondary: Lats -> Rotator Cuff. Per CLAUDE.md classification rules, Rotator Cuff is required as secondary on all pulling movements. EMG research (PMC5548150) confirms no significant differences in posterior deltoid between suspension and traditional pull-ups, and rotator cuff stabilizes the shoulder joint throughout the vertical pull."
+ }
+]

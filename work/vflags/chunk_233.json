@@ -1,0 +1,22 @@
+[
+ {
+  "id": "assault_airbike_sprint_speed",
+  "change": "Added 'chest' (Sternal Head) and 'Lats' (Latissimus Dorsi) to secondary. The airbike push phase actively engages chest and triceps; the pull phase engages lats and biceps. Multiple sources confirm the fan bike is a full-body push-pull exercise. Removed 'abs' from secondary (airbike core engagement is real but minor vs the dominant limb muscles; dropping to keep within 5-slot limit and prioritize confirmed prime movers). Kept shoulders (Anterior + Posterior Deltoid), biceps, triceps. Abs removed to stay within 5-secondary cap while adding chest and lats which are more load-bearing."
+ },
+ {
+  "id": "assisted_bulgarian_split_squat",
+  "change": "Added 'oblique' (External Obliques, Internal Obliques) to secondary. Per CLAUDE.md rules, unilateral exercises add oblique anti-rotation as secondary. The Bulgarian split squat is a unilateral movement confirmed by EMG research to require significant core/oblique stabilization to resist lateral shift and rotation."
+ },
+ {
+  "id": "assisted_close_grip_underhand_chin_up",
+  "change": "No changes. Current data is correct: lats + biceps co-primary (underhand grip makes biceps a co-prime mover), mid back (Lower Traps + Rhomboids), forearms (Wrist Flexors), and Rotator Cuff as secondary — all confirmed by multiple sources."
+ },
+ {
+  "id": "assisted_parallel_close_grip_pull_up",
+  "change": "No changes. Current data is correct: lats + biceps co-primary (neutral parallel grip still heavily recruits biceps), mid back (Lower Traps + Rhomboids), forearms (Wrist Flexors), Rotator Cuff secondary — all confirmed by sources including ExRx.net."
+ },
+ {
+  "id": "assisted_pistol_squats",
+  "change": "Added 'oblique' (External Obliques, Internal Obliques) to secondary. Per CLAUDE.md rules, unilateral exercises require oblique anti-rotation as secondary. Research confirms obliques stabilize side-to-side shifts during pistol squat single-leg stance. Secondary now has 5 entries (hamstrings, calves, abs, oblique, adductors) — within the 5-slot limit."
+ }
+]

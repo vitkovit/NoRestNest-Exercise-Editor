@@ -7,7 +7,7 @@ const BUCKET_ADVANCES = {
   'neck': ['neck'], 'shoulders': ['Anterior Deltoids', 'Lateral Deltoids', 'Posterior Deltoid'],
   'chest': ['Clavicular Head', 'Sternal Head'], 'mid back': ['Upper Traps', 'Rhomboids', 'Lower Traps'],
   'Lats': ['Latissimus Dorsi', 'Rotator Cuff'], 'biceps': ['Biceps Brachii'], 'Triceps': ['Triceps Brachii'],
-  'forearms': ['Wrist Flexors', 'Wrist Extensors'], 'abs': ['Upper Rectus Abdominis', 'LowerRectus Abdominis'],
+  'forearms': ['Wrist Flexors', 'Wrist Extensors'], 'abs': ['Upper Rectus Abdominis', 'Lower Rectus Abdominis'],
   'oblique': ['External Obliques', 'Internal Obliques'], 'Lower Back': ['Erector Spinae'],
   'glutes': ['Gluteus Maximus', 'Gluteus Medius'], 'Quads': ['Rectus Femoris', 'Vastus Medialis', 'Vastus Lateralis'],
   'Abductor': ['Abductor'], 'Adductors': ['Adductors'], 'Hamstrings': ['Biceps Femoris', 'Semitendinosus'],

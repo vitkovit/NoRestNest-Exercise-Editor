@@ -11,12 +11,12 @@ Triceps | forearms | abs | oblique | Lower Back | glutes | Quads | Abductor | Ad
 "latins" MUST come from that bucket's allowed list, copied EXACTLY:
   neck->neck ; shoulders->Anterior Deltoids,Lateral Deltoids,Posterior Deltoid ; chest->Clavicular Head,Sternal Head ;
   mid back->Upper Traps,Rhomboids,Lower Traps ; Lats->Latissimus Dorsi,Rotator Cuff ; biceps->Biceps Brachii ;
-  Triceps->Triceps Brachii ; forearms->Wrist Flexors,Wrist Extensors ; abs->Upper Rectus Abdominis,LowerRectus Abdominis ;
+  Triceps->Triceps Brachii ; forearms->Wrist Flexors,Wrist Extensors ; abs->Upper Rectus Abdominis,Lower Rectus Abdominis ;
   oblique->External Obliques,Internal Obliques ; Lower Back->Erector Spinae ; glutes->Gluteus Maximus,Gluteus Medius ;
   Quads->Rectus Femoris,Vastus Medialis,Vastus Lateralis ; Abductor->Abductor ; Adductors->Adductors ;
   Hamstrings->Biceps Femoris,Semitendinosus ; Calves->Gastrocnemius Lateral,Gastrocnemius Medial,Soleus ;
   Shin->Fibularis,Extensor,Tibialis
-"group" is NEVER a muscle name. Quirks: "LowerRectus Abdominis" no space; "Posterior Deltoid" singular,
+"group" is NEVER a muscle name. Quirks: "Lower Rectus Abdominis" no space; "Posterior Deltoid" singular,
 "Anterior Deltoids"/"Lateral Deltoids" plural. Merge a bucket into ONE entry. Max 5 primary + 5 secondary, max 4 latins each.
 Primary = prime movers; Secondary = meaningful assist/stabilize. Hamstrings (secondary) on squats/lunges;
 Lats->Rotator Cuff + biceps (secondary) on pulls; BOTH obliques when twisting; Calves->Gastrocnemius (secondary) on
@@ -49,9 +49,9 @@ WRITE two files with the Write tool:
 
 Final message: one line, e.g. "chunk ${idx}: N verified, M changed".`
 
-// Resume: chunks 057..316 (000..056 already verified). Idempotent — agents skip any chunk already verified.
-const idxs = Array.from({ length: 260 }, (_, i) => String(57 + i).padStart(3, '0'))
-log(`Verification sweep over ${idxs.length} chunks (resume from 057)`)
+// Resume: 19 missing chunks (295, 299-316). Idempotent — agents skip any chunk already verified.
+const idxs = ['295','299','300','301','302','303','304','305','306','307','308','309','310','311','312','313','314','315','316']
+log(`Verification sweep over ${idxs.length} chunks (final gaps)`)
 const results = await parallel(idxs.map(idx => () => agent(prompt(idx), { label: `verify:${idx}`, phase: 'Verify' })))
 log(`Agents returned: ${results.filter(Boolean).length}/${idxs.length}`)
 return { requested: idxs.length, returned: results.filter(Boolean).length }

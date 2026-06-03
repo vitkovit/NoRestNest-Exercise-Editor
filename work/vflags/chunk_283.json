@@ -1,0 +1,22 @@
+[
+ {
+  "id": "resistance_band_seated_hip_abduction",
+  "change": "No changes. Gluteus Medius as sole primary is correct — research confirms it is the dominant mover in seated hip abduction (TFL/Abductor is secondary in the seated position per biomechanics literature). Secondary entries (Gluteus Maximus, Abductor/TFL) are appropriate."
+ },
+ {
+  "id": "resistance_band_shoulder_adduction",
+  "change": "Added Triceps->Triceps Brachii to secondary. The long head of triceps originates at the infraglenoid tubercle of the scapula and is a confirmed secondary mover in shoulder adduction (assists adduction and extension of the arm). Sources: multiple anatomy and EMG references confirm triceps long head role in shoulder adduction. Anterior Deltoids retained as secondary stabilizer."
+ },
+ {
+  "id": "resistance_band_side_plank_glute_raise",
+  "change": "No changes. Primary Gluteus Medius and secondary obliques (both heads), Gluteus Maximus, and Abductor (TFL) all confirmed correct by research. The combined side plank + hip abduction movement engages these muscles as reflected."
+ },
+ {
+  "id": "resistance_band_squat",
+  "change": "No changes. Primary Quads (all 3) + Glutes (Maximus + Medius) confirmed. EMG research specifically shows increased gluteus medius activation when bands are placed above knees. Secondary Hamstrings, Lower Back (Erector Spinae), and Abductor (TFL) all confirmed correct."
+ },
+ {
+  "id": "resistance_band_squat_jump",
+  "change": "No changes. Primary Quads + Glutes confirmed for plyometric squat jump. Calves (Gastrocnemius Lateral + Medial) correctly included as secondary for jump push-off phase. Hamstrings and Abductor secondary also confirmed."
+ }
+]

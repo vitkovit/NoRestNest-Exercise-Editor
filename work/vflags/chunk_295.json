@@ -1,0 +1,22 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_wide_grip_inverted_row_on_floor",
+  "change": "Reordered primaries: wide-grip rows emphasize posterior deltoid and rhomboids over lats (per EMG/biomechanics research). Removed Latissimus Dorsi from primary; made mid back (Rhomboids, Upper Traps, Lower Traps) and shoulders (Posterior Deltoid) the primary muscles. Moved Latissimus Dorsi + Rotator Cuff to secondary under Lats bucket. Research source: wide grip rows shift emphasis to posterior deltoid and rhomboids rather than lats."
+ },
+ {
+  "id": "tennis_forehand_ground_stroke",
+  "change": "Added Triceps (Triceps Brachii) as secondary muscle. EMG studies confirm high triceps brachii activation during the follow-through phase of the forehand. The original data omitted this muscle. All other muscles confirmed correct."
+ },
+ {
+  "id": "treadmill_jogging",
+  "change": "Corrected category from 'Bodyweight' to 'Resistance'. Equipment is 'machine' (treadmill), which maps to 'Resistance' category per CLAUDE.md rules (machine=Resistance). Muscle data verified and unchanged."
+ },
+ {
+  "id": "treadmill_running",
+  "change": "Corrected category from 'Bodyweight' to 'Resistance'. Equipment is 'machine' (treadmill), which maps to 'Resistance' category per CLAUDE.md rules (machine=Resistance). Muscle data verified and unchanged."
+ },
+ {
+  "id": "treadmill_walk",
+  "change": "Corrected category from 'Bodyweight' to 'Resistance'. Equipment is 'machine' (treadmill), which maps to 'Resistance' category per CLAUDE.md rules (machine=Resistance). Muscle data verified and unchanged."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "jump_rope_double_bounce",
+  "change": "Added Hamstrings (Biceps Femoris, Semitendinosus) as secondary. Research confirms hamstrings are key stabilizers during jump landing phase (eccentric control) and play a role in the stretch-shortening cycle during push-off in jump rope activities. Kept all other muscles unchanged."
+ },
+ {
+  "id": "jump_rope_face_pull",
+  "change": "Added Upper Traps to the mid back secondary entry (now: Upper Traps, Rhomboids, Lower Traps). Research (StrengthLog, MusclesWorked, Steel Supplements) consistently lists upper traps as a secondary muscle in face pulls alongside rhomboids. Lower Traps retained as it assists with scapular depression/upward rotation in this movement."
+ },
+ {
+  "id": "jump_rope_row",
+  "change": "No changes. Current data (Lats + mid back primary; Posterior Deltoid, Biceps, Rotator Cuff secondary) correctly matches inverted/bodyweight row biomechanics confirmed by multiple sources."
+ },
+ {
+  "id": "jumping_lunge",
+  "change": "Added Soleus to secondary Calves entry (was: Gastrocnemius Lateral + Medial only; now also includes Soleus — relevant for ankle stabilization and push-off in the plyometric jump). Added oblique (External Obliques, Internal Obliques) as secondary — this is a unilateral alternating exercise requiring significant anti-rotation core stability per project rules and confirmed by research."
+ },
+ {
+  "id": "jumping_pistol_squat",
+  "change": "Added Adductors (Adductors) as secondary — single-leg squat research consistently identifies adductors as stabilizers for frontal plane balance and alignment under asymmetrical loading. Added oblique (External Obliques, Internal Obliques) as secondary — strictly unilateral exercise with high anti-rotation and anti-lateral-flexion demand per project rules and biomechanics sources."
+ }
+]

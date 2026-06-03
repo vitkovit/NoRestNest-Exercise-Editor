@@ -1,0 +1,194 @@
+[
+ {
+  "id": "side_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your right side with your legs bent and stacked. Place your right arm across your chest and your left hand on the floor in front of you.\n2. Press your left hand into the floor to push your upper body up.\n3. Hold briefly at the top, feeling the triceps and chest contract.\n4. Lower your upper body back down with control.\n5. Finish one side, then switch to your left side. Repeat.",
+  "tips": "1. Exhale as you push up, inhale as you lower.\n2. Plant the supporting hand firmly for stability.\n3. Drive through the triceps, do not use momentum.\n4. Keep your core braced to protect the spine.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "side_to_side_punch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with feet wider than shoulder-width, knees slightly bent. Hold your fists up in a guard position.\n2. Rotate your torso left and punch across your body with your right hand, extending the arm fully.\n3. Return to the guard position.\n4. Rotate your torso right and punch across your body with your left hand.\n5. Keep alternating sides at a steady pace. Repeat.",
+  "tips": "1. Drive each punch from torso rotation, not just the arm.\n2. Keep your legs and hips stable while the torso turns.\n3. Exhale sharply on each punch, inhale as you reset.\n4. Keep the non-punching fist up to guard.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "side_to_side_push_up",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Start in a push-up position with hands slightly wider than shoulder-width, body in a straight line.\n2. Lower your body while leaning toward the right, bringing your chest near your right hand.\n3. Push through both hands back to the start.\n4. Lower again while leaning toward the left, bringing your chest near your left hand.\n5. Keep alternating sides each rep. Repeat.",
+  "tips": "1. Exhale as you push up, inhale as you lower.\n2. Keep your body in one straight line, do not let the hips drop.\n3. Plant both hands firmly for stability.\n4. Brace your core to control the side-to-side shift.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "side_wrist_pull_stretch",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Stand upright with feet shoulder-width apart.\n2. Extend your right arm across your torso at chest height, keeping the forearm parallel to the floor.\n3. Grasp your right hand with your left hand and gently pull the wrist backward.\n4. Hold the stretch and feel it in the right wrist and forearm.\n5. Release slowly, then switch sides. Repeat.",
+  "tips": "1. Pull slowly, never jerk the wrist.\n2. Breathe deeply and steadily through the hold.\n3. Relax into the stretch to let the forearm lengthen.\n4. Stop if you feel sharp pain in the joint.",
+  "primary": [
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors",
+     "Wrist Extensors"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "single_arm_cable_row_left",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Set the cable pulley to a mid position and attach a single handle. Stand facing the machine with feet shoulder-width apart.\n2. Grasp the handle with your left hand, arm extended toward the machine.\n3. Bend your knees slightly, push your hips back, and lean forward a little for balance.\n4. Pull the handle to your torso, driving your elbow back and squeezing your shoulder blade toward your spine.\n5. Extend your arm back to the start under control.\n6. Repeat, then switch to the right arm.",
+  "tips": "1. Exhale as you pull, inhale as you return.\n2. Keep your hips and shoulders square to resist trunk rotation.\n3. Lead with the elbow and squeeze the back, not the arm.\n4. Avoid swinging your torso for momentum.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ }
+]

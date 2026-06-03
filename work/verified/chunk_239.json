@@ -1,0 +1,302 @@
+[
+ {
+  "id": "barbell_clean_grip_front_squat",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Set a barbell across the front of your shoulders with a clean grip, fingers under the bar and elbows pointing forward.\n2. Stand with feet shoulder-width apart, toes turned slightly out.\n3. Brace your core and keep your torso upright.\n4. Push your hips back and bend your knees until your thighs reach parallel or just below.\n5. Drive through your heels to stand back up, keeping your elbows high.\n6. Repeat.",
+  "tips": "1. Keep your elbows high so the bar stays seated on your shoulders.\n2. Keep your torso upright to hold the bar over your midfoot.\n3. Track your knees in line with your toes.\n4. Inhale and brace before each descent, exhale as you stand.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_clean_pull",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a barbell over your midfoot.\n2. Hinge at the hips and bend the knees to grip the bar with an overhand grip.\n3. Set your chest up, flatten your back, and brace your core.\n4. Drive through your heels to lift the bar past your knees.\n5. Explosively extend your hips and knees and shrug your shoulders to pull the bar up your body.\n6. Lower the bar under control and repeat.",
+  "tips": "1. Generate power from your legs and hips, not your arms.\n2. Keep the bar close to your body through the whole pull.\n3. Finish with a full hip extension and strong shrug.\n4. Keep a neutral spine and braced core throughout.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids",
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_coan_deadlift",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet hip-width apart, a barbell over your midfoot.\n2. Hinge at the hips and bend the knees to grip the bar just outside your legs.\n3. Set your chest up, flatten your back, and brace your core.\n4. Push through your heels and drive your hips forward to lift the bar to a standing position.\n5. Lower the bar back to the floor under control, keeping the back flat.\n6. Repeat.",
+  "tips": "1. Keep the bar close to your body the entire lift.\n2. Drive your hips through to lock out, squeezing your glutes.\n3. Keep a neutral spine and braced core to protect your lower back.\n4. Keep your shoulders pulled back and lats tight to hold the bar in.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "barbell_deadlift_high_pull",
+  "sheet": "malefemale",
+  "category": "Free Weights",
+  "equipment": "barbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet wider than shoulder-width, toes turned slightly out, a barbell over your midfoot.\n2. Hinge at the hips and bend the knees to grip the bar with an overhand grip just wider than shoulder-width.\n3. Set your chest up, flatten your back, and brace your core.\n4. Drive through your heels and extend your hips and knees to lift the bar.\n5. As you stand, pull the bar up toward your chin, leading with your elbows.\n6. Lower the bar back to the floor under control and repeat.",
+  "tips": "1. Use leg and hip drive to start the bar, then pull with the upper back.\n2. Keep the bar close to your body throughout.\n3. Lead the high pull with your elbows, keeping them above the bar.\n4. Track your knees over your toes to protect your knees.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids",
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps",
+     "Rhomboids",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "leg_lift_circles",
+  "sheet": "universal",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with legs extended and arms at your sides, palms down.\n2. Lift both legs about 30 cm off the floor, keeping them straight.\n3. Engage your core and press your lower back into the floor.\n4. Draw small circles in the air with both legs moving together.\n5. Complete the circles in one direction, then reverse.\n6. Repeat.",
+  "tips": "1. Keep your lower back pressed to the floor to protect the spine.\n2. Start with small circles and increase size as you get stronger.\n3. Keep the legs straight to maximise hip flexor and core demand.\n4. Move slowly and with control rather than swinging.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Lower Rectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ]
+ }
+]

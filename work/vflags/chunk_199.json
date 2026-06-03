@@ -1,0 +1,22 @@
+[
+ {
+  "id": "resistance_band_lying_bent_knee_hip_abduction",
+  "change": "Corrected primary/secondary split for hip abduction. EMG research confirms Gluteus Medius is the prime mover of hip abduction; moved Gluteus Maximus from primary to secondary (it assists but is not the main driver in pure abduction). Tensor Fasciae Latae (Abductor) retained as secondary — it co-activates in hip abduction but is not primary. Result: primary = glutes [Gluteus Medius]; secondary = glutes [Gluteus Maximus] + Abductor [Abductor]."
+ },
+ {
+  "id": "resistance_band_lying_bent_knee_raise",
+  "change": "Removed incorrect secondary entry Abductor [Abductor]. This exercise is a hip flexion movement (drawing knees to chest against band resistance), not a hip abduction movement — Abductor/TFL is not meaningfully engaged. Retained Quads [Rectus Femoris] as secondary since Rectus Femoris crosses the hip and assists hip flexion during the knee-draw phase. Primary abs entry unchanged."
+ },
+ {
+  "id": "resistance_bands_facepull",
+  "change": "Added Lower Traps to the mid back primary entry. Research and biomechanics sources confirm that the lower trapezius is a key scapular depressor/retractor recruited during face pulls (alongside rhomboids and upper traps). The previous entry omitted Lower Traps from the mid back group. All other entries unchanged."
+ },
+ {
+  "id": "reverse_crunch",
+  "change": "No changes. Primary abs [LowerRectus Abdominis, Upper Rectus Abdominis] and secondary oblique [External Obliques, Internal Obliques] are confirmed correct by EMG research. Category Bodyweight, equipment bodyweight, trackingMode repsOnly all appropriate."
+ },
+ {
+  "id": "reverse_crunch_with_kick_out",
+  "change": "No changes. Primary abs [LowerRectus Abdominis, Upper Rectus Abdominis] confirmed correct. Secondary oblique [External Obliques, Internal Obliques] and Quads [Rectus Femoris] are confirmed — the leg extension phase actively engages the quadriceps (rectus femoris) and the obliques provide anti-rotation stability throughout. All format rules satisfied."
+ }
+]

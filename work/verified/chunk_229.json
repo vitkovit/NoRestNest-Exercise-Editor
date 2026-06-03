@@ -1,0 +1,222 @@
+[
+ {
+  "id": "alternate_leg_raise_from_reverse_plank_position",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Sit with legs extended forward and palms on the floor behind your hips.\n2. Press through your hands and heels to lift your hips into a straight line from shoulders to feet.\n3. Keeping the hips lifted, raise one straight leg as high as you can.\n4. Lower it under control, then raise the other leg.\n5. Hold the hips steady the whole time.\n6. Repeat.",
+  "tips": "1. Keep a straight line from head to heels, do not let the hips sag.\n2. Squeeze your glutes to hold the hips up.\n3. Move the legs slowly and with control.\n4. Exhale as you raise each leg.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "alternate_leg_raise_with_head_up",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with arms resting on the floor by your sides.\n2. Lift your head and shoulder blades off the floor and hold them up.\n3. Raise both legs straight up to a 90-degree angle with your torso.\n4. Lower one leg under control until just before it touches the floor.\n5. Raise it back up, then lower the other leg the same way.\n6. Repeat.",
+  "tips": "1. Keep your shoulder blades lifted the entire set to load the upper abs.\n2. Press your lower back into the floor to protect your spine.\n3. Move slowly with no swinging.\n4. Exhale as you lift each leg.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "alternate_lying_floor_leg_raise",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with legs extended straight and arms by your sides.\n2. Press your lower back into the floor.\n3. Raise one straight leg toward the ceiling while the other stays near the floor.\n4. Lower it under control, then raise the other leg.\n5. Keep both legs straight throughout.\n6. Repeat.",
+  "tips": "1. Keep your lower back in contact with the floor to avoid arching.\n2. Move with control, no swinging.\n3. Exhale as you raise each leg.\n4. Keep the resting leg just off the floor to maintain tension.",
+  "primary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Lower Rectus Abdominis",
+     "Upper Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "alternate_oblique_crunch",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Lie on your back with knees bent and feet flat on the floor.\n2. Place your right hand behind your head and your left hand on the floor for support.\n3. Crunch up and twist your torso, bringing your right elbow toward your left knee.\n4. Lower under control to the start.\n5. Switch hands and repeat to the other side.\n6. Repeat.",
+  "tips": "1. Twist using your obliques, do not pull on your neck.\n2. Keep the movement slow and controlled.\n3. Keep your lower back pressed into the floor.\n4. Exhale as you crunch and twist.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "alternate_punching",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Stand with your feet shoulder-width apart and your hands up in a guard near your chin.\n2. Punch forward with your right arm, rotating your torso slightly.\n3. Return your right hand to guard.\n4. Punch forward with your left arm, rotating your torso slightly.\n5. Return to guard and alternate sides.\n6. Repeat.",
+  "tips": "1. Keep your core braced to control torso rotation.\n2. Snap each punch out and return the hand fast to guard.\n3. Keep a slight bend in your knees for stability.\n4. Exhale sharply on each punch.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

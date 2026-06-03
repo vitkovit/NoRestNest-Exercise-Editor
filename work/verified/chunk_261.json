@@ -1,0 +1,214 @@
+[
+ {
+  "id": "hammer_strength_plate_loaded_high_row_both_arms",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the machine with your feet flat and your chest firmly against the pad.\n2. Grasp both handles with a neutral or overhand grip and extend your arms fully.\n3. Pull the handles down and back, driving your elbows toward your hips and squeezing your shoulder blades together.\n4. Pause briefly at the contracted position.\n5. Slowly return the handles to the start under control.\n6. Repeat.",
+  "tips": "1. Keep your chest pressed to the pad and torso still throughout.\n2. Lead with your elbows rather than your hands to target the back.\n3. Squeeze your shoulder blades together at the bottom of each rep.\n4. Exhale as you pull, inhale as you return.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Rhomboids",
+     "Upper Traps",
+     "Lower Traps"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "biceps",
+    "latins": [
+     "Biceps Brachii"
+    ]
+   },
+   {
+    "group": "Lats",
+    "latins": [
+     "Rotator Cuff"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hammer_strength_plate_loaded_combination_iso_lateral_chest_chest_press",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the machine with your back against the pad and feet flat on the floor.\n2. Grasp both handles at chest height with an overhand grip.\n3. Press the handles forward until your arms are nearly extended.\n4. Squeeze your chest at the end of the movement.\n5. Slowly return the handles to the start under control.\n6. Repeat.",
+  "tips": "1. Keep your back and shoulders against the pad throughout.\n2. Drive through your chest rather than your shoulders.\n3. Control the return instead of letting the weight pull you back.\n4. Exhale as you press, inhale as you return.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hammer_strength_plate_loaded_combination_iso_lateral_chest_chest_press_single_arm",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Sit on the machine with your back against the pad and feet flat on the floor.\n2. Grasp one handle at chest height with an overhand grip.\n3. Press that handle forward until your arm is nearly extended.\n4. Squeeze your chest, then slowly return the handle under control.\n5. Complete your reps, then switch arms.\n6. Repeat.",
+  "tips": "1. Keep your back and shoulders against the pad throughout.\n2. Resist twisting your torso toward the working arm.\n3. Drive through your chest rather than your shoulder.\n4. Exhale as you press, inhale as you return.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "hand_stand_hold",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Place your hands on the floor about shoulder-width apart, near a wall if needed.\n2. Kick your legs up overhead until your body is inverted and vertical.\n3. Stack your hips and feet over your shoulders and hands.\n4. Brace your core and press the floor away to keep your shoulders active.\n5. Hold the balanced position for the set time.\n6. Repeat.",
+  "tips": "1. Push the floor away to keep your shoulders engaged and elevated.\n2. Squeeze your core and glutes to stop your back from arching.\n3. Spread your fingers and grip the floor to adjust balance.\n4. Breathe steadily rather than holding your breath.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids",
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   },
+   {
+    "group": "forearms",
+    "latins": [
+     "Wrist Flexors"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "happy_baby",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "bodyweight",
+  "trackingMode": "timed",
+  "instructions": "1. Lie on your back and draw both knees toward your chest.\n2. Open your knees slightly wider than your torso.\n3. Reach up and grasp the outside of each foot.\n4. Gently pull your feet down so your knees move toward the floor beside your ribs.\n5. Keep your lower back relaxed on the floor and hold for the set time.\n6. Repeat.",
+  "tips": "1. Keep your head and shoulders relaxed on the floor.\n2. Let the stretch deepen gently rather than forcing the knees down.\n3. Keep your ankles stacked over your knees.\n4. Breathe slowly and evenly throughout the hold.",
+  "primary": [
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ }
+]

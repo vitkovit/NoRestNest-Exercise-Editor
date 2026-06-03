@@ -20,7 +20,7 @@ MUSCLE FORMAT — READ CAREFULLY. Each muscle entry has TWO fields:
   biceps        ->  Biceps Brachii
   Triceps       ->  Triceps Brachii
   forearms      ->  Wrist Flexors , Wrist Extensors
-  abs           ->  Upper Rectus Abdominis , LowerRectus Abdominis
+  abs           ->  Upper Rectus Abdominis , Lower Rectus Abdominis
   oblique       ->  External Obliques , Internal Obliques
   Lower Back    ->  Erector Spinae
   glutes        ->  Gluteus Maximus , Gluteus Medius
@@ -33,7 +33,7 @@ MUSCLE FORMAT — READ CAREFULLY. Each muscle entry has TWO fields:
 
 "group" is NEVER a muscle name; muscle names go ONLY in "latins". Do NOT use any other word in "latins"
 (NOT "Pectoralis Major", "Brachialis", "Upper Trapezius", or "Anterior Deltoid" singular).
-Quirks: "LowerRectus Abdominis" has NO space; "Posterior Deltoid" singular, "Anterior Deltoids"/"Lateral Deltoids" plural.
+Quirks: "Posterior Deltoid" singular, "Anterior Deltoids"/"Lateral Deltoids" plural.
   RIGHT: {"group":"shoulders","latins":["Anterior Deltoids","Lateral Deltoids"]}
   RIGHT: {"group":"chest","latins":["Sternal Head","Clavicular Head"]}
   WRONG: {"group":"Anterior Deltoids","latins":["Anterior Deltoid"]}

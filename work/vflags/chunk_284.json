@@ -1,0 +1,22 @@
+[
+ {
+  "id": "resistance_band_standing_balance_hip_abduction",
+  "change": "trackingMode changed from '' to 'repsOnly' (bodyweight-style unweighted rep exercise). Added glutes->Gluteus Maximus as secondary: the standing leg glute max stabilizes and the swinging leg glute max assists abduction via the IT band; confirmed by research on banded hip abduction activation patterns. Original secondary entries (Abductor/TFL and obliques) retained as correct."
+ },
+ {
+  "id": "resistance_band_standing_external_rotation",
+  "change": "trackingMode changed from '' to 'repsOnly' (unweighted rehab/isolation rep exercise using a light band). Primary (Rotator Cuff) and secondary (Posterior Deltoid) confirmed correct by JOSPT EMG study (infraspinatus + teres minor are prime movers; posterior deltoid is meaningful secondary especially at higher loads). No muscle changes."
+ },
+ {
+  "id": "resistance_band_standing_hip_abduction",
+  "change": "trackingMode changed from '' to 'repsOnly' (unweighted rep exercise). Added glutes->Gluteus Maximus as secondary: research (Looped Elastic Resistance during Squats, PMC9396979) confirmed 68% increased gluteus maximus activity in banded squat-position hip abduction. Added Vastus Medialis to Quads secondary: all three quad heads activate during the half-squat hold (Rectus Femoris and Vastus Lateralis were already listed; Vastus Medialis completes the set per standard squat biomechanics)."
+ },
+ {
+  "id": "resistance_band_standing_single_arm_shoulder_extension",
+  "change": "trackingMode changed from '' to 'repsOnly' (unweighted rep exercise). Muscle data confirmed correct: Latissimus Dorsi + Posterior Deltoid as primary movers of shoulder extension; Triceps Brachii (long head) and mid back scapular stabilizers (Rhomboids + Lower Traps) as secondary. Teres Major is a co-prime mover but has no allowed latin term, correctly omitted."
+ },
+ {
+  "id": "resistance_band_standing_single_arm_shoulder_flexion",
+  "change": "trackingMode changed from '' to 'repsOnly' (unweighted rep exercise). Added oblique->External Obliques + Internal Obliques as secondary: this is a unilateral standing exercise; research confirms obliques engage to resist lateral torso rotation during single-arm front raises. Primary (Anterior Deltoids) and existing secondaries (Clavicular Head, Biceps Brachii) confirmed correct."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "alternate_sprinter_lunge",
+  "change": "Reordered primary groups: Gluteus Maximus promoted to first primary (research confirms it is the target muscle per EMG/lunge literature), Quads remain as co-primary. Added Soleus to secondary Calves (research confirms calves including soleus assist in lunge push-off). Added Lower Back (Erector Spinae) as secondary stabilizer for the forward-lean sprinter position. Gluteus Medius secondary retained."
+ },
+ {
+  "id": "alternate_toe_tap_leg_lift",
+  "change": "Removed incorrect primary 'Abductor'/'Abductor' entry. The exercise involves hip flexion (knee-to-chest), not hip abduction; the Abductor bucket maps to the tensor fasciae latae/hip abductors, not the iliopsoas. The hip flexor here is best represented by Quads->Rectus Femoris (which is a powerful hip flexor and has an allowed mapping). Abs retained as primary. Obliques retained as secondary. Quads->Rectus Femoris added as primary (hip flexion drive)."
+ },
+ {
+  "id": "alternating_biceps_curl_seated_dumbbells",
+  "change": "No changes. Biceps Brachii primary and Wrist Flexors secondary confirmed correct. Brachialis and brachioradialis are synergists but have no allowed bucket mapping in this system, so omitted per rules."
+ },
+ {
+  "id": "alternating_hamstring_curl_with_punch",
+  "change": "Demoted shoulders (Anterior Deltoids) and Triceps from primary to secondary. The hamstring curl is the defining movement and the primary driver; the punching motion is rhythmic/coordinative and not a resistance-loaded primary effort. Hamstrings are the sole primary. Glutes, Calves, shoulders, Triceps, and obliques retained as secondary stabilizers/assistors."
+ },
+ {
+  "id": "alternating_leg_downward_dog",
+  "change": "Added Lats (Latissimus Dorsi) as secondary — in downward dog the lats actively depress and stabilize the shoulder blades (well-documented in yoga anatomy literature). All other groups unchanged and confirmed correct by research."
+ }
+]

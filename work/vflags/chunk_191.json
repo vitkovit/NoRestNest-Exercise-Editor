@@ -1,0 +1,22 @@
+[
+ {
+  "id": "overhead_triceps_stretch_side_angle",
+  "change": "No change. Primary Triceps Brachii correct (long head maximally stretched with arm overhead and elbow flexed). Secondary Latissimus Dorsi correct (lats stretched when arm is raised overhead). Secondary Anterior Deltoids correct (shoulder held in flexion/overhead position). Category Bodyweight, equipment bodyweight, trackingMode timed all correct for a static stretch hold."
+ },
+ {
+  "id": "palm_up_palm_down_rotation",
+  "change": "CORRECTED primary and secondary. Original had all three deltoid heads as primary (Lateral, Anterior, Posterior Deltoid) and mid back (Upper Traps, Rhomboids) + Rotator Cuff as secondary — this was wrong. The movement is forearm pronation/supination, not a shoulder movement. Primary changed to: forearms (Wrist Flexors, Wrist Extensors) as forearm rotator stabilizers, and biceps (Biceps Brachii) which is a primary supinator of the forearm. Secondary changed to: shoulders (Lateral Deltoids) only — the lateral deltoids isometrically hold the arms extended to the sides throughout the movement. Upper Traps and Rhomboids removed as they are not meaningfully engaged in this light isometric hold. Rotator Cuff removed as it is not a primary stabilizer here."
+ },
+ {
+  "id": "pec_deck_fly_machine",
+  "change": "No change. Primary chest (Sternal Head + Clavicular Head) is correct — pec deck is a horizontal adduction at roughly flat angle, engaging both heads with sternal dominant. Secondary Anterior Deltoids is correct per EMG research confirming consistent anterior deltoid involvement. Category Resistance, equipment machine, trackingMode empty (weighted reps) all correct."
+ },
+ {
+  "id": "pike_push_up",
+  "change": "CORRECTED primary shoulders: added Lateral Deltoids alongside Anterior Deltoids. Multiple sources confirm the lateral deltoid plays a meaningful stabilizing and assistive role in pike push-ups (all three deltoid heads involved, anterior most active but lateral meaningfully assists). Everything else retained: Triceps Brachii co-primary, secondary chest Clavicular Head (some upper chest involvement due to shoulder flexion angle), secondary Upper Traps (scapular stabilization), secondary abs (core stabilization in pike position). Category Bodyweight, equipment bodyweight, trackingMode repsOnly all correct."
+ },
+ {
+  "id": "plank_cross_knee_drive",
+  "change": "No change. Primary abs (Upper + LowerRectus Abdominis) and oblique (External + Internal Obliques) correct — cross knee drive is primarily an oblique and ab exercise. Secondary Quads (Rectus Femoris) correct as hip flexor driving the knee across. Secondary shoulders (Anterior Deltoids) correct for plank stabilization. Secondary glutes (Gluteus Maximus) correct for stabilization of the planted leg. Category Bodyweight, equipment bodyweight, trackingMode repsOnly all correct."
+ }
+]

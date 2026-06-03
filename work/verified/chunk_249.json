@@ -1,0 +1,196 @@
+[
+ {
+  "id": "cable_cross_pushdown",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Set two cable pulleys to the high position and grab the opposite handle in each hand so the cables cross in front of you.\n2. Stand tall in the centre with elbows tucked at your sides and forearms angled up.\n3. Keep your upper arms still and extend both elbows, pushing the handles down and out until your arms are straight.\n4. Squeeze the triceps briefly at the bottom.\n5. Control the handles back up to the start.\n6. Repeat.",
+  "tips": "1. Keep your upper arms pinned to your sides so only the elbows move.\n2. Drive the squeeze at the bottom of each rep.\n3. Use a light weight and let the crossed cables track smoothly.\n4. Keep your torso upright and core braced.",
+  "primary": [
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": []
+ },
+ {
+  "id": "cable_goblet_squat",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Set a cable pulley low and hold the attachment at chest level with both hands, elbows pointing down.\n2. Stand facing the machine with feet shoulder-width apart and core braced.\n3. Bend your hips and knees to descend until your thighs are at least parallel to the floor.\n4. Drive through your heels to stand back up, keeping the attachment at your chest.\n5. Repeat.",
+  "tips": "1. Keep your elbows tucked down to hold the attachment steady.\n2. Brace your core to protect your lower back.\n3. Track your knees in line with your toes.\n4. Keep your chest up and back flat throughout.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Adductors",
+    "latins": [
+     "Adductors"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_hamstring_curl",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach an ankle strap to a low pulley and secure it around your working ankle.\n2. Stand facing the machine and hold the frame for balance, with a slight bend in your standing leg.\n3. Keep your upper body still and curl your working foot up toward your glutes by bending the knee.\n4. Squeeze the hamstring briefly at the top.\n5. Lower your foot back down under control, then switch legs after the set.\n6. Repeat.",
+  "tips": "1. Squeeze the hamstring hard at the top of each curl.\n2. Keep the rest of your body still and avoid swinging.\n3. Hold the frame and keep a soft bend in the standing leg for balance.\n4. Use a weight you can control through the full range.",
+  "primary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_individual_glute_kickbacks",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach an ankle strap to a low pulley and secure it around one ankle.\n2. Stand facing the machine, hold the frame, and lean your torso slightly forward.\n3. Shift your weight onto the supporting leg with a soft knee bend.\n4. Extend the strapped leg straight back, squeezing the glute at the top without arching your lower back.\n5. Return the leg under control without resting the stack, then switch sides after the set.\n6. Repeat.",
+  "tips": "1. Move slowly and controlled to keep tension on the glute.\n2. Do not swing the leg or use momentum.\n3. Squeeze the glute hard at the top of each rep.\n4. Keep your core braced to protect your lower back.",
+  "primary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Medius"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "cable_lat_prayer",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Attach a straight bar to a high pulley and kneel facing the machine.\n2. Grip the bar overhand slightly wider than shoulders and lean forward at the hips with arms extended overhead and a slight elbow bend.\n3. Brace your core and keep your elbows nearly straight.\n4. Drive the bar down in an arc toward your thighs using your lats.\n5. Squeeze your lats at the bottom, then return the bar overhead under control.\n6. Repeat.",
+  "tips": "1. Initiate the pull with your shoulders, not your elbows.\n2. Keep a fixed slight elbow bend throughout the movement.\n3. Squeeze the lats at the bottom of each rep.\n4. Brace your core to keep your torso stable.",
+  "primary": [
+   {
+    "group": "Lats",
+    "latins": [
+     "Latissimus Dorsi"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Posterior Deltoid"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ]
+ }
+]

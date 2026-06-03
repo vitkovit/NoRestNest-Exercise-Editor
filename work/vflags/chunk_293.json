@@ -1,0 +1,22 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_push_up_to_side_plank",
+  "change": "No changes. Primary chest (both heads) + oblique (both) is correct for a push-up combined with a side plank rotation. Secondary shoulders, Triceps, abs, and Rhomboids are all well-supported by research and TRX instability literature. Category Bodyweight, equipment other, trackingMode repsOnly all correct."
+ },
+ {
+  "id": "suspension_trainer_with_grips_rear_delt_row",
+  "change": "No changes. EMG research confirms posterior deltoid as primary with rhomboids and upper traps co-primary for scapular retraction. Lats (Latissimus Dorsi + Rotator Cuff), biceps, and forearms secondary are all well-supported. Category Bodyweight, equipment other, trackingMode repsOnly all correct."
+ },
+ {
+  "id": "suspension_trainer_with_grips_reverse_ab_rollout",
+  "change": "No changes. Abs primary is correct (rectus abdominis dominant in the knee-tuck movement). Obliques, anterior deltoids (shoulder stabilization in plank), and Quads (Rectus Femoris as hip flexor contributor) secondary are all reasonable and supported. Category Bodyweight, equipment other, trackingMode repsOnly all correct."
+ },
+ {
+  "id": "suspension_trainer_with_grips_reverse_push_up",
+  "change": "Added forearms -> Wrist Flexors as a 5th secondary entry. The underhand (supinated) grip of this exercise places meaningful isometric demand on the wrist flexors throughout the pulling movement. The original 4 secondary entries (biceps, posterior deltoid, Rotator Cuff, abs) were all correct and retained. Category Bodyweight, equipment other, trackingMode repsOnly all correct."
+ },
+ {
+  "id": "suspension_trainer_with_grips_single_arm_rear_delt_row",
+  "change": "No changes. Primary muscles match the bilateral rear delt row. The oblique secondary (both External and Internal Obliques) is correctly applied per the unilateral rule — single-arm pulling requires significant anti-rotational core engagement. Category Bodyweight, equipment other, trackingMode repsOnly all correct."
+ }
+]

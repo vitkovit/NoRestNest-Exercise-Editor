@@ -1,0 +1,22 @@
+[
+ {
+  "id": "suspension_trainer_with_grips_high_row",
+  "change": "Changed primary mid back latins from [Rhomboids, Upper Traps] to [Rhomboids, Lower Traps]. The TRX high row with elbows flared high (face-pull style) promotes scapular retraction and depression, engaging middle and lower trapezius fibers — not the upper traps (which elevate the scapula). Multiple sources (roypumphrey.com, CyVigor) confirm mid/lower traps as the target, not upper traps."
+ },
+ {
+  "id": "suspension_trainer_with_grips_hip_bridge",
+  "change": "Promoted Hamstrings from secondary to co-primary. For a hip bridge with feet in suspension straps, the hamstrings (Biceps Femoris, Semitendinosus) are prime movers alongside the glutes — they perform knee flexion isometrically and assist hip extension under load. Multiple sources list hamstrings as a primary muscle for this variant. Removed abs from secondary (abs serve as stabilizers, not meaningful secondary movers in a hip bridge). Lower Back retained as secondary."
+ },
+ {
+  "id": "suspension_trainer_with_grips_inverted_row",
+  "change": "Added Rotator Cuff (Lats bucket) to secondary muscles. Standard rule for all pulling exercises: Rotator Cuff is a secondary stabilizer. It was missing from the original data. The secondary count is now 5 (Posterior Deltoid, Rotator Cuff, Biceps Brachii, Wrist Flexors, abs) — within the 5-entry limit."
+ },
+ {
+  "id": "suspension_trainer_with_grips_inverted_row_arm_twist",
+  "change": "Added Rotator Cuff (Lats bucket) and oblique (External Obliques, Internal Obliques) to secondary muscles. The arm twist variation explicitly engages the obliques for trunk rotation resistance. Rotator Cuff is standard secondary for all pulling movements. Removed abs from secondary to stay within the 5-entry secondary limit — the oblique entry (which covers rotational core) better represents the unique demand of this twist variant."
+ },
+ {
+  "id": "suspension_trainer_with_grips_knee_tuck_row",
+  "change": "Added Rotator Cuff (Lats bucket) to secondary muscles. Standard rule for all pulling exercises: Rotator Cuff is a meaningful shoulder stabilizer. Secondary count is now 5 (Posterior Deltoid, Rotator Cuff, Biceps Brachii, Wrist Flexors, abs) — within the 5-entry limit."
+ }
+]

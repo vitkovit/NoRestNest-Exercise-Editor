@@ -1,0 +1,168 @@
+[
+ {
+  "id": "standing_cable_oblique_twist",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "cable",
+  "trackingMode": "",
+  "instructions": "1. Stand sideways to a cable machine with feet shoulder-width apart, handle set at mid height.\n2. Grasp the handle with both hands and bend your arms slightly, keeping them close to your torso.\n3. Brace your core and twist your torso away from the machine, pulling the handle across your body.\n4. Rotate until your shoulders face away from the machine.\n5. Return slowly under control, then switch sides.\n6. Repeat.",
+  "tips": "1. Drive the rotation from your obliques, not your arms.\n2. Keep your hips facing forward so the twist comes from the torso.\n3. Keep your feet planted firmly throughout.\n4. Exhale as you twist away from the machine.",
+  "primary": [
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "standing_calf_raise_resistance_band",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, looping a resistance band under your forefeet.\n2. Hold the band handles by your sides with slight tension.\n3. Push through your forefeet and lift your heels as high as possible.\n4. Squeeze your calves at the top.\n5. Lower your heels slowly under control.\n6. Repeat.",
+  "tips": "1. Drive through the balls of your feet, not the toes.\n2. Pause at the top to maximize the contraction.\n3. Keep your knees straight to emphasize the gastrocnemius.\n4. Control the descent for full range of motion.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "standing_calf_raises_smith_machine",
+  "sheet": "universal",
+  "category": "Resistance",
+  "equipment": "machine",
+  "trackingMode": "",
+  "instructions": "1. Set the Smith machine bar across your upper back and unrack it.\n2. Place your forefeet on a low platform with heels hanging off, feet shoulder-width apart.\n3. Push through your forefeet and raise your heels as high as possible.\n4. Squeeze your calves at the top.\n5. Lower your heels slowly below the platform for a full stretch.\n6. Repeat.",
+  "tips": "1. Drive through the balls of your feet, not the toes.\n2. Keep your knees straight to emphasize the gastrocnemius.\n3. Pause briefly at the top and bottom for full range.\n4. The fixed bar path lets you focus purely on the calves.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Soleus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "standing_dumbbell_alternate_shoulder_press",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, holding a dumbbell in each hand at shoulder height, palms facing forward.\n2. Brace your core and press the right dumbbell overhead until your arm is fully extended.\n3. Lower the right dumbbell back to shoulder height under control.\n4. Press the left dumbbell overhead until your arm is fully extended.\n5. Lower it back to shoulder height, alternating arms.\n6. Repeat.",
+  "tips": "1. Brace your core to resist twisting toward the working arm.\n2. Keep your ribs down and avoid arching your lower back.\n3. Exhale as you press up, inhale as you lower.\n4. Keep your shoulders down rather than shrugging.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   },
+   {
+    "group": "oblique",
+    "latins": [
+     "External Obliques",
+     "Internal Obliques"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "standing_front_raise_dumbbell",
+  "sheet": "universal",
+  "category": "Free Weights",
+  "equipment": "dumbbell",
+  "trackingMode": "",
+  "instructions": "1. Stand with feet shoulder-width apart, a dumbbell in each hand resting in front of your thighs, palms facing back.\n2. Brace your core and keep a slight bend in your elbows.\n3. Raise both dumbbells straight in front of you until your arms are parallel to the floor.\n4. Pause briefly at the top.\n5. Lower the dumbbells back to the start with control.\n6. Repeat.",
+  "tips": "1. Keep your torso still and avoid swinging or using momentum.\n2. Exhale as you lift, inhale as you lower.\n3. Keep your wrists neutral and shoulders down, away from your ears.\n4. Use a weight you can control through a full range of motion.",
+  "primary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Lateral Deltoids"
+    ]
+   },
+   {
+    "group": "chest",
+    "latins": [
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "mid back",
+    "latins": [
+     "Upper Traps"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

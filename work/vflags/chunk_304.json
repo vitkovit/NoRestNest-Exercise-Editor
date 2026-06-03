@@ -1,0 +1,22 @@
+[
+ {
+  "id": "lateral_box_jump",
+  "change": "Added Soleus to primary Calves latins (Gastrocnemius Lateral, Gastrocnemius Medial, Soleus). Soleus is significantly active during explosive push-off in jumping movements alongside the gastrocnemius heads. All other primary/secondary muscles confirmed correct: Quads, Gluteus Maximus+Medius (lateral stability), Hamstrings (landing co-contraction), Abductor (lateral power), abs (core stabilization)."
+ },
+ {
+  "id": "lawnmower_row",
+  "change": "Added two secondary entries: Lats->Rotator Cuff (standard for all rowing/pulling movements — shoulder stabilization during heavy unilateral pulls) and Lower Back->Erector Spinae (hinge position isometric hold). The lawnmower row is performed in a hip-hinge stance, so erector spinae meaningfully stabilizes the lumbar spine. All other muscles confirmed correct. The oblique secondary (both External + Internal) is appropriate for the rotation component of this unilateral exercise."
+ },
+ {
+  "id": "laying_lateral_raise",
+  "change": "No changes. Primary Lateral Deltoids confirmed as the sole prime mover; Upper Traps as secondary confirmed by EMG research. The side-lying position isolates the lateral deltoid more purely than standing, removing momentum and gravity compensation. No inflation needed."
+ },
+ {
+  "id": "long_lever_plank",
+  "change": "No changes. Primary abs (both heads) confirmed by Bret Contreras EMG data showing 100%+ MVC for rectus abdominis in long lever posterior tilt planks. Secondary obliques, Lower Back, Anterior Deltoids, and Gluteus Maximus all confirmed correct by research."
+ },
+ {
+  "id": "lord_of_the_dance",
+  "change": "No changes. This yoga balance pose (Natarajasana) correctly maps: standing leg drives through Quads + Gluteus Medius (balance/hip abduction); Gluteus Maximus for hip extension of lifted leg; Hamstrings on lifted leg work to raise the leg; Erector Spinae for spinal extension/backbend; abs for core stability; Anterior Deltoids for the forward arm reach. All muscle assignments are biomechanically sound and within allowed format."
+ }
+]

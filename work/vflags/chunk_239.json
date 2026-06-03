@@ -1,0 +1,22 @@
+[
+ {
+  "id": "barbell_clean_grip_front_squat",
+  "change": "Moved Lower Back (Erector Spinae) from primary to secondary. In a front squat the upright torso position means Erector Spinae acts as a stabilizer rather than a prime mover; Quads and Glutes are the true drivers. EMG research shows no significant difference in erector spinae activation vs back squat, but the quad-dominant nature of the front squat makes it inappropriate as primary. Hamstrings (secondary) retained per squat protocol."
+ },
+ {
+  "id": "barbell_clean_pull",
+  "change": "Added Lower Traps to the mid back primary entry (was only Upper Traps + Rhomboids). The full trapezius including lower fibers is activated during the shrug phase of the clean pull. No other changes."
+ },
+ {
+  "id": "barbell_coan_deadlift",
+  "change": "Added Adductors as a secondary entry. The Coan deadlift uses a semi-sumo (wider) stance which distinctively engages adductors for hip stability and force production — confirmed by sumo/semi-sumo deadlift biomechanics research. Also added Lower Traps to the mid back secondary entry (was only Upper Traps + Rhomboids) since all trap fibers contribute to scapular stability in the deadlift lockout."
+ },
+ {
+  "id": "barbell_deadlift_high_pull",
+  "change": "Added Anterior Deltoids to the shoulders primary entry. The high pull component involves forward arm drive / elbow abduction which recruits anterior deltoids alongside lateral and posterior deltoids. Also added Lower Traps to mid back primary entry (was only Upper Traps + Rhomboids) since lower traps are activated during the full shrug and pull phases of this explosive movement."
+ },
+ {
+  "id": "leg_lift_circles",
+  "change": "No changes. Muscle encoding, category, equipment, and trackingMode all verified correct. Lower abs primary with Rectus Femoris (hip flexor quad) primary is appropriate; obliques, adductors, and abductors as secondary match the circular leg motion mechanics."
+ }
+]

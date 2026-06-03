@@ -1,0 +1,22 @@
+[
+ {
+  "id": "single_leg_calf_raise_leg_press_machine",
+  "change": "No changes. Primary Calves (Gastrocnemius Lateral, Gastrocnemius Medial, Soleus) is correct: with knee slightly bent both gastrocnemius and soleus are targeted. Empty secondary is appropriate for this isolation exercise."
+ },
+ {
+  "id": "single_leg_incline_45_degree_leg_press_machine",
+  "change": "Added secondary oblique (External Obliques, Internal Obliques). CLAUDE.md rule: unilateral exercises add oblique anti-rotation as secondary. Search confirms that single-leg leg press engages obliques/core to prevent torso rotation, even on a machine."
+ },
+ {
+  "id": "single_leg_romanian_deadlift_dumbbell",
+  "change": "Removed Calves (Gastrocnemius Lateral, Gastrocnemius Medial) from secondary. CLAUDE.md explicitly states 'Romanian deadlift -> no calves'. Calves are stabilizers for standing balance but the rule excludes them for RDL. Remaining secondary (Lower Back + oblique) is correct: erector spinae stabilizes spine, obliques provide anti-rotation (unilateral)."
+ },
+ {
+  "id": "single_leg_romanian_deadlifts_right_cable_resistance_band",
+  "change": "No changes. Same exercise as dumbbell variant; no calves present (correct per RDL rule). Primary hamstrings + glutes and secondary lower back + oblique are accurate."
+ },
+ {
+  "id": "situps",
+  "change": "Added secondary Quads (Rectus Femoris). EMG studies confirm rectus femoris is a significant secondary muscle during sit-ups due to hip flexor involvement in pulling the torso up in the second half of the movement. Traditional sit-ups show measurable rectus femoris EMG activity. This is a meaningful secondary, not inflation."
+ }
+]

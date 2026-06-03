@@ -1,0 +1,10 @@
+[
+ {
+  "id": "standing_gastrocnemius_stretch",
+  "change": "Removed secondary Calves/Soleus. The straight-knee position is specifically designed to isolate the gastrocnemius and NOT stretch the soleus (which requires bent knee). Soleus is not meaningfully engaged in this variant, so listing it as secondary was incorrect and misleading."
+ },
+ {
+  "id": "standing_lat_cable_pull_over",
+  "change": "Added chest/Sternal Head to secondary muscles. EMG research and multiple sources confirm the pectoralis major (sternal head) is a meaningful secondary mover in the lat cable pullover, contributing to shoulder extension/adduction alongside the lats. The teres major also assists but has no allowed advance term in the mapping so it was omitted."
+ }
+]

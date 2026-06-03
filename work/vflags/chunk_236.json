@@ -1,0 +1,10 @@
+[
+ {
+  "id": "band_close_grip_biceps_curl",
+  "change": "Secondary forearms latin corrected: 'Wrist Extensors' → 'Wrist Flexors'. In a supinated close-grip curl, the wrist flexors engage to stabilize the wrist during elbow flexion. Wrist extensors are active in pronated/reverse-grip curls, not a standard supinated curl."
+ },
+ {
+  "id": "band_deadlift",
+  "change": "Added two secondary muscle groups: (1) Lats → Latissimus Dorsi — lats act as torso stabilizers during the deadlift, keeping the band close to the body and preventing forward drift, confirmed by EMG research. (2) mid back → Upper Traps — upper trapezius sustains shoulder retraction and prevents the shoulders from being pulled down under load, confirmed by multiple sources. Both are meaningful secondary muscles missing from the original data."
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "id": "standing_reverse_shoulder_stretch",
+  "change": "No change. Primary (Anterior Deltoids) and secondary (Clavicular Head + Sternal Head chest, Biceps Brachii) are correct for a reverse shoulder stretch — arms clasped behind back and lifted stretches the anterior deltoid primarily, with the chest and biceps as secondary stretched structures. Category/equipment/trackingMode all correct."
+ },
+ {
+  "id": "standing_shoulder_press_dumbbell",
+  "change": "Added Lower Back -> Erector Spinae to secondary. The standing dumbbell press requires active spinal stabilization; the erector spinae must isometrically contract to maintain a neutral lumbar spine against the overhead load. Research confirms standing press elicits higher core and lower back stabilizer demand than seated. All other primary and secondary muscles were correct."
+ },
+ {
+  "id": "standing_side_leg_raises",
+  "change": "No change. Gluteus Medius (primary) and Abductor/TFL (primary) are the two main hip abductors in this movement. Obliques secondary for lateral trunk stabilization of the stance leg. Gluteus Minimus is also active but has no allowed mapping, so correctly omitted. Category/equipment/trackingMode all correct."
+ },
+ {
+  "id": "standing_side_slope_stretch",
+  "change": "No change. Obliques (External + Internal) are primary stretched muscles in a lateral flexion side stretch. Latissimus Dorsi secondary (also stretched on the raised-arm side). Erector Spinae secondary (ipsilateral side of the stretch). Quadratus Lumborum is a major target but has no allowed mapping — correctly omitted. Category/equipment/trackingMode all correct."
+ },
+ {
+  "id": "standing_swimmer",
+  "change": "No change. Alternating arm raises while standing engage both Anterior and Posterior Deltoids (front arm going up, back arm going down), Upper Traps and Rhomboids for scapular control. Obliques secondary for the slight rotational core stabilization noted in the instructions. Lats secondary for arm lowering and overall back engagement. Category/equipment/trackingMode all correct."
+ }
+]

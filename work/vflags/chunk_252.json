@@ -1,0 +1,22 @@
+[
+ {
+  "id": "cat_pose",
+  "change": "Removed 'shoulders'/'Anterior Deltoids' from secondary. In Cat Pose, the arms are quadruped weight-bearing supports, not meaningful prime movers or stabilizers in the exercise-science sense — they are passive isometric load-bearers. The movement is purely spinal flexion driven by abs + obliques. Anterior deltoids do not meaningfully assist or stabilize the spinal rounding action that defines this exercise."
+ },
+ {
+  "id": "chair_pose",
+  "change": "Two corrections: (1) Added 'Hamstrings'->['Biceps Femoris','Semitendinosus'] as secondary — hamstrings co-contract at the knee during the squat/hold position (confirmed by search: 'quadriceps, hamstrings, and glutes work together'). (2) Expanded abs entry to include both 'Upper Rectus Abdominis' and 'LowerRectus Abdominis' — full rectus is engaged isometrically for trunk stability in this pose."
+ },
+ {
+  "id": "chest_press_machine",
+  "change": "No changes. Flat/horizontal machine press correctly targets both Sternal Head (dominant) and Clavicular Head as primary; Triceps Brachii and Anterior Deltoids as secondary — confirmed by EMG data and biomechanics sources."
+ },
+ {
+  "id": "child_pose_arms_extended_left_right",
+  "change": "No changes. Lats as primary (lateral stretch of latissimus dorsi confirmed), obliques and lower back as secondary confirmed by multiple sources for the lateral child's pose variation."
+ },
+ {
+  "id": "child_pose_arms_on_side",
+  "change": "No changes. Lower Back (erector spinae passive stretch = primary target), glutes and lats as secondary are consistent with standard Balasana with arms-at-side biomechanics."
+ }
+]

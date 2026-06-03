@@ -1,0 +1,22 @@
+[
+ {
+  "id": "barbell_front_chest_squat",
+  "change": "Added Adductors (Adductors) as secondary. Research confirms adductor magnus contributes substantial hip extension torque in front squats and is a meaningful stabilizer. The original data was missing this well-documented secondary muscle."
+ },
+ {
+  "id": "barbell_full_clean",
+  "change": "Moved Upper Traps from secondary (mid back entry with Rhomboids) to primary as its own mid back entry. The upper trapezius is a prime mover in the clean (explosive shrug phase) — multiple sources confirm traps are primary upper-body movers. Rhomboids are a stabilizer so they are omitted from primary. Added abs (Upper Rectus Abdominis, LowerRectus Abdominis) as secondary — core/trunk bracing is a meaningful secondary engagement in this explosive Olympic lift. Removed Rhomboids from secondary (they are minor stabilizers relative to the other secondary muscles already listed at the 5-entry maximum)."
+ },
+ {
+  "id": "barbell_full_squat",
+  "change": "No changes. Data is correct. Quads + Glutes primary; Hamstrings + Lower Back + Adductors secondary — all confirmed by research. Adductors were already present."
+ },
+ {
+  "id": "barbell_full_squat_side_pov",
+  "change": "No changes. Same exercise as barbell_full_squat (side camera angle only). Muscle data is identical and correct."
+ },
+ {
+  "id": "barbell_full_zercher_squat",
+  "change": "Replaced forearms (Wrist Flexors) secondary with mid back (Upper Traps, Rhomboids). Research explicitly states erectors, traps, rhomboids, rear delts, and lats all contract isometrically throughout the Zercher squat to resist forward collapse — this is a more significant and well-documented secondary engagement than wrist flexors. The Zercher hold uses the elbow crook, not an active wrist-flexion grip, so Wrist Flexors are not meaningfully engaged. Secondary now at max 5 entries: Hamstrings, abs, Lower Back, mid back, biceps."
+ }
+]

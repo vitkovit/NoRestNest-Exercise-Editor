@@ -1,0 +1,22 @@
+[
+ {
+  "id": "barbell_hang_clean",
+  "change": "Moved Upper Traps from primary to secondary. Multiple sources confirm the lower body (quads, glutes, hamstrings) generates the primary explosive power via triple extension; traps stabilize and assist the shrug/catch but are not prime movers. Promoted Hamstrings to primary (they are key hip extensors in the second pull, co-primary with quads and glutes in driving hip extension). Secondary structure preserved: Upper Traps, Calves, Lower Back, shoulders, forearms."
+ },
+ {
+  "id": "barbell_jefferson_squat",
+  "change": "Added oblique (External Obliques, Internal Obliques) as a secondary entry. The Jefferson squat is an asymmetric/straddle lift that creates strong rotational forces; multiple sources explicitly name the obliques and transverse abdominis as key stabilizers resisting that rotation. This was absent from the original data."
+ },
+ {
+  "id": "barbell_jump_shrug",
+  "change": "Removed Rhomboids from primary (not a prime mover for this explosive shrug/triple-extension movement). Promoted Quads and Glutes from secondary to primary — the jump shrug requires maximal triple extension (hips, knees, ankles) making quads and glutes co-primary drivers alongside the upper traps. Added Hamstrings to secondary to reflect their role in hip extension during the explosive drive."
+ },
+ {
+  "id": "barbell_jump_squat",
+  "change": "No changes. Data is correct: Quads and Glutes primary, Hamstrings + Calves + Lower Back secondary. Verified against multiple sources."
+ },
+ {
+  "id": "barbell_kas_glute_bridge",
+  "change": "Moved Gluteus Medius from primary to secondary. The KAS glute bridge is a Gluteus Maximus isolation exercise by design; Gluteus Medius assists but is not a prime mover in this movement. Removed Lower Back (Erector Spinae) from secondary — research confirms the KAS bridge is specifically designed to minimize lower back involvement and the upper back rests on a bench, making erector spinae engagement minimal and not meaningful."
+ }
+]

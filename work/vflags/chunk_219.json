@@ -1,0 +1,22 @@
+[
+ {
+  "id": "step_up_on_chair_bodyweight",
+  "change": "Added oblique secondary (External Obliques + Internal Obliques). Step-up is a unilateral exercise; the anti-rotation demand on the trunk is confirmed by research — obliques stabilize the pelvis and resist lateral trunk lean throughout the single-leg stance phase. All other entries were correct: Quads (all 3 heads) and glutes (Gluteus Maximus + Gluteus Medius, both confirmed by PLOS ONE EMG study on step-ups) as primary; Hamstrings and Calves as secondary."
+ },
+ {
+  "id": "straight_bar_cable_pull_down",
+  "change": "No changes. Data is correct. Lats (Latissimus Dorsi) as sole primary confirmed by EMG study (MDPI 2022). Triceps Brachii secondary confirmed by same EMG study showing significant triceps activation. Posterior Deltoid and mid back (Lower Traps + Rhomboids — scapular depression/stabilization) secondary confirmed by multiple sources. Abs secondary retained: multiple sources (Onnit, SetForSet, MasterClass) confirm rectus abdominis and obliques brace isometrically to prevent rib flare and spinal extension during the pull."
+ },
+ {
+  "id": "straight_bar_cable_row_close_grip",
+  "change": "No changes. Primary encoding (Lats + mid back Rhomboids/Upper Traps) correctly reflects close-grip emphasis on mid-lat thickness and inner back. All 5 secondary entries (biceps, posterior deltoid, rotator cuff, wrist flexors, erector spinae) are valid and confirmed by sources."
+ },
+ {
+  "id": "straight_bar_cable_row_normal_grip",
+  "change": "No changes. Wider overhand grip correctly encoded with mid back (Rhomboids + Upper Traps + Lower Traps) as co-primary, reflecting the upper-back/trap emphasis of the wider stance. Lats (Latissimus Dorsi) co-primary. All 5 secondary entries confirmed."
+ },
+ {
+  "id": "sumo_squat_in_between_legs_resistance_band",
+  "change": "Two corrections: (1) Added Gluteus Medius to primary glutes entry — wide sumo stance requires significant gluteus medius activation for hip stabilization; multiple sources including EMG research (NCBI PMC7831128) confirm this; (2) Added Calves secondary (Gastrocnemius Lateral + Gastrocnemius Medial) — multiple sources confirm calves are activated during squat descent/ascent for ankle stabilization. Adductors confirmed as primary per EMG showing elevated adductor longus activation in sumo squat vs standard squat."
+ }
+]

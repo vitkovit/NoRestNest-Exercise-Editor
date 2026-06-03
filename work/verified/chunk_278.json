@@ -1,0 +1,245 @@
+[
+ {
+  "id": "rebounder_high_knee_runs",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Stand in the centre of the rebounder with feet hip-width apart and arms bent at 90 degrees.\n2. Drive one knee up toward hip height while pushing off the mat.\n3. As that foot lands, immediately drive the opposite knee up.\n4. Pump your arms in time with your legs and keep your core braced.\n5. Continue alternating knees at a running pace for the set duration.\n6. Repeat.",
+  "tips": "1. Land softly through the balls of your feet to control the bounce.\n2. Keep your chest tall and avoid leaning back.\n3. Brace your core to stay balanced on the unstable mat.\n4. Breathe rhythmically with each stride.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rebounder_knee_jumps",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Stand in the centre of the rebounder with feet hip-width apart.\n2. Bend your knees slightly and push off the mat into a jump.\n3. Drive both knees up toward your chest at the top of the jump.\n4. Extend your legs to land softly with bent knees.\n5. Continue jumping and tucking the knees for the set duration.\n6. Repeat.",
+  "tips": "1. Engage your core to lift the knees rather than swinging the legs.\n2. Land softly through the balls of your feet to absorb impact.\n3. Keep your torso upright throughout the jump.\n4. Exhale as you drive the knees up.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Abductor",
+    "latins": [
+     "Abductor"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rebounder_knee_pushes",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Kneel upright on the centre of the rebounder with knees hip-width apart.\n2. Brace your core and keep your torso tall.\n3. Push down through your knees and shins to drive your body upward off the mat.\n4. Absorb the rebound by softening through the hips as you settle back down.\n5. Repeat the pushing rhythm for the set duration.\n6. Repeat.",
+  "tips": "1. Keep your core tight to protect your lower back.\n2. Stay upright and avoid rocking the torso.\n3. Push down through the mat in a controlled rhythm.\n4. Breathe steadily throughout.",
+  "primary": [
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   },
+   {
+    "group": "Lower Back",
+    "latins": [
+     "Erector Spinae"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "rebounder_light_jumps",
+  "sheet": "malefemale",
+  "category": "Bodyweight",
+  "equipment": "other",
+  "trackingMode": "timed",
+  "instructions": "1. Stand in the centre of the rebounder with feet hip-width apart and knees soft.\n2. Press down gently into the mat to start a small bounce.\n3. Keep your feet close to the surface, barely leaving the mat.\n4. Maintain an upright posture with a braced core.\n5. Continue the light rhythmic bouncing for the set duration.\n6. Repeat.",
+  "tips": "1. Keep the bounce small and controlled.\n2. Land softly through the balls of your feet.\n3. Keep your core engaged for balance.\n4. Breathe steadily and relax your shoulders.",
+  "primary": [
+   {
+    "group": "Calves",
+    "latins": [
+     "Gastrocnemius Lateral",
+     "Gastrocnemius Medial",
+     "Soleus"
+    ]
+   },
+   {
+    "group": "Quads",
+    "latins": [
+     "Rectus Femoris",
+     "Vastus Medialis",
+     "Vastus Lateralis"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   },
+   {
+    "group": "glutes",
+    "latins": [
+     "Gluteus Maximus"
+    ]
+   },
+   {
+    "group": "Hamstrings",
+    "latins": [
+     "Biceps Femoris",
+     "Semitendinosus"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "resistance_band_assisted_push_up",
+  "sheet": "malefemale",
+  "category": "Resistance",
+  "equipment": "resistance_band",
+  "trackingMode": "repsOnly",
+  "instructions": "1. Anchor a resistance band across your upper back and loop the ends under each hand.\n2. Set up in a plank with hands slightly wider than shoulder-width and feet together.\n3. Brace your core and lower your chest toward the floor, keeping elbows at about 45 degrees.\n4. Let the band assist as you press through your hands back to a full plank.\n5. Repeat.",
+  "tips": "1. Keep your body in a straight line from head to heels.\n2. Lower under control until your chest nearly touches the floor.\n3. Keep elbows tucked to about 45 degrees to spare the shoulders.\n4. Exhale as you press up and inhale as you lower.",
+  "primary": [
+   {
+    "group": "chest",
+    "latins": [
+     "Sternal Head",
+     "Clavicular Head"
+    ]
+   },
+   {
+    "group": "Triceps",
+    "latins": [
+     "Triceps Brachii"
+    ]
+   }
+  ],
+  "secondary": [
+   {
+    "group": "shoulders",
+    "latins": [
+     "Anterior Deltoids"
+    ]
+   },
+   {
+    "group": "abs",
+    "latins": [
+     "Upper Rectus Abdominis",
+     "Lower Rectus Abdominis"
+    ]
+   }
+  ]
+ }
+]

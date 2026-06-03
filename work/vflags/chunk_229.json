@@ -1,0 +1,22 @@
+[
+ {
+  "id": "alternate_leg_raise_from_reverse_plank_position",
+  "change": "No changes. Primary (glutes/Gluteus Maximus, Hamstrings/Biceps Femoris+Semitendinosus, Lower Back/Erector Spinae) and secondary (abs, shoulders/Posterior Deltoid, Triceps/Triceps Brachii) confirmed by multiple sources: reverse plank targets posterior chain (glutes, hamstrings, erector spinae); triceps and shoulders stabilize the arm support. Posterior Deltoid as secondary stabilizer is plausible in the reverse-plank arm position. Category/equipment/trackingMode all correct."
+ },
+ {
+  "id": "alternate_leg_raise_with_head_up",
+  "change": "No changes. Primary (abs/both heads, Abductor/Abductor for hip flexors) confirmed: EMG research shows heavy rectus abdominis and iliopsoas activation in lying leg raises; head-up position adds upper abs engagement. Secondary (Quads/Rectus Femoris, oblique/both, Lower Back/Erector Spinae) confirmed. Category/equipment/trackingMode correct."
+ },
+ {
+  "id": "alternate_lying_floor_leg_raise",
+  "change": "No changes. Identical muscle profile to the head-up variant except upper abs engagement is reduced (no head-up crunch component), but the encoding must use the full abs bucket. Primary (abs, Abductor) and secondary (Quads/Rectus Femoris, oblique/both, Lower Back/Erector Spinae) confirmed. Category/equipment/trackingMode correct."
+ },
+ {
+  "id": "alternate_oblique_crunch",
+  "change": "No changes. Primary (oblique/External+Internal) confirmed as prime movers in twist-crunch. Secondary (abs/both heads as stabilizers, Abductor/Abductor for hip flexor stabilization) confirmed by multiple sources. Category/equipment/trackingMode correct."
+ },
+ {
+  "id": "alternate_punching",
+  "change": "No changes. Primary (shoulders/Anterior Deltoids, chest/Sternal+Clavicular Head, Triceps/Triceps Brachii) confirmed: straight punching biomechanics involves anterior deltoid, pec major (horizontal adduction component), and triceps for elbow extension. Secondary (oblique/both for torso rotation, abs/both for core stabilization) confirmed. Minor uncertainty: chest involvement in bodyweight punching without resistance is lower than weighted pressing, but pec major does assist in arm swing; encoding is acceptable. Category/equipment/trackingMode correct."
+ }
+]
