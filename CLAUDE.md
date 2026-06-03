@@ -186,7 +186,7 @@ Format — raw numbered text, no header:
   The app tracks reps/weight/time — descriptions must not. Use qualitative wording instead
   ("Hold", "Hold briefly", "Pause briefly", "Lower slowly under control"). Allowed numbers are
   only spatial: cm/m/kg and joint angles (e.g. "90 degrees").
-- Max 5-6 steps. Start with setup, end with "Repeat" (never "desired number of repetitions").
+- Max 5-6 steps. Start with setup. Do not add a "Repeat" step — it's obvious.
 
 ## Tips Rewrite Rules
 Format — raw numbered text, no header. Max 4 tips. Practical only (form cues, common mistakes,
@@ -203,7 +203,7 @@ breathing, safety). No fluff. NEVER write "avoid locking your elbows" for pressi
 - [ ] Seated/standing and unilateral/bilateral effects applied?
 - [ ] ALL old muscle slots cleared before writing fresh?
 - [ ] Category / Equipment / Tracking from allowed lists (else flagged)?
-- [ ] Instructions metric, ≤5-6 steps, end "Repeat"? Tips ≤4, practical?
+- [ ] Instructions metric, ≤5-6 steps, no "Repeat" step? Tips ≤4, practical?
 - [ ] For male/female: identical correction written to BOTH sheets by id?
 - [ ] Anything unmappable or needing a new dropdown value → flagged for the user, not invented?
 
