@@ -69,7 +69,7 @@ const MUSCLE_MAPPING = [
   {"svgId":"inner_forearm","displayName":"Inner Forearm","simple":"forearms","advance":"Wrist Flexors","section":"Upper Body","muscleGroup":"forearms","advanceKeywords":["Flexor Carpi Radialis","Flexor Carpi Ulnaris","Pronator Teres","Palmaris Longus"]},
   {"svgId":"outer_forearm","displayName":"Outer Forearm","simple":"forearms","advance":"Wrist Extensors","section":"Upper Body","muscleGroup":"forearms","advanceKeywords":["Brachioradialis","Extensor Carpi Radialis","Extensor Carpi Ulnaris"]},
   {"svgId":"upper_abs","displayName":"Upper Abs","simple":"abs","advance":"Upper Rectus Abdominis","section":"Core","muscleGroup":"abs","advanceKeywords":["Upper Abs","Rectus Abdominis","Transverse Abdominis"]},
-  {"svgId":"lower_abs","displayName":"Lower Abs","simple":"abs","advance":"LowerRectus Abdominis","section":"Core","muscleGroup":"abs","advanceKeywords":["Lower Abs","Rectus Abdominis","Transverse Abdominis"]},
+  {"svgId":"lower_abs","displayName":"Lower Abs","simple":"abs","advance":"Lower Rectus Abdominis","section":"Core","muscleGroup":"abs","advanceKeywords":["Lower Abs","Rectus Abdominis","Transverse Abdominis"]},
   {"svgId":"external_oblique","displayName":"External Oblique","simple":"oblique","advance":"External Obliques","section":"Core","muscleGroup":"abs","advanceKeywords":["External Oblique","External Obliques"]},
   {"svgId":"internal_oblique","displayName":"Internal Oblique","simple":"oblique","advance":"Internal Obliques","section":"Core","muscleGroup":"abs","advanceKeywords":["Internal Oblique","Internal Obliques"]},
   {"svgId":"lower_back","displayName":"Lower Back","simple":"Lower Back","advance":"Erector Spinae","section":"Core","muscleGroup":"lowerBack","advanceKeywords":["Erector Spinae","Lower Back"]},
